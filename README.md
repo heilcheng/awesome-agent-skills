@@ -147,6 +147,7 @@ Community-maintained skills and collections (verify before use):
 | Skill | Description |
 |-------|-------------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Web browser capability for agents |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Manage local CLI AI agents via tmux (start/stop/monitor/assign + cron scheduling) |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI automation |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
 
