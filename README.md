@@ -149,6 +149,7 @@ Community-maintained skills and collections (verify before use):
 |-------|-------------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Web browser capability for agents |
 | [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Manage local CLI AI agents via tmux (start/stop/monitor/assign + cron scheduling) |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | AI agent discovery via Registry Broker - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI automation |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | Send message notifications for agent workflows |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
