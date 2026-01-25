@@ -225,6 +225,15 @@ Community-maintained skills and collections (verify before use):
 2. Add skills from the marketplace or upload custom skills.
 3. Claude automatically activates relevant skills based on your task.
 
+### Using Skills in Google Antigravity
+
+Antigravity supports two types of skills:
+
+*   **Workspace Skills**: Project-specific skills located in `/.agent/skills/`
+*   **Global Skills**: User-wide skills located in `~/.gemini/antigravity/skills`
+
+For more details, see the [official documentation](https://antigravity.google/docs/skills).
+
 ### Using Skills in Claude Code
 Place the skill in your configuration directory:
 
@@ -427,6 +436,10 @@ if __name__ == "__main__":
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Fetch summaries from Wikipedia
 - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Execute Python code
 - [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - How to use the `@tool` decorator
+
+### Articles & Research
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - Analysis of privacy risks in AI
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - Cost-optimization guide for RAG architectures
 
 ---
 
