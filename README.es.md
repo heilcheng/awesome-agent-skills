@@ -124,6 +124,7 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | Gráficos D3 y visualizaciones de datos interactivas |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Automatización del navegador para probar aplicaciones web |
 | [Specrate](https://github.com/rickygao/specrate) | Gestiona especificaciones y cambios con un flujo de trabajo estructurado |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Guía de plataforma y SwiftUI creada por Apple extraída de Xcode |
 
 #### Datos y Análisis
 

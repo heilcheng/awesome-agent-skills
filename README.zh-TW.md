@@ -124,6 +124,7 @@ Codex 支援不同範圍的技能：
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 圖表和互動式資料視覺化 |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 測試網頁應用的瀏覽器自動化 |
 | [Specrate](https://github.com/rickygao/specrate) | 以結構化工作流程管理規格（spec）與變更 |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | 從 Xcode 提取的 Apple 編寫的 SwiftUI 和平台指南 |
 
 #### 資料和分析
 

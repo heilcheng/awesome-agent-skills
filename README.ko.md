@@ -124,6 +124,7 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 차트 및 대화형 데이터 시각화 |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 웹 앱 테스트를 위한 브라우저 자동화 |
 | [Specrate](https://github.com/rickygao/specrate) | 명세(spec)와 변경을 구조화된 워크플로로 관리 |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Xcode에서 추출한 Apple 작성 SwiftUI 및 플랫폼 지침 |
 
 #### 데이터 및 분석
 
