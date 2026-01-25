@@ -135,6 +135,7 @@ Codexは異なるスコープのスキルをサポートしています：
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | エージェント向けWebブラウザ機能 |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI自動化 |
+| [Notification Skill](https://github.com/caopulan/Notification-Skill) | エージェントのワークフロー向けにメッセージ通知を送信 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API統合 |
 
 #### セキュリティ・システム

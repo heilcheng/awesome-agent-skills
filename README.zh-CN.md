@@ -135,6 +135,7 @@ Codex 支持不同范围的技能：
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | 代理的网页浏览器功能 |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 自动化 |
+| [Notification Skill](https://github.com/caopulan/Notification-Skill) | 为代理工作流发送消息通知 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 集成 |
 
 #### 安全和系统

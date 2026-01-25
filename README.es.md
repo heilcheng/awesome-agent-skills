@@ -135,6 +135,7 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Capacidad de navegador web para agentes |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Automatización CLI de Google Sheets |
+| [Notification Skill](https://github.com/caopulan/Notification-Skill) | Enviar notificaciones de mensajes para flujos de trabajo de agentes |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Integración de API de Spotify |
 
 #### Seguridad y Sistemas

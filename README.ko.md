@@ -135,6 +135,7 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | 에이전트를 위한 웹 브라우저 기능 |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 자동화 |
+| [Notification Skill](https://github.com/caopulan/Notification-Skill) | 에이전트 워크플로우용 메시지 알림 전송 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 통합 |
 
 #### 보안 및 시스템
