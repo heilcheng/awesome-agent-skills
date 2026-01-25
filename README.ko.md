@@ -122,6 +122,7 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS 개발 및 CDK 모범 사례 |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 차트 및 대화형 데이터 시각화 |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 웹 앱 테스트를 위한 브라우저 자동화 |
+| [Specrate](https://github.com/rickygao/specrate) | 명세(spec)와 변경을 구조화된 워크플로로 관리 |
 
 #### 데이터 및 분석
 

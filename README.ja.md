@@ -122,6 +122,7 @@ Codexは異なるスコープのスキルをサポートしています：
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS開発とCDKベストプラクティス |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3チャートとインタラクティブなデータ視覚化 |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Webアプリテスト用のブラウザ自動化 |
+| [Specrate](https://github.com/rickygao/specrate) | 仕様（spec）と変更を構造化されたワークフローで管理 |
 
 #### データ・分析
 

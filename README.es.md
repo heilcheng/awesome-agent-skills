@@ -122,6 +122,7 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [aws-skills](https://github.com/zxkane/aws-skills) | Desarrollo AWS y mejores prácticas CDK |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | Gráficos D3 y visualizaciones de datos interactivas |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Automatización del navegador para probar aplicaciones web |
+| [Specrate](https://github.com/rickygao/specrate) | Gestiona especificaciones y cambios con un flujo de trabajo estructurado |
 
 #### Datos y Análisis
 

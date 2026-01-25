@@ -122,6 +122,7 @@ Codex 支持不同范围的技能：
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS 开发与 CDK 最佳实践 |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 图表和交互式数据可视化 |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 测试网页应用的浏览器自动化 |
+| [Specrate](https://github.com/rickygao/specrate) | 以结构化工作流管理规格（spec）与变更 |
 
 #### 数据和分析
 
