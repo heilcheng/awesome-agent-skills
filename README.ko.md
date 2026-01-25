@@ -57,6 +57,7 @@ AI 코딩 에이전트를 위한 엄선된 기술, 도구 및 기능 목록입�
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 
 ---
 
@@ -135,6 +136,9 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | 스킬 | 설명 |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | 에이전트를 위한 웹 브라우저 기능 |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | 프로덕션 RAG를 위한 엣지 네이티브 MCP 서버 패턴 |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | tmux를 통한 로컬 CLI AI 에이전트 관리 (시작/중지/모니터링/할당 + cron 스케줄링) |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | Registry Broker를 통한 AI 에이전트 검색 - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 자동화 |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | 에이전트 워크플로우용 메시지 알림 전송 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 통합 |
@@ -171,6 +175,15 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 1. 채팅 인터페이스에서 스킬 아이콘을 클릭합니다.
 2. 마켓플레이스에서 스킬을 추가하거나 커스텀 스킬을 업로드합니다.
 3. Claude는 작업에 따라 관련 스킬을 자동으로 활성화합니다.
+
+### Google Antigravity에서 스킬 사용하기
+
+Antigravity는 두 가지 유형의 스킬을 지원합니다:
+
+*   **Workspace Skills**: `/.agent/skills/`에 위치한 프로젝트별 스킬
+*   **Global Skills**: `~/.gemini/antigravity/skills`에 위치한 사용자 전역 스킬
+
+자세한 내용은 [공식 문서](https://antigravity.google/docs/skills)를 참조하세요.
 
 ### Claude Code에서 스킬 사용하기
 구성 디렉터리에 스킬을 배치합니다:
@@ -247,6 +260,20 @@ description: 이 스킬이 하는 일에 대한 명확한 설명.
 
 [실제 예제]
 ```
+
+---
+
+## 커뮤니티 리소스
+
+### LangChain 도구
+- [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - SerpApi 래퍼
+- [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Wikipedia에서 요약 가져오기
+- [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Python 코드 실행
+- [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - `@tool` 데코레이터 사용 지침
+
+### 기사 및 연구
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - AI의 개인정보 보호 위험 분석
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - RAG 아키텍처를 위한 비용 최적화 가이드
 
 ---
 

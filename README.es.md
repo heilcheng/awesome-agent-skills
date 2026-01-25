@@ -57,6 +57,7 @@ Las siguientes plataformas tienen soporte documentado para Agent Skills:
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 
 ---
 
@@ -135,6 +136,9 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | Habilidad | Descripción |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Capacidad de navegador web para agentes |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Patrones de servidor MCP nativos de borde para RAG en producción |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Gestiona agentes de IA CLI locales vía tmux (iniciar/parar/monitorear/asignar + programación cron) |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | Descubrimiento de agentes de IA vía Registry Broker - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Automatización CLI de Google Sheets |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | Enviar notificaciones de mensajes para flujos de trabajo de agentes |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Integración de API de Spotify |
@@ -171,6 +175,15 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 1. Haz clic en el icono de habilidad en tu interfaz de chat.
 2. Añade habilidades desde el mercado o sube habilidades personalizadas.
 3. Claude activa automáticamente las habilidades relevantes según tu tarea.
+
+### Usando Habilidades en Google Antigravity
+
+Antigravity soporta dos tipos de habilidades:
+
+*   **Workspace Skills**: Habilidades específicas del proyecto ubicadas en `/.agent/skills/`
+*   **Global Skills**: Habilidades globales del usuario ubicadas en `~/.gemini/antigravity/skills`
+
+Para más detalles, consulta la [documentación oficial](https://antigravity.google/docs/skills).
 
 ### Usando Habilidades en Claude Code
 Coloca la habilidad en tu directorio de configuración:
@@ -247,6 +260,20 @@ Descripción detallada del propósito de la habilidad.
 
 [Ejemplos del mundo real]
 ```
+
+---
+
+## Recursos de la Comunidad
+
+### Herramientas LangChain
+- [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - Envoltorio alrededor de SerpApi
+- [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Obtener resúmenes de Wikipedia
+- [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Ejecutar código Python
+- [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - Cómo usar el decorador `@tool`
+
+### Artículos e Investigación
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - Análisis de riesgos de privacidad en IA
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - Guía de optimización de costos para arquitecturas RAG
 
 ---
 

@@ -57,6 +57,7 @@
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 
 ---
 
@@ -135,6 +136,9 @@ Codex 支持不同范围的技能：
 | 技能 | 描述 |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | 代理的网页浏览器功能 |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Edge-native MCP server patterns for production RAG |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Manage local CLI AI agents via tmux (start/stop/monitor/assign + cron scheduling) |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | AI agent discovery via Registry Broker - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 自动化 |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | 为代理工作流发送消息通知 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 集成 |
@@ -171,6 +175,15 @@ Codex 支持不同范围的技能：
 1. 点击聊天界面中的技能图标
 2. 从市场添加技能或上传自定义技能
 3. Claude 会根据你的任务自动激活相关技能
+
+### 在 Google Antigravity 中使用技能
+
+Antigravity 支持两种类型的技能：
+
+*   **Workspace Skills**: 位于 `/.agent/skills/` 的项目特定技能
+*   **Global Skills**: 位于 `~/.gemini/antigravity/skills` 的用户全局技能
+
+更多详情请参阅[官方文档](https://antigravity.google/docs/skills)。
 
 ### 在 Claude Code 中使用技能
 将技能放在配置目录中：
@@ -247,6 +260,18 @@ description: 清楚描述此技能的功能。
 
 [实际示例]
 ```
+
+## 社区资源
+
+### LangChain Tools
+- [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - SerpApi 包装器
+- [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - 从维基百科获取摘要
+- [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - 执行 Python 代码
+- [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - 如何使用 `@tool` 装饰器
+
+### 文章与研究
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - Analysis of privacy risks in AI
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - Cost-optimization guide for RAG architectures
 
 ---
 

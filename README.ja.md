@@ -57,6 +57,7 @@ AI・コーディング・エージェントのためのスキル、ツール、
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 
 ---
 
@@ -135,6 +136,9 @@ Codexは異なるスコープのスキルをサポートしています：
 | スキル | 説明 |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | エージェント向けWebブラウザ機能 |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | 本番RAG向けのエッジネイティブMCPサーバーパターン |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | tmux経由でのローカルCLI AIエージェントの管理（開始/停止/監視/割り当て + cronスケジューリング） |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | Registry Broker経由のAIエージェント検出 - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI自動化 |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | エージェントのワークフロー向けにメッセージ通知を送信 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API統合 |
@@ -171,6 +175,15 @@ Codexは異なるスコープのスキルをサポートしています：
 1. チャットインターフェースのスキルアイコンをクリックします。
 2. マーケットプレイスからスキルを追加するか、カスタムスキルをアップロードします。
 3. Claudeはタスクに基づいて関連するスキルを自動的にアクティブにします。
+
+### Google Antigravityでのスキルの使用
+
+Antigravityは2種類のスキルをサポートしています：
+
+*   **Workspace Skills**: `/.agent/skills/`にあるプロジェクト固有のスキル
+*   **Global Skills**: `~/.gemini/antigravity/skills`にあるユーザー全体のスキル
+
+詳細は[公式ドキュメント](https://antigravity.google/docs/skills)を参照してください。
 
 ### Claude Codeでのスキルの使用
 設定ディレクトリにスキルを配置します：
@@ -247,6 +260,20 @@ description: このスキルが何をするか明確な説明。
 
 [実際の例]
 ```
+
+---
+
+## コミュニティリソース
+
+### LangChainツール
+- [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - SerpApiのラッパー
+- [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Wikipediaから要約を取得
+- [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Pythonコードを実行
+- [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - `@tool`デコレーターの使用方法
+
+### 記事・研究
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - AIにおけるプライバシーリスクの分析
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - RAGアーキテクチャのコスト最適化ガイド
 
 ---
 
