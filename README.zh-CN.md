@@ -109,6 +109,8 @@ Codex 支持不同范围的技能：
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace 技能（兼容 Claude、Codex、Gemini）|
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai 集合，附 CLI 安装程序 |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ 经过验证的 Claude Code 和 Claude.ai 技能 |
+| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel Labs 代理技能合集 |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | 庞大的代理技能目录 (agentskills.io) |
 
 #### 文档处理
 
@@ -149,6 +151,14 @@ Codex 支持不同范围的技能：
 | 技能 | 描述 |
 |------|------|
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | 使用 Sigma 检测规则进行威胁狩猎 |
+
+#### 高级与研究
+
+| 技能 | 描述 |
+|------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 上下文工程技术 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 系统技能模式（记忆并改进的技能） |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | 使用 LLM 技能进行思维克隆 |
 
 ---
 

@@ -109,6 +109,8 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace 스킬 (Claude, Codex, Gemini 호환) |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai 컬렉션 (CLI 설치 프로그램 포함) |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | Claude Code 및 Claude.ai를 위한 50개 이상의 검증된 스킬 |
+| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel Labs 에이전트 스킬 컬렉션 |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | 방대한 에이전트 스킬 디렉토리 (agentskills.io) |
 
 #### 문서 처리
 
@@ -149,6 +151,14 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | 스킬 | 설명 |
 |------|------|
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Sigma 탐지 규칙을 사용한 위협 사냥 |
+
+#### 고급 및 연구
+
+| 스킬 | 설명 |
+|------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 컨텍스트 엔지니어링 기술 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 시스템 스킬 패턴 (기억하고 개선하는 스킬) |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLM 스킬을 이용한 마인드 클로닝 |
 
 ---
 

@@ -109,6 +109,8 @@ Codexは異なるスコープのスキルをサポートしています：
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFaceスキル（Claude, Codex, Gemini互換）|
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.aiコレクション（CLIインストーラー付き）|
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | Claude CodeおよびClaude.ai向けの50以上の検証済みスキル |
+| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel Labsのエージェントスキルコレクション |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | エージェントスキルの大規模ディレクトリ (agentskills.io) |
 
 #### ドキュメント処理
 
@@ -149,6 +151,14 @@ Codexは異なるスコープのスキルをサポートしています：
 | スキル | 説明 |
 |------|------|
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Sigma検出ルールを使用した脅威ハンティング |
+
+#### 上級・研究
+
+| スキル | 説明 |
+|--------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | コンテキストエンジニアリング技術 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | システムスキルパターン（記憶し改善するスキル） |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLMスキルによるマインドクローニング |
 
 ---
 

@@ -109,6 +109,8 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [huggingface/skills](https://github.com/huggingface/skills) | Habilidades de HuggingFace (compatible con Claude, Codex, Gemini) |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | Colección de SkillCreator.ai con instalador CLI |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | Más de 50 habilidades verificadas para Claude Code y Claude.ai |
+| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Colección de habilidades de agente de Vercel Labs |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | Gran directorio de habilidades de agente (agentskills.io) |
 
 #### Procesamiento de Documentos
 
@@ -149,6 +151,14 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | Habilidad | Descripción |
 |------|------|
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Caza de amenazas usando reglas de detección Sigma |
+
+#### Avanzado e Investigación
+
+| Habilidad | Descripción |
+|-----------|-------------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Técnicas de ingeniería de contexto |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | Patrón de Habilidad del Sistema (habilidades que recuerdan y mejoran) |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Clonación mental con habilidades LLM |
 
 ---
 

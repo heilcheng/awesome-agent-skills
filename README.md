@@ -58,7 +58,6 @@ The following platforms have documented support for Agent Skills:
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
-| Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 
 ---
 
@@ -109,7 +108,6 @@ Community-maintained skills and collections (verify before use):
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai collection with CLI installer |
-| [agentskill.sh](https://agentskill.sh) | 44k+ skills directory with security scanning and `/learn` installer |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ verified skills for Claude Code and Claude.ai |
 | [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | Skills for specialized capabilities |
 | [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | Multi-agent collaboration skills |
@@ -117,12 +115,11 @@ Community-maintained skills and collections (verify before use):
 | [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | Skills for DSPy framework |
 | [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | Curated Claude Agent Skills collection |
 | [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact agent library skills |
-| [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | npm-like CLI for skills (`brew install dmgrok/tap/skills`) - aggregates 177+ skills from 24 providers |
 | [gotalab/skillport](https://github.com/gotalab/skillport) | Skills distribution via CLI or MCP |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) |  cryptocurrency, web3 and blockchain skills. |
-| [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops |
-| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 product management skills covering discovery, definition, delivery, and optimization |
+| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel Labs collection of agent skills |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | Large directory of agent skills (agentskills.io) |
 
 #### Document Processing
 
@@ -143,16 +140,12 @@ Community-maintained skills and collections (verify before use):
 | [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
 | [Stream Coding](https://github.com/frmoretto/stream-coding) | Stream Coding methodology |
 | [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Apple-authored SwiftUI and platform guidance extracted from Xcode |
-| [Tool Advisor](https://github.com/dragon1086/claude-skills) | Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns |
-| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Pressure-test spec documents with LLM reasoning before writing code |
-| [Mantra](https://mantra.gonewx.com) | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
 
 #### Data & Analysis
 
 | Skill | Description |
 |-------|-------------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations |
-| [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection |
 
 #### Integration & Automation
 
@@ -165,9 +158,6 @@ Community-maintained skills and collections (verify before use):
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI automation |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | Send message notifications for agent workflows |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
-| [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
-| [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
-| [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
 
 #### Collaboration & Project Management
 
@@ -182,11 +172,7 @@ Community-maintained skills and collections (verify before use):
 | Skill | Description |
 |-------|-------------|
 | [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | Digital forensics analysis and investigation |
-| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) | Modern encryption alternative to GPG/PGP with post-quantum support, composable authentication, and agent-to-agent communication |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Hunt for threats using Sigma detection rules |
-| [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | Secure EVM wallet for agent transfers, swaps, and transactions |
-| [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents |
-| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
 
 #### Advanced & Research
 
