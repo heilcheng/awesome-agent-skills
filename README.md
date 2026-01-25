@@ -117,6 +117,7 @@ Community-maintained skills and collections (verify before use):
 | [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact agent library skills |
 | [gotalab/skillport](https://github.com/gotalab/skillport) | Skills distribution via CLI or MCP |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) |  cryptocurrency, web3 and blockchain skills. |
 
 #### Document Processing
 
