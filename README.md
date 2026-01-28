@@ -137,6 +137,7 @@ Community-maintained skills and collections (verify before use):
 | [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift Concurrency Migration guide |
 | [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
 | [Stream Coding](https://github.com/frmoretto/stream-coding) | Stream Coding methodology |
+| [Claude API Cost Optimization](https://github.com/sstklen/claude-api-cost-optimization) | Save 50-90% on API costs with Batch API, Prompt Caching, and Extended Thinking |
 | [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Apple-authored SwiftUI and platform guidance extracted from Xcode |
 
 #### Data & Analysis
@@ -179,6 +180,7 @@ Community-maintained skills and collections (verify before use):
 | [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Context engineering techniques |
 | [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | System Skill Pattern (skills that remember & improve) |
 | [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Mind cloning with LLM skills |
+| [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude) | Multi-agent parallel research skill — dispatch 10 agents to bring back findings like cats bringing gifts |
 
 ---
 
