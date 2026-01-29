@@ -59,6 +59,7 @@ The following platforms have documented support for Agent Skills:
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
+| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 
 ---
 

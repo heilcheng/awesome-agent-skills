@@ -59,6 +59,7 @@
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
+| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 
 ---
 
@@ -177,6 +178,14 @@ Codex 支持不同范围的技能：
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 评估代码实现计划 |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 检测失败测试并提出修复建议 |
 
+#### 协作与项目管理
+
+| 技能 | 描述 |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | 自动化 git 操作和仓库交互 |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 评估代码实施计划 |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 检测失败的测试并提出修复建议 |
+
 #### 安全和系统
 
 | 技能 | 描述 |
@@ -195,6 +204,14 @@ Codex 支持不同范围的技能：
 | [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 上下文工程技术 |
 | [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 系统技能模式（记忆并改进的技能） |
 | [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | 使用 LLM 技能进行思维克隆 |
+
+#### 高级与研究
+
+| 技能 | 描述 |
+|------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 上下文工程技术 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 系统技能模式（记忆和改进的技能） |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | 通过 LLM 技能进行思维克隆 |
 
 ---
 
