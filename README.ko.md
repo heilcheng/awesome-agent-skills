@@ -57,6 +57,8 @@ AI 코딩 에이전트를 위한 엄선된 기술, 도구 및 기능 목록입�
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
+| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 
 ---
 
@@ -108,6 +110,15 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace 스킬 (Claude, Codex, Gemini 호환) |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai 컬렉션 (CLI 설치 프로그램 포함) |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | Claude Code 및 Claude.ai를 위한 50개 이상의 검증된 스킬 |
+| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 전문 기능을 위한 스킬 |
+| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | 다중 에이전트 협업 스킬 |
+| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Pydantic AI 통합 |
+| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | DSPy 프레임워크용 스킬 |
+| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | 엄선된 Claude 에이전트 스킬 컬렉션 |
+| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact 에이전트 라이브러리 스킬 |
+| [gotalab/skillport](https://github.com/gotalab/skillport) | CLI 또는 MCP를 통한 스킬 배포 |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, 코드 리뷰 및 테스트 스킬 |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 암호화폐, web3 및 블록체인 스킬 |
 
 #### 문서 처리
 
@@ -123,6 +134,11 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 차트 및 대화형 데이터 시각화 |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 웹 앱 테스트를 위한 브라우저 자동화 |
 | [Specrate](https://github.com/rickygao/specrate) | 명세(spec)와 변경을 구조화된 워크플로로 관리 |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | 테스트를 위한 iOS 시뮬레이터 상호 작용 |
+| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift 동시성 마이그레이션 가이드 |
+| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md 플러그인 개발 |
+| [Stream Coding](https://github.com/frmoretto/stream-coding) | 스트림 코딩 방법론 |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Xcode에서 추출한 Apple 작성 SwiftUI 및 플랫폼 지침 |
 
 #### 데이터 및 분석
 
@@ -135,15 +151,35 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | 스킬 | 설명 |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | 에이전트를 위한 웹 브라우저 기능 |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | 프로덕션 RAG를 위한 엣지 네이티브 MCP 서버 패턴 |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | tmux를 통해 로컬 CLI AI 에이전트 관리 (시작/중지/모니터링/할당 + cron 일정) |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | Registry Broker를 통한 AI 에이전트 검색 - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 자동화 |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | 에이전트 워크플로우용 메시지 알림 전송 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 통합 |
+
+#### 협업 및 프로젝트 관리
+
+| 스킬 | 설명 |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | git 작업 및 저장소 상호 작용 자동화 |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 코드 구현 계획 평가 |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 실패하는 테스트 감지 및 수정 제안 |
 
 #### 보안 및 시스템
 
 | 스킬 | 설명 |
 |------|------|
+| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | 디지털 포렌식 분석 및 조사 |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Sigma 탐지 규칙을 사용한 위협 사냥 |
+
+#### 고급 및 연구
+
+| 스킬 | 설명 |
+|------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 컨텍스트 엔지니어링 기술 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 시스템 스킬 패턴 (기억하고 개선하는 스킬) |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLM 스킬을 이용한 마인드 클로닝 |
 
 ---
 

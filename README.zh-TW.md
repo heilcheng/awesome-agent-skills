@@ -57,6 +57,8 @@
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
+| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 
 ---
 
@@ -108,6 +110,15 @@ Codex 支援不同範圍的技能：
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace 技能（相容 Claude、Codex、Gemini）|
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai 集合，附 CLI 安裝程式 |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ 經過驗證的 Claude Code 和 Claude.ai 技能 |
+| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 專門能力的技能 |
+| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | 多代理協作技能 |
+| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Pydantic AI 整合 |
+| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | DSPy 框架技能 |
+| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | 精選 Claude 代理技能集合 |
+| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact 代理庫技能 |
+| [gotalab/skillport](https://github.com/gotalab/skillport) | 透過 CLI 或 MCP 分發技能 |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git、程式碼審查和測試技能 |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 加密貨幣、web3 和區塊鏈技能。 |
 
 #### 文件處理
 
@@ -123,6 +134,11 @@ Codex 支援不同範圍的技能：
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 圖表和互動式資料視覺化 |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 測試網頁應用的瀏覽器自動化 |
 | [Specrate](https://github.com/rickygao/specrate) | 以結構化工作流程管理規格（spec）與變更 |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | 與 iOS 模擬器互動以進行測試 |
+| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift 並發遷移指南 |
+| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md 外掛程式開發 |
+| [Stream Coding](https://github.com/frmoretto/stream-coding) | 流式編碼方法論 |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | 從 Xcode 提取的 Apple 編寫的 SwiftUI 和平台指南 |
 
 #### 資料和分析
 
@@ -135,15 +151,35 @@ Codex 支援不同範圍的技能：
 | 技能 | 描述 |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | 代理的網頁瀏覽器功能 |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | 用於生產 RAG 的邊緣原生 MCP 伺服器模式 |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | 透過 tmux 管理本地 CLI AI 代理（啟動/停止/監控/分配 + cron 排程） |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | 透過 Registry Broker 發現 AI 代理 - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 自動化 |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | 為代理工作流程發送訊息通知 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 整合 |
+
+#### 協作與專案管理
+
+| 技能 | 描述 |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | 自動化 git 操作和倉庫互動 |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 評估程式碼實施計畫 |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 檢測失敗的測試並提出修復建議 |
 
 #### 安全和系統
 
 | 技能 | 描述 |
 |------|------|
+| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | 數位鑑識分析和調查 |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | 使用 Sigma 偵測規則進行威脅狩獵 |
+
+#### 進階與研究
+
+| 技能 | 描述 |
+|------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 上下文工程技術 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 系統技能模式（記憶和改進的技能） |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | 透過 LLM 技能進行思維複製 |
 
 ---
 

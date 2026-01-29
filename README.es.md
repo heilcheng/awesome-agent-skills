@@ -57,6 +57,8 @@ Las siguientes plataformas tienen soporte documentado para Agent Skills:
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
+| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 
 ---
 
@@ -108,6 +110,15 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [huggingface/skills](https://github.com/huggingface/skills) | Habilidades de HuggingFace (compatible con Claude, Codex, Gemini) |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | Colección de SkillCreator.ai con instalador CLI |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | Más de 50 habilidades verificadas para Claude Code y Claude.ai |
+| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | Habilidades para capacidades especializadas |
+| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | Habilidades de colaboración multi-agente |
+| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Integración con Pydantic AI |
+| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | Habilidades para el framework DSPy |
+| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | Colección seleccionada de Agent Skills para Claude |
+| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Habilidades de la librería de agentes Freeact |
+| [gotalab/skillport](https://github.com/gotalab/skillport) | Distribución de habilidades vía CLI o MCP |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Habilidades de Git, revisión de código y pruebas |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | Habilidades de criptomonedas, web3 y blockchain. |
 
 #### Procesamiento de Documentos
 
@@ -123,6 +134,11 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | Gráficos D3 y visualizaciones de datos interactivas |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Automatización del navegador para probar aplicaciones web |
 | [Specrate](https://github.com/rickygao/specrate) | Gestiona especificaciones y cambios con un flujo de trabajo estructurado |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | Interactuar con el Simulador de iOS para pruebas |
+| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Guía de migración a Swift Concurrency |
+| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Desarrollo de plugins para Obsidian.md |
+| [Stream Coding](https://github.com/frmoretto/stream-coding) | Metodología de Stream Coding |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Guía de plataforma y SwiftUI creada por Apple extraída de Xcode |
 
 #### Datos y Análisis
 
@@ -135,15 +151,35 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | Habilidad | Descripción |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Capacidad de navegador web para agentes |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Patrones de servidor MCP nativos del borde para RAG en producción |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Gestionar agentes de IA CLI locales vía tmux (iniciar/detener/monitorear/asignar + programación cron) |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | Descubrimiento de agentes de IA vía Registry Broker - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Automatización CLI de Google Sheets |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | Enviar notificaciones de mensajes para flujos de trabajo de agentes |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Integración de API de Spotify |
+
+#### Colaboración y Gestión de Proyectos
+
+| Habilidad | Descripción |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Automatizar operaciones git e interacciones con el repositorio |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluar planes de implementación de código |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detectar pruebas fallidas y proponer correcciones |
 
 #### Seguridad y Sistemas
 
 | Habilidad | Descripción |
 |------|------|
+| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | Análisis e investigación forense digital |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Caza de amenazas usando reglas de detección Sigma |
+
+#### Avanzado e Investigación
+
+| Habilidad | Descripción |
+|------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Técnicas de ingeniería de contexto |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | Patrón de Habilidad del Sistema (habilidades que recuerdan y mejoran) |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Clonación mental con habilidades LLM |
 
 ---
 
