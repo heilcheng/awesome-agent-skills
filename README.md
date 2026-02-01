@@ -138,6 +138,7 @@ Community-maintained skills and collections (verify before use):
 | [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
 | [Stream Coding](https://github.com/frmoretto/stream-coding) | Stream Coding methodology |
 | [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Apple-authored SwiftUI and platform guidance extracted from Xcode |
+| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Pressure-test spec documents with LLM reasoning before writing code |
 
 #### Data & Analysis
 
