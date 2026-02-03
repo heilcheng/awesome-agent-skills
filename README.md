@@ -118,6 +118,7 @@ Community-maintained skills and collections (verify before use):
 | [gotalab/skillport](https://github.com/gotalab/skillport) | Skills distribution via CLI or MCP |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) |  cryptocurrency, web3 and blockchain skills. |
+| [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Crowdfunding for AI agents on Base chain - milestone escrow |
 
 #### Document Processing
 
