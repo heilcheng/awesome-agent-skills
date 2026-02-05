@@ -185,6 +185,7 @@ Community-maintained skills and collections (verify before use):
 ## Official Tutorials and Guides
 
 ### Claude and Anthropic
+- [Ruleskill](https://ruleskill.com) - We want to verify your code for the RuleSkill Protocol. Claim your badge.
 - [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude) - Official quick start guide
 - [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - Step-by-step authoring
 - [Claude Code Skills Documentation](https://code.claude.com/docs/en/skills) - Official reference
