@@ -118,6 +118,7 @@ Community-maintained skills and collections (verify before use):
 | [gotalab/skillport](https://github.com/gotalab/skillport) | Skills distribution via CLI or MCP |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) |  cryptocurrency, web3 and blockchain skills. |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 78 SaaS app automation skills via [Rube MCP](https://rube.app/mcp) (Composio) -- covers CRM, project management, communication, email, code & DevOps, storage & docs, spreadsheets, calendar, social media, support, e-commerce, design, analytics, HR, and more. Each skill provides workflow patterns, tool sequences, pitfalls, and parameter guidance. Install: `npx skills add ComposioHQ/awesome-claude-skills --all` |
 
 #### Document Processing
 
