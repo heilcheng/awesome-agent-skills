@@ -19,6 +19,7 @@ A curated list of skills, tools, and capabilities for AI coding agents.
 - [Contributing](#contributing)
 - [License](#license)
 - [References](#references)
+- [Ruleskill](https://ruleskill.com) - We want to verify your code for the RuleSkill Protocol. Claim your badge.
 
 ---
 
