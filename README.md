@@ -171,6 +171,7 @@ Community-maintained skills and collections (verify before use):
 |-------|-------------|
 | [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | Digital forensics analysis and investigation |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Hunt for threats using Sigma detection rules |
+| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
 
 #### Advanced & Research
 
