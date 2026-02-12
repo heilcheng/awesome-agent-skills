@@ -406,6 +406,9 @@ if __name__ == "__main__":
 
 ## Community Resources
 
+### Tutorial Collections
+- [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) - Deep-dive tutorials for Codex, Claude Code, MCP tooling, and open-source AI coding ecosystems.
+
 ### LangChain Tools
 - [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - Wrapper around SerpApi
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Fetch summaries from Wikipedia
