@@ -30,6 +30,8 @@ Skills are simple text files (called `SKILL.md`) that teach an AI how to do spec
 
 ### How It Works
 
+- [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) — Alignment, safety & cognitive architecture for autonomous AI agents. Six modules: membrane security, epistemic tagger, self-audit, beacon, cognitive architecture, collective cognition. Zero dependencies.
+
 Skills load in three stages:
 
 1. **Browse** - The AI sees a list of available skills (just names and short descriptions)
