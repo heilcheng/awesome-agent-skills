@@ -156,6 +156,7 @@ Community-maintained skills and collections (verify before use):
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI automation |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | Send message notifications for agent workflows |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
+| [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
 
 #### Collaboration & Project Management
 
