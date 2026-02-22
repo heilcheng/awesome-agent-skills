@@ -159,6 +159,7 @@ Community-maintained skills and collections (verify before use):
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI automation |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | Send message notifications for agent workflows |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
+| [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
 
 #### Collaboration & Project Management
 
