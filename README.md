@@ -161,6 +161,7 @@ Community-maintained skills and collections (verify before use):
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | Send message notifications for agent workflows |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
 | [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
+| [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
 
 #### Collaboration & Project Management
 
