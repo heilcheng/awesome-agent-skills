@@ -58,6 +58,7 @@ AI 코딩 에이전트를 위한 엄선된 기술, 도구 및 기능 목록입�
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
+| Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 
 ---
 
@@ -108,9 +109,20 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [openai/skills](https://github.com/openai/skills) | 공식 OpenAI Codex 스킬 카탈로그 |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace 스킬 (Claude, Codex, Gemini 호환) |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai 컬렉션 (CLI 설치 프로그램 포함) |
+| [agentskill.sh](https://agentskill.sh) | 44k+ 스킬 디렉토리, 보안 스캔 및 `/learn` 설치 프로그램 포함 |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | Claude Code 및 Claude.ai를 위한 50개 이상의 검증된 스킬 |
-| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel Labs 에이전트 스킬 컬렉션 |
-| [agentskills/agentskills](https://github.com/agentskills/agentskills) | 방대한 에이전트 스킬 디렉토리 (agentskills.io) |
+| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 전문 기능 스킬 |
+| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | 멀티 에이전트 협업 스킬 |
+| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Pydantic AI 통합 |
+| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | DSPy 프레임워크 스킬 |
+| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | 엄선된 Claude Agent Skills 컬렉션 |
+| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact 에이전트 라이브러리 스킬 |
+| [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | npm 스타일 스킬 CLI(`brew install dmgrok/tap/skills`) — 24개 제공자의 177+ 스킬 집계 |
+| [gotalab/skillport](https://github.com/gotalab/skillport) | CLI 또는 MCP를 통한 스킬 배포 |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, 코드 리뷰 및 테스트 스킬 |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 암호화폐, Web3 및 블록체인 스킬 |
+| [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18개 Go-to-Market 스킬: 가격, 아웃바운드, SEO, 광고, 리텐션, 운영 |
+| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24개 제품 관리 스킬: 발견, 정의, 전달, 최적화 포함 |
 
 #### 문서 처리
 
@@ -127,12 +139,20 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 웹 앱 테스트를 위한 브라우저 자동화 |
 | [Specrate](https://github.com/rickygao/specrate) | 명세(spec)와 변경을 구조화된 워크플로로 관리 |
 | [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Xcode에서 추출한 Apple 작성 SwiftUI 및 플랫폼 지침 |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | 테스트를 위한 iOS 시뮬레이터 상호작용 |
+| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift Concurrency 마이그레이션 가이드 |
+| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md 플러그인 개발 |
+| [Stream Coding](https://github.com/frmoretto/stream-coding) | 스트림 코딩 방법론 |
+| [Tool Advisor](https://github.com/dragon1086/claude-skills) | 프롬프트를 분석하고 최적의 도구, 스킬, 에이전트 및 오케스트레이션 패턴 추천 |
+| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | 코드 작성 전 LLM 추론으로 사양 문서 압력 테스트 |
+| [Mantra](https://mantra.gonewx.com) | AI 코딩 세션 관리 — Claude Code, Cursor, Windsurf 세션 저장, 복원, 타임 트래블 |
 
 #### 데이터 및 분석
 
 | 스킬 | 설명 |
 |------|------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | CSV 파일을 분석하고 시각화를 포함한 인사이트 생성 |
+| [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | 완전한 Kaggle 통합 — 계정 설정, 대회 보고서, 데이터셋/모델 다운로드, 노트북 실행, 제출 및 배지 수집 |
 
 #### 통합 및 자동화
 
@@ -145,12 +165,28 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 자동화 |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | 에이전트 워크플로우용 메시지 알림 전송 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 통합 |
+| [AgentStore](https://github.com/techgangboss/agentstore) | 오픈소스 플러그인 마켓플레이스, 가스리스 USDC 결제, CLI 설치, 3필드 게시 API |
+| [Transloadit Skills](https://github.com/transloadit/skills) | 미디어 처리: 비디오 인코딩, 이미지 조작, OCR 및 86+ Robots |
+| [commune](https://github.com/shanjairaj7/commune-skill) | 에이전트 네이티브 이메일 수신함 — 영구 @commune.ai 주소, 완전한 송수신, 시맨틱 검색, 분류 및 웹훅 |
+
+#### 협업 및 프로젝트 관리
+
+| 스킬 | 설명 |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Git 작업 및 저장소 상호작용 자동화 |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 코드 구현 계획 평가 |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 실패한 테스트 감지 및 수정 제안 |
 
 #### 보안 및 시스템
 
 | 스킬 | 설명 |
 |------|------|
+| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | 디지털 포렌식 분석 및 조사 |
+| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) | GPG/PGP를 대체하는 현대적 암호화, 포스트 양자 지원, 조합 가능한 인증, 에이전트 간 통신 |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Sigma 탐지 규칙을 사용한 위협 사냥 |
+| [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | 에이전트용 보안 EVM 지갑 — 전송, 스왑, 트랜잭션 |
+| [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | 에이전트용 Polymarket 예측 시장 거래 |
+| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AI 에이전트 커널 수준 거버넌스 — 결정적 정책 실행, 규정 준수 검사, 감사 로깅 |
 
 #### 고급 및 연구
 
@@ -281,10 +317,6 @@ description: 이 스킬이 하는 일에 대한 명확한 설명.
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Wikipedia에서 요약 가져오기
 - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Python 코드 실행
 - [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - `@tool` 데코레이터 사용 지침
-
-### 기사 및 연구
-- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - AI의 개인정보 보호 위험 분석
-- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - RAG 아키텍처를 위한 비용 최적화 가이드
 
 ---
 

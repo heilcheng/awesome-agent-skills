@@ -58,6 +58,7 @@
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
+| Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 
 ---
 
@@ -108,9 +109,20 @@ Codex 支援不同範圍的技能：
 | [openai/skills](https://github.com/openai/skills) | 官方 OpenAI Codex 技能目錄 |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace 技能（相容 Claude、Codex、Gemini）|
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai 集合，附 CLI 安裝程式 |
+| [agentskill.sh](https://agentskill.sh) | 44k+ 技能目錄，內建安全掃描和 `/learn` 安裝程式 |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ 經過驗證的 Claude Code 和 Claude.ai 技能 |
-| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel Labs 代理技能合集 |
-| [agentskills/agentskills](https://github.com/agentskills/agentskills) | 龐大的代理技能目錄 (agentskills.io) |
+| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 專業功能技能 |
+| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | 多代理協作技能 |
+| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Pydantic AI 整合 |
+| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | DSPy 框架技能 |
+| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | 精選的 Claude Agent Skills 合集 |
+| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact 代理程式庫技能 |
+| [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | 類似 npm 的技能 CLI（`brew install dmgrok/tap/skills`）— 彙整 24 個提供者的 177+ 技能 |
+| [gotalab/skillport](https://github.com/gotalab/skillport) | 透過 CLI 或 MCP 分發技能 |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git、程式碼審查和測試技能 |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 加密貨幣、Web3 和區塊鏈技能 |
+| [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 項市場推廣技能：定價、外展、SEO、廣告、留存和營運 |
+| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 項產品管理技能，涵蓋探索、定義、交付和優化 |
 
 #### 文件處理
 
@@ -127,30 +139,54 @@ Codex 支援不同範圍的技能：
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 測試網頁應用的瀏覽器自動化 |
 | [Specrate](https://github.com/rickygao/specrate) | 以結構化工作流程管理規格（spec）與變更 |
 | [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | 從 Xcode 提取的 Apple 編寫的 SwiftUI 和平台指南 |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | 與 iOS 模擬器互動進行測試 |
+| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift 並行遷移指南 |
+| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md 外掛開發 |
+| [Stream Coding](https://github.com/frmoretto/stream-coding) | 串流編碼方法論 |
+| [Tool Advisor](https://github.com/dragon1086/claude-skills) | 分析提示並推薦最佳工具、技能、代理和編排模式 |
+| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | 在編寫程式碼之前使用 LLM 推理壓力測試規格文件 |
+| [Mantra](https://mantra.gonewx.com) | AI 編碼會話管理 — 儲存、還原和時間旅行 Claude Code、Cursor 和 Windsurf 會話 |
 
 #### 資料和分析
 
 | 技能 | 描述 |
 |------|------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | 分析 CSV 檔案並產生視覺化洞察 |
+| [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | 完整的 Kaggle 整合 — 帳戶設定、比賽報告、資料集/模型下載、Notebook 執行、提交和徽章收集 |
 
 #### 整合和自動化
 
 | 技能 | 描述 |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | 代理的網頁瀏覽器功能 |
-| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Edge-native MCP server patterns for production RAG |
-| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Manage local CLI AI agents via tmux (start/stop/monitor/assign + cron scheduling) |
-| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | AI agent discovery via Registry Broker - /hol-search, /hol-resolve, /hol-chat |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | 用於生產環境 RAG 的邊緣原生 MCP 伺服器模式 |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | 透過 tmux 管理本地 CLI AI 代理（啟動/停止/監控/分配 + cron 排程）|
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | 透過 Registry Broker 進行 AI 代理發現 - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 自動化 |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | 為代理工作流程發送訊息通知 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 整合 |
+| [AgentStore](https://github.com/techgangboss/agentstore) | 開源外掛市場，支援免 Gas USDC 付款、CLI 安裝和 3 欄位發布 API |
+| [Transloadit Skills](https://github.com/transloadit/skills) | 媒體處理：影片編碼、影像處理、OCR 及 86+ Robots |
+| [commune](https://github.com/shanjairaj7/commune-skill) | 代理原生電子郵件收件匣 — 永久 @commune.ai 地址，完整收發、語義搜尋、分類和 Webhook |
+
+#### 協作與專案管理
+
+| 技能 | 描述 |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | 自動化 Git 操作和倉庫互動 |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 評估程式碼實作計畫 |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 偵測失敗測試並提出修正建議 |
 
 #### 安全和系統
 
 | 技能 | 描述 |
 |------|------|
+| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | 數位鑑識分析與調查 |
+| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) | 現代加密替代 GPG/PGP，支援後量子安全、可組合認證和代理間通訊 |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | 使用 Sigma 偵測規則進行威脅狩獵 |
+| [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | 代理用安全 EVM 錢包，支援轉帳、交換和交易 |
+| [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | 代理用 Polymarket 預測市場交易 |
+| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AI 代理的核心層治理 — 確定性政策執行、合規檢查、稽核紀錄 |
 
 #### 進階與研究
 
@@ -279,10 +315,6 @@ description: 清楚描述此技能的功能。
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - 從維基百科取得摘要
 - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - 執行 Python 程式碼
 - [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - 如何使用 `@tool` 裝飾器
-
-### 文章與研究
-- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - Analysis of privacy risks in AI
-- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - Cost-optimization guide for RAG architectures
 
 ---
 
