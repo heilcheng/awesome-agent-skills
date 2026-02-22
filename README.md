@@ -464,7 +464,7 @@ They do different things and work great together:
 
 ### Which AI tools support Agent Skills?
 
-Currently supported: **Claude** (Claude.ai and Claude Code), **GitHub Copilot**, **VS Code**, and others. The list is growing as more tools adopt the standard.
+Currently supported: **Claude** (Claude.ai and Claude Code), **GitHub Copilot**, **VS Code**, **Codex** (OpenAI), **Antigravity** (Google), **Gemini CLI**, and **Kiro**. The list is growing as more tools adopt the standard.
 
 ### Do Agent Skills run code?
 
@@ -483,8 +483,9 @@ Full guide: [How to create custom skills](https://support.claude.com/en/articles
 
 ## Contributing
 
-This repository follows the Agent Skills open development model. Contributions are welcome from the broader ecosystem. When contributing:
+Contributions are welcome. See **[CONTRIBUTING.md](CONTRIBUTING.md)** for full guidelines.
 
+Quick summary:
 - Follow the skill template structure
 - Provide clear, actionable instructions
 - Include working examples where appropriate

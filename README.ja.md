@@ -124,6 +124,8 @@ Codexは異なるスコープのスキルをサポートしています：
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 暗号通貨、Web3、ブロックチェーンスキル |
 | [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18のGo-To-Marketスキル：価格設定、アウトバウンド、SEO、広告、リテンション、オペレーション |
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24のプロダクトマネジメントスキル：発見、定義、デリバリー、最適化をカバー |
+| [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace（Gmail、Chat、Calendar、Docs、Drive、Sheets、Slides）、AI委任（Jules、Manus、Deep Research）、データベーススキル |
+| [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Baseチェーン上のAIエージェント向けクラウドファンディング — マイルストーンエスクロー |
 
 #### ドキュメント処理
 
@@ -178,14 +180,6 @@ Codexは異なるスコープのスキルをサポートしています：
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | コード実装プランの評価 |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 失敗テストの検出と修正案の提示 |
 
-#### コラボレーションとプロジェクト管理
-
-| スキル | 説明 |
-|------|------|
-| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | git操作とリポジトリ対話を自動化 |
-| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | コード実装計画を評価 |
-| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 失敗したテストを検出し、修正を提案 |
-
 #### セキュリティ・システム
 
 | スキル | 説明 |
@@ -201,14 +195,6 @@ Codexは異なるスコープのスキルをサポートしています：
 
 | スキル | 説明 |
 |--------|------|
-| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | コンテキストエンジニアリング技術 |
-| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | システムスキルパターン（記憶し改善するスキル） |
-| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLMスキルによるマインドクローニング |
-
-#### 高度な研究
-
-| スキル | 説明 |
-|------|------|
 | [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | コンテキストエンジニアリング技術 |
 | [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | システムスキルパターン（記憶し改善するスキル） |
 | [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLMスキルによるマインドクローニング |
@@ -259,6 +245,37 @@ cp -r skill-name ~/.claude/skills/
 
 スキルは自動的にロードされ、必要なときにアクティブになります。
 
+### Codexでのスキルの使用
+
+**スキルの作成：**
+
+Codexの組み込み `$skill-creator` スキルを使用します。スキルに何をさせたいかを説明すると、Codexが自動的に作成します。
+
+`$skill-installer create-plan` で `$create-plan`（実験的）をインストールすると、Codexはファイルを書く前にプランを作成します。
+
+フォルダと `SKILL.md` ファイルを作成して手動でスキルを作ることもできます：
+
+````markdown
+---
+name: skill-name
+description: Codexがスキルを選択するのに役立つ説明
+metadata:
+  short-description: オプションのユーザー向け説明
+---
+
+このスキルを使用する際にCodexエージェントが従うスキルの指示。
+````
+
+**新しいスキルのインストール：**
+
+`$skill-installer` スキルを使用してGitHubからスキルをダウンロードします：
+
+```bash
+$skill-installer linear
+```
+
+インストーラーに他のリポジトリからスキルをダウンロードするよう指示することもできます。スキルをインストールした後、新しいスキルを読み込むためにCodexを再起動してください。
+
 ### VS Codeでのスキルの使用
 
 スキルは`SKILL.md`ファイルを含むディレクトリに保存されます。VS Codeは2つの場所をサポートしています：
@@ -281,6 +298,62 @@ description: スキルの機能と使用タイミングの説明
 # スキル指示書
 
 詳細な指示、ガイドライン、例などをここに記述します...
+```
+
+### Copilot CLIでのスキルの使用
+
+**リポジトリにスキルを追加する：**
+
+1. `.github/skills` ディレクトリを作成します（`.claude/skills` のスキルもサポートされています）
+2. スキル用のサブディレクトリを作成します（例：`.github/skills/webapp-testing`）
+3. スキルの指示を含む `SKILL.md` ファイルを作成します
+
+**SKILL.mdの構造：**
+
+- `name`（必須）：スペースの代わりにハイフンを使用した一意の小文字識別子
+- `description`（必須）：スキルの機能とCopilotがいつ使用すべきか
+- `license`（オプション）：このスキルに適用されるライセンス
+- 指示、例、ガイドラインを含むMarkdown本文
+
+**SKILL.mdの例：**
+
+````markdown
+---
+name: github-actions-failure-debugging
+description: 失敗したGitHub Actionsワークフローのデバッグガイド。
+---
+
+失敗したGitHub Actionsワークフローをデバッグするには：
+
+1. `list_workflow_runs` を使用して最近のワークフロー実行を検索
+2. `summarize_job_log_failures` を使用して失敗したジョブのAIサマリーを取得
+3. 必要に応じて `get_job_logs` で詳細な失敗ログを取得
+4. 環境で障害を再現してみる
+5. 失敗したビルドを修正する
+````
+
+タスクを実行する際、Copilotはプロンプトとスキルの説明に基づいてスキルを使用するタイミングを決定します。`SKILL.md` ファイルはエージェントのコンテキストに注入されます。
+
+### MCPサーバーの使用（Claude Desktop）
+
+設定ファイルを編集します：
+- **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+
+設定例：
+```json
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/username/Desktop"
+      ]
+    }
+  }
+}
 ```
 
 ---
@@ -325,6 +398,29 @@ description: このスキルが何をするか明確な説明。
 [実際の例]
 ```
 
+### MCPサーバーの例（Python）
+
+外部データソースに接続する必要があるスキルの場合、MCPサーバーを作成できます：
+
+```bash
+pip install fastmcp
+```
+
+server.py:
+```python
+from fastmcp import FastMCP
+
+mcp = FastMCP("My Server")
+
+@mcp.tool()
+def hello_world(name: str = "World") -> str:
+    """A simple tool that says hello."""
+    return f"Hello, {name}!"
+
+if __name__ == "__main__":
+    mcp.run()
+```
+
 ---
 
 ## コミュニティリソース
@@ -334,6 +430,10 @@ description: このスキルが何をするか明確な説明。
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Wikipediaから要約を取得
 - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Pythonコードを実行
 - [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - `@tool`デコレーターの使用方法
+
+### 記事・研究
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - AIにおけるプライバシーリスクの分析
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - RAGアーキテクチャのコスト最適化ガイド
 
 ---
 
@@ -355,23 +455,34 @@ Agent Skillsは、AIアシスタントに特定のタスクを行う方法を教
 
 ### どのAIツールがAgent Skillsをサポートしていますか？
 
-現在サポートされているのは、**Claude**（Claude.aiおよびClaude Code）、**GitHub Copilot**、**VS Code**などです。標準を採用するツールが増えるにつれて、リストは拡大しています。
+現在サポートされているもの：**Claude**（Claude.aiとClaude Code）、**GitHub Copilot**、**VS Code**、**Codex**（OpenAI）、**Antigravity**（Google）、**Gemini CLI**、**Kiro**。より多くのツールがこの標準を採用するにつれ、リストは増え続けています。
 
 ### Agent Skillsはコードを実行しますか？
 
 いいえ。スキルは単なるテキスト指示であり、AIはレシピのようにそれを読んで従います。実際のコードを実行する必要がある場合は、スキルの並行してMCPサーバーなどを使用します。
 
+### 最初のAgent Skillはどうやって作りますか？
+
+1. `SKILL.md` ファイルを作成し、上部に名前と説明を記載します
+2. ファイルに明確なステップバイステップの指示を書きます
+3. `.github/skills/` または `.claude/skills/` フォルダに配置します
+4. テストしてみましょう！
+
+完全ガイド：[カスタムスキルの作成方法](https://support.claude.com/en/articles/12512198-creating-custom-skills)
+
 ---
 
-## 貢献
+## 貢献する
 
-このリポジトリはAgent Skillsのオープン開発モデルに従っています。より広いエコシステムからの貢献を歓迎します。貢献する際は：
+貢献を歓迎します。完全なガイドラインは **[CONTRIBUTING.md](CONTRIBUTING.md)** をご覧ください。
 
-- スキルテンプレートの構造に従う
-- 明確で実行可能な指示を提供する
-- 適切な場合は動作する例を含める
-- トレードオフや潜在的な問題を文書化する
-- 最適なパフォーマンスのためにSKILL.mdは500行以下に保つ
+クイックサマリー：
+- スキルテンプレートの構造に従ってください
+- 明確で実行可能な指示を提供してください
+- 適切な場合は動作する例を含めてください
+- トレードオフと潜在的な問題を文書化してください
+- 最適なパフォーマンスのためにSKILL.mdを500行以下に保ってください
+- 追加する前にスキルが実際に存在することを確認してください
 
 ---
 

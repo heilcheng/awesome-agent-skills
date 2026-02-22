@@ -124,6 +124,8 @@ Codex 支持不同范围的技能：
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 加密货币、Web3 和区块链技能 |
 | [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 项市场推广技能：定价、外展、SEO、广告、留存和运营 |
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 项产品管理技能，涵盖发现、定义、交付和优化 |
+| [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace（Gmail、Chat、Calendar、Docs、Drive、Sheets、Slides）、AI 委托（Jules、Manus、Deep Research）和数据库技能 |
+| [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Base 链上 AI 代理的众筹 — 里程碑托管 |
 
 #### 文档处理
 
@@ -178,14 +180,6 @@ Codex 支持不同范围的技能：
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 评估代码实现计划 |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 检测失败测试并提出修复建议 |
 
-#### 协作与项目管理
-
-| 技能 | 描述 |
-|------|------|
-| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | 自动化 git 操作和仓库交互 |
-| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 评估代码实施计划 |
-| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 检测失败的测试并提出修复建议 |
-
 #### 安全和系统
 
 | 技能 | 描述 |
@@ -204,14 +198,6 @@ Codex 支持不同范围的技能：
 | [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 上下文工程技术 |
 | [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 系统技能模式（记忆并改进的技能） |
 | [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | 使用 LLM 技能进行思维克隆 |
-
-#### 高级与研究
-
-| 技能 | 描述 |
-|------|------|
-| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 上下文工程技术 |
-| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 系统技能模式（记忆和改进的技能） |
-| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | 通过 LLM 技能进行思维克隆 |
 
 ---
 
@@ -259,6 +245,37 @@ cp -r skill-name ~/.claude/skills/
 
 技能会自动加载并在相关时激活。
 
+### 在 Codex 中使用技能
+
+**创建技能：**
+
+使用 Codex 内置的 `$skill-creator` 技能。描述你想让技能做什么，Codex 会自动为你创建。
+
+如果你使用 `$skill-installer create-plan` 安装了 `$create-plan`（实验性），Codex 会在写入文件之前创建计划。
+
+你也可以通过创建一个包含 `SKILL.md` 文件的文件夹来手动创建技能：
+
+````markdown
+---
+name: skill-name
+description: 帮助 Codex 选择技能的描述
+metadata:
+  short-description: 可选的面向用户的描述
+---
+
+使用此技能时 Codex 代理应遵循的技能指令。
+````
+
+**安装新技能：**
+
+使用 `$skill-installer` 技能从 GitHub 下载技能：
+
+```bash
+$skill-installer linear
+```
+
+你也可以指示安装程序从其他仓库下载技能。安装技能后，重启 Codex 以加载新技能。
+
 ### 在 VS Code 中使用技能
 
 技能存储在包含 `SKILL.md` 文件的目录中。VS Code 支持两个位置：
@@ -281,6 +298,62 @@ description: 技能的功能描述和使用时机
 # 技能指令
 
 你的详细指令、指南和示例...
+```
+
+### 在 Copilot CLI 中使用技能
+
+**将技能添加到你的仓库：**
+
+1. 创建 `.github/skills` 目录（`.claude/skills` 中的技能也受支持）
+2. 为你的技能创建子目录（例如 `.github/skills/webapp-testing`）
+3. 创建包含技能指令的 `SKILL.md` 文件
+
+**SKILL.md 结构：**
+
+- `name`（必需）：使用连字符代替空格的唯一小写标识符
+- `description`（必需）：技能的功能以及 Copilot 何时应使用它
+- `license`（可选）：适用于此技能的许可证
+- 包含指令、示例和指南的 Markdown 正文
+
+**SKILL.md 示例：**
+
+````markdown
+---
+name: github-actions-failure-debugging
+description: 调试失败的 GitHub Actions 工作流程的指南。
+---
+
+调试失败的 GitHub Actions 工作流程：
+
+1. 使用 `list_workflow_runs` 查找最近的工作流程运行
+2. 使用 `summarize_job_log_failures` 获取失败作业的 AI 摘要
+3. 如需详细失败日志，使用 `get_job_logs`
+4. 尝试在你的环境中重现故障
+5. 修复失败的构建
+````
+
+执行任务时，Copilot 根据你的提示和技能描述决定何时使用技能。`SKILL.md` 文件会注入到代理的上下文中。
+
+### 使用 MCP 服务器（Claude Desktop）
+
+编辑你的配置文件：
+- **macOS**：`~/Library/Application Support/Claude/claude_desktop_config.json`
+- **Windows**：`%APPDATA%\Claude\claude_desktop_config.json`
+
+配置示例：
+```json
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/username/Desktop"
+      ]
+    }
+  }
+}
 ```
 
 ---
@@ -325,6 +398,31 @@ description: 清楚描述此技能的功能。
 [实际示例]
 ```
 
+### MCP 服务器示例（Python）
+
+对于需要连接外部数据源的技能，你可以创建 MCP 服务器：
+
+```bash
+pip install fastmcp
+```
+
+server.py：
+```python
+from fastmcp import FastMCP
+
+mcp = FastMCP("My Server")
+
+@mcp.tool()
+def hello_world(name: str = "World") -> str:
+    """A simple tool that says hello."""
+    return f"Hello, {name}!"
+
+if __name__ == "__main__":
+    mcp.run()
+```
+
+---
+
 ## 社区资源
 
 ### LangChain Tools
@@ -332,6 +430,10 @@ description: 清楚描述此技能的功能。
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - 从维基百科获取摘要
 - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - 执行 Python 代码
 - [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - 如何使用 `@tool` 装饰器
+
+### 文章与研究
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - AI 隐私风险分析
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - RAG 架构成本优化指南
 
 ---
 
@@ -353,23 +455,34 @@ Agent Skills 是教导 AI 助理如何执行特定任务的指令文件。将它
 
 ### 哪些 AI 工具支持 Agent Skills？
 
-目前支持：**Claude**（Claude.ai 和 Claude Code）、**GitHub Copilot**、**VS Code** 等。随着更多工具采用此标准，列表正在增长。
+目前支持：**Claude**（Claude.ai 和 Claude Code）、**GitHub Copilot**、**VS Code**、**Codex**（OpenAI）、**Antigravity**（Google）、**Gemini CLI** 和 **Kiro**。随着更多工具采用该标准，列表还在不断增长。
 
 ### Agent Skills 会执行代码吗？
 
 不会。技能只是文本指令，AI 像阅读食谱一样阅读和遵循。如果需要执行实际代码，你可以搭配技能使用 MCP 服务器。
 
+### 如何创建我的第一个 Agent Skill？
+
+1. 创建一个 `SKILL.md` 文件，在顶部写上名称和描述
+2. 在文件中编写清晰的逐步指令
+3. 将其放在 `.github/skills/` 或 `.claude/skills/` 文件夹中
+4. 测试一下！
+
+完整指南：[如何创建自定义技能](https://support.claude.com/en/articles/12512198-creating-custom-skills)
+
 ---
 
 ## 贡献
 
-此仓库遵循 Agent Skills 开放开发模式。欢迎来自更广泛生态系统的贡献。贡献时请：
+欢迎贡献。完整指南请参阅 **[CONTRIBUTING.md](CONTRIBUTING.md)**。
 
+快速摘要：
 - 遵循技能模板结构
 - 提供清晰、可操作的指令
-- 在适当时包含有效示例
+- 在适当的地方包含可运行的示例
 - 记录权衡和潜在问题
-- 将 SKILL.md 保持在 500 行以下以获得最佳性能
+- 为了最佳性能，将 SKILL.md 保持在 500 行以下
+- 在添加之前验证技能确实存在
 
 ---
 

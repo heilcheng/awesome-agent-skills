@@ -124,6 +124,8 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | Habilidades de criptomonedas, Web3 y blockchain |
 | [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 habilidades go-to-market: precios, outbound, SEO, anuncios, retención y operaciones |
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 habilidades de gestión de producto: descubrimiento, definición, entrega y optimización |
+| [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), delegación de IA (Jules, Manus, Deep Research) y habilidades de bases de datos |
+| [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Crowdfunding para agentes de IA en cadena Base — custodia por hitos |
 
 #### Procesamiento de Documentos
 
@@ -178,14 +180,6 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluar planes de implementación de código |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detectar pruebas fallidas y proponer correcciones |
 
-#### Colaboración y Gestión de Proyectos
-
-| Habilidad | Descripción |
-|------|------|
-| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Automatizar operaciones git e interacciones con el repositorio |
-| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluar planes de implementación de código |
-| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detectar pruebas fallidas y proponer correcciones |
-
 #### Seguridad y Sistemas
 
 | Habilidad | Descripción |
@@ -201,14 +195,6 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 
 | Habilidad | Descripción |
 |-----------|-------------|
-| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Técnicas de ingeniería de contexto |
-| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | Patrón de Habilidad del Sistema (habilidades que recuerdan y mejoran) |
-| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Clonación mental con habilidades LLM |
-
-#### Avanzado e Investigación
-
-| Habilidad | Descripción |
-|------|------|
 | [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Técnicas de ingeniería de contexto |
 | [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | Patrón de Habilidad del Sistema (habilidades que recuerdan y mejoran) |
 | [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Clonación mental con habilidades LLM |
@@ -259,6 +245,37 @@ cp -r skill-name ~/.claude/skills/
 
 La habilidad se carga automáticamente y se activa cuando es relevante.
 
+### Usando Habilidades en Codex
+
+**Crear una habilidad:**
+
+Usa la habilidad integrada `$skill-creator` en Codex. Describe lo que quieres que haga tu habilidad, y Codex la creará por ti.
+
+Si instalas `$create-plan` (experimental) con `$skill-installer create-plan`, Codex creará un plan antes de escribir archivos.
+
+También puedes crear una habilidad manualmente creando una carpeta con un archivo `SKILL.md`:
+
+````markdown
+---
+name: skill-name
+description: Descripción que ayuda a Codex a seleccionar la habilidad
+metadata:
+  short-description: Descripción opcional para el usuario
+---
+
+Instrucciones de la habilidad para que el agente Codex las siga al usar esta habilidad.
+````
+
+**Instalar nuevas habilidades:**
+
+Descarga habilidades desde GitHub usando la habilidad `$skill-installer`:
+
+```bash
+$skill-installer linear
+```
+
+También puedes indicar al instalador que descargue habilidades de otros repositorios. Después de instalar una habilidad, reinicia Codex para cargar las nuevas habilidades.
+
 ### Usando Habilidades en VS Code
 
 Las habilidades se almacenan en directorios con un archivo `SKILL.md`. VS Code soporta dos ubicaciones:
@@ -281,6 +298,62 @@ description: Descripción de lo que hace la habilidad y cuándo usarla
 # Instrucciones de la Habilidad
 
 Tus instrucciones detalladas, pautas y ejemplos van aquí...
+```
+
+### Usando Habilidades en Copilot CLI
+
+**Agregar habilidades a tu repositorio:**
+
+1. Crea un directorio `.github/skills` (las habilidades en `.claude/skills` también son compatibles)
+2. Crea un subdirectorio para tu habilidad (ej. `.github/skills/webapp-testing`)
+3. Crea un archivo `SKILL.md` con las instrucciones de tu habilidad
+
+**Estructura de SKILL.md:**
+
+- `name` (requerido): Un identificador único en minúsculas usando guiones para espacios
+- `description` (requerido): Qué hace la habilidad y cuándo Copilot debe usarla
+- `license` (opcional): Licencia que se aplica a esta habilidad
+- Cuerpo en Markdown con instrucciones, ejemplos y pautas
+
+**Ejemplo de SKILL.md:**
+
+````markdown
+---
+name: github-actions-failure-debugging
+description: Guía para depurar flujos de trabajo fallidos de GitHub Actions.
+---
+
+Para depurar flujos de trabajo fallidos de GitHub Actions:
+
+1. Usa `list_workflow_runs` para buscar ejecuciones recientes del flujo de trabajo
+2. Usa `summarize_job_log_failures` para obtener un resumen de IA de los trabajos fallidos
+3. Usa `get_job_logs` para registros detallados de fallas si es necesario
+4. Intenta reproducir la falla en tu entorno
+5. Corrige la compilación fallida
+````
+
+Cuando realiza tareas, Copilot decide cuándo usar habilidades basándose en tu prompt y la descripción de la habilidad. El archivo `SKILL.md` se inyecta en el contexto del agente.
+
+### Usando Servidores MCP (Claude Desktop)
+
+Edita tu archivo de configuración:
+- **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+
+Ejemplo de configuración:
+```json
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/username/Desktop"
+      ]
+    }
+  }
+}
 ```
 
 ---
@@ -325,6 +398,29 @@ Descripción detallada del propósito de la habilidad.
 [Ejemplos del mundo real]
 ```
 
+### Ejemplo de Servidor MCP (Python)
+
+Para habilidades que necesitan conectarse a fuentes de datos externas, puedes crear un servidor MCP:
+
+```bash
+pip install fastmcp
+```
+
+server.py:
+```python
+from fastmcp import FastMCP
+
+mcp = FastMCP("My Server")
+
+@mcp.tool()
+def hello_world(name: str = "World") -> str:
+    """A simple tool that says hello."""
+    return f"Hello, {name}!"
+
+if __name__ == "__main__":
+    mcp.run()
+```
+
 ---
 
 ## Recursos de la Comunidad
@@ -334,6 +430,10 @@ Descripción detallada del propósito de la habilidad.
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Obtener resúmenes de Wikipedia
 - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Ejecutar código Python
 - [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - Cómo usar el decorador `@tool`
+
+### Artículos e Investigación
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - Análisis de riesgos de privacidad en IA
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - Guía de optimización de costos para arquitecturas RAG
 
 ---
 
@@ -355,23 +455,34 @@ Hacen cosas diferentes y funcionan muy bien juntas:
 
 ### ¿Qué herramientas de IA soportan Agent Skills?
 
-Actualmente soportadas: **Claude** (Claude.ai y Claude Code), **GitHub Copilot**, **VS Code**, y otras. La lista está creciendo a medida que más herramientas adoptan el estándar.
+Actualmente soportadas: **Claude** (Claude.ai y Claude Code), **GitHub Copilot**, **VS Code**, **Codex** (OpenAI), **Antigravity** (Google), **Gemini CLI** y **Kiro**. La lista está creciendo a medida que más herramientas adoptan el estándar.
 
 ### ¿Las Agent Skills ejecutan código?
 
 No. Las habilidades son solo instrucciones de texto, la IA las lee y las sigue como una receta. Si necesitas ejecutar código real, usarías algo como servidores MCP junto con las habilidades.
 
+### ¿Cómo creo mi primera Agent Skill?
+
+1. Crea un archivo `SKILL.md` con un nombre y una descripción en la parte superior
+2. Escribe instrucciones claras paso a paso en el archivo
+3. Colócalo en tu carpeta `.github/skills/` o `.claude/skills/`
+4. ¡Pruébalo!
+
+Guía completa: [Cómo crear habilidades personalizadas](https://support.claude.com/en/articles/12512198-creating-custom-skills)
+
 ---
 
 ## Contribuyendo
 
-Este repositorio sigue el modelo de desarrollo abierto de Agent Skills. Las contribuciones son bienvenidas desde el ecosistema más amplio. Al contribuir:
+Las contribuciones son bienvenidas. Consulta **[CONTRIBUTING.md](CONTRIBUTING.md)** para las directrices completas.
 
+Resumen rápido:
 - Sigue la estructura de la plantilla de habilidades
 - Proporciona instrucciones claras y accionables
 - Incluye ejemplos funcionales donde sea apropiado
 - Documenta las compensaciones y problemas potenciales
 - Mantén SKILL.md por debajo de 500 líneas para un rendimiento óptimo
+- Verifica que las habilidades existan realmente antes de agregarlas
 
 ---
 
