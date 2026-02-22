@@ -124,6 +124,8 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 암호화폐, Web3 및 블록체인 스킬 |
 | [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18개 Go-to-Market 스킬: 가격, 아웃바운드, SEO, 광고, 리텐션, 운영 |
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24개 제품 관리 스킬: 발견, 정의, 전달, 최적화 포함 |
+| [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI 위임 (Jules, Manus, Deep Research) 및 데이터베이스 스킬 |
+| [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Base 체인의 AI 에이전트용 크라우드펀딩 — 마일스톤 에스크로 |
 
 #### 문서 처리
 
@@ -178,14 +180,6 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 코드 구현 계획 평가 |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 실패한 테스트 감지 및 수정 제안 |
 
-#### 협업 및 프로젝트 관리
-
-| 스킬 | 설명 |
-|------|------|
-| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | git 작업 및 저장소 상호 작용 자동화 |
-| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 코드 구현 계획 평가 |
-| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 실패하는 테스트 감지 및 수정 제안 |
-
 #### 보안 및 시스템
 
 | 스킬 | 설명 |
@@ -196,14 +190,6 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | 에이전트용 보안 EVM 지갑 — 전송, 스왑, 트랜잭션 |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | 에이전트용 Polymarket 예측 시장 거래 |
 | [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AI 에이전트 커널 수준 거버넌스 — 결정적 정책 실행, 규정 준수 검사, 감사 로깅 |
-
-#### 고급 및 연구
-
-| 스킬 | 설명 |
-|------|------|
-| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 컨텍스트 엔지니어링 기술 |
-| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 시스템 스킬 패턴 (기억하고 개선하는 스킬) |
-| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLM 스킬을 이용한 마인드 클로닝 |
 
 #### 고급 및 연구
 
@@ -259,6 +245,37 @@ cp -r skill-name ~/.claude/skills/
 
 스킬은 자동으로 로드되며 관련이 있을 때 활성화됩니다.
 
+### Codex에서 스킬 사용
+
+**스킬 만들기:**
+
+Codex의 내장 `$skill-creator` 스킬을 사용하세요. 스킬이 무엇을 하길 원하는지 설명하면 Codex가 자동으로 생성합니다.
+
+`$skill-installer create-plan`으로 `$create-plan`(실험적)을 설치하면, Codex가 파일을 작성하기 전에 계획을 생성합니다.
+
+폴더와 `SKILL.md` 파일을 만들어 수동으로 스킬을 생성할 수도 있습니다:
+
+````markdown
+---
+name: skill-name
+description: Codex가 스킬을 선택하는 데 도움이 되는 설명
+metadata:
+  short-description: 선택적 사용자 대상 설명
+---
+
+이 스킬을 사용할 때 Codex 에이전트가 따를 스킬 지침.
+````
+
+**새 스킬 설치:**
+
+`$skill-installer` 스킬을 사용하여 GitHub에서 스킬을 다운로드합니다:
+
+```bash
+$skill-installer linear
+```
+
+설치 프로그램에 다른 리포지토리에서 스킬을 다운로드하도록 지시할 수도 있습니다. 스킬을 설치한 후 새 스킬을 로드하려면 Codex를 다시 시작하세요.
+
 ### VS Code에서 스킬 사용하기
 
 스킬은 `SKILL.md` 파일이 포함된 디렉터리에 저장됩니다. VS Code는 두 위치를 지원합니다:
@@ -281,6 +298,64 @@ description: 스킬의 기능과 사용 시기에 대한 설명
 # 스킬 지침
 
 자세한 지침, 가이드라인 및 예제는 여기에...
+```
+
+4. 선택 사항으로 스킬 디렉터리에 스크립트, 예제 또는 기타 리소스를 추가합니다.
+
+### Copilot CLI에서 스킬 사용
+
+**리포지토리에 스킬 추가하기:**
+
+1. `.github/skills` 디렉토리를 만듭니다 (`.claude/skills`의 스킬도 지원됩니다)
+2. 스킬용 하위 디렉토리를 만듭니다 (예: `.github/skills/webapp-testing`)
+3. 스킬 지침이 포함된 `SKILL.md` 파일을 만듭니다
+
+**SKILL.md 구조:**
+
+- `name` (필수): 공백 대신 하이픈을 사용하는 고유한 소문자 식별자
+- `description` (필수): 스킬이 하는 일과 Copilot이 언제 사용해야 하는지
+- `license` (선택): 이 스킬에 적용되는 라이선스
+- 지침, 예제, 가이드라인이 포함된 Markdown 본문
+
+**SKILL.md 예제:**
+
+````markdown
+---
+name: github-actions-failure-debugging
+description: 실패한 GitHub Actions 워크플로우 디버깅 가이드.
+---
+
+실패한 GitHub Actions 워크플로우를 디버깅하려면:
+
+1. `list_workflow_runs`를 사용하여 최근 워크플로우 실행을 조회
+2. `summarize_job_log_failures`를 사용하여 실패한 작업의 AI 요약을 가져옴
+3. 필요한 경우 `get_job_logs`로 상세 실패 로그를 가져옴
+4. 환경에서 실패를 재현해 봄
+5. 실패한 빌드를 수정
+````
+
+작업을 수행할 때 Copilot은 프롬프트와 스킬 설명을 기반으로 스킬 사용 시점을 결정합니다. `SKILL.md` 파일은 에이전트의 컨텍스트에 주입됩니다.
+
+### MCP 서버 사용 (Claude Desktop)
+
+설정 파일을 편집합니다:
+- **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+
+설정 예시:
+```json
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/username/Desktop"
+      ]
+    }
+  }
+}
 ```
 
 ---
@@ -325,6 +400,29 @@ description: 이 스킬이 하는 일에 대한 명확한 설명.
 [실제 예제]
 ```
 
+### MCP 서버 예제 (Python)
+
+외부 데이터 소스에 연결해야 하는 스킬의 경우 MCP 서버를 만들 수 있습니다:
+
+```bash
+pip install fastmcp
+```
+
+server.py:
+```python
+from fastmcp import FastMCP
+
+mcp = FastMCP("My Server")
+
+@mcp.tool()
+def hello_world(name: str = "World") -> str:
+    """A simple tool that says hello."""
+    return f"Hello, {name}!"
+
+if __name__ == "__main__":
+    mcp.run()
+```
+
 ---
 
 ## 커뮤니티 리소스
@@ -334,6 +432,10 @@ description: 이 스킬이 하는 일에 대한 명확한 설명.
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Wikipedia에서 요약 가져오기
 - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Python 코드 실행
 - [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - `@tool` 데코레이터 사용 지침
+
+### 기사 및 연구
+- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - AI의 개인정보 위험 분석
+- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - RAG 아키텍처 비용 최적화 가이드
 
 ---
 
@@ -355,23 +457,34 @@ Agent Skills는 AI 비서에게 특정 작업을 수행하는 방법을 가르�
 
 ### 어떤 AI 도구가 Agent Skills를 지원하나요?
 
-현재 지원되는 도구는 **Claude**(Claude.ai 및 Claude Code), **GitHub Copilot**, **VS Code** 등입니다. 표준을 채택하는 도구가 늘어남에 따라 목록이 확장되고 있습니다.
+현재 지원: **Claude** (Claude.ai 및 Claude Code), **GitHub Copilot**, **VS Code**, **Codex** (OpenAI), **Antigravity** (Google), **Gemini CLI**, **Kiro**. 더 많은 도구가 표준을 채택함에 따라 목록이 계속 늘어나고 있습니다.
 
 ### Agent Skills는 코드를 실행하나요?
 
 아니요. 스킬은 단순한 텍스트 지침이며 AI는 이를 레시피처럼 읽고 따릅니다. 실제 코드를 실행해야 하는 경우 스킬과 함께 MCP 서버 등을 사용합니다.
 
+### 첫 번째 Agent Skill은 어떻게 만드나요?
+
+1. `SKILL.md` 파일을 만들고 상단에 이름과 설명을 작성합니다
+2. 파일에 명확한 단계별 지침을 작성합니다
+3. `.github/skills/` 또는 `.claude/skills/` 폴더에 넣습니다
+4. 테스트해 보세요!
+
+전체 가이드: [커스텀 스킬 만드는 방법](https://support.claude.com/en/articles/12512198-creating-custom-skills)
+
 ---
 
 ## 기여하기
 
-이 저장소는 Agent Skills 개방형 개발 모델을 따릅니다. 더 넓은 생태계의 기여를 환영합니다. 기여할 때:
+기여를 환영합니다. 전체 가이드라인은 **[CONTRIBUTING.md](CONTRIBUTING.md)**를 참조하세요.
 
-- 스킬 템플릿 구조를 따르세요.
-- 명확하고 실행 가능한 지침을 제공하세요.
-- 적절한 경우 작동하는 예제를 포함하세요.
-- 장단점과 잠재적인 문제를 문서화하세요.
-- 최적의 성능을 위해 SKILL.md를 500줄 미만으로 유지하세요.
+빠른 요약:
+- 스킬 템플릿 구조를 따르세요
+- 명확하고 실행 가능한 지침을 제공하세요
+- 적절한 경우 작동하는 예제를 포함하세요
+- 트레이드오프와 잠재적 문제를 문서화하세요
+- 최적의 성능을 위해 SKILL.md를 500줄 이하로 유지하세요
+- 추가하기 전에 스킬이 실제로 존재하는지 확인하세요
 
 ---
 
