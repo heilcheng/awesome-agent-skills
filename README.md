@@ -138,6 +138,7 @@ Community-maintained skills and collections (verify before use):
 | [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
 | [Stream Coding](https://github.com/frmoretto/stream-coding) | Stream Coding methodology |
 | [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Apple-authored SwiftUI and platform guidance extracted from Xcode |
+| [Syntropic](https://github.com/petercholford-ship-it/syntropic-cli) | Development methodology skill scaffolding via `npx syntropic init` — Evergreen Rules, generic agents, multi-tool support (Claude Code, Cursor, Windsurf, Copilot, Codex) |
 
 #### Data & Analysis
 
