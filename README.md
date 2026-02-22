@@ -140,6 +140,7 @@ Community-maintained skills and collections (verify before use):
 | [Stream Coding](https://github.com/frmoretto/stream-coding) | Stream Coding methodology |
 | [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Apple-authored SwiftUI and platform guidance extracted from Xcode |
 | [Tool Advisor](https://github.com/dragon1086/claude-skills) | Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns |
+| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Pressure-test spec documents with LLM reasoning before writing code |
 
 #### Data & Analysis
 
