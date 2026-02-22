@@ -138,6 +138,7 @@ Community-maintained skills and collections (verify before use):
 | [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
 | [Stream Coding](https://github.com/frmoretto/stream-coding) | Stream Coding methodology |
 | [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Apple-authored SwiftUI and platform guidance extracted from Xcode |
+| [Mantra](https://mantra.gonewx.com) | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
 
 #### Data & Analysis
 
