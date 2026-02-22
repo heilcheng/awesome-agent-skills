@@ -57,6 +57,8 @@ Las siguientes plataformas tienen soporte documentado para Agent Skills:
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
+| Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 
 ---
 
@@ -107,7 +109,20 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [openai/skills](https://github.com/openai/skills) | Catálogo oficial de habilidades de OpenAI Codex |
 | [huggingface/skills](https://github.com/huggingface/skills) | Habilidades de HuggingFace (compatible con Claude, Codex, Gemini) |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | Colección de SkillCreator.ai con instalador CLI |
+| [agentskill.sh](https://agentskill.sh) | Directorio de 44k+ habilidades con escaneo de seguridad e instalador `/learn` |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | Más de 50 habilidades verificadas para Claude Code y Claude.ai |
+| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | Habilidades para capacidades especializadas |
+| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | Habilidades de colaboración multi-agente |
+| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Integración de Pydantic AI |
+| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | Habilidades para el framework DSPy |
+| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | Colección curada de Claude Agent Skills |
+| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Habilidades de la librería de agentes Freeact |
+| [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | CLI estilo npm para habilidades (`brew install dmgrok/tap/skills`) — agrega 177+ habilidades de 24 proveedores |
+| [gotalab/skillport](https://github.com/gotalab/skillport) | Distribución de habilidades vía CLI o MCP |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Habilidades de Git, revisión de código y testing |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | Habilidades de criptomonedas, Web3 y blockchain |
+| [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 habilidades go-to-market: precios, outbound, SEO, anuncios, retención y operaciones |
+| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 habilidades de gestión de producto: descubrimiento, definición, entrega y optimización |
 
 #### Procesamiento de Documentos
 
@@ -123,27 +138,63 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | Gráficos D3 y visualizaciones de datos interactivas |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Automatización del navegador para probar aplicaciones web |
 | [Specrate](https://github.com/rickygao/specrate) | Gestiona especificaciones y cambios con un flujo de trabajo estructurado |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Guía de plataforma y SwiftUI creada por Apple extraída de Xcode |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | Interactuar con el Simulador de iOS para pruebas |
+| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Guía de migración de Swift Concurrency |
+| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Desarrollo de plugins para Obsidian.md |
+| [Stream Coding](https://github.com/frmoretto/stream-coding) | Metodología de Stream Coding |
+| [Tool Advisor](https://github.com/dragon1086/claude-skills) | Analiza prompts y recomienda herramientas, habilidades, agentes y patrones de orquestación óptimos |
+| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Prueba de estrés de documentos de especificación con razonamiento LLM antes de escribir código |
+| [Mantra](https://mantra.gonewx.com) | Gestión de sesiones de codificación AI — guardar, restaurar y viajar en el tiempo en sesiones de Claude Code, Cursor y Windsurf |
 
 #### Datos y Análisis
 
 | Habilidad | Descripción |
 |------|------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analizar archivos CSV y generar insights con visualizaciones |
+| [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | Integración completa de Kaggle — configuración de cuenta, informes de competencias, descarga de datasets/modelos, ejecución de notebooks, envíos y colección de insignias |
 
 #### Integración y Automatización
 
 | Habilidad | Descripción |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Capacidad de navegador web para agentes |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Patrones de servidor MCP nativos de borde para RAG en producción |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Gestiona agentes de IA CLI locales vía tmux (iniciar/parar/monitorear/asignar + programación cron) |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | Descubrimiento de agentes de IA vía Registry Broker - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Automatización CLI de Google Sheets |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | Enviar notificaciones de mensajes para flujos de trabajo de agentes |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Integración de API de Spotify |
+| [AgentStore](https://github.com/techgangboss/agentstore) | Marketplace de plugins de código abierto con pagos USDC sin gas, instalación CLI y API de publicación de 3 campos |
+| [Transloadit Skills](https://github.com/transloadit/skills) | Procesamiento de medios: codificación de video, manipulación de imágenes, OCR y 86+ Robots |
+| [commune](https://github.com/shanjairaj7/commune-skill) | Bandeja de correo nativa para agentes — dirección permanente @commune.ai con envío/recepción completo, búsqueda semántica, triaje y webhooks |
+
+#### Colaboración y Gestión de Proyectos
+
+| Habilidad | Descripción |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Automatizar operaciones git e interacciones con repositorios |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluar planes de implementación de código |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detectar pruebas fallidas y proponer correcciones |
 
 #### Seguridad y Sistemas
 
 | Habilidad | Descripción |
 |------|------|
+| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | Análisis e investigación de informática forense digital |
+| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) | Alternativa moderna de cifrado a GPG/PGP con soporte post-cuántico, autenticación componible y comunicación agente a agente |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Caza de amenazas usando reglas de detección Sigma |
+| [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | Wallet EVM seguro para agentes — transferencias, intercambios y transacciones |
+| [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Trading en mercados de predicción Polymarket para agentes |
+| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Gobernanza a nivel de kernel para agentes de IA — aplicación determinista de políticas, verificación de cumplimiento, registro de auditoría |
+
+#### Avanzado e Investigación
+
+| Habilidad | Descripción |
+|-----------|-------------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Técnicas de ingeniería de contexto |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | Patrón de Habilidad del Sistema (habilidades que recuerdan y mejoran) |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Clonación mental con habilidades LLM |
 
 ---
 
@@ -171,6 +222,15 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 1. Haz clic en el icono de habilidad en tu interfaz de chat.
 2. Añade habilidades desde el mercado o sube habilidades personalizadas.
 3. Claude activa automáticamente las habilidades relevantes según tu tarea.
+
+### Usando Habilidades en Google Antigravity
+
+Antigravity soporta dos tipos de habilidades:
+
+*   **Workspace Skills**: Habilidades específicas del proyecto ubicadas en `/.agent/skills/`
+*   **Global Skills**: Habilidades globales del usuario ubicadas en `~/.gemini/antigravity/skills`
+
+Para más detalles, consulta la [documentación oficial](https://antigravity.google/docs/skills).
 
 ### Usando Habilidades en Claude Code
 Coloca la habilidad en tu directorio de configuración:
@@ -247,6 +307,16 @@ Descripción detallada del propósito de la habilidad.
 
 [Ejemplos del mundo real]
 ```
+
+---
+
+## Recursos de la Comunidad
+
+### Herramientas LangChain
+- [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - Envoltorio alrededor de SerpApi
+- [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Obtener resúmenes de Wikipedia
+- [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Ejecutar código Python
+- [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - Cómo usar el decorador `@tool`
 
 ---
 

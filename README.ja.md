@@ -57,6 +57,8 @@ AI・コーディング・エージェントのためのスキル、ツール、
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
 | GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
+| Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 
 ---
 
@@ -107,7 +109,20 @@ Codexは異なるスコープのスキルをサポートしています：
 | [openai/skills](https://github.com/openai/skills) | 公式OpenAI Codexスキルカタログ |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFaceスキル（Claude, Codex, Gemini互換）|
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.aiコレクション（CLIインストーラー付き）|
+| [agentskill.sh](https://agentskill.sh) | 44k+のスキルディレクトリ、セキュリティスキャンと`/learn`インストーラー付き |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | Claude CodeおよびClaude.ai向けの50以上の検証済みスキル |
+| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 専門的な機能のためのスキル |
+| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | マルチエージェントコラボレーションスキル |
+| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Pydantic AI統合 |
+| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | DSPyフレームワーク向けスキル |
+| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | 厳選されたClaude Agent Skillsコレクション |
+| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeactエージェントライブラリスキル |
+| [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | npm風スキルCLI（`brew install dmgrok/tap/skills`）— 24プロバイダーから177以上のスキルを集約 |
+| [gotalab/skillport](https://github.com/gotalab/skillport) | CLIまたはMCPによるスキル配布 |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git、コードレビュー、テストスキル |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 暗号通貨、Web3、ブロックチェーンスキル |
+| [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18のGo-To-Marketスキル：価格設定、アウトバウンド、SEO、広告、リテンション、オペレーション |
+| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24のプロダクトマネジメントスキル：発見、定義、デリバリー、最適化をカバー |
 
 #### ドキュメント処理
 
@@ -123,27 +138,63 @@ Codexは異なるスコープのスキルをサポートしています：
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3チャートとインタラクティブなデータ視覚化 |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Webアプリテスト用のブラウザ自動化 |
 | [Specrate](https://github.com/rickygao/specrate) | 仕様（spec）と変更を構造化されたワークフローで管理 |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Xcodeから抽出されたApple作成のSwiftUIおよびプラットフォームガイダンス |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | テスト用iOSシミュレーターとの連携 |
+| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift Concurrency移行ガイド |
+| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.mdプラグイン開発 |
+| [Stream Coding](https://github.com/frmoretto/stream-coding) | ストリームコーディング手法 |
+| [Tool Advisor](https://github.com/dragon1086/claude-skills) | プロンプトを分析し、最適なツール、スキル、エージェント、オーケストレーションパターンを推奨 |
+| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | コードを書く前にLLM推論で仕様書を圧力テスト |
+| [Mantra](https://mantra.gonewx.com) | AIコーディングセッション管理 — Claude Code、Cursor、Windsurfセッションの保存・復元・タイムトラベル |
 
 #### データ・分析
 
 | スキル | 説明 |
 |------|------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | CSVファイルを分析し、視覚化を伴う洞察を生成 |
+| [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | 完全なKaggle統合 — アカウント設定、コンペレポート、データセット/モデルダウンロード、ノートブック実行、提出、バッジ収集 |
 
 #### 統合・自動化
 
 | スキル | 説明 |
 |------|------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | エージェント向けWebブラウザ機能 |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | 本番RAG向けのエッジネイティブMCPサーバーパターン |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | tmux経由でのローカルCLI AIエージェントの管理（開始/停止/監視/割り当て + cronスケジューリング） |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | Registry Broker経由のAIエージェント検出 - /hol-search, /hol-resolve, /hol-chat |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI自動化 |
 | [Notification Skill](https://github.com/caopulan/Notification-Skill) | エージェントのワークフロー向けにメッセージ通知を送信 |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API統合 |
+| [AgentStore](https://github.com/techgangboss/agentstore) | オープンソースプラグインマーケットプレイス、ガスレスUSDC決済、CLIインストール、3フィールド公開API |
+| [Transloadit Skills](https://github.com/transloadit/skills) | メディア処理：動画エンコード、画像加工、OCR、86以上のRobots |
+| [commune](https://github.com/shanjairaj7/commune-skill) | エージェントネイティブメール受信箱 — 永続的な@commune.aiアドレス、完全な送受信、セマンティック検索、トリアージ、Webhook |
+
+#### コラボレーション・プロジェクト管理
+
+| スキル | 説明 |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Git操作とリポジトリ連携の自動化 |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | コード実装プランの評価 |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 失敗テストの検出と修正案の提示 |
 
 #### セキュリティ・システム
 
 | スキル | 説明 |
 |------|------|
+| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | デジタルフォレンジック分析・調査 |
+| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) | GPG/PGPに代わる現代的暗号化、ポスト量子対応、組み合わせ可能な認証、エージェント間通信 |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Sigma検出ルールを使用した脅威ハンティング |
+| [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | エージェント用セキュアEVMウォレット — 送金、スワップ、トランザクション |
+| [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | エージェント用Polymarket予測市場取引 |
+| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AIエージェントのカーネルレベルガバナンス — 決定的ポリシー実行、コンプライアンスチェック、監査ログ |
+
+#### 上級・研究
+
+| スキル | 説明 |
+|--------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | コンテキストエンジニアリング技術 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | システムスキルパターン（記憶し改善するスキル） |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLMスキルによるマインドクローニング |
 
 ---
 
@@ -171,6 +222,15 @@ Codexは異なるスコープのスキルをサポートしています：
 1. チャットインターフェースのスキルアイコンをクリックします。
 2. マーケットプレイスからスキルを追加するか、カスタムスキルをアップロードします。
 3. Claudeはタスクに基づいて関連するスキルを自動的にアクティブにします。
+
+### Google Antigravityでのスキルの使用
+
+Antigravityは2種類のスキルをサポートしています：
+
+*   **Workspace Skills**: `/.agent/skills/`にあるプロジェクト固有のスキル
+*   **Global Skills**: `~/.gemini/antigravity/skills`にあるユーザー全体のスキル
+
+詳細は[公式ドキュメント](https://antigravity.google/docs/skills)を参照してください。
 
 ### Claude Codeでのスキルの使用
 設定ディレクトリにスキルを配置します：
@@ -247,6 +307,16 @@ description: このスキルが何をするか明確な説明。
 
 [実際の例]
 ```
+
+---
+
+## コミュニティリソース
+
+### LangChainツール
+- [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - SerpApiのラッパー
+- [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Wikipediaから要約を取得
+- [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Pythonコードを実行
+- [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - `@tool`デコレーターの使用方法
 
 ---
 
