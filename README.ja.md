@@ -59,6 +59,7 @@ AI・コーディング・エージェントのためのスキル、ツール、
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
+| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 
 ---
 
@@ -177,6 +178,14 @@ Codexは異なるスコープのスキルをサポートしています：
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | コード実装プランの評価 |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 失敗テストの検出と修正案の提示 |
 
+#### コラボレーションとプロジェクト管理
+
+| スキル | 説明 |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | git操作とリポジトリ対話を自動化 |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | コード実装計画を評価 |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 失敗したテストを検出し、修正を提案 |
+
 #### セキュリティ・システム
 
 | スキル | 説明 |
@@ -192,6 +201,14 @@ Codexは異なるスコープのスキルをサポートしています：
 
 | スキル | 説明 |
 |--------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | コンテキストエンジニアリング技術 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | システムスキルパターン（記憶し改善するスキル） |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLMスキルによるマインドクローニング |
+
+#### 高度な研究
+
+| スキル | 説明 |
+|------|------|
 | [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | コンテキストエンジニアリング技術 |
 | [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | システムスキルパターン（記憶し改善するスキル） |
 | [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLMスキルによるマインドクローニング |

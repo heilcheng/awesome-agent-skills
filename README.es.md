@@ -59,6 +59,7 @@ Las siguientes plataformas tienen soporte documentado para Agent Skills:
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
+| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 
 ---
 
@@ -177,6 +178,14 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluar planes de implementación de código |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detectar pruebas fallidas y proponer correcciones |
 
+#### Colaboración y Gestión de Proyectos
+
+| Habilidad | Descripción |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Automatizar operaciones git e interacciones con el repositorio |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluar planes de implementación de código |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detectar pruebas fallidas y proponer correcciones |
+
 #### Seguridad y Sistemas
 
 | Habilidad | Descripción |
@@ -192,6 +201,14 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 
 | Habilidad | Descripción |
 |-----------|-------------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Técnicas de ingeniería de contexto |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | Patrón de Habilidad del Sistema (habilidades que recuerdan y mejoran) |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Clonación mental con habilidades LLM |
+
+#### Avanzado e Investigación
+
+| Habilidad | Descripción |
+|------|------|
 | [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Técnicas de ingeniería de contexto |
 | [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | Patrón de Habilidad del Sistema (habilidades que recuerdan y mejoran) |
 | [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Clonación mental con habilidades LLM |

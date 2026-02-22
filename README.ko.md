@@ -59,6 +59,7 @@ AI 코딩 에이전트를 위한 엄선된 기술, 도구 및 기능 목록입�
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
+| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 
 ---
 
@@ -177,6 +178,14 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 코드 구현 계획 평가 |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 실패한 테스트 감지 및 수정 제안 |
 
+#### 협업 및 프로젝트 관리
+
+| 스킬 | 설명 |
+|------|------|
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | git 작업 및 저장소 상호 작용 자동화 |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 코드 구현 계획 평가 |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 실패하는 테스트 감지 및 수정 제안 |
+
 #### 보안 및 시스템
 
 | 스킬 | 설명 |
@@ -187,6 +196,14 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | 에이전트용 보안 EVM 지갑 — 전송, 스왑, 트랜잭션 |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | 에이전트용 Polymarket 예측 시장 거래 |
 | [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AI 에이전트 커널 수준 거버넌스 — 결정적 정책 실행, 규정 준수 검사, 감사 로깅 |
+
+#### 고급 및 연구
+
+| 스킬 | 설명 |
+|------|------|
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 컨텍스트 엔지니어링 기술 |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 시스템 스킬 패턴 (기억하고 개선하는 스킬) |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | LLM 스킬을 이용한 마인드 클로닝 |
 
 #### 고급 및 연구
 
