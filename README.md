@@ -510,3 +510,5 @@ The principles in these skills are derived from research and production experien
 - [Claude Code Skills Documentation](https://code.claude.com/docs/en/skills)
 - [GitHub Copilot: About Agent Skills](https://docs.github.com/copilot/concepts/agents/about-agent-skills)
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/)
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
