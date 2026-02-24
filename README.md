@@ -149,6 +149,7 @@ Community-maintained skills and collections (verify before use):
 | [Tool Advisor](https://github.com/dragon1086/claude-skills) | Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns |
 | [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Pressure-test spec documents with LLM reasoning before writing code |
 | [Mantra](https://mantra.gonewx.com) | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
+| [AppDeploy](https://github.com/AppDeploy-AI/skills) | Deploy apps with frontend, backend, database, cron, file storage, AI capabilities, auth, and notifications and get a live URL back |
 
 #### Data & Analysis
 
