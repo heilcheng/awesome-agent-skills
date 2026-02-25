@@ -126,6 +126,7 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24개 제품 관리 스킬: 발견, 정의, 전달, 최적화 포함 |
 | [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI 위임 (Jules, Manus, Deep Research) 및 데이터베이스 스킬 |
 | [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Base 체인의 AI 에이전트용 크라우드펀딩 — 마일스톤 에스크로 |
+| [SSOJet/skill](https://github.com/ssojet/skills) | 프로덕션 환경에 바로 사용 가능한 SSOJet 스킬 및 인기 프레임워크와 플랫폼을 위한 통합 가이드: Node.js, Next.js, React, Java, .NET Core, Go, iOS, Android 등. SSOJet의 SAML, OIDC, 엔터프라이즈 SSO 플로우와 원활하게 연동됩니다. Cursor, Antigravity, Claude Code, Windsurf와 호환됩니다.|
 
 #### 문서 처리
 
