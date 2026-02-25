@@ -126,6 +126,7 @@ Codexは異なるスコープのスキルをサポートしています：
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24のプロダクトマネジメントスキル：発見、定義、デリバリー、最適化をカバー |
 | [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace（Gmail、Chat、Calendar、Docs、Drive、Sheets、Slides）、AI委任（Jules、Manus、Deep Research）、データベーススキル |
 | [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Baseチェーン上のAIエージェント向けクラウドファンディング — マイルストーンエスクロー |
+| [SSOJet/skill](https://github.com/ssojet/skills) | 本番環境対応のSSOJetスキルおよび、Node.js、Next.js、React、Java、.NET Core、Go、iOS、Android などの人気フレームワーク／プラットフォーム向け統合ガイド。SSOJet の SAML、OIDC、エンタープライズ SSO フローとシームレスに連携します。Cursor、Antigravity、Claude Code、Windsurf に対応。|
 
 #### ドキュメント処理
 

@@ -126,6 +126,7 @@ Habilidades y colecciones mantenidas por la comunidad (verificar antes de usar):
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 habilidades de gestión de producto: descubrimiento, definición, entrega y optimización |
 | [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), delegación de IA (Jules, Manus, Deep Research) y habilidades de bases de datos |
 | [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Crowdfunding para agentes de IA en cadena Base — custodia por hitos |
+| [SSOJet/skill](https://github.com/ssojet/skills) | Habilidades de SSOJet listas para producción y guías de integración para frameworks y plataformas populares: Node.js, Next.js, React, Java, .NET Core, Go, iOS, Android y más. Funciona sin problemas con SSOJet SAML, OIDC y flujos de SSO empresarial. Compatible con Cursor, Antigravity, Claude Code y Windsurf.|
 
 #### Procesamiento de Documentos
 

@@ -126,6 +126,7 @@ Codex 支持不同范围的技能：
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 项产品管理技能，涵盖发现、定义、交付和优化 |
 | [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace（Gmail、Chat、Calendar、Docs、Drive、Sheets、Slides）、AI 委托（Jules、Manus、Deep Research）和数据库技能 |
 | [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Base 链上 AI 代理的众筹 — 里程碑托管 |
+| [SSOJet/skill](https://github.com/ssojet/skills) | 生产级可用的 SSOJet 技能和集成指南，适用于主流框架和平台：Node.js、Next.js、React、Java、.NET Core、Go、iOS、Android 等。可与 SSOJet 的 SAML、OIDC 及企业级 SSO 流程无缝集成。兼容 Cursor、Antigravity、Claude Code 和 Windsurf。|
 
 #### 文档处理
 
