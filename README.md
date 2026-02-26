@@ -111,6 +111,7 @@ Community-maintained skills and collections (verify before use):
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai collection with CLI installer |
 | [agentskill.sh](https://agentskill.sh) | 44k+ skills directory with security scanning and `/learn` installer |
+| [TutuoAI](https://www.tutuoai.com/) | Agent-native marketplace for skills, tools, and workflow blueprints (machine-readable catalog). |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ verified skills for Claude Code and Claude.ai |
 | [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | Skills for specialized capabilities |
 | [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | Multi-agent collaboration skills |
