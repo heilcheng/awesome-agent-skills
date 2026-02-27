@@ -138,6 +138,7 @@ Community-maintained skills and collections (verify before use):
 | Skill | Description |
 |-------|-------------|
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS development with CDK best practices |
+| [cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor) | Health scanner and diagnostic tool for Cursor AI IDE configuration (.cursor/rules/ files). Scans for broken YAML frontmatter, rule conflicts, redundancies, missing alwaysApply, token budget issues, and stack coverage gaps |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Browser automation for testing web apps |
 | [Specrate](https://github.com/rickygao/specrate) | Manage specs and changes in a structured workflow |
