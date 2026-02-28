@@ -171,6 +171,7 @@ Community-maintained skills and collections (verify before use):
 | [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
 | [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
 | [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
+| [VMware-AIops](https://github.com/zw008/VMware-AIops) | AI-powered VMware vCenter/ESXi monitoring and operations: inventory queries, health/alarms, VM lifecycle, vSAN management, Aria Operations analytics. Supports Claude Code, Gemini CLI, Codex, Aider, Trae, Kimi, and MCP |
 
 #### Collaboration & Project Management
 
