@@ -149,6 +149,7 @@ Community-maintained skills and collections (verify before use):
 | [Tool Advisor](https://github.com/dragon1086/claude-skills) | Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns |
 | [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Pressure-test spec documents with LLM reasoning before writing code |
 | [Mantra](https://mantra.gonewx.com) | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
+| [rule-gen](https://github.com/nedcodes-ok/rule-gen) | Generate AI coding rules from your codebase using Google Gemini. Outputs rules for Cursor, Claude Code, Copilot, and Windsurf |
 
 #### Data & Analysis
 
