@@ -172,6 +172,8 @@ Community-maintained skills and collections (verify before use):
 | [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
 | [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
 
+| [meyhem-search](https://github.com/c5huracan/meyhem) | Agent-native web search with feedback-driven ranking via REST API and MCP server |
+
 #### Collaboration & Project Management
 
 | Skill | Description |
