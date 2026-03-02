@@ -156,6 +156,7 @@ Community-maintained skills and collections (verify before use):
 |-------|-------------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations |
 | [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection |
+| [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) | Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization |
 
 #### Integration & Automation
 
