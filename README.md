@@ -435,6 +435,7 @@ if __name__ == "__main__":
 ## Community Resources
 
 ### LangChain Tools
+- [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform for AI agents with MCP server support — provides managed Chromium instances via WebSocket/CDP with built-in proxy rotation and CAPTCHA solving.
 - [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - Wrapper around SerpApi
 - [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - Fetch summaries from Wikipedia
 - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - Execute Python code
