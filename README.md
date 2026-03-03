@@ -161,6 +161,7 @@ Community-maintained skills and collections (verify before use):
 
 | Skill | Description |
 |-------|-------------|
+| [SkillBoss AI Gateway](https://github.com/heeyo-life/skillboss-mcp) | Unified API gateway for 100+ AI services (Claude, GPT, Gemini, DALL-E, Midjourney, Runway, ElevenLabs). One API key, OpenAI-compatible MCP server |
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Web browser capability for agents |
 | [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Edge-native MCP server patterns for production RAG |
 | [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Manage local CLI AI agents via tmux (start/stop/monitor/assign + cron scheduling) |
