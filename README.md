@@ -481,6 +481,15 @@ Full guide: [How to create custom skills](https://support.claude.com/en/articles
 
 ---
 
+
+## Audio
+
+- [AudioMind](https://github.com/wells1137/skill-audiomind) - AI Podcast Studio for Manus agents. Orchestrates ElevenLabs TTS, AI background music, and server-side audio mixing. Free tier included.
+
+## Image Generation
+
+- [Imagen](https://github.com/wells1137/skill-imagen) - Image generation skill using Google Gemini API. Supports UI mockups, illustrations, icons, and concept art.
+
 ## Contributing
 
 Contributions are welcome. See **[CONTRIBUTING.md](CONTRIBUTING.md)** for full guidelines.
