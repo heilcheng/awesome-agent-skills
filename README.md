@@ -170,6 +170,7 @@ Community-maintained skills and collections (verify before use):
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
 | [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
 | [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
+| [Transition Design](https://github.com/wells1137/skills-gen/tree/main/skills/transition-design) | Video transition design — analyze boundary frames, compute handle constraints, and output frame-level transition instructions |
 | [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
 
 #### Collaboration & Project Management
