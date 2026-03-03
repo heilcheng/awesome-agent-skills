@@ -191,6 +191,14 @@ Community-maintained skills and collections (verify before use):
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents |
 | [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
 
+#### Blockchain & Bitcoin
+
+| Skill | Description |
+|-------|-------------|
+| [lightning-factory-explainer](https://github.com/8144225309/superscalar-mcp/tree/master/skills/lightning-factory-explainer) | Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeout-signature trees, MuSig2, and Taproot |
+| [lightning-channel-factories](https://github.com/8144225309/superscalar-mcp/tree/master/skills/lightning-channel-factories) | Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks |
+| [lightning-architecture-review](https://github.com/8144225309/superscalar-mcp/tree/master/skills/lightning-architecture-review) | Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs |
+
 #### Advanced & Research
 
 | Skill | Description |
