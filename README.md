@@ -179,6 +179,7 @@ Community-maintained skills and collections (verify before use):
 | [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Automate git operations and repository interactions |
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluate code implementation plans |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detect failing tests and propose fixes |
+| [Product Manager Skills](https://github.com/Digidai/product-manager-skills) | Senior PM agent with 6 knowledge domains, 30+ frameworks, 12 templates, and 32 SaaS metrics with formulas |
 
 #### Security & Systems
 
