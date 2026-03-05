@@ -171,6 +171,8 @@ Community-maintained skills and collections (verify before use):
 | [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
 | [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
 | [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
+| [playwright-skill](https://github.com/testdino-hq/playwright-skill) | 70+ structured Playwright testing skill for AI agents covering end-to-end tests, page object models, CI/CD setup, Cypress or Selenium migration, and CLI automation |
+
 
 #### Collaboration & Project Management
 
