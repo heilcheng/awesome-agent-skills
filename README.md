@@ -180,6 +180,14 @@ Community-maintained skills and collections (verify before use):
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluate code implementation plans |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detect failing tests and propose fixes |
 
+#### Freelance & Business
+
+| Skill | Description |
+|-------|-------------|
+| [freelancer-scope-guard](https://github.com/lilyTokens/googleworkspace-cli/tree/add-freelancer-scope-guard-skill/skills/freelancer-scope-guard) | Detect, log and enforce scope changes with clients via Gmail and Google Drive. Built for solo freelancers running AI agents. |
+| [ScopeShield](https://scopecreep-app.surge.sh) | Web app + AI skill for freelance scope creep tracking. Change order templates, client approval gates, scope log. |
+| [InvoiceChaser](https://invoicechaser-app.surge.sh) | Automated late payment follow-up. Stop losing hours chasing clients manually. |
+
 #### Security & Systems
 
 | Skill | Description |
