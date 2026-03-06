@@ -190,6 +190,7 @@ Community-maintained skills and collections (verify before use):
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | Secure EVM wallet for agent transfers, swaps, and transactions |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents |
 | [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
+| [AIP Identity](https://github.com/The-Nexus-Guard/aip) | Digital identity, authentication, and trust for AI agents — Ed25519 key pairs, DID-based verification, vouch chains, encrypted messaging, skill signing |
 
 #### Advanced & Research
 
