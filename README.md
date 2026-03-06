@@ -189,7 +189,7 @@ Community-maintained skills and collections (verify before use):
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Hunt for threats using Sigma detection rules |
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | Secure EVM wallet for agent transfers, swaps, and transactions |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents |
-| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
+| [Agent OS Governance](https://github.com/microsoft/agent-governance-toolkit) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
 
 #### Advanced & Research
 

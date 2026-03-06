@@ -189,7 +189,7 @@ Codexは異なるスコープのスキルをサポートしています：
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Sigma検出ルールを使用した脅威ハンティング |
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | エージェント用セキュアEVMウォレット — 送金、スワップ、トランザクション |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | エージェント用Polymarket予測市場取引 |
-| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AIエージェントのカーネルレベルガバナンス — 決定的ポリシー実行、コンプライアンスチェック、監査ログ |
+| [Agent OS Governance](https://github.com/microsoft/agent-governance-toolkit) | AIエージェントのカーネルレベルガバナンス — 決定的ポリシー実行、コンプライアンスチェック、監査ログ |
 
 #### 上級・研究
 

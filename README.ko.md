@@ -189,7 +189,7 @@ Codex는 다양한 범위의 스킬을 지원합니다:
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Sigma 탐지 규칙을 사용한 위협 사냥 |
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | 에이전트용 보안 EVM 지갑 — 전송, 스왑, 트랜잭션 |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | 에이전트용 Polymarket 예측 시장 거래 |
-| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AI 에이전트 커널 수준 거버넌스 — 결정적 정책 실행, 규정 준수 검사, 감사 로깅 |
+| [Agent OS Governance](https://github.com/microsoft/agent-governance-toolkit) | AI 에이전트 커널 수준 거버넌스 — 결정적 정책 실행, 규정 준수 검사, 감사 로깅 |
 
 #### 고급 및 연구
 

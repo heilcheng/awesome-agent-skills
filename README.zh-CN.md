@@ -189,7 +189,7 @@ Codex 支持不同范围的技能：
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | 使用 Sigma 检测规则进行威胁狩猎 |
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | 代理用安全 EVM 钱包，支持转账、交换和交易 |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | 代理用 Polymarket 预测市场交易 |
-| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AI 代理的内核级治理 — 确定性策略执行、合规检查、审计日志 |
+| [Agent OS Governance](https://github.com/microsoft/agent-governance-toolkit) | AI 代理的内核级治理 — 确定性策略执行、合规检查、审计日志 |
 
 #### 高级与研究
 
