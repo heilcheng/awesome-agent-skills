@@ -50,16 +50,16 @@ Skills are **instructions**, not code. The AI reads them like a human would read
 
 The following platforms have documented support for Agent Skills:
 
-| Agent | Documentation |
-|-------|---------------|
-| Claude Code | [code.claude.com/docs/en/skills](https://code.claude.com/docs/en/skills) |
-| Claude.ai | [support.claude.com](https://support.claude.com/en/articles/12512180-using-skills-in-claude) |
-| Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
-| GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills) |
-| VS Code | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
-| Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
-| Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
-| Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
+| Agent          | Documentation                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------- |
+| Claude Code    | [code.claude.com/docs/en/skills](https://code.claude.com/docs/en/skills)                       |
+| Claude.ai      | [support.claude.com](https://support.claude.com/en/articles/12512180-using-skills-in-claude)   |
+| Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills)                            |
+| GitHub Copilot | [docs.github.com](https://docs.github.com/copilot/concepts/agents/about-agent-skills)          |
+| VS Code        | [code.visualstudio.com](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
+| Antigravity    | [antigravity.google](https://antigravity.google/docs/skills)                                   |
+| Kiro           | [kiro.dev](https://kiro.dev/docs/skills/)                                                      |
+| Gemini CLI     | [geminicli.com](https://geminicli.com/docs/cli/skills/)                                        |
 
 ---
 
@@ -69,34 +69,34 @@ The following platforms have documented support for Agent Skills:
 
 Claude provides built-in skills for common document types:
 
-| Skill | Description | Source |
-|-------|-------------|--------|
-| docx | Create, edit, analyze Word documents with tracked changes | [anthropics/skills](https://github.com/anthropics/skills) |
-| xlsx | Spreadsheet manipulation: formulas, charts, data transformations | [anthropics/skills](https://github.com/anthropics/skills) |
-| pptx | Read, generate, and adjust slides, layouts, templates | [anthropics/skills](https://github.com/anthropics/skills) |
-| pdf | Extract text, tables, metadata from PDFs | [anthropics/skills](https://github.com/anthropics/skills) |
+| Skill | Description                                                      | Source                                                    |
+| ----- | ---------------------------------------------------------------- | --------------------------------------------------------- |
+| docx  | Create, edit, analyze Word documents with tracked changes        | [anthropics/skills](https://github.com/anthropics/skills) |
+| xlsx  | Spreadsheet manipulation: formulas, charts, data transformations | [anthropics/skills](https://github.com/anthropics/skills) |
+| pptx  | Read, generate, and adjust slides, layouts, templates            | [anthropics/skills](https://github.com/anthropics/skills) |
+| pdf   | Extract text, tables, metadata from PDFs                         | [anthropics/skills](https://github.com/anthropics/skills) |
 
 ### Official OpenAI Codex Skills
 
 Codex supports skills at different scopes:
 
-| Skill Scope | Location | Suggested Use |
-|-------------|----------|---------------|
-| REPO | `$CWD/.codex/skills` | Skills relevant to a working folder (e.g., microservice or module) |
-| REPO | `$CWD/../.codex/skills` | Skills for shared areas in parent folders |
-| REPO | `$REPO_ROOT/.codex/skills` | Root skills for everyone using the repository |
-| USER | `$CODEX_HOME/skills` (default: `~/.codex/skills`) | Personal skills that apply to any repository |
-| ADMIN | `/etc/codex/skills` | SDK scripts, automation, and default admin skills |
-| SYSTEM | Bundled with Codex | Built-in skills like skill-creator and plan |
+| Skill Scope | Location                                          | Suggested Use                                                      |
+| ----------- | ------------------------------------------------- | ------------------------------------------------------------------ |
+| REPO        | `$CWD/.codex/skills`                              | Skills relevant to a working folder (e.g., microservice or module) |
+| REPO        | `$CWD/../.codex/skills`                           | Skills for shared areas in parent folders                          |
+| REPO        | `$REPO_ROOT/.codex/skills`                        | Root skills for everyone using the repository                      |
+| USER        | `$CODEX_HOME/skills` (default: `~/.codex/skills`) | Personal skills that apply to any repository                       |
+| ADMIN       | `/etc/codex/skills`                               | SDK scripts, automation, and default admin skills                  |
+| SYSTEM      | Bundled with Codex                                | Built-in skills like skill-creator and plan                        |
 
 ### Official HuggingFace Skills
 
-| Skill | Description | Source |
-|-------|-------------|--------|
-| hf_dataset_creator | Prompts, templates, and scripts for creating structured training datasets | [huggingface/skills](https://github.com/huggingface/skills) |
+| Skill               | Description                                                                                            | Source                                                      |
+| ------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| hf_dataset_creator  | Prompts, templates, and scripts for creating structured training datasets                              | [huggingface/skills](https://github.com/huggingface/skills) |
 | hf_model_evaluation | Instructions plus utilities for orchestrating evaluation jobs, generating reports, and mapping metrics | [huggingface/skills](https://github.com/huggingface/skills) |
-| hf-llm-trainer | Comprehensive training skill with guidance, helper scripts, cost estimators | [huggingface/skills](https://github.com/huggingface/skills) |
-| hf-paper-publisher | Tools for publishing and managing research papers on Hugging Face Hub | [huggingface/skills](https://github.com/huggingface/skills) |
+| hf-llm-trainer      | Comprehensive training skill with guidance, helper scripts, cost estimators                            | [huggingface/skills](https://github.com/huggingface/skills) |
+| hf-paper-publisher  | Tools for publishing and managing research papers on Hugging Face Hub                                  | [huggingface/skills](https://github.com/huggingface/skills) |
 
 ### Community Skills
 
@@ -104,100 +104,101 @@ Community-maintained skills and collections (verify before use):
 
 #### Skill Collections
 
-| Repository | Description |
-|------------|-------------|
-| [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic collection (document editing, data analysis) |
-| [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
-| [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
-| [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai collection with CLI installer |
-| [agentskill.sh](https://agentskill.sh) | 44k+ skills directory with security scanning and `/learn` installer |
-| [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ verified skills for Claude Code and Claude.ai |
-| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | Skills for specialized capabilities |
-| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | Multi-agent collaboration skills |
-| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Pydantic AI integration |
-| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | Skills for DSPy framework |
-| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | Curated Claude Agent Skills collection |
-| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact agent library skills |
-| [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | npm-like CLI for skills (`brew install dmgrok/tap/skills`) - aggregates 177+ skills from 24 providers |
-| [gotalab/skillport](https://github.com/gotalab/skillport) | Skills distribution via CLI or MCP |
-| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
-| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) |  cryptocurrency, web3 and blockchain skills. |
-| [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops |
-| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 product management skills covering discovery, definition, delivery, and optimization |
-| [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills |
-| [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Crowdfunding for AI agents on Base chain - milestone escrow |
+| Repository                                                                                          | Description                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [anthropics/skills](https://github.com/anthropics/skills)                                           | Official Anthropic collection (document editing, data analysis)                                                                             |
+| [openai/skills](https://github.com/openai/skills)                                                   | Official OpenAI Codex skills catalog                                                                                                        |
+| [huggingface/skills](https://github.com/huggingface/skills)                                         | HuggingFace skills (compatible with Claude, Codex, Gemini)                                                                                  |
+| [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)                 | SkillCreator.ai collection with CLI installer                                                                                               |
+| [agentskill.sh](https://agentskill.sh)                                                              | 44k+ skills directory with security scanning and `/learn` installer                                                                         |
+| [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills)               | 50+ verified skills for Claude Code and Claude.ai                                                                                           |
+| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills)             | Skills for specialized capabilities                                                                                                         |
+| [GuDaStudio/skills](https://github.com/GuDaStudio/skills)                                           | Multi-agent collaboration skills                                                                                                            |
+| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills)                 | Pydantic AI integration                                                                                                                     |
+| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills)                                 | Skills for DSPy framework                                                                                                                   |
+| [hikanner/agent-skills](https://github.com/hikanner/agent-skills)                                   | Curated Claude Agent Skills collection                                                                                                      |
+| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills)                           | Freeact agent library skills                                                                                                                |
+| [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory)                   | npm-like CLI for skills (`brew install dmgrok/tap/skills`) - aggregates 177+ skills from 24 providers                                       |
+| [gotalab/skillport](https://github.com/gotalab/skillport)                                           | Skills distribution via CLI or MCP                                                                                                          |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills                                                                                                        |
+| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills)                                   | cryptocurrency, web3 and blockchain skills.                                                                                                 |
+| [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills)                         | 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops                                                                     |
+| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills)                     | 24 product management skills covering discovery, definition, delivery, and optimization                                                     |
+| [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills)                                     | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills     |
+| [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill)                     | Crowdfunding for AI agents on Base chain - milestone escrow                                                                                 |
+| [agent-ddd-engineering](https://github.com/lockp111/agent-ddd-engineering)                          | Domain-Driven Design (DDD) engineering practices and skills library tailored for AI-Native development to enforce architectural boundaries. |
 
 #### Document Processing
 
-| Skill | Description |
-|-------|-------------|
+| Skill                                                             | Description                                                    |
+| ----------------------------------------------------------------- | -------------------------------------------------------------- |
 | [Markdown to EPUB](https://github.com/smerchek/claude-epub-skill) | Converts markdown documents into professional EPUB ebook files |
 
 #### Development & Code Tools
 
-| Skill | Description |
-|-------|-------------|
-| [aws-skills](https://github.com/zxkane/aws-skills) | AWS development with CDK best practices |
-| [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations |
-| [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Browser automation for testing web apps |
-| [Specrate](https://github.com/rickygao/specrate) | Manage specs and changes in a structured workflow |
-| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | Interact with iOS Simulator for testing |
-| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift Concurrency Migration guide |
-| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
-| [Stream Coding](https://github.com/frmoretto/stream-coding) | Stream Coding methodology |
-| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | Apple-authored SwiftUI and platform guidance extracted from Xcode |
-| [Tool Advisor](https://github.com/dragon1086/claude-skills) | Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns |
-| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Pressure-test spec documents with LLM reasoning before writing code |
-| [Mantra](https://mantra.gonewx.com) | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
+| Skill                                                                                                         | Description                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [aws-skills](https://github.com/zxkane/aws-skills)                                                            | AWS development with CDK best practices                                                                          |
+| [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill)                                 | D3 charts and interactive data visualizations                                                                    |
+| [Playwright Automation](https://github.com/lackeyjb/playwright-skill)                                         | Browser automation for testing web apps                                                                          |
+| [Specrate](https://github.com/rickygao/specrate)                                                              | Manage specs and changes in a structured workflow                                                                |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill)                                            | Interact with iOS Simulator for testing                                                                          |
+| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift Concurrency Migration guide                                                                                |
+| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill)                                           | Obsidian.md plugin development                                                                                   |
+| [Stream Coding](https://github.com/frmoretto/stream-coding)                                                   | Stream Coding methodology                                                                                        |
+| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills)                                            | Apple-authored SwiftUI and platform guidance extracted from Xcode                                                |
+| [Tool Advisor](https://github.com/dragon1086/claude-skills)                                                   | Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns                        |
+| [Vibe Testing](https://github.com/knot0-com/vibe-testing)                                                     | Pressure-test spec documents with LLM reasoning before writing code                                              |
+| [Mantra](https://mantra.gonewx.com)                                                                           | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
 
 #### Data & Analysis
 
-| Skill | Description |
-|-------|-------------|
-| [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations |
-| [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection |
+| Skill                                                                                | Description                                                                                                                                      |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations                                                                                      |
+| [Kaggle Skill](https://github.com/shepsci/kaggle-skill)                              | Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection |
 
 #### Integration & Automation
 
-| Skill | Description |
-|-------|-------------|
-| [Dev Browser](https://github.com/SawyerHood/dev-browser) | Web browser capability for agents |
-| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Edge-native MCP server patterns for production RAG |
-| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Manage local CLI AI agents via tmux (start/stop/monitor/assign + cron scheduling) |
-| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | AI agent discovery via Registry Broker - /hol-search, /hol-resolve, /hol-chat |
-| [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI automation |
-| [Notification Skill](https://github.com/caopulan/Notification-Skill) | Send message notifications for agent workflows |
-| [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
-| [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
-| [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
-| [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
+| Skill                                                                      | Description                                                                                                            |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [Dev Browser](https://github.com/SawyerHood/dev-browser)                   | Web browser capability for agents                                                                                      |
+| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Edge-native MCP server patterns for production RAG                                                                     |
+| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill)     | Manage local CLI AI agents via tmux (start/stop/monitor/assign + cron scheduling)                                      |
+| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | AI agent discovery via Registry Broker - /hol-search, /hol-resolve, /hol-chat                                          |
+| [Sheets CLI](https://github.com/gmickel/sheets-cli)                        | Google Sheets CLI automation                                                                                           |
+| [Notification Skill](https://github.com/caopulan/Notification-Skill)       | Send message notifications for agent workflows                                                                         |
+| [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill)             | Spotify API integration                                                                                                |
+| [AgentStore](https://github.com/techgangboss/agentstore)                   | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API                     |
+| [Transloadit Skills](https://github.com/transloadit/skills)                | Media processing: video encoding, image manipulation, OCR, and 86+ Robots                                              |
+| [commune](https://github.com/shanjairaj7/commune-skill)                    | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
 
 #### Collaboration & Project Management
 
-| Skill | Description |
-|-------|-------------|
-| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Automate git operations and repository interactions |
-| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluate code implementation plans |
-| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detect failing tests and propose fixes |
+| Skill                                                                            | Description                                         |
+| -------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace)         | Automate git operations and repository interactions |
+| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluate code implementation plans                  |
+| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace)         | Detect failing tests and propose fixes              |
 
 #### Security & Systems
 
-| Skill | Description |
-|-------|-------------|
-| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | Digital forensics analysis and investigation |
-| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) | Modern encryption alternative to GPG/PGP with post-quantum support, composable authentication, and agent-to-agent communication |
-| [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Hunt for threats using Sigma detection rules |
-| [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | Secure EVM wallet for agent transfers, swaps, and transactions |
-| [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents |
-| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
+| Skill                                                                                    | Description                                                                                                                     |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace)          | Digital forensics analysis and investigation                                                                                    |
+| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill)           | Modern encryption alternative to GPG/PGP with post-quantum support, composable authentication, and agent-to-agent communication |
+| [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill)        | Hunt for threats using Sigma detection rules                                                                                    |
+| [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet)         | Secure EVM wallet for agent transfers, swaps, and transactions                                                                  |
+| [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents                                                                                 |
+| [Agent OS Governance](https://github.com/imran-siddique/agent-os)                        | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging                    |
 
 #### Advanced & Research
 
-| Skill | Description |
-|-------|-------------|
-| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Context engineering techniques |
-| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | System Skill Pattern (skills that remember & improve) |
-| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | Mind cloning with LLM skills |
+| Skill                                                                                         | Description                                           |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | Context engineering techniques                        |
+| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro)                                 | System Skill Pattern (skills that remember & improve) |
+| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering)                             | Mind cloning with LLM skills                          |
 
 ---
 
