@@ -171,6 +171,7 @@ Community-maintained skills and collections (verify before use):
 | [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
 | [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
 | [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
+| [steel-browser](https://github.com/steel-dev/cli/tree/main/skills/steel-browser) | Session-backed browser automation skill for web navigation, extraction, screenshots, and PDFs |
 
 #### Collaboration & Project Management
 
