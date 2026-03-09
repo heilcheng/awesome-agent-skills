@@ -495,6 +495,10 @@ Quick summary:
 
 ---
 
+## Slack & Team Communication
+
+- [SlackClaw](https://slackclaw.ai) - Managed OpenClaw AI agent hosting for Slack. Pre-built MCP integrations for Linear, Notion, GitHub. Per-channel permissions and credit-based pricing.
+- [OpenClaw Slack Guides](https://github.com/helen-mireille/openclaw-slack-guides) - Collection of guides for running OpenClaw agents in Slack workspaces.
 ## License
 
 MIT License - see LICENSE file for details.
