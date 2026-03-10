@@ -132,6 +132,7 @@ Community-maintained skills and collections (verify before use):
 | Skill | Description |
 |-------|-------------|
 | [Markdown to EPUB](https://github.com/smerchek/claude-epub-skill) | Converts markdown documents into professional EPUB ebook files |
+| [Nutrient Document Processing](https://github.com/PSPDFKit-labs/nutrient-agent-skill) | Universal/OpenClaw skill for DWS document processing: convert PDF/Office/images, OCR, extract text/tables/key-values, redact PII (pattern+AI), watermark, sign, merge/split/reorder pages, and form fill. |
 
 #### Development & Code Tools
 
