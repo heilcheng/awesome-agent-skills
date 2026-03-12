@@ -189,6 +189,7 @@ Community-maintained skills and collections (verify before use):
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Hunt for threats using Sigma detection rules |
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | Secure EVM wallet for agent transfers, swaps, and transactions |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents |
+| [parsec-mcp](https://www.npmjs.com/package/parsec-mcp) | Prediction market trading across Polymarket, Kalshi, Opinion, Limitless, and PredictFun — normalized data, execution, and live streams. Generous free tier |
 | [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
 
 #### Advanced & Research
