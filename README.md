@@ -443,6 +443,8 @@ if __name__ == "__main__":
 ### Articles & Research
 - [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - Analysis of privacy risks in AI
 - [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - Cost-optimization guide for RAG architectures
+- [How AI Agents Learn New Skills](https://helloandy.net/how-ai-agents-learn-new-skills/) - Deep dive into SKILL.md token saturation, failure modes, and routing patterns
+- [SKILL.md Design Guide](https://helloandy.net/skill-design-guide/) - Research data on optimal skill token ranges, failure modes, and quality rubrics
 
 ---
 
@@ -478,6 +480,14 @@ No. Skills are just text instructions, the AI reads and follows them like a reci
 4. Test it out!
 
 Full guide: [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills)
+
+---
+
+## Tools for Creating Agent Skills
+
+- [SKILL.md Generator](https://helloandy.net/skill-generator/) - AI-powered generator that builds SKILL.md files via a 3-step OpenRouter pipeline. Free, no account required.
+- [SKILL.md Linter](https://helloandy.net/skill-linter/) - Validates SKILL.md structure against the quality rubric: description, trigger, instructions, examples, iron laws.
+- [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) - Generates Claude agent system prompts using best-practice structure. Works alongside SKILL.md files.
 
 ---
 
