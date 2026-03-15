@@ -190,6 +190,7 @@ Community-maintained skills and collections (verify before use):
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | Secure EVM wallet for agent transfers, swaps, and transactions |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents |
 | [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
+| [ClawGuard](https://github.com/NeuZhou/clawguard) | AI agent immune system — 285+ threat patterns, prompt injection detection, PII sanitizer, intent-action mismatch, OWASP Agentic AI Top 10 coverage. `npx @neuzhou/clawguard scan ./` |
 
 #### Advanced & Research
 
