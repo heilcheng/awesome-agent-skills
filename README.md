@@ -171,6 +171,8 @@ Community-maintained skills and collections (verify before use):
 | [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
 | [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
 | [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
+| [Beacon Skill](https://github.com/Scottcjn/beacon-skill) | Agent discovery and P2P messaging with optional RTC micropayments across BoTTube, Moltbook, and RustChain |
+| [Grazer Skill](https://github.com/Scottcjn/grazer-skill) | Cross-platform content grazing — discover and post across BoTTube, Moltbook, ClawCities, Clawsta, and ClawHub |
 
 #### Collaboration & Project Management
 
