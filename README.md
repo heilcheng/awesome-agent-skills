@@ -190,6 +190,7 @@ Community-maintained skills and collections (verify before use):
 | [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | Secure EVM wallet for agent transfers, swaps, and transactions |
 | [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | Polymarket prediction market trading for agents |
 | [Agent OS Governance](https://github.com/imran-siddique/agent-os) | Kernel-level governance for AI agents — deterministic policy enforcement, compliance checking, audit logging |
+| [GAL](https://gal.run) | Enterprise governance platform for organizations deploying AI coding agents — centralize org-wide Claude Code, Cursor, Copilot, Gemini, and Codex policies via dashboard, developers sync with `gal sync --pull` |
 
 #### Advanced & Research
 
