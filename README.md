@@ -510,3 +510,7 @@ The principles in these skills are derived from research and production experien
 - [Claude Code Skills Documentation](https://code.claude.com/docs/en/skills)
 - [GitHub Copilot: About Agent Skills](https://docs.github.com/copilot/concepts/agents/about-agent-skills)
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/)
+
+
+## MCP Tools
+- [Arch Tools MCP](https://archtools.dev) - 58 production API tools for Claude agents with x402 USDC payments. Web scraping, AI generation, crypto data, OCR, browser automation. `npx @deesmo/arch-tools-mcp`. Patent-pending agent auth. ([GitHub](https://github.com/Deesmo/Arch-AI-Tools))
