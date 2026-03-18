@@ -171,6 +171,7 @@ Community-maintained skills and collections (verify before use):
 | [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
 | [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
 | [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
+| [SuperLocalMemory V3](https://github.com/qualixar/superlocalmemory) | Persistent AI agent memory via MCP. 74.8% on LoCoMo (zero cloud), Fisher-Rao retrieval, EU AI Act compliant. Works with Claude Code, Cursor, and 17+ AI tools. [Paper: arXiv:2603.14588](https://arxiv.org/abs/2603.14588) |
 
 #### Collaboration & Project Management
 
