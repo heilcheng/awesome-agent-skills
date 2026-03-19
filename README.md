@@ -60,7 +60,7 @@ The following platforms have documented support for Agent Skills:
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 | Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
-| Almirant | [almirant.ai/docs/skills](https://almirant.ai) |
+| Almirant | [almirant.ai/docs/skills](https://almirant.ai?utm_source=awesome-agent-skills&utm_medium=awesome-list&utm_campaign=march-2026) |
 
 ---
 
