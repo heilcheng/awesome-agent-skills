@@ -126,6 +126,7 @@ Community-maintained skills and collections (verify before use):
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 product management skills covering discovery, definition, delivery, and optimization |
 | [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills |
 | [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Crowdfunding for AI agents on Base chain - milestone escrow |
+| [byronxlg/skillfold](https://github.com/byronxlg/skillfold) | YAML compiler for multi-agent pipelines - compiles one config into skills for 11 platforms (Claude Code, Cursor, Copilot, Gemini, and more) with 11 reusable library skills |
 
 #### Document Processing
 
