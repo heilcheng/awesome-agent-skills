@@ -149,6 +149,7 @@ Community-maintained skills and collections (verify before use):
 | [Tool Advisor](https://github.com/dragon1086/claude-skills) | Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns |
 | [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Pressure-test spec documents with LLM reasoning before writing code |
 | [Mantra](https://mantra.gonewx.com) | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
+| [Skillfold](https://github.com/byronxlg/skillfold) | Multi-agent pipeline compiler - composes YAML config into SKILL.md files for 12 platforms |
 
 #### Data & Analysis
 
