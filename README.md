@@ -139,6 +139,7 @@ Community-maintained skills and collections (verify before use):
 |-------|-------------|
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS development with CDK best practices |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations |
+| [hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) | Generate hand-drawn Excalidraw diagrams from a prompt — animated SVG, hosted edit link, and PNG export. Works with Claude Code, Codex, and any agent supporting standard skill paths |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Browser automation for testing web apps |
 | [Specrate](https://github.com/rickygao/specrate) | Manage specs and changes in a structured workflow |
 | [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | Interact with iOS Simulator for testing |
