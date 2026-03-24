@@ -156,6 +156,7 @@ Community-maintained skills and collections (verify before use):
 |-------|-------------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations |
 | [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection |
+| [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) | Public SEC EDGAR + market data for thesis-driven equity analysis (`/analyze`, `/score`, `/compare`) with Python helpers |
 
 #### Integration & Automation
 
