@@ -137,6 +137,7 @@ Community-maintained skills and collections (verify before use):
 
 | Skill | Description |
 |-------|-------------|
+| [SymCLI](https://github.com/Wowo51/Sym/tree/main/Skills/symcli-skill) | Pure C# deterministic "System 2" mathematical reasoning and code analyzer skill |
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS development with CDK best practices |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Browser automation for testing web apps |
