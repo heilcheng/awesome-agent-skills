@@ -126,6 +126,7 @@ Community-maintained skills and collections (verify before use):
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 product management skills covering discovery, definition, delivery, and optimization |
 | [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills |
 | [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Crowdfunding for AI agents on Base chain - milestone escrow |
+| [itsmemeworks/adhx](https://github.com/itsmemeworks/adhx) | X/Twitter post reader — fetches any x.com or twitter.com link as clean LLM-friendly JSON with full article content, author info, and engagement metrics. Install: `/plugin marketplace add itsmemeworks/adhx` |
 
 #### Document Processing
 
