@@ -118,6 +118,7 @@ Community-maintained skills and collections (verify before use):
 | [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | Skills for DSPy framework |
 | [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | Curated Claude Agent Skills collection |
 | [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact agent library skills |
+| [clarvia-project/scanner](https://github.com/clarvia-project/scanner) | Clarvia skills for AEO scoring, tool discovery, and agent-readiness analysis (3 skills: /clarvia-scan, /clarvia-compare, /clarvia-recommend) |
 | [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | npm-like CLI for skills (`brew install dmgrok/tap/skills`) - aggregates 177+ skills from 24 providers |
 | [gotalab/skillport](https://github.com/gotalab/skillport) | Skills distribution via CLI or MCP |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
