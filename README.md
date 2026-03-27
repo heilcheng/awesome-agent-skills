@@ -162,6 +162,7 @@ Community-maintained skills and collections (verify before use):
 | Skill | Description |
 |-------|-------------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Web browser capability for agents |
+| [feishu-inout](https://github.com/joe960913/feishu-inout) | Lark/Feishu docs, messaging, calendar & bitable integration. Read/write documents, send/search messages, create meetings, manage bitable records. Zero dependencies, official MCP |
 | [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | Edge-native MCP server patterns for production RAG |
 | [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | Manage local CLI AI agents via tmux (start/stop/monitor/assign + cron scheduling) |
 | [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | AI agent discovery via Registry Broker - /hol-search, /hol-resolve, /hol-chat |
