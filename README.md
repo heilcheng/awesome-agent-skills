@@ -179,6 +179,7 @@ Community-maintained skills and collections (verify before use):
 | [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Automate git operations and repository interactions |
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluate code implementation plans |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detect failing tests and propose fixes |
+| [Viboscope](https://github.com/ivankoriako/viboscope) | Psychological compatibility matching across 10 dimensions — find cofounders, collaborators, and friends |
 
 #### Security & Systems
 
