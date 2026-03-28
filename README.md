@@ -171,6 +171,7 @@ Community-maintained skills and collections (verify before use):
 | [AgentStore](https://github.com/techgangboss/agentstore) | Open-source plugin marketplace with gasless USDC payments, CLI install, and 3-field publishing API |
 | [Transloadit Skills](https://github.com/transloadit/skills) | Media processing: video encoding, image manipulation, OCR, and 86+ Robots |
 | [commune](https://github.com/shanjairaj7/commune-skill) | Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks |
+| [Viboscope](https://github.com/ivankoriako/viboscope) | Psychological compatibility matching — find compatible collaborators, co-founders, and friends across 10 validated dimensions via AI agent |
 
 #### Collaboration & Project Management
 
