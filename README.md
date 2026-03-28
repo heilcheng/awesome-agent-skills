@@ -123,6 +123,7 @@ Community-maintained skills and collections (verify before use):
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) |  cryptocurrency, web3 and blockchain skills. |
 | [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops |
+| [uAI-solana/useful-ai-skills](https://github.com/uAI-solana/useful-ai-skills) | Skill file for Useful AI -- shared utility tool library for agents. Dispatch data tasks in plain English, get structured output. 200+ tools, no auth. |
 | [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 product management skills covering discovery, definition, delivery, and optimization |
 | [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills |
 | [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Crowdfunding for AI agents on Base chain - milestone escrow |
