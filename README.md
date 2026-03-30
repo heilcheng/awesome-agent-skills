@@ -132,6 +132,7 @@ Community-maintained skills and collections (verify before use):
 | Skill | Description |
 |-------|-------------|
 | [Markdown to EPUB](https://github.com/smerchek/claude-epub-skill) | Converts markdown documents into professional EPUB ebook files |
+| [ru-text](https://github.com/talkstream/ru-text) | Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence |
 
 #### Development & Code Tools
 
