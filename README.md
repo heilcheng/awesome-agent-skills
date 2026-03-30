@@ -154,7 +154,9 @@ Community-maintained skills and collections (verify before use):
 
 | Skill | Description |
 |-------|-------------|
+| [CoinPaprika API](https://github.com/coinpaprika/skills/tree/main/coinpaprika-api) | Crypto market data for 12K+ coins, 350+ exchanges. Tickers, OHLCV, historical prices. Free, no API key |
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations |
+| [DexPaprika API](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) | Free DEX data across 34 chains. 30M+ pools, 27M+ tokens, real-time SSE streaming. No API key |
 | [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection |
 
 #### Integration & Automation
