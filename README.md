@@ -149,6 +149,8 @@ Community-maintained skills and collections (verify before use):
 | [Tool Advisor](https://github.com/dragon1086/claude-skills) | Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns |
 | [Vibe Testing](https://github.com/knot0-com/vibe-testing) | Pressure-test spec documents with LLM reasoning before writing code |
 | [Mantra](https://mantra.gonewx.com) | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
+| [claude-code-philosophy](https://github.com/dadwadw233/claude-code-philosophy) | Skill for reviewing and structuring agent products around harnesses, memory, permissions, recovery, and UX |
+| [claude-code-harness](https://github.com/dadwadw233/claude-code-harness) | Harness blueprint skill for request assembly, control loops, memory boundaries, permissions, and recovery |
 
 #### Data & Analysis
 
