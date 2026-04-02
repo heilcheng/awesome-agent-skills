@@ -156,6 +156,7 @@ Community-maintained skills and collections (verify before use):
 |-------|-------------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations |
 | [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection |
+| [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) | Analyze, classify, and visualize agent/OpenClaw skill systems with an interactive taxonomy report for dependencies, routing conflicts, duplicates, and missing abstractions |
 
 #### Integration & Automation
 
