@@ -510,3 +510,4 @@ The principles in these skills are derived from research and production experien
 - [Claude Code Skills Documentation](https://code.claude.com/docs/en/skills)
 - [GitHub Copilot: About Agent Skills](https://docs.github.com/copilot/concepts/agents/about-agent-skills)
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/)
+- [ASK — Agent Skills Kernel](https://github.com/srmbsrg/ask-kernel) — Versioned, composable AI agent skill library. Think .dll files for AI systems. MIT licensed.
