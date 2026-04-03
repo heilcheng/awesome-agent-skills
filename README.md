@@ -112,6 +112,7 @@ Community-maintained skills and collections (verify before use):
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai collection with CLI installer |
 | [agentskill.sh](https://agentskill.sh) | 44k+ skills directory with security scanning and `/learn` installer |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ verified skills for Claude Code and Claude.ai |
+| [uxuiprinciples/agent-skills](https://github.com/uxuiprinciples/agent-skills) | 5 UX/UI skills: evaluate interfaces against 168 research-backed principles, detect antipatterns, inject UX context into AI coding sessions |
 | [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | Skills for specialized capabilities |
 | [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | Multi-agent collaboration skills |
 | [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Pydantic AI integration |
