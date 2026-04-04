@@ -60,6 +60,7 @@
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 | Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
+| Junie | [junie.jetbrains.com](https://junie.jetbrains.com/docs/agent-skills.html) |
 
 ---
 
