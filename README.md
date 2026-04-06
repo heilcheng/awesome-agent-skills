@@ -796,6 +796,7 @@ Skills themselves are free text files — you can download and use any skill in 
 
 Every skill in this list is a public GitHub repository — you can read the full instructions before loading anything. Check the repo's stars, last update date, and README. Skills are plain text: there's no executable code that can run on your machine.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested agent system prompts and skills for Claude Code. Includes orchestration, code review, security auditing, trading analysis, and business automation agents with quality gate verification.
 ## Related Awesome Lists
 
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Curated list of skills and tools for Claude Code.
