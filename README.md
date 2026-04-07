@@ -43,6 +43,7 @@ That's it. No installation. No configuration. No coding required.
   - [Vector Databases](#vector-databases)
   - [Marketing](#marketing)
   - [Productivity and Collaboration](#productivity-and-collaboration)
+  - [Finance and Trading](#finance-and-trading)
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
 - [Skill Quality Standards](#skill-quality-standards)
@@ -539,6 +540,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+</details>
+
+<details>
+<summary><strong>Finance and Trading</strong></summary>
+
+- [ego-protocol/tbd-vote-cli](https://github.com/ego-protocol/tbd-vote-cli) - Trade on TBD, a Solana-based prediction market for human opinions, via the `@tbd-vote/cli` package; defers to an [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec for autonomous-loop instructions and HTTP fallback
 </details>
 
 <details>
