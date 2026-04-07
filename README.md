@@ -549,6 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [troyjthomas/ios-agent-skills](https://github.com/troyjthomas/ios-agent-skills) - 18 workflow skills for non-developers building native iOS apps with Claude Code. Full lifecycle: MCP setup, SwiftUI native-first enforcement, Conductor parallel workflows, mobile Dispatch bridging.
 </details>
 
 <details>
