@@ -132,203 +132,203 @@ npx skills remove [skill-name]     # Uninstall skills
 
 #### Skills by Anthropic
 Official built-in skills for common document types and creative workflows.
-- [anthropics/docx](https://agent-skill.co/anthropics/skills/docx) - Create, edit, and analyze Word documents
-- [anthropics/doc-coauthoring](https://agent-skill.co/anthropics/skills/doc-coauthoring) - Collaborative document editing and co-authoring
-- [anthropics/pptx](https://agent-skill.co/anthropics/skills/pptx) - Create, edit, and analyze PowerPoint presentations
-- [anthropics/xlsx](https://agent-skill.co/anthropics/skills/xlsx) - Create, edit, and analyze Excel spreadsheets
-- [anthropics/pdf](https://agent-skill.co/anthropics/skills/pdf) - Extract text, create PDFs, and handle forms
-- [anthropics/algorithmic-art](https://agent-skill.co/anthropics/skills/algorithmic-art) - Create generative art using p5.js with seeded randomness
-- [anthropics/canvas-design](https://agent-skill.co/anthropics/skills/canvas-design) - Design visual art in PNG and PDF formats
-- [anthropics/frontend-design](https://agent-skill.co/anthropics/skills/frontend-design) - Frontend design and UI/UX development tools
-- [anthropics/slack-gif-creator](https://agent-skill.co/anthropics/skills/slack-gif-creator) - Create animated GIFs optimized for Slack size constraints
-- [anthropics/theme-factory](https://agent-skill.co/anthropics/skills/theme-factory) - Style artifacts with professional themes or generate custom themes
-- [anthropics/web-artifacts-builder](https://agent-skill.co/anthropics/skills/web-artifacts-builder) - Build complex claude.ai HTML artifacts with React and Tailwind
-- [anthropics/mcp-builder](https://agent-skill.co/anthropics/skills/mcp-builder) - Create MCP servers to integrate external APIs and services
-- [anthropics/webapp-testing](https://agent-skill.co/anthropics/skills/webapp-testing) - Test local web applications using Playwright
-- [anthropics/brand-guidelines](https://agent-skill.co/anthropics/skills/brand-guidelines) - Apply Anthropic's brand colors and typography to artifacts
-- [anthropics/internal-comms](https://agent-skill.co/anthropics/skills/internal-comms) - Write status reports, newsletters, and FAQs
-- [anthropics/skill-creator](https://agent-skill.co/anthropics/skills/skill-creator) - Guide for creating skills that extend Claude's capabilities
-- [anthropics/template](https://agent-skill.co/anthropics/skills/template) - Basic template for creating new skills
+- [anthropics/docx](https://smithery.ai/skills/anthropics/docx) - Create, edit, and analyze Word documents
+- [anthropics/doc-coauthoring](https://smithery.ai/skills/anthropics/doc-coauthoring) - Collaborative document editing and co-authoring
+- [anthropics/pptx](https://smithery.ai/skills/anthropics/pptx) - Create, edit, and analyze PowerPoint presentations
+- [anthropics/xlsx](https://smithery.ai/skills/anthropics/xlsx) - Create, edit, and analyze Excel spreadsheets
+- [anthropics/pdf](https://smithery.ai/skills/anthropics/pdf) - Extract text, create PDFs, and handle forms
+- [anthropics/algorithmic-art](https://smithery.ai/skills/anthropics/algorithmic-art) - Create generative art using p5.js with seeded randomness
+- [anthropics/canvas-design](https://smithery.ai/skills/anthropics/canvas-design) - Design visual art in PNG and PDF formats
+- [anthropics/frontend-design](https://smithery.ai/skills/anthropics/frontend-design) - Frontend design and UI/UX development tools
+- [anthropics/slack-gif-creator](https://smithery.ai/skills/anthropics/slack-gif-creator) - Create animated GIFs optimized for Slack size constraints
+- [anthropics/theme-factory](https://smithery.ai/skills/anthropics/theme-factory) - Style artifacts with professional themes or generate custom themes
+- [anthropics/web-artifacts-builder](https://smithery.ai/skills/anthropics/web-artifacts-builder) - Build complex claude.ai HTML artifacts with React and Tailwind
+- [anthropics/mcp-builder](https://smithery.ai/skills/anthropics/mcp-builder) - Create MCP servers to integrate external APIs and services
+- [anthropics/webapp-testing](https://smithery.ai/skills/anthropics/webapp-testing) - Test local web applications using Playwright
+- [anthropics/brand-guidelines](https://smithery.ai/skills/anthropics/brand-guidelines) - Apply Anthropic's brand colors and typography to artifacts
+- [anthropics/internal-comms](https://smithery.ai/skills/anthropics/internal-comms) - Write status reports, newsletters, and FAQs
+- [anthropics/skill-creator](https://smithery.ai/skills/anthropics/skill-creator) - Guide for creating skills that extend Claude's capabilities
+- [anthropics/template](https://smithery.ai/skills/anthropics/template) - Basic template for creating new skills
 
 #### Skills by OpenAI (Codex)
 Official curated skills from OpenAI's catalog.
-- [openai/cloudflare-deploy](https://agent-skill.co/openai/skills/cloudflare-deploy) - Deploy apps to Cloudflare using Workers and Pages
-- [openai/develop-web-game](https://agent-skill.co/openai/skills/develop-web-game) - Build and test web games iteratively using Playwright
-- [openai/doc](https://agent-skill.co/openai/skills/doc) - Read, create, and edit .docx documents with formatting
-- [openai/gh-address-comments](https://agent-skill.co/openai/skills/gh-address-comments) - Address review and issue comments on open GitHub PRs via CLI
-- [openai/gh-fix-ci](https://agent-skill.co/openai/skills/gh-fix-ci) - Debug and fix failing GitHub Actions PR checks
-- [openai/imagegen](https://agent-skill.co/openai/skills/imagegen) - Generate and edit images using OpenAI's Image API
-- [openai/jupyter-notebook](https://agent-skill.co/openai/skills/jupyter-notebook) - Create clean, reproducible Jupyter notebooks
-- [openai/linear](https://agent-skill.co/openai/skills/linear) - Manage issues, projects, and team workflows in Linear
-- [openai/netlify-deploy](https://agent-skill.co/openai/skills/netlify-deploy) - Automate Netlify deployments with CLI support
-- [openai/notion-knowledge-capture](https://agent-skill.co/openai/skills/notion-knowledge-capture) - Convert conversations into structured Notion wiki entries
-- [openai/pdf](https://agent-skill.co/openai/skills/pdf) - Read, create, and review PDFs with layout integrity
-- [openai/playwright](https://agent-skill.co/openai/skills/playwright) - Automate real browser interactions for navigation and forms
-- [openai/sora](https://agent-skill.co/openai/skills/sora) - Generate, remix, and manage short video clips via Sora API
-- [openai/speech](https://agent-skill.co/openai/skills/speech) - Generate spoken audio from text using OpenAI's API
-- [openai/spreadsheet](https://agent-skill.co/openai/skills/spreadsheet) - Create, edit, analyze, and visualize spreadsheets
-- [openai/figma](https://agent-skill.co/openai/skills/figma) - Use the Figma MCP server to fetch design context
-- [openai/figma-implement-design](https://agent-skill.co/openai/skills/figma-implement-design) - Translate Figma designs into production-ready code
-- [openai/frontend-skill](https://agent-skill.co/openai/skills/frontend-skill) - Create visually strong landing pages and web apps
+- [openai/cloudflare-deploy](https://smithery.ai/skills/openai/cloudflare-deploy) - Deploy apps to Cloudflare using Workers and Pages
+- [openai/develop-web-game](https://smithery.ai/skills/openai/develop-web-game) - Build and test web games iteratively using Playwright
+- [openai/doc](https://smithery.ai/skills/openai/doc) - Read, create, and edit .docx documents with formatting
+- [openai/gh-address-comments](https://smithery.ai/skills/openai/gh-address-comments) - Address review and issue comments on open GitHub PRs via CLI
+- [openai/gh-fix-ci](https://smithery.ai/skills/openai/gh-fix-ci) - Debug and fix failing GitHub Actions PR checks
+- [openai/imagegen](https://smithery.ai/skills/openai/imagegen) - Generate and edit images using OpenAI's Image API
+- [openai/jupyter-notebook](https://smithery.ai/skills/openai/jupyter-notebook) - Create clean, reproducible Jupyter notebooks
+- [openai/linear](https://smithery.ai/skills/openai/linear) - Manage issues, projects, and team workflows in Linear
+- [openai/netlify-deploy](https://smithery.ai/skills/openai/netlify-deploy) - Automate Netlify deployments with CLI support
+- [openai/notion-knowledge-capture](https://smithery.ai/skills/openai/notion-knowledge-capture) - Convert conversations into structured Notion wiki entries
+- [openai/pdf](https://smithery.ai/skills/openai/pdf) - Read, create, and review PDFs with layout integrity
+- [openai/playwright](https://smithery.ai/skills/openai/playwright) - Automate real browser interactions for navigation and forms
+- [openai/sora](https://smithery.ai/skills/openai/sora) - Generate, remix, and manage short video clips via Sora API
+- [openai/speech](https://smithery.ai/skills/openai/speech) - Generate spoken audio from text using OpenAI's API
+- [openai/spreadsheet](https://smithery.ai/skills/openai/spreadsheet) - Create, edit, analyze, and visualize spreadsheets
+- [openai/figma](https://smithery.ai/skills/openai/figma) - Use the Figma MCP server to fetch design context
+- [openai/figma-implement-design](https://smithery.ai/skills/openai/figma-implement-design) - Translate Figma designs into production-ready code
+- [openai/frontend-skill](https://smithery.ai/skills/openai/frontend-skill) - Create visually strong landing pages and web apps
 
 #### Skills by Google Gemini
-Install via [google-gemini/gemini-api-dev](https://agent-skill.co/google-gemini/skills/gemini-api-dev).
-- [google-gemini/gemini-api-dev](https://agent-skill.co/google-gemini/skills/gemini-api-dev) - Best practices for developing Gemini-powered apps
-- [google-gemini/vertex-ai-api-dev](https://agent-skill.co/google-gemini/skills/vertex-ai-api-dev) - Developing Gemini apps on Google Cloud Vertex AI
-- [google-gemini/gemini-live-api-dev](https://agent-skill.co/google-gemini/skills/gemini-live-api-dev) - Building real-time bidirectional streaming apps
-- [google-gemini/gemini-interactions-api](https://agent-skill.co/google-gemini/skills/gemini-interactions-api) - Text, chat, streaming, and image generation
+Install via [google-gemini/gemini-api-dev](https://smithery.ai/skills/google-gemini/gemini-api-dev).
+- [google-gemini/gemini-api-dev](https://smithery.ai/skills/google-gemini/gemini-api-dev) - Best practices for developing Gemini-powered apps
+- [google-gemini/vertex-ai-api-dev](https://smithery.ai/skills/google-gemini/vertex-ai-api-dev) - Developing Gemini apps on Google Cloud Vertex AI
+- [google-gemini/gemini-live-api-dev](https://smithery.ai/skills/google-gemini/gemini-live-api-dev) - Building real-time bidirectional streaming apps
+- [google-gemini/gemini-interactions-api](https://smithery.ai/skills/google-gemini/gemini-interactions-api) - Text, chat, streaming, and image generation
 
 #### Skills by Hugging Face
 Official skills for ML workflows.
-- [huggingface/hf-cli](https://agent-skill.co/huggingface/skills/hf-cli) - HF CLI tool for Hub operations
-- [huggingface/hugging-face-datasets](https://agent-skill.co/huggingface/skills/hugging-face-datasets) - Create and manage datasets with SQL querying
-- [huggingface/hugging-face-model-trainer](https://agent-skill.co/huggingface/skills/hugging-face-model-trainer) - Train models with TRL: SFT, DPO, GRPO
-- [huggingface/transformers.js](https://agent-skill.co/huggingface/skills/transformers.js) - Run ML models in the browser with Transformers.js
+- [huggingface/hf-cli](https://smithery.ai/skills/huggingface/hf-cli) - HF CLI tool for Hub operations
+- [huggingface/hugging-face-datasets](https://smithery.ai/skills/huggingface/hugging-face-datasets) - Create and manage datasets with SQL querying
+- [huggingface/hugging-face-model-trainer](https://smithery.ai/skills/huggingface/hugging-face-model-trainer) - Train models with TRL: SFT, DPO, GRPO
+- [huggingface/transformers.js](https://smithery.ai/skills/huggingface/transformers.js) - Run ML models in the browser with Transformers.js
 
 #### Skills by Replicate
-- [replicate/replicate](https://agent-skill.co/replicate/skills/replicate) - Discover and run AI models via API
+- [replicate/replicate](https://smithery.ai/skills/replicate/replicate) - Discover and run AI models via API
 
 #### Skills by fal.ai
-- [fal-ai-community/fal-generate](https://agent-skill.co/fal-ai-community/skills/fal-generate) - Generate images and videos using fal.ai
-- [fal-ai-community/fal-realtime](https://agent-skill.co/fal-ai-community/skills/fal-realtime) - Real-time and streaming AI image generation
-- [fal-ai-community/fal-upscale](https://agent-skill.co/fal-ai-community/skills/fal-upscale) - Upscale and enhance image resolution
+- [fal-ai-community/fal-generate](https://smithery.ai/skills/fal-ai-community/fal-generate) - Generate images and videos using fal.ai
+- [fal-ai-community/fal-realtime](https://smithery.ai/skills/fal-ai-community/fal-realtime) - Real-time and streaming AI image generation
+- [fal-ai-community/fal-upscale](https://smithery.ai/skills/fal-ai-community/fal-upscale) - Upscale and enhance image resolution
 
 #### Skills by MiniMax
-- [MiniMax-AI/frontend-dev](https://agent-skill.co/MiniMax-AI/skills/frontend-dev) - Frontend with animations and AI media via MiniMax
-- [MiniMax-AI/minimax-pdf](https://agent-skill.co/MiniMax-AI/skills/minimax-pdf) - Generate, fill, and reformat PDFs
+- [MiniMax-AI/frontend-dev](https://smithery.ai/skills/MiniMax-AI/frontend-dev) - Frontend with animations and AI media via MiniMax
+- [MiniMax-AI/minimax-pdf](https://smithery.ai/skills/MiniMax-AI/minimax-pdf) - Generate, fill, and reformat PDFs
 ### Cloud & Infrastructure
 
 #### Skills by Cloudflare
-- [cloudflare/agents-sdk](https://agent-skill.co/cloudflare/skills/agents-sdk) - Build stateful AI agents with scheduling, RPC, and MCP servers
-- [cloudflare/building-ai-agent-on-cloudflare](https://agent-skill.co/cloudflare/skills/building-ai-agent-on-cloudflare) - Build AI agents with state and WebSockets on Cloudflare
-- [cloudflare/building-mcp-server-on-cloudflare](https://agent-skill.co/cloudflare/skills/building-mcp-server-on-cloudflare) - Build remote MCP servers with tools and OAuth
-- [cloudflare/durable-objects](https://agent-skill.co/cloudflare/skills/durable-objects) - Stateful coordination with RPC, SQLite, and WebSockets
-- [cloudflare/web-perf](https://agent-skill.co/cloudflare/skills/web-perf) - Audit Core Web Vitals and render-blocking resources
-- [cloudflare/wrangler](https://agent-skill.co/cloudflare/skills/wrangler) - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
+- [cloudflare/agents-sdk](https://smithery.ai/skills/cloudflare/agents-sdk) - Build stateful AI agents with scheduling, RPC, and MCP servers
+- [cloudflare/building-ai-agent-on-cloudflare](https://smithery.ai/skills/cloudflare/building-ai-agent-on-cloudflare) - Build AI agents with state and WebSockets on Cloudflare
+- [cloudflare/building-mcp-server-on-cloudflare](https://smithery.ai/skills/cloudflare/building-mcp-server-on-cloudflare) - Build remote MCP servers with tools and OAuth
+- [cloudflare/durable-objects](https://smithery.ai/skills/cloudflare/durable-objects) - Stateful coordination with RPC, SQLite, and WebSockets
+- [cloudflare/web-perf](https://smithery.ai/skills/cloudflare/web-perf) - Audit Core Web Vitals and render-blocking resources
+- [cloudflare/wrangler](https://smithery.ai/skills/cloudflare/wrangler) - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
 
 #### Skills by Netlify
-- [netlify/netlify-functions](https://agent-skill.co/netlify/skills/netlify-functions) - Build serverless API endpoints and background tasks
-- [netlify/netlify-edge-functions](https://agent-skill.co/netlify/skills/netlify-edge-functions) - Low-latency edge middleware and geolocation logic
-- [netlify/netlify-blobs](https://agent-skill.co/netlify/skills/netlify-blobs) - Key-value object storage for files and data
-- [netlify/netlify-db](https://agent-skill.co/netlify/skills/netlify-db) - Managed Postgres with deploy preview branching
-- [netlify/netlify-deploy](https://agent-skill.co/netlify/skills/netlify-deploy) - Automated deployment workflow for Netlify sites
-- [netlify/netlify-ai-gateway](https://agent-skill.co/netlify/skills/netlify-ai-gateway) - Access AI models via unified gateway endpoint
+- [netlify/netlify-functions](https://smithery.ai/skills/netlify/netlify-functions) - Build serverless API endpoints and background tasks
+- [netlify/netlify-edge-functions](https://smithery.ai/skills/netlify/netlify-edge-functions) - Low-latency edge middleware and geolocation logic
+- [netlify/netlify-blobs](https://smithery.ai/skills/netlify/netlify-blobs) - Key-value object storage for files and data
+- [netlify/netlify-db](https://smithery.ai/skills/netlify/netlify-db) - Managed Postgres with deploy preview branching
+- [netlify/netlify-deploy](https://smithery.ai/skills/netlify/netlify-deploy) - Automated deployment workflow for Netlify sites
+- [netlify/netlify-ai-gateway](https://smithery.ai/skills/netlify/netlify-ai-gateway) - Access AI models via unified gateway endpoint
 
 #### Skills by Vercel
-- [vercel-labs/react-best-practices](https://agent-skill.co/vercel-labs/skills/react-best-practices) - React best practices and patterns
-- [vercel-labs/web-design-guidelines](https://agent-skill.co/vercel-labs/skills/web-design-guidelines) - Web design guidelines and standards
-- [vercel-labs/next-best-practices](https://agent-skill.co/vercel-labs/skills/next-best-practices) - Next.js best practices and recommended patterns
-- [vercel-labs/next-cache-components](https://agent-skill.co/vercel-labs/skills/next-cache-components) - Caching strategies and cache-aware components in Next.js
-- [vercel-labs/react-native-skills](https://agent-skill.co/vercel-labs/skills/react-native-skills) - React Native best practices and performance guidelines
+- [vercel-labs/react-best-practices](https://smithery.ai/skills/vercel-labs/react-best-practices) - React best practices and patterns
+- [vercel-labs/web-design-guidelines](https://smithery.ai/skills/vercel-labs/web-design-guidelines) - Web design guidelines and standards
+- [vercel-labs/next-best-practices](https://smithery.ai/skills/vercel-labs/next-best-practices) - Next.js best practices and recommended patterns
+- [vercel-labs/next-cache-components](https://smithery.ai/skills/vercel-labs/next-cache-components) - Caching strategies and cache-aware components in Next.js
+- [vercel-labs/react-native-skills](https://smithery.ai/skills/vercel-labs/react-native-skills) - React Native best practices and performance guidelines
 
 #### Skills by HashiCorp (Terraform)
-- [hashicorp/new-terraform-provider](https://agent-skill.co/hashicorp/skills/new-terraform-provider) - Scaffold a new Terraform provider project using the Plugin Framework
-- [hashicorp/provider-resources](https://agent-skill.co/hashicorp/skills/provider-resources) - Implement Terraform Provider resources and data sources
-- [hashicorp/provider-test-patterns](https://agent-skill.co/hashicorp/skills/provider-test-patterns) - Acceptance test patterns for Terraform providers
-- [hashicorp/refactor-module](https://agent-skill.co/hashicorp/skills/refactor-module) - Transform monolithic Terraform configurations into reusable modules
-- [hashicorp/terraform-style-guide](https://agent-skill.co/hashicorp/skills/terraform-style-guide) - Generate Terraform HCL code following HashiCorp's official style conventions
-- [hashicorp/terraform-stacks](https://agent-skill.co/hashicorp/skills/terraform-stacks) - Manage infrastructure across multiple environments, regions, and cloud accounts
+- [hashicorp/new-terraform-provider](https://smithery.ai/skills/hashicorp/new-terraform-provider) - Scaffold a new Terraform provider project using the Plugin Framework
+- [hashicorp/provider-resources](https://smithery.ai/skills/hashicorp/provider-resources) - Implement Terraform Provider resources and data sources
+- [hashicorp/provider-test-patterns](https://smithery.ai/skills/hashicorp/provider-test-patterns) - Acceptance test patterns for Terraform providers
+- [hashicorp/refactor-module](https://smithery.ai/skills/hashicorp/refactor-module) - Transform monolithic Terraform configurations into reusable modules
+- [hashicorp/terraform-style-guide](https://smithery.ai/skills/hashicorp/terraform-style-guide) - Generate Terraform HCL code following HashiCorp's official style conventions
+- [hashicorp/terraform-stacks](https://smithery.ai/skills/hashicorp/terraform-stacks) - Manage infrastructure across multiple environments, regions, and cloud accounts
 
 #### Skills by Neon
-- [neondatabase/neon-postgres](https://agent-skill.co/neondatabase/skills/neon-postgres) - Best practices for Neon Serverless Postgres
-- [neondatabase/claimable-postgres](https://agent-skill.co/neondatabase/skills/claimable-postgres) - Claimable Postgres database provisioning with Neon
-- [neondatabase/neon-postgres-egress-optimizer](https://agent-skill.co/neondatabase/skills/neon-postgres-egress-optimizer) - Optimize Neon Postgres egress and data transfer
+- [neondatabase/neon-postgres](https://smithery.ai/skills/neondatabase/neon-postgres) - Best practices for Neon Serverless Postgres
+- [neondatabase/claimable-postgres](https://smithery.ai/skills/neondatabase/claimable-postgres) - Claimable Postgres database provisioning with Neon
+- [neondatabase/neon-postgres-egress-optimizer](https://smithery.ai/skills/neondatabase/neon-postgres-egress-optimizer) - Optimize Neon Postgres egress and data transfer
 
 #### Skill by ClickHouse
-- [clickhouse/clickhouse-best-practices](https://agent-skill.co/clickhouse/skills/clickhouse-best-practices) - Best practices for working with ClickHouse
+- [clickhouse/clickhouse-best-practices](https://smithery.ai/skills/clickhouse/clickhouse-best-practices) - Best practices for working with ClickHouse
 
 #### Skills by Supabase
-- [supabase/postgres-best-practices](https://agent-skill.co/supabase/skills/postgres-best-practices) - PostgreSQL best practices for Supabase
+- [supabase/postgres-best-practices](https://smithery.ai/skills/supabase/postgres-best-practices) - PostgreSQL best practices for Supabase
 
 #### Skills by Tinybird
-- [tinybirdco/tinybird-best-practices](https://agent-skill.co/tinybirdco/skills/tinybird-best-practices) - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
-- [tinybirdco/tinybird-cli-guidelines](https://agent-skill.co/tinybirdco/skills/tinybird-cli-guidelines) - Tinybird CLI usage guidelines and commands
-- [tinybirdco/tinybird-typescript-sdk-guidelines](https://agent-skill.co/tinybirdco/skills/tinybird-typescript-sdk-guidelines) - Tinybird TypeScript SDK usage guidelines
+- [tinybirdco/tinybird-best-practices](https://smithery.ai/skills/tinybirdco/tinybird-best-practices) - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
+- [tinybirdco/tinybird-cli-guidelines](https://smithery.ai/skills/tinybirdco/tinybird-cli-guidelines) - Tinybird CLI usage guidelines and commands
+- [tinybirdco/tinybird-typescript-sdk-guidelines](https://smithery.ai/skills/tinybirdco/tinybird-typescript-sdk-guidelines) - Tinybird TypeScript SDK usage guidelines
 
 ---
 
 ### Developer Tools & Frameworks
 
 #### Skills by VoltAgent
-- [voltagent/create-voltagent](https://agent-skill.co/voltagent/skills/create-voltagent) - Project setup guide with CLI and manual steps
-- [voltagent/voltagent-best-practices](https://agent-skill.co/voltagent/skills/voltagent-best-practices) - Architecture and usage patterns for agents, workflows, memory, and servers
-- [voltagent/voltagent-core-reference](https://agent-skill.co/voltagent/skills/voltagent-core-reference) - Reference for the VoltAgent class options and lifecycle methods
-- [voltagent/voltagent-docs-bundle](https://agent-skill.co/voltagent/skills/voltagent-docs-bundle) - Lookup embedded docs from @voltagent/core for version-matched documentation
+- [voltagent/create-voltagent](https://smithery.ai/skills/voltagent/create-voltagent) - Project setup guide with CLI and manual steps
+- [voltagent/voltagent-best-practices](https://smithery.ai/skills/voltagent/voltagent-best-practices) - Architecture and usage patterns for agents, workflows, memory, and servers
+- [voltagent/voltagent-core-reference](https://smithery.ai/skills/voltagent/voltagent-core-reference) - Reference for the VoltAgent class options and lifecycle methods
+- [voltagent/voltagent-docs-bundle](https://smithery.ai/skills/voltagent/voltagent-docs-bundle) - Lookup embedded docs from @voltagent/core for version-matched documentation
 
 #### Skills by CallStack
-- [callstackincubator/react-native-best-practices](https://agent-skill.co/callstackincubator/skills/react-native-best-practices) - Performance optimization for React Native apps
-- [callstackincubator/github](https://agent-skill.co/callstackincubator/skills/github) - GitHub workflow patterns for PRs, code review, branching
-- [callstackincubator/upgrading-react-native](https://agent-skill.co/callstackincubator/skills/upgrading-react-native) - React Native upgrade workflow: templates, dependencies, and pitfalls
+- [callstackincubator/react-native-best-practices](https://smithery.ai/skills/callstackincubator/react-native-best-practices) - Performance optimization for React Native apps
+- [callstackincubator/github](https://smithery.ai/skills/callstackincubator/github) - GitHub workflow patterns for PRs, code review, branching
+- [callstackincubator/upgrading-react-native](https://smithery.ai/skills/callstackincubator/upgrading-react-native) - React Native upgrade workflow: templates, dependencies, and pitfalls
 
 #### Skills by Expo
-- [expo/building-native-ui](https://agent-skill.co/expo/skills/building-native-ui) - Build apps with Expo Router, styling, components, and animations
-- [expo/expo-api-routes](https://agent-skill.co/expo/skills/expo-api-routes) - Create API routes in Expo Router with EAS Hosting
-- [expo/expo-deployment](https://agent-skill.co/expo/skills/expo-deployment) - Deploy Expo apps to production
-- [expo/upgrading-expo](https://agent-skill.co/expo/skills/upgrading-expo) - Upgrade Expo SDK versions
-- [expo/use-dom](https://agent-skill.co/expo/skills/use-dom) - Run web code in a webview on native using DOM components
+- [expo/building-native-ui](https://smithery.ai/skills/expo/building-native-ui) - Build apps with Expo Router, styling, components, and animations
+- [expo/expo-api-routes](https://smithery.ai/skills/expo/expo-api-routes) - Create API routes in Expo Router with EAS Hosting
+- [expo/expo-deployment](https://smithery.ai/skills/expo/expo-deployment) - Deploy Expo apps to production
+- [expo/upgrading-expo](https://smithery.ai/skills/expo/upgrading-expo) - Upgrade Expo SDK versions
+- [expo/use-dom](https://smithery.ai/skills/expo/use-dom) - Run web code in a webview on native using DOM components
 
 #### Skills by Remotion
-- [remotion-dev/remotion](https://agent-skill.co/remotion-dev/skills/remotion) - Programmatic video creation with React
+- [remotion-dev/remotion](https://smithery.ai/skills/remotion-dev/remotion) - Programmatic video creation with React
 
 #### Skills by DuckDB
-- [duckdb/attach-db](https://agent-skill.co/duckdb/skills/attach-db) - Attach a DuckDB database file for interactive querying
-- [duckdb/query](https://agent-skill.co/duckdb/skills/query) - Run SQL queries against attached databases or ad-hoc files
-- [duckdb/duckdb-docs](https://agent-skill.co/duckdb/skills/duckdb-docs) - Search DuckDB and DuckLake documentation
+- [duckdb/attach-db](https://smithery.ai/skills/duckdb/attach-db) - Attach a DuckDB database file for interactive querying
+- [duckdb/query](https://smithery.ai/skills/duckdb/query) - Run SQL queries against attached databases or ad-hoc files
+- [duckdb/duckdb-docs](https://smithery.ai/skills/duckdb/duckdb-docs) - Search DuckDB and DuckLake documentation
 
 #### Skills by GSAP (GreenSock)
-- [greensock/gsap-core](https://agent-skill.co/greensock/skills/gsap-core) - Core API: gsap.to(), from(), fromTo(), easing, duration, stagger
-- [greensock/gsap-scrolltrigger](https://agent-skill.co/greensock/skills/gsap-scrolltrigger) - ScrollTrigger for scroll-linked animations and pinning
-- [greensock/gsap-react](https://agent-skill.co/greensock/skills/gsap-react) - React integration with useGSAP hook and SSR patterns
+- [greensock/gsap-core](https://smithery.ai/skills/greensock/gsap-core) - Core API: gsap.to(), from(), fromTo(), easing, duration, stagger
+- [greensock/gsap-scrolltrigger](https://smithery.ai/skills/greensock/gsap-scrolltrigger) - ScrollTrigger for scroll-linked animations and pinning
+- [greensock/gsap-react](https://smithery.ai/skills/greensock/gsap-react) - React integration with useGSAP hook and SSR patterns
 
 #### Skills by WordPress
-- [WordPress/wp-block-development](https://agent-skill.co/WordPress/skills/wp-block-development) - Gutenberg blocks: block.json, attributes, rendering
-- [WordPress/wp-plugin-development](https://agent-skill.co/WordPress/skills/wp-plugin-development) - Plugin architecture, hooks, settings API, security
-- [WordPress/wp-playground](https://agent-skill.co/WordPress/skills/wp-playground) - WordPress Playground for instant local environments
+- [WordPress/wp-block-development](https://smithery.ai/skills/WordPress/wp-block-development) - Gutenberg blocks: block.json, attributes, rendering
+- [WordPress/wp-plugin-development](https://smithery.ai/skills/WordPress/wp-plugin-development) - Plugin architecture, hooks, settings API, security
+- [WordPress/wp-playground](https://smithery.ai/skills/WordPress/wp-playground) - WordPress Playground for instant local environments
 
 #### Skills by Figma
-- [figma/figma-implement-design](https://agent-skill.co/figma/skills/figma-implement-design) - Translate Figma designs into production-ready code with 1:1 fidelity
-- [figma/figma-generate-library](https://agent-skill.co/figma/skills/figma-generate-library) - Build or update a design system library in Figma from a codebase
-- [figma/figma-use](https://agent-skill.co/figma/skills/figma-use) - Run Figma Plugin API scripts for canvas writes and inspections
+- [figma/figma-implement-design](https://smithery.ai/skills/figma/figma-implement-design) - Translate Figma designs into production-ready code with 1:1 fidelity
+- [figma/figma-generate-library](https://smithery.ai/skills/figma/figma-generate-library) - Build or update a design system library in Figma from a codebase
+- [figma/figma-use](https://smithery.ai/skills/figma/figma-use) - Run Figma Plugin API scripts for canvas writes and inspections
 
 ---
 
 ### Google Ecosystem
 
 #### Skills by Google Labs (Stitch)
-- [google-labs-code/design-md](https://agent-skill.co/google-labs-code/skills/design-md) - Create and manage DESIGN.md files
-- [google-labs-code/enhance-prompt](https://agent-skill.co/google-labs-code/skills/enhance-prompt) - Improve prompts with design specs and UI/UX vocabulary
-- [google-labs-code/react-components](https://agent-skill.co/google-labs-code/skills/react-components) - Stitch to React components conversion
-- [google-labs-code/shadcn-ui](https://agent-skill.co/google-labs-code/skills/shadcn-ui) - Build UI components with shadcn/ui
-- [google-labs-code/stitch-loop](https://agent-skill.co/google-labs-code/skills/stitch-loop) - Iterative design-to-code feedback loop
+- [google-labs-code/design-md](https://smithery.ai/skills/google-labs-code/design-md) - Create and manage DESIGN.md files
+- [google-labs-code/enhance-prompt](https://smithery.ai/skills/google-labs-code/enhance-prompt) - Improve prompts with design specs and UI/UX vocabulary
+- [google-labs-code/react-components](https://smithery.ai/skills/google-labs-code/react-components) - Stitch to React components conversion
+- [google-labs-code/shadcn-ui](https://smithery.ai/skills/google-labs-code/shadcn-ui) - Build UI components with shadcn/ui
+- [google-labs-code/stitch-loop](https://smithery.ai/skills/google-labs-code/stitch-loop) - Iterative design-to-code feedback loop
 
 #### Skills by Google Workspace CLI
-- [googleworkspace/gws-drive](https://agent-skill.co/googleworkspace/skills/gws-drive) - Manage Google Drive files, folders, and shared drives
-- [googleworkspace/gws-sheets](https://agent-skill.co/googleworkspace/skills/gws-sheets) - Read and write Google Sheets spreadsheets
-- [googleworkspace/gws-gmail](https://agent-skill.co/googleworkspace/skills/gws-gmail) - Send, read, and manage Gmail email
-- [googleworkspace/gws-calendar](https://agent-skill.co/googleworkspace/skills/gws-calendar) - Manage Google Calendar calendars and events
-- [googleworkspace/gws-workflow](https://agent-skill.co/googleworkspace/skills/gws-workflow) - Cross-service Google Workspace productivity workflows
+- [googleworkspace/gws-drive](https://smithery.ai/skills/googleworkspace/gws-drive) - Manage Google Drive files, folders, and shared drives
+- [googleworkspace/gws-sheets](https://smithery.ai/skills/googleworkspace/gws-sheets) - Read and write Google Sheets spreadsheets
+- [googleworkspace/gws-gmail](https://smithery.ai/skills/googleworkspace/gws-gmail) - Send, read, and manage Gmail email
+- [googleworkspace/gws-calendar](https://smithery.ai/skills/googleworkspace/gws-calendar) - Manage Google Calendar calendars and events
+- [googleworkspace/gws-workflow](https://smithery.ai/skills/googleworkspace/gws-workflow) - Cross-service Google Workspace productivity workflows
 
 ---
 
 ### Business, Productivity & Marketing
 
 #### Skills by Stripe
-- [stripe/stripe-best-practices](https://agent-skill.co/stripe/skills/stripe-best-practices) - Best practices for building Stripe integrations
-- [stripe/upgrade-stripe](https://agent-skill.co/stripe/skills/upgrade-stripe) - Upgrade Stripe SDK and API versions
+- [stripe/stripe-best-practices](https://smithery.ai/skills/stripe/stripe-best-practices) - Best practices for building Stripe integrations
+- [stripe/upgrade-stripe](https://smithery.ai/skills/stripe/upgrade-stripe) - Upgrade Stripe SDK and API versions
 
 #### Skills by Courier
 - [trycourier/courier-skills](https://github.com/trycourier/courier-skills) - Multi-channel notifications via email, SMS, push, and chat
 
 #### Skills by Typefully
-- [typefully/typefully](https://agent-skill.co/typefully/skills/typefully) - Create, schedule, and publish social media content
+- [typefully/typefully](https://smithery.ai/skills/typefully/typefully) - Create, schedule, and publish social media content
 
 #### Skills by Composio
-- [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
+- [composiohq/composio](https://smithery.ai/skills/composiohq/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
 #### Skills by Notion
-- [makenotion/knowledge-capture](https://agent-skill.co/makenotion/skills/knowledge-capture) - Transform conversations into structured Notion documentation
-- [makenotion/meeting-intelligence](https://agent-skill.co/makenotion/skills/meeting-intelligence) - Prepare meeting materials by gathering Notion context
-- [makenotion/spec-to-implementation](https://agent-skill.co/makenotion/skills/spec-to-implementation) - Turn tech specs into concrete Notion tasks
+- [makenotion/knowledge-capture](https://smithery.ai/skills/makenotion/knowledge-capture) - Transform conversations into structured Notion documentation
+- [makenotion/meeting-intelligence](https://smithery.ai/skills/makenotion/meeting-intelligence) - Prepare meeting materials by gathering Notion context
+- [makenotion/spec-to-implementation](https://smithery.ai/skills/makenotion/spec-to-implementation) - Turn tech specs into concrete Notion tasks
 
 #### Skills by Resend
 - [resend/resend](https://github.com/resend/resend-skills/tree/main/skills/resend) - Send and manage emails via the Resend API
@@ -336,14 +336,14 @@ Official skills for ML workflows.
 - [resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices) - Email deliverability and design best practices
 
 #### Skills by Sanity
-- [sanity-io/sanity-best-practices](https://agent-skill.co/sanity-io/skills/sanity-best-practices) - Best practices for Sanity Studio and content workflows
-- [sanity-io/content-modeling-best-practices](https://agent-skill.co/sanity-io/skills/content-modeling-best-practices) - Guidelines for designing scalable content models in Sanity
-- [sanity-io/seo-aeo-best-practices](https://agent-skill.co/sanity-io/skills/seo-aeo-best-practices) - SEO and answer engine optimization patterns
+- [sanity-io/sanity-best-practices](https://smithery.ai/skills/sanity-io/sanity-best-practices) - Best practices for Sanity Studio and content workflows
+- [sanity-io/content-modeling-best-practices](https://smithery.ai/skills/sanity-io/content-modeling-best-practices) - Guidelines for designing scalable content models in Sanity
+- [sanity-io/seo-aeo-best-practices](https://smithery.ai/skills/sanity-io/seo-aeo-best-practices) - SEO and answer engine optimization patterns
 
 #### Skills by Better Auth
-- [better-auth/best-practices](https://agent-skill.co/better-auth/skills/best-practices) - Best practices for Better Auth integration
-- [better-auth/create-auth](https://agent-skill.co/better-auth/skills/create-auth) - Create authentication setup with Better Auth
-- [better-auth/twoFactor](https://agent-skill.co/better-auth/skills/twoFactor) - Two-factor authentication with Better Auth
+- [better-auth/best-practices](https://smithery.ai/skills/better-auth/best-practices) - Best practices for Better Auth integration
+- [better-auth/create-auth](https://smithery.ai/skills/better-auth/create-auth) - Create authentication setup with Better Auth
+- [better-auth/twoFactor](https://smithery.ai/skills/better-auth/twoFactor) - Two-factor authentication with Better Auth
 
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
@@ -381,11 +381,11 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <summary><strong>Skills by Garry Tan (gstack)</strong></summary>
 
 28 engineering leadership skills by [Garry Tan](https://github.com/garrytan).
-- [garrytan/office-hours](https://agent-skill.co/garrytan/skills/office-hours) - YC Office Hours: reframing product before code
-- [garrytan/plan-ceo-review](https://agent-skill.co/garrytan/skills/plan-ceo-review) - CEO/Founder plan review modes
-- [garrytan/design-review](https://agent-skill.co/garrytan/skills/design-review) - Visual audit and atomic fixes with screenshots
-- [garrytan/qa](https://agent-skill.co/garrytan/skills/qa) - QA Lead: find bugs and generate regression tests
-- [garrytan/ship](https://agent-skill.co/garrytan/skills/ship) - Release Engineer: sync, test, audit, and push
+- [garrytan/office-hours](https://smithery.ai/skills/garrytan/office-hours) - YC Office Hours: reframing product before code
+- [garrytan/plan-ceo-review](https://smithery.ai/skills/garrytan/plan-ceo-review) - CEO/Founder plan review modes
+- [garrytan/design-review](https://smithery.ai/skills/garrytan/design-review) - Visual audit and atomic fixes with screenshots
+- [garrytan/qa](https://smithery.ai/skills/garrytan/qa) - QA Lead: find bugs and generate regression tests
+- [garrytan/ship](https://smithery.ai/skills/garrytan/ship) - Release Engineer: sync, test, audit, and push
 </details>
 
 ---
@@ -393,36 +393,36 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 ### Security & Web Intelligence
 
 #### Skills by Trail of Bits
-- [trailofbits/audit-context-building](https://agent-skill.co/trailofbits/skills/audit-context-building) - Deep architectural context via granular code analysis
-- [trailofbits/building-secure-contracts](https://agent-skill.co/trailofbits/skills/building-secure-contracts) - Smart contract security toolkit for 6 blockchains
-- [trailofbits/modern-python](https://agent-skill.co/trailofbits/skills/modern-python) - Modern Python tooling with uv, ruff, and pytest
-- [trailofbits/static-analysis](https://agent-skill.co/trailofbits/skills/static-analysis) - Static analysis toolkit with CodeQL and Semgrep
+- [trailofbits/audit-context-building](https://smithery.ai/skills/trailofbits/audit-context-building) - Deep architectural context via granular code analysis
+- [trailofbits/building-secure-contracts](https://smithery.ai/skills/trailofbits/building-secure-contracts) - Smart contract security toolkit for 6 blockchains
+- [trailofbits/modern-python](https://smithery.ai/skills/trailofbits/modern-python) - Modern Python tooling with uv, ruff, and pytest
+- [trailofbits/static-analysis](https://smithery.ai/skills/trailofbits/static-analysis) - Static analysis toolkit with CodeQL and Semgrep
 
 #### Skills by Sentry
-- [getsentry/agents-md](https://agent-skill.co/getsentry/skills/agents-md) - Generate and manage AGENTS.md files
-- [getsentry/code-review](https://agent-skill.co/getsentry/skills/code-review) - Perform structured code reviews
-- [getsentry/find-bugs](https://agent-skill.co/getsentry/skills/find-bugs) - Find and identify bugs in code
+- [getsentry/agents-md](https://smithery.ai/skills/getsentry/agents-md) - Generate and manage AGENTS.md files
+- [getsentry/code-review](https://smithery.ai/skills/getsentry/code-review) - Perform structured code reviews
+- [getsentry/find-bugs](https://smithery.ai/skills/getsentry/find-bugs) - Find and identify bugs in code
 
 #### Skills by Firecrawl
-- [firecrawl/firecrawl-cli](https://agent-skill.co/firecrawl/skills/firecrawl-cli) - Scrape, crawl, search, and map the web via CLI
-- [firecrawl/firecrawl-agent](https://agent-skill.co/firecrawl/skills/firecrawl-agent) - AI agent for autonomous web scraping
-- [firecrawl/firecrawl-browser](https://agent-skill.co/firecrawl/skills/firecrawl-browser) - Browser-based web scraping and interaction
+- [firecrawl/firecrawl-cli](https://smithery.ai/skills/firecrawl/firecrawl-cli) - Scrape, crawl, search, and map the web via CLI
+- [firecrawl/firecrawl-agent](https://smithery.ai/skills/firecrawl/firecrawl-agent) - AI agent for autonomous web scraping
+- [firecrawl/firecrawl-browser](https://smithery.ai/skills/firecrawl/firecrawl-browser) - Browser-based web scraping and interaction
 
 <details>
 <summary><strong>Skills by Microsoft</strong></summary>
 
 133 domain-specific skills for Azure SDK and Microsoft AI Foundry.
-- [microsoft/cloud-solution-architect](https://agent-skill.co/microsoft/skills/cloud-solution-architect) - Design well-architected Azure cloud systems
-- [microsoft/copilot-sdk](https://agent-skill.co/microsoft/skills/copilot-sdk) - Build applications powered by GitHub Copilot SDK
-- [microsoft/azure-ai-openai-dotnet](https://agent-skill.co/microsoft/skills/azure-ai-openai-dotnet) - GPT-4, embeddings, and DALL-E client for .NET
-- [microsoft/azure-ai-projects-python](https://agent-skill.co/microsoft/skills/azure-ai-projects-py) - AI Foundry project client and agents for Python
-- [microsoft/azure-identity-typescript](https://agent-skill.co/microsoft/skills/azure-identity-ts) - Microsoft Entra ID authentication for TypeScript
+- [microsoft/cloud-solution-architect](https://smithery.ai/skills/microsoft/cloud-solution-architect) - Design well-architected Azure cloud systems
+- [microsoft/copilot-sdk](https://smithery.ai/skills/microsoft/copilot-sdk) - Build applications powered by GitHub Copilot SDK
+- [microsoft/azure-ai-openai-dotnet](https://smithery.ai/skills/microsoft/azure-ai-openai-dotnet) - GPT-4, embeddings, and DALL-E client for .NET
+- [microsoft/azure-ai-projects-python](https://smithery.ai/skills/microsoft/azure-ai-projects-py) - AI Foundry project client and agents for Python
+- [microsoft/azure-identity-typescript](https://smithery.ai/skills/microsoft/azure-identity-ts) - Microsoft Entra ID authentication for TypeScript
 </details>
 
 #### Skills by Binance
-- [binance/crypto-market-rank](https://agent-skill.co/binance/skills/crypto-market-rank) - Query crypto market rankings and leaderboards
-- [binance/query-token-audit](https://agent-skill.co/binance/skills/query-token-audit) - Audit token security to detect scams and honeypots
-- [binance/trading-signal](https://agent-skill.co/binance/skills/trading-signal) - Monitor on-chain Smart Money buy/sell signals
+- [binance/crypto-market-rank](https://smithery.ai/skills/binance/crypto-market-rank) - Query crypto market rankings and leaderboards
+- [binance/query-token-audit](https://smithery.ai/skills/binance/query-token-audit) - Audit token security to detect scams and honeypots
+- [binance/trading-signal](https://smithery.ai/skills/binance/trading-signal) - Monitor on-chain Smart Money buy/sell signals
 
 #### Skills by Sanity
 
