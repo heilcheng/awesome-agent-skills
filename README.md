@@ -194,8 +194,9 @@ Official skills for ML workflows.
 - [fal-ai-community/fal-upscale](https://smithery.ai/skills/fal-ai-community/fal-upscale) - Upscale and enhance image resolution
 
 #### Skills by MiniMax
-- [MiniMax-AI/frontend-dev](https://smithery.ai/skills/MiniMax-AI/frontend-dev) - Frontend with animations and AI media via MiniMax
-- [MiniMax-AI/minimax-pdf](https://smithery.ai/skills/MiniMax-AI/minimax-pdf) - Generate, fill, and reformat PDFs
+Install from [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) (these are not listed on Smithery under `MiniMax-AI/...` today).
+- [MiniMax-AI/frontend-dev](https://github.com/MiniMax-AI/skills/tree/main/skills/frontend-dev) - Frontend with animations and AI media via MiniMax
+- [MiniMax-AI/minimax-pdf](https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-pdf) - Generate, fill, and reformat PDFs
 ### Cloud & Infrastructure
 
 #### Skills by Cloudflare
@@ -207,19 +208,21 @@ Official skills for ML workflows.
 - [cloudflare/wrangler](https://smithery.ai/skills/cloudflare/wrangler) - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
 
 #### Skills by Netlify
-- [netlify/netlify-functions](https://smithery.ai/skills/netlify/netlify-functions) - Build serverless API endpoints and background tasks
-- [netlify/netlify-edge-functions](https://smithery.ai/skills/netlify/netlify-edge-functions) - Low-latency edge middleware and geolocation logic
-- [netlify/netlify-blobs](https://smithery.ai/skills/netlify/netlify-blobs) - Key-value object storage for files and data
-- [netlify/netlify-db](https://smithery.ai/skills/netlify/netlify-db) - Managed Postgres with deploy preview branching
-- [netlify/netlify-deploy](https://smithery.ai/skills/netlify/netlify-deploy) - Automated deployment workflow for Netlify sites
-- [netlify/netlify-ai-gateway](https://smithery.ai/skills/netlify/netlify-ai-gateway) - Access AI models via unified gateway endpoint
+There is no working Smithery listing under `netlify/<skill>` (those URLs resolve to an empty skill in the Smithery UI), and there is no single public `github.com/netlify/...` skills bundle to mirror here yet. Use [`npx skills find netlify`](https://github.com/vercel-labs/skills#install-a-skill) or follow the GitHub code searches below.
+- [netlify-functions](https://github.com/search?q=netlify-functions+filename%3ASKILL.md&type=code) — Build serverless API endpoints and background tasks
+- [netlify-edge-functions](https://github.com/search?q=netlify-edge-functions+filename%3ASKILL.md&type=code) — Low-latency edge middleware and geolocation logic
+- [netlify-blobs](https://github.com/search?q=netlify-blobs+filename%3ASKILL.md&type=code) — Key-value object storage for files and data
+- [netlify-db](https://github.com/search?q=netlify-db+filename%3ASKILL.md&type=code) — Managed Postgres with deploy preview branching
+- [netlify-deploy](https://github.com/search?q=netlify-deploy+filename%3ASKILL.md&type=code) — Automated deployment workflow for Netlify sites
+- [netlify-ai-gateway](https://github.com/search?q=netlify-ai-gateway+filename%3ASKILL.md&type=code) — Access AI models via unified gateway endpoint
 
 #### Skills by Vercel
-- [vercel-labs/react-best-practices](https://smithery.ai/skills/vercel-labs/react-best-practices) - React best practices and patterns
-- [vercel-labs/web-design-guidelines](https://smithery.ai/skills/vercel-labs/web-design-guidelines) - Web design guidelines and standards
-- [vercel-labs/next-best-practices](https://smithery.ai/skills/vercel-labs/next-best-practices) - Next.js best practices and recommended patterns
-- [vercel-labs/next-cache-components](https://smithery.ai/skills/vercel-labs/next-cache-components) - Caching strategies and cache-aware components in Next.js
-- [vercel-labs/react-native-skills](https://smithery.ai/skills/vercel-labs/react-native-skills) - React Native best practices and performance guidelines
+Official repos: [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) (React, RN, web design, etc.) and [vercel-labs/next-skills](https://github.com/vercel-labs/next-skills) (Next.js–specific). Smithery URLs like `smithery.ai/skills/vercel-labs/...` often show a missing skill page (generic site title) even when HTTP status is 200, so this list links to GitHub instead.
+- [vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) - React best practices and patterns
+- [vercel-labs/web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines) - Web design guidelines and standards
+- [vercel-labs/next-best-practices](https://github.com/vercel-labs/next-skills/tree/main/skills/next-best-practices) - Next.js best practices and recommended patterns
+- [vercel-labs/next-cache-components](https://github.com/vercel-labs/next-skills/tree/main/skills/next-cache-components) - Caching strategies and cache-aware components in Next.js
+- [vercel-labs/react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills) - React Native best practices and performance guidelines
 
 #### Skills by HashiCorp (Terraform)
 - [hashicorp/new-terraform-provider](https://smithery.ai/skills/hashicorp/new-terraform-provider) - Scaffold a new Terraform provider project using the Plugin Framework
