@@ -535,6 +535,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
+- [xiaojiou176-open/apple-notes-snapshot](https://github.com/xiaojiou176-open/apple-notes-snapshot/tree/main/examples/public-skills/notes-snapshot-control-room) - Local-first Apple Notes backup control-room skill for proof-first MCP and host attach workflows
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
