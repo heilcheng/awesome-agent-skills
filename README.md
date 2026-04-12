@@ -554,6 +554,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Context Engineering</strong></summary>
 
+- [xiaojiou176-open/docsiphon](https://github.com/xiaojiou176-open/docsiphon/tree/main/public-skills/docsiphon-doc-corpus-operator) - Export documentation sites into reviewable local Markdown corpora with audit artifacts
+- [xiaojiou176-open/agent-exporter](https://github.com/xiaojiou176-open/agent-exporter/tree/main/public-skills/agent-exporter-archive-governance-workbench) - Export agent transcripts into a local-first archive and governance workbench
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
