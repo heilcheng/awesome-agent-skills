@@ -549,6 +549,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [xiaojiou176-open/openui-mcp-studio](https://github.com/xiaojiou176-open/openui-mcp-studio/tree/main/plugins/openui-workspace-delivery) - Local MCP-first UI delivery skill for install, proof, review, and shadcn-oriented workspace shipping.
+- [xiaojiou176-open/movi-organizer](https://github.com/xiaojiou176-open/movi-organizer/tree/main/examples/skills) - Review-first local file organization skill for manifest-first analysis, safe dry-run apply, and rollback-aware workflows.
 </details>
 
 <details>
