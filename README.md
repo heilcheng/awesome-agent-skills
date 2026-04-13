@@ -196,6 +196,7 @@ Official skills for ML workflows.
 #### Skills by MiniMax
 - [MiniMax-AI/frontend-dev](https://agent-skill.co/MiniMax-AI/skills/frontend-dev) - Frontend with animations and AI media via MiniMax
 - [MiniMax-AI/minimax-pdf](https://agent-skill.co/MiniMax-AI/skills/minimax-pdf) - Generate, fill, and reformat PDFs
+- [ORION-ol/minimax-multimodal](https://github.com/ORION-ol/awesome-agent-skills/blob/main/skills/minimax-multimodal/SKILL.md) - Generate voice, music, video, and images with MiniMax multimodal models; includes voice cloning, voice design, text-to-video, image generation, and FFmpeg media processing
 ### Cloud & Infrastructure
 
 #### Skills by Cloudflare
