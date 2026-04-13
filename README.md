@@ -535,6 +535,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
+- [xiaojiou176-open/dealwatch](https://github.com/xiaojiou176-open/dealwatch/tree/main/public-skills/dealwatch-readonly-builder) - Local-first grocery decision skill for compare-first shopping workflows and safe read-only MCP guidance
+- [xiaojiou176-open/apple-notes-forensics](https://github.com/xiaojiou176-open/apple-notes-forensics/tree/main/public-skills/notestorelab-case-review) - Apple Notes recovery and forensic review skill for local-first case inspection and MCP attach guidance
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
@@ -544,6 +546,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Development and Testing</strong></summary>
 
+- [xiaojiou176-open/multi-ai-sidepanel](https://github.com/xiaojiou176-open/multi-ai-sidepanel/tree/main/public-skills/prompt-switchboard-compare-workflows) - Browser-native compare-workflows skill for multi-tab AI prompt evaluation and local-first attach flows
+- [xiaojiou176-open/provenote](https://github.com/xiaojiou176-open/provenote/tree/main/public-skills/provenote-mcp-outcome-workflows) - Outcome-first research and note workflow skill with a first-party MCP companion surface
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Generate hand-drawn Excalidraw diagrams from prompt
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - Code review and PR autofix workflows
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
