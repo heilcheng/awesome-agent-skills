@@ -289,6 +289,7 @@ Official skills for ML workflows.
 - [figma/figma-implement-design](https://agent-skill.co/figma/skills/figma-implement-design) - Translate Figma designs into production-ready code with 1:1 fidelity
 - [figma/figma-generate-library](https://agent-skill.co/figma/skills/figma-generate-library) - Build or update a design system library in Figma from a codebase
 - [figma/figma-use](https://agent-skill.co/figma/skills/figma-use) - Run Figma Plugin API scripts for canvas writes and inspections
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ---
 
