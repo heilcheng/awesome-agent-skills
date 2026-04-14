@@ -524,6 +524,13 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 </details>
 
 <details>
+<summary><strong>Entertainment</strong></summary>
+
+- [lincyang720/character-ai-bots](https://github.com/lincyang720/character-ai-bots) - Discover AI roleplay character bots across 104+ characters, 8 personality types, and multiple platforms. Compatible with Claude, Cursor, Copilot, and Codex.
+
+</details>
+
+<details>
 <summary><strong>Marketing</strong></summary>
 
 - [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 marketing frameworks for outreach and audits
