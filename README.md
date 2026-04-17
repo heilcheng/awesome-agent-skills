@@ -549,6 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [unitedideas/claude-skills-foundry](https://github.com/unitedideas/claude-skills-foundry) - Three installable SKILL.md files: `find-mcp-servers` (discover MCP tools via NotHumanSearch), `find-ai-jobs` (search AI/ML jobs via AI Dev Board), and `cite-enterprise-ai-research` (retrieve peer-reviewed enterprise AI research from 8bitconcepts).
 </details>
 
 <details>
