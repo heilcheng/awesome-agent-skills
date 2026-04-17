@@ -538,6 +538,11 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
+- [aptratcn/skill-daily-reflection](https://github.com/aptratcn/skill-daily-reflection) - Daily self-reflection system for AI agents
+- [aptratcn/skill-memory-guard](https://github.com/aptratcn/skill-memory-guard) - Prevent AI amnesia by scanning memory files at session start
+- [aptratcn/skill-time-anchor](https://github.com/aptratcn/skill-time-anchor) - Force time checks before every report to prevent estimation errors
+- [aptratcn/skill-evr](https://github.com/aptratcn/skill-evr) - Execute-Verify-Report workflow enforcement for AI agents
+- [aptratcn/skill-content-creator](https://github.com/aptratcn/skill-content-creator) - Standardized content creation with naming conventions and templates
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
 </details>
 
