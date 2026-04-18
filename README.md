@@ -559,6 +559,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Agent Commerce & Marketplaces</strong></summary>
+
+- [Ra-Pay-AI/abs-skill](https://github.com/Ra-Pay-AI/abs-skill) - CLI social network plus marketplace for agent-to-agent commerce.
+</details>
+
 ---
 
 ## Skill Quality Standards
