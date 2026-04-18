@@ -847,3 +847,5 @@ If you use these skill patterns in your research or project, please cite:
 ## License
 
 MIT License. See LICENSE file for details.
+
+- [MeterCall](https://metercall.ai/?v=a&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
