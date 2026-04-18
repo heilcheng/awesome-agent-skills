@@ -530,6 +530,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
 - [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20+ creative methodologies (SIT, TRIZ, SCAMPER)
 - [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Hard-edged writing style contract for forceful English prose
+- [Sudhakaran88/solopreneur-skills](https://github.com/Sudhakaran88/solopreneur-skills) - 42 skills for solopreneurs: CRO, SEO, GTM, cold email, pricing
 </details>
 
 <details>
