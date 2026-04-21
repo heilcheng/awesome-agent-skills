@@ -543,6 +543,17 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [aptratcn/skill-time-anchor](https://github.com/aptratcn/skill-time-anchor) - Force time checks before every report to prevent estimation errors
 - [aptratcn/skill-evr](https://github.com/aptratcn/skill-evr) - Execute-Verify-Report workflow enforcement for AI agents
 - [aptratcn/skill-content-creator](https://github.com/aptratcn/skill-content-creator) - Standardized content creation with naming conventions and templates
+- [aptratcn/skill-error-recovery](https://github.com/aptratcn/skill-error-recovery) - 4R framework for systematic error recovery (Record-Reason-Recover-Report)
+- [aptratcn/token-budget-guard](https://github.com/aptratcn/token-budget-guard) - 99% token savings through progressive disclosure, conversation compression, and budget monitoring
+- [aptratcn/session-context-bridge](https://github.com/aptratcn/session-context-bridge) - Lightweight cross-session context persistence using markdown files, zero dependencies
+- [aptratcn/skill-health-monitor](https://github.com/aptratcn/skill-health-monitor) - Automated health checks for agent skill collections with 5-dimension scoring
+- [aptratcn/cognitive-debt-guard](https://github.com/aptratcn/cognitive-debt-guard) - Prevent the 23.5% incident spike from AI-generated code
+- [aptratcn/prompt-guard](https://github.com/aptratcn/prompt-guard) - Detect and resist prompt injection attacks in agent workflows
+- [aptratcn/systematic-debugging](https://github.com/aptratcn/systematic-debugging) - 4-phase root cause debugging process (Observe-Hypothesize-Verify-Fix)
+- [aptratcn/evr-framework](https://github.com/aptratcn/evr-framework) - Execute-Verify-Report workflow to stop fake completions
+- [aptratcn/trend-harvester](https://github.com/aptratcn/trend-harvester) - Multi-platform trend research across Reddit, HN, X, YouTube
+- [aptratcn/cross-tool-skill-sync](https://github.com/aptratcn/cross-tool-skill-sync) - Write once, deploy everywhere — auto-convert between Claude Code, Cursor, Copilot, Windsurf
+- [aptratcn/xiaobai-workflow-enforcer](https://github.com/aptratcn/xiaobai-workflow-enforcer) - Mandatory workflow gates (Design→Plan→TDD→Execute) for AI agents
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
 </details>
 
@@ -562,6 +573,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+- [aptratcn/token-budget-guard](https://github.com/aptratcn/token-budget-guard) - Token budget management with progressive disclosure (99% savings)
+- [aptratcn/session-context-bridge](https://github.com/aptratcn/session-context-bridge) - Cross-session context persistence with zero-dependency markdown approach
 </details>
 
 ---
