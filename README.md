@@ -530,6 +530,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
 - [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20+ creative methodologies (SIT, TRIZ, SCAMPER)
 - [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Hard-edged writing style contract for forceful English prose
+- [voidborne-d/humanize-chinese](https://github.com/voidborne-d/humanize-chinese) - Detect AI-generated Chinese text (0–100 score, 20+ categories) and rewrite in 7 styles (zhihu, xiaohongshu, weibo, academic, etc.); pure Python, zero dependencies, also handles 论文降重 / AIGC 检测
 </details>
 
 <details>
