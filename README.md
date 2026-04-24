@@ -95,6 +95,8 @@ It is recommended to use the **[SkillsMP Marketplace](https://skillsmp.com)**, w
 
 You can also use **[skills.sh](https://skills.sh)** — Vercel's leaderboard — to intuitively view the most popular Skills repositories and individual Skill usage statistics.
 
+- **[Skills宝 (skilery.com)](https://skilery.com)** - Chinese AI Skills marketplace for one-stop search and install across Claude Code, OpenCode, and more platforms
+
 ### npx skills CLI Tool
 
 For specific skills, use the `npx skills` command-line tool to quickly discover, add, and manage skills. For detailed parameters, see [vercel-labs/skills](https://github.com/vercel-labs/skills).
