@@ -559,6 +559,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Data & Compliance</strong></summary>
+
+- [strale-io/strale](https://github.com/strale-io/strale) - MCP server + REST API exposing Strale’s data capability catalog: company registry lookups across 27 countries, sanctions/PEP screening, IBAN/VAT/LEI validation, web intelligence, and document extraction. Also reachable via x402 micropayments on Base.
+</details>
+
 ---
 
 ## Skill Quality Standards
