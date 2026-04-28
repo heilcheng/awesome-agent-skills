@@ -557,6 +557,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+- [yeewangcn/tianluo](https://github.com/yeewangcn/tianluo) - Methodology for multi-hour autonomous runs. State survives context compaction, plan-time fork enumeration, 5-layer diagnosis, budget-bounded retry. Bilingual EN/CN
 </details>
 
 ---
