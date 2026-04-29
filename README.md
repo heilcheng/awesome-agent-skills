@@ -392,6 +392,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 ### Security & Web Intelligence
 
+#### Authorization and Access
+- [SarthiAI/kavach-skill](https://github.com/SarthiAI/kavach-skill) - Default-deny execution gate for AI agents and APIs (post-quantum signed permits, drift detection, audit chain), Python SDK on PyPI
+
 #### Skills by Trail of Bits
 - [trailofbits/audit-context-building](https://agent-skill.co/trailofbits/skills/audit-context-building) - Deep architectural context via granular code analysis
 - [trailofbits/building-secure-contracts](https://agent-skill.co/trailofbits/skills/building-secure-contracts) - Smart contract security toolkit for 6 blockchains
