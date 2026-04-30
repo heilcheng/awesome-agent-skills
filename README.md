@@ -14,6 +14,18 @@ Never heard of "agent skills" before? You're in the right place. This is a commu
 
 ## Quick Start (30 seconds)
 
+## OpenClaw Monitor
+
+| | |
+|---|---|
+| **Project** | [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) |
+| **Description** | Real-time AI agent monitoring dashboard — tracks Gateway status, sessions, token usage & trends |
+| **Stars** | ⭐ 1.3k+ |
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
+
 **Step 1: Pick a skill** from the directory below (or browse at [agent-skill.co](https://agent-skill.co))
 
 **Step 2: Load it into your AI agent:**
