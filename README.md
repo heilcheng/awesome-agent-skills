@@ -249,6 +249,9 @@ Official skills for ML workflows.
 
 ### Developer Tools & Frameworks
 
+#### Skill by AgentGuard
+- [bmdhodl/agent47](https://github.com/bmdhodl/agent47) - Runtime budget, token, rate, and timeout guardrails for AI coding agents. Stops loops, retry storms, and overruns mid-run. MIT, zero deps, local-first.
+
 #### Skills by VoltAgent
 - [voltagent/create-voltagent](https://agent-skill.co/voltagent/skills/create-voltagent) - Project setup guide with CLI and manual steps
 - [voltagent/voltagent-best-practices](https://agent-skill.co/voltagent/skills/voltagent-best-practices) - Architecture and usage patterns for agents, workflows, memory, and servers
