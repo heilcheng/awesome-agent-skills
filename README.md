@@ -41,6 +41,7 @@ That's it. No installation. No configuration. No coding required.
   - [Security & Web Intelligence](#security--web-intelligence)
 - [Community Skills](#community-skills)
   - [Vector Databases](#vector-databases)
+  - [Data & Analytics](#data--analytics)
   - [Marketing](#marketing)
   - [Productivity and Collaboration](#productivity-and-collaboration)
   - [Development and Testing](#development-and-testing)
@@ -521,6 +522,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Vector Databases</strong></summary>
 
 - [qdrant/skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search, scaling, and performance
+</details>
+
+<details>
+<summary><strong>Data & Analytics</strong></summary>
+
+- [honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins) - 11 skills + MCP server for building and querying a governed semantic layer over Snowflake, Databricks, and BigQuery from coding agents (Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI). Same trusted model serves BI tools and AI agents. Plugins are Apache 2.0.
 </details>
 
 <details>
