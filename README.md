@@ -83,7 +83,8 @@ Skills are **instructions**, not code. The AI reads them like a human would read
 
 ## How to Find Skills (Recommended)
 
-### SkillsMP Marketplace
+### Skills
+- [Qonspekt](https://github.com/Qonspekt/qonspekt) - Article to atomic Obsidian notes via Claude AI. BYOK browser tool. [Live](https://qonspekt.github.io/qonspekt/)MP Marketplace
 
 [![SkillsMP Marketplace](assets/skills-mp.png)](https://skillsmp.com)
 
