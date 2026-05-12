@@ -408,6 +408,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [firecrawl/firecrawl-agent](https://agent-skill.co/firecrawl/skills/firecrawl-agent) - AI agent for autonomous web scraping
 - [firecrawl/firecrawl-browser](https://agent-skill.co/firecrawl/skills/firecrawl-browser) - Browser-based web scraping and interaction
 
+#### Skill by Xquik
+- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data skill for tweet search, profile timelines, follower export, media download, monitors, webhooks, MCP, and SDK workflows
+
 <details>
 <summary><strong>Skills by Microsoft</strong></summary>
 
