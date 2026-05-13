@@ -533,6 +533,13 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 </details>
 
 <details>
+<summary><strong>Finance & Investment</strong></summary>
+
+- [tellmefrankie/news-engine](https://github.com/tellmefrankie/news-engine) - 4 production-tested investment analysis skills: options flow scanner with P/C ratio anomaly detection, stop-loss monitor with Telegram alerts, 9-wave daily briefing, portfolio Greeks dashboard. MIT, TypeScript + Claude API.
+
+</details>
+
+<details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
