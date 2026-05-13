@@ -552,6 +552,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 </details>
 
 <details>
+<summary><strong>Finance and Investment</strong></summary>
+
+- [tellmefrankie/ai-investment-skills](https://github.com/tellmefrankie/ai-investment-skills) - Options flow scanner with volume quality filtering, stop-loss/take-profit price monitor with Telegram alerts, and daily AI briefing. Detects sector ETF P/C ratio anomalies (e.g., XLI P/C at 5.32 vs. normal 0.5–1.2).
+</details>
+
+<details>
 <summary><strong>Context Engineering</strong></summary>
 
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
