@@ -325,6 +325,9 @@ Official skills for ML workflows.
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
+#### Skills by Authsome
+- [agentrhq/authsome](https://github.com/agentrhq/authsome) - Local OAuth2 and API-key credential broker for AI agents. Login once via browser PKCE or device code, encrypted vault at ~/.authsome, local proxy injects credentials at request time. 30+ providers preconfigured.
+
 #### Skills by Notion
 - [makenotion/knowledge-capture](https://agent-skill.co/makenotion/skills/knowledge-capture) - Transform conversations into structured Notion documentation
 - [makenotion/meeting-intelligence](https://agent-skill.co/makenotion/skills/meeting-intelligence) - Prepare meeting materials by gathering Notion context
