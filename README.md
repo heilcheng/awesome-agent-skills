@@ -559,6 +559,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Chinese Ecosystem Skills</strong></summary>
+
+- **[Aura-huang/agency-agents-cn](https://github.com/Aura-huang/agency-agents-cn)** - 一人公司技能库中国版。针对中国市场（微信、小红书、抖音、B站、知乎等）深度优化的 15+ 原创 Agent 角色，一人创业者专属。
+</details>
+
 ---
 
 ## Skill Quality Standards
