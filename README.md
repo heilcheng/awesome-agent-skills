@@ -539,6 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [yehudalevy-collab/polis-protocol](https://github.com/yehudalevy-collab/polis-protocol) - Markdown coordination protocol for multi-vendor agent teams. Capability cards, ε-greedy bandit routing that learns from settled contracts, chavruta paired review, self-amending constitution
 </details>
 
 <details>
