@@ -95,6 +95,10 @@ It is recommended to use the **[SkillsMP Marketplace](https://skillsmp.com)**, w
 
 You can also use **[skills.sh](https://skills.sh)** — Vercel's leaderboard — to intuitively view the most popular Skills repositories and individual Skill usage statistics.
 
+### Remote OpenClaw Skills Directory
+
+You can also browse **[Remote OpenClaw](https://www.remoteopenclaw.com/skills)** for a cross-agent skills directory with dedicated Claude, Codex, Hermes, and OpenClaw hubs, plus related MCP and marketplace pages.
+
 ### npx skills CLI Tool
 
 For specific skills, use the `npx skills` command-line tool to quickly discover, add, and manage skills. For detailed parameters, see [vercel-labs/skills](https://github.com/vercel-labs/skills).
