@@ -536,6 +536,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Productivity and Collaboration</strong></summary>
 
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
+- [proompteng/bilig WorkPaper skill](https://github.com/proompteng/bilig/blob/main/docs/.well-known/agent-skills/bilig-workpaper/SKILL.md) - Formula-backed workbook skill for agents: edit cells through MCP or TypeScript, recalculate formulas, verify readback, and persist JSON without driving spreadsheet UI.
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
