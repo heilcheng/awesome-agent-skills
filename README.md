@@ -322,6 +322,9 @@ Official skills for ML workflows.
 #### Skills by Typefully
 - [typefully/typefully](https://agent-skill.co/typefully/skills/typefully) - Create, schedule, and publish social media content
 
+#### Skills by SocialClaw
+- [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw) - Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via a single workspace API key.
+
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
