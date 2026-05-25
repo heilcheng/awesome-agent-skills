@@ -345,6 +345,9 @@ Official skills for ML workflows.
 - [better-auth/create-auth](https://agent-skill.co/better-auth/skills/create-auth) - Create authentication setup with Better Auth
 - [better-auth/twoFactor](https://agent-skill.co/better-auth/skills/twoFactor) - Two-factor authentication with Better Auth
 
+#### Skills by LaunchMyStore
+- [LaunchMyStore/skill](https://github.com/LaunchMyStore/skill) - Natural-language router for the LaunchMyStore e-commerce platform. Scaffold apps with the `lms` CLI, dispatch App Bridge actions, build WASM Functions (cart transform / discount / shipping / payment / delivery / order validation), write Aqua/Liquid theme sections, and drive the LaunchMyStore MCP server (130+ merchant-store tools). Universal SKILL.md install across Claude Code, Codex, Cursor, Gemini CLI, Windsurf, Antigravity, and more.
+
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
 
