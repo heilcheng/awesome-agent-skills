@@ -542,6 +542,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 </details>
 
 <details>
+<summary><strong>Research and Knowledge Retrieval</strong></summary>
+
+- [Intelligent-Internet/II-Commons-Skills](https://github.com/Intelligent-Internet/II-Commons-Skills) - Agent skill and npm CLI for daily-updated retrieval across arXiv, PubMed/PMC, and supported US policy corpora
+</details>
+
+<details>
 <summary><strong>Development and Testing</strong></summary>
 
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Generate hand-drawn Excalidraw diagrams from prompt
