@@ -556,6 +556,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
+- [caioribeiroclw-pixel/pluribus/context-receipts](https://github.com/caioribeiroclw-pixel/pluribus/tree/main/examples/agent-skills/context-receipts) - Privacy-safe receipts for context usage, Tool Search, subagent boundaries, compaction, and pruning
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
