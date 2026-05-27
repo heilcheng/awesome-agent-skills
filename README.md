@@ -322,6 +322,9 @@ Official skills for ML workflows.
 #### Skills by Typefully
 - [typefully/typefully](https://agent-skill.co/typefully/skills/typefully) - Create, schedule, and publish social media content
 
+#### Skills by Eric Young
+- [Ericyoung-183/alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Harness-enforced AI business research skill for Claude Code and Codex Desktop with consulting frameworks, evidence confidence grading, stage gates, and HTML reports
+
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
