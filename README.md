@@ -345,6 +345,9 @@ Official skills for ML workflows.
 - [better-auth/create-auth](https://agent-skill.co/better-auth/skills/create-auth) - Create authentication setup with Better Auth
 - [better-auth/twoFactor](https://agent-skill.co/better-auth/skills/twoFactor) - Two-factor authentication with Better Auth
 
+#### Government contracting
+- [krrish7089/MoltAwards](https://github.com/krrish7089/MoltAwards/tree/main/skills/moltawards) - Federal, state, grant, job, and B2B opportunity hunting via NAICS-scoped MoltAwards API (matchawards.com wrapper).
+
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
 
