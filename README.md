@@ -557,8 +557,16 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+- [thebrierfox/doc2math-skill](https://github.com/thebrierfox/doc2math-skill) - Formalize prose documents into precise mathematical notation for rigorous analysis and verification
 </details>
 
+
+<details>
+<summary><strong>Finance & Investment</strong></summary>
+
+- [thebrierfox/yield-intelligence-skill](https://github.com/thebrierfox/yield-intelligence-skill) - Live Treasury rates, passive income portfolio calculator, and AI analyst for yield allocation decisions
+- [thebrierfox/moatmri-skill](https://github.com/thebrierfox/moatmri-skill) - AI disruption pressure analysis: identify economic moats under threat and quantify competitive risk exposure
+</details>
 ---
 
 ## Skill Quality Standards
