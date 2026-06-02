@@ -128,6 +128,9 @@ npx skills remove [skill-name]     # Uninstall skills
 
 ## Official Skill Directories
 
+* [BuilderStudio Skills](https://github.com/wundercorp/builderstudio-skills) - WunderCorp's public BuilderStudio skillset catalog with reusable agent skills for repeatable AI development workflows that pair with Pathways, MCP integrations, Hermes-powered contained execution, and Agentic Swarms.
+
+
 ### AI Platforms & Models
 
 #### Skills by Anthropic
