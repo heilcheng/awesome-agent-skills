@@ -335,6 +335,9 @@ Official skills for ML workflows.
 - [resend/react-email](https://github.com/resend/resend-skills/tree/main/skills/react-email) - Build emails with React Email components
 - [resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices) - Email deliverability and design best practices
 
+#### Skills by Sequenzy
+- [sequenzy/sequenzy-email-marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) - Operate Sequenzy lifecycle email marketing and transactional email workflows
+
 #### Skills by Sanity
 - [sanity-io/sanity-best-practices](https://agent-skill.co/sanity-io/skills/sanity-best-practices) - Best practices for Sanity Studio and content workflows
 - [sanity-io/content-modeling-best-practices](https://agent-skill.co/sanity-io/skills/content-modeling-best-practices) - Guidelines for designing scalable content models in Sanity
