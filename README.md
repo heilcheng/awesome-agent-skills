@@ -559,6 +559,14 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Commerce and Payments</strong></summary>
+
+- [darioandyoshi-tech/awm-skills](https://github.com/darioandyoshi-tech/awm-skills) - AI Work Market (AWM): USDC escrow for AI agent work contracts on Base Mainnet. Complements x402 (atomic pay-per-call) with multi-day proof + dispute + release. 1% fee, Safe + Timelock governance.
+- [inference-sh/skills](https://github.com/inference-sh/skills) - 250+ AI model and tool skills via the inference.sh CLI (image, video, LLMs, search)
+- [Merit-Systems/awesome-agentic-commerce](https://github.com/Merit-Systems/awesome-agentic-commerce) - Curated agent commerce resources, x402, USDC, MPC wallets
+</details>
+
 ---
 
 ## Skill Quality Standards
