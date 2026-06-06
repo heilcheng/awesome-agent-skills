@@ -549,6 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [awesome-agent-skills/skills](https://github.com/awesome-agent-skills/skills) - research-and-grill (web research + Socratic quiz), pr-narrative (human PR title + description from git history), pattern-enforcer (codebase consistency enforcement across UI, errors, tests, and naming)
 </details>
 
 <details>
