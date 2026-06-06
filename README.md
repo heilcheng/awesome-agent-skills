@@ -424,6 +424,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [binance/query-token-audit](https://agent-skill.co/binance/skills/query-token-audit) - Audit token security to detect scams and honeypots
 - [binance/trading-signal](https://agent-skill.co/binance/skills/trading-signal) - Monitor on-chain Smart Money buy/sell signals
 
+#### TWZRD Agent Intel (Solana Agent Trust)
+- [twzrd/agent-intel](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents on Solana. Free preflight returns a reputation score for any agent wallet; paid call returns a signed USDC trust receipt settled on-chain in <1s. Streamable-HTTP at `https://intel.twzrd.xyz/mcp`.
+
 #### Skills by Sanity
 
 Install from [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit).
