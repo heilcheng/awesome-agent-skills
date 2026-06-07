@@ -196,6 +196,10 @@ Official skills for ML workflows.
 #### Skills by MiniMax
 - [MiniMax-AI/frontend-dev](https://agent-skill.co/MiniMax-AI/skills/frontend-dev) - Frontend with animations and AI media via MiniMax
 - [MiniMax-AI/minimax-pdf](https://agent-skill.co/MiniMax-AI/skills/minimax-pdf) - Generate, fill, and reformat PDFs
+
+#### Skills by RunAPI
+- [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) - Generate AI images, videos, and music/audio from agents with the RunAPI CLI
+
 ### Cloud & Infrastructure
 
 #### Skills by Cloudflare
