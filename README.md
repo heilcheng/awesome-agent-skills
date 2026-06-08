@@ -560,6 +560,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 </details>
 
 ---
+- [Hermes Skills](https://github.com/liuyunnb666/hermes-skills) - 7 curated agent skills for AI coding: debugging, TDD, UI, parallel agents
+
 
 ## Skill Quality Standards
 
