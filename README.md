@@ -95,6 +95,10 @@ It is recommended to use the **[SkillsMP Marketplace](https://skillsmp.com)**, w
 
 You can also use **[skills.sh](https://skills.sh)** — Vercel's leaderboard — to intuitively view the most popular Skills repositories and individual Skill usage statistics.
 
+### CreatorSkills — Content Creator Marketplace
+
+**[CreatorSkills](https://creatorskills.co)** is a curated marketplace of 30+ downloadable AI skills purpose-built for content creators — covering YouTube scripting, sponsorship analysis, content repurposing, and audience growth. Skills use the open SKILL.md format and work with Claude, ChatGPT, and 20+ AI platforms.
+
 ### npx skills CLI Tool
 
 For specific skills, use the `npx skills` command-line tool to quickly discover, add, and manage skills. For detailed parameters, see [vercel-labs/skills](https://github.com/vercel-labs/skills).
