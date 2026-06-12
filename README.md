@@ -528,6 +528,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 - [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 marketing frameworks for outreach and audits
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
+- [shimo4228/llms-txt-writer](https://github.com/shimo4228/llms-txt-writer) - Writes llms.txt and AI-facing docs optimized for citation by ChatGPT, Perplexity, and Gemini
+- [shimo4228/jsonld-knowledge-graph](https://github.com/shimo4228/jsonld-knowledge-graph) - Companion JSON-LD knowledge graph next to llms.txt, schema.org triples for LLM citation
 - [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20+ creative methodologies (SIT, TRIZ, SCAMPER)
 - [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Hard-edged writing style contract for forceful English prose
 </details>
