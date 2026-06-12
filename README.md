@@ -44,6 +44,7 @@ That's it. No installation. No configuration. No coding required.
   - [Marketing](#marketing)
   - [Productivity and Collaboration](#productivity-and-collaboration)
   - [Development and Testing](#development-and-testing)
+  - [Crypto and Web3](#crypto-and-web3)
   - [Context Engineering](#context-engineering)
 - [Skill Quality Standards](#skill-quality-standards)
 - [Using Skills](#using-skills)
@@ -549,6 +550,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+</details>
+
+<details>
+<summary><strong>Crypto and Web3</strong></summary>
+
+- [DerDoPhil/swarmskill-agent-skill](https://github.com/DerDoPhil/swarmskill-agent-skill) - Coordinated swarm coin-trading on Solana/pump.fun for up to 500 agents (ERC-8257 tool, on-chain verified settlement)
 </details>
 
 <details>
