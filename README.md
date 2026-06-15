@@ -539,6 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [tempguru-co/tempguru-agent-skills](https://github.com/tempguru-co/tempguru-agent-skills) - W-2 event staffing ordering and compliance for 300+ US and Canadian markets; live MCP lookups for pricing, availability, and state compliance, plus an opt-in request_quote submission
 </details>
 
 <details>
