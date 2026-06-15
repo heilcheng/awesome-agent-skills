@@ -468,6 +468,8 @@ Install from [better-auth/skills](https://github.com/better-auth/skills).
 | Skill | Description |
 |-------|-------------|
 | [gstack](https://github.com/garrytan/gstack) | YC founder stack recommendations for infra, tooling, and deployment |
+#### Skills by SuperCLI
+- [javimosch/supercli](https://github.com/javimosch/supercli) - Universal CLI router with 4,795+ agent skills (`SKILL.md`). Agents discover CLI tools by intent via `sc skills search`, inspect schemas via `sc inspect`, and execute with deterministic JSON output. Each plugin ships with its own `skills/quickstart/SKILL.md` — instant agent onboarding for 7,000+ CLI tools.
 
 ---
 
