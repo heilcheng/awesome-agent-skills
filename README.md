@@ -346,7 +346,7 @@ Official skills for ML workflows.
 - [better-auth/twoFactor](https://agent-skill.co/better-auth/skills/twoFactor) - Two-factor authentication with Better Auth
 
 #### Skills by NotFair
-Open-source SEO, GEO, and paid-ads skills for marketing work. They pull from live data through the Google Ads, Meta Ads, Google Search Console, and Google Analytics (GA4) MCP servers, so audits run against real numbers instead of guesses.
+Open-source SEO, GEO, and paid-ads skills for marketing work. They pull from live data through the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP, so audits run against real numbers instead of guesses.
 - [nowork-studio/seo](https://github.com/nowork-studio/NotFair/tree/main/seo) - SEO and GEO: site analysis, keyword research, meta tags, schema markup, and content writing
 - [nowork-studio/google-ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads) - Google Ads audits: wasted-spend detection, search-term cleanup, keyword and bid management
 - [nowork-studio/meta-ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) - Meta (Facebook + Instagram) Ads: ROAS analysis, creative-fatigue and audience-overlap diagnosis
