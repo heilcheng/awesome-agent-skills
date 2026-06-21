@@ -539,6 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [franklinxkk/ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side spec-driven delivery framework: PRD, prototype, DDD/API/data contracts, acceptance gates, and coding-agent handoff (L0-L3 tiers, 4 domain modules)
 </details>
 
 <details>
