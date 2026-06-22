@@ -539,6 +539,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
+- [linkedin-growth](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth) - Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests.
 </details>
 
 <details>
