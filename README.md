@@ -325,6 +325,10 @@ Official skills for ML workflows.
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
+#### Skills by Outlit
+- [outlit/outlit](https://github.com/OutlitAI/outlit-agent-skills/tree/main/skills/outlit) - Query customer intelligence, timelines, revenue, churn, and SQL
+- [outlit/outlit-sdk](https://github.com/OutlitAI/outlit-agent-skills/tree/main/skills/outlit-sdk) - Integrate Outlit tracking across web, server, and native apps
+
 #### Skills by Notion
 - [makenotion/knowledge-capture](https://agent-skill.co/makenotion/skills/knowledge-capture) - Transform conversations into structured Notion documentation
 - [makenotion/meeting-intelligence](https://agent-skill.co/makenotion/skills/meeting-intelligence) - Prepare meeting materials by gathering Notion context
