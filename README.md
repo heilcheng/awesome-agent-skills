@@ -196,6 +196,13 @@ Official skills for ML workflows.
 #### Skills by MiniMax
 - [MiniMax-AI/frontend-dev](https://agent-skill.co/MiniMax-AI/skills/frontend-dev) - Frontend with animations and AI media via MiniMax
 - [MiniMax-AI/minimax-pdf](https://agent-skill.co/MiniMax-AI/skills/minimax-pdf) - Generate, fill, and reformat PDFs
+
+#### Skills by Bria AI
+- [Bria-AI/bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - AI image generation, editing, and background removal API
+- [Bria-AI/remove-background](https://github.com/Bria-AI/bria-skill/tree/main/skills/remove-background) - Remove image backgrounds for transparent PNGs and cutouts
+- [Bria-AI/video-remove-background](https://github.com/Bria-AI/bria-skill/tree/main/skills/video-remove-background) - Remove video backgrounds for transparent, alpha-channel clips
+- [Bria-AI/vgl](https://github.com/Bria-AI/bria-skill/tree/main/skills/vgl) - Structured JSON control over AI image generation (FIBO)
+- [Bria-AI/image-utils](https://github.com/Bria-AI/bria-skill/tree/main/skills/image-utils) - Resize, crop, composite, and convert images with Pillow
 ### Cloud & Infrastructure
 
 #### Skills by Cloudflare
