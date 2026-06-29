@@ -802,6 +802,7 @@ Every skill in this list is a public GitHub repository — you can read the full
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Standards and tools for the DESIGN.md protocol.
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Open source agent skills for OpenClaw.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of Model Context Protocol (MCP) servers.
+- [Skill Hub](https://github.com/rdone4425/skill) - 4133+ Agent Skills classified across 22 categories (Dev Tools, Agent Framework, Design UI, etc.). Filterable by platform (Claude Code, Codex, Cursor, Hermes, OpenCode). Bilingual CN/EN.
 
 ---
 
