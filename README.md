@@ -325,6 +325,9 @@ Official skills for ML workflows.
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
+#### Skills by Adanos
+- [adanos-software/adanos-market-sentiment-skill](https://github.com/adanos-software/adanos-market-sentiment-skill) - Read-only stock and crypto sentiment from Reddit, X, news, and Polymarket
+
 #### Skills by Notion
 - [makenotion/knowledge-capture](https://agent-skill.co/makenotion/skills/knowledge-capture) - Transform conversations into structured Notion documentation
 - [makenotion/meeting-intelligence](https://agent-skill.co/makenotion/skills/meeting-intelligence) - Prepare meeting materials by gathering Notion context
