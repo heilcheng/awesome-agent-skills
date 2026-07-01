@@ -325,6 +325,9 @@ Official skills for ML workflows.
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
+#### Skills by Aident
+- [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) - Connect agents to 1,000+ apps, 27,000+ actions, Vault, MCP, CLI, and audit history
+
 #### Skills by Notion
 - [makenotion/knowledge-capture](https://agent-skill.co/makenotion/skills/knowledge-capture) - Transform conversations into structured Notion documentation
 - [makenotion/meeting-intelligence](https://agent-skill.co/makenotion/skills/meeting-intelligence) - Prepare meeting materials by gathering Notion context
