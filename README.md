@@ -530,6 +530,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
 - [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20+ creative methodologies (SIT, TRIZ, SCAMPER)
 - [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Hard-edged writing style contract for forceful English prose
+- [mambalabsdev/mamba-labs-skills](https://github.com/mambalabsdev/mamba-labs-skills) - 4 free GTM skills for signal-based outbound: ICP definition, cold email audits, domain health, and hiring signals
 </details>
 
 <details>
