@@ -544,6 +544,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Development and Testing</strong></summary>
 
+- [bin1874/ai-meeting-skill](https://github.com/bin1874/ai-meeting-skill) - Structured multi-agent decision reviews for plans, technical designs, and implementation proposals
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Generate hand-drawn Excalidraw diagrams from prompt
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - Code review and PR autofix workflows
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
