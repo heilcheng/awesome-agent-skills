@@ -20,6 +20,7 @@ Never heard of "agent skills" before? You're in the right place. This is a commu
 - Claude Code: `/skills add <github-url>`
 - Claude.ai: paste the raw SKILL.md URL in a new conversation
 - Codex / Copilot: follow platform docs linked in [Using Skills](#using-skills)
+- Autohand Code: use `autohand --skill-install <skill-name>` for cataloged skills, or copy a skill folder into `~/.autohand/skills/`
 
 **Step 3: Ask your AI to use it.** Just describe what you want in plain English.
 
@@ -123,6 +124,7 @@ npx skills remove [skill-name]     # Uninstall skills
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 | Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
 | Junie | [junie.jetbrains.com](https://junie.jetbrains.com/docs/agent-skills.html) |
+| Autohand Code | [github.com/autohandai/code-cli](https://github.com/autohandai/code-cli) |
 
 ---
 
@@ -614,6 +616,24 @@ $skill-installer linear
 
 Restart Codex after installing a skill to pick it up.
 
+### Using Skills in Autohand Code
+
+Autohand Code can install cataloged skills directly:
+
+```bash
+autohand --skill-install <skill-name>
+autohand --skill-install <skill-name> --project
+```
+
+For skills you download manually, place each complete skill folder where Autohand Code scans for skills:
+
+```text
+~/.autohand/skills/skill-name/SKILL.md
+<project>/.autohand/skills/skill-name/SKILL.md
+```
+
+Use the global path for skills you want across projects, or the project path when a skill should apply only to the current workspace.
+
 ### Using Skills in VS Code / GitHub Copilot
 
 Skills are stored in directories with a `SKILL.md` file:
@@ -769,7 +789,7 @@ They work great together:
 
 ### Which AI tools support Agent Skills?
 
-Currently supported: **Claude** (Claude.ai and Claude Code), **GitHub Copilot**, **VS Code**, **Codex** (OpenAI), **Antigravity** (Google), **Gemini CLI**, **Kiro**, and **Junie**. The ecosystem is growing rapidly.
+Currently supported: **Claude** (Claude.ai and Claude Code), **GitHub Copilot**, **VS Code**, **Codex** (OpenAI), **Antigravity** (Google), **Gemini CLI**, **Kiro**, **Junie**, and **Autohand Code**. The ecosystem is growing rapidly.
 
 ### Do Agent Skills run code?
 
