@@ -45,6 +45,7 @@ That's it. No installation. No configuration. No coding required.
   - [Productivity and Collaboration](#productivity-and-collaboration)
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia: every AI session starts loaded with who you are, how you decide, and what constraints apply. MIT, one-command install.
 - [Skill Quality Standards](#skill-quality-standards)
 - [Using Skills](#using-skills)
 - [Creating Skills](#creating-skills)
