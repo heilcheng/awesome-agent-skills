@@ -45,6 +45,7 @@ That's it. No installation. No configuration. No coding required.
   - [Productivity and Collaboration](#productivity-and-collaboration)
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
+  - [Agent Networking & Communication](#agent-networking--communication)
 - [Skill Quality Standards](#skill-quality-standards)
 - [Using Skills](#using-skills)
 - [Creating Skills](#creating-skills)
@@ -557,6 +558,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+</details>
+
+<details>
+<summary><strong>Agent Networking & Communication</strong></summary>
+
+- [TeoSlayer/pilot-skills](https://github.com/TeoSlayer/pilot-skills) - Skills for Pilot Protocol, an overlay network giving agents a permanent address, encrypted P2P tunnels, NAT traversal, and a trust model for agent-to-agent communication
 </details>
 
 ---
