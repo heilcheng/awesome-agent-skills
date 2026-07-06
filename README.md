@@ -549,6 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills/tree/master/harmony-next) - HarmonyOS NEXT developer skill for AI coding agents, covering offline ArkTS/ArkUI/API lookup, DevEco/HDC/Emulator automation, debugging scripts, UI/UX audits, and smoke-test templates
 </details>
 
 <details>
