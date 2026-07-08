@@ -1,5 +1,7 @@
 # Agent Skill Index
 
+[![Listed on TakoAPI](https://takoapi.com/api/badge/heilcheng-awesome-agent-skills)](https://takoapi.com/agents/heilcheng-awesome-agent-skills)
+
 [English](README.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md)
 
 [![Agent Skill Index Banner](assets/banner.png)](https://agent-skill.co)
