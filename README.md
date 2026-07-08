@@ -559,6 +559,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Finance and Trading</strong></summary>
+
+- [Autonomous-Asset-Management-Agents/autonomous_](https://github.com/Autonomous-Asset-Management-Agents/autonomous_/tree/main/packages/autonomous-audit) - Tamper-evident SHA-256 hash-chain audit log + HTML report for AI trading-agent decisions; read-only, offline, Apache-2.0, Python stdlib only
+</details>
+
 ---
 
 ## Skill Quality Standards
