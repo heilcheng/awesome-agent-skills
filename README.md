@@ -549,7 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
-- [ZachRouan/gui-tool](https://github.com/ZachRouan/agent-desktop-interface/tree/main/skills/gui-tool) - Zero-dependency Rust CLI for cross-platform GUI and desktop automation built for AI agents.
+- [ZachRouan/gridhand](https://github.com/ZachRouan/gridhand/tree/main/skills/gridhand) - Zero-dependency Rust CLI for cross-platform GUI and desktop automation built for AI agents.
 </details>
 
 <details>
