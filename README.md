@@ -539,6 +539,10 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [LucioLiu/dont-reinvent](https://github.com/LucioLiu/dont-reinvent) - Teach an agent to find and install existing skills before building one
+- [LucioLiu/handoff-protocol](https://github.com/LucioLiu/handoff-protocol) - Multi-agent collaboration standard: pull rules, task handoff, flow-back, team journal
+- [LucioLiu/knock-knock](https://github.com/LucioLiu/knock-knock) - Push notifications to the owner's phone via ntfy, with when-to-call discipline
+- [LucioLiu/token-saver](https://github.com/LucioLiu/token-saver) - Route every subagent to the cheapest model that can do the job (70-90% savings on execution-tier tokens)
 </details>
 
 <details>
@@ -557,6 +561,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+- [LucioLiu/sharpen-first](https://github.com/LucioLiu/sharpen-first) - Fool-proof requirement clarification: turn vague requests into a consensus sheet before work starts
 </details>
 
 ---
