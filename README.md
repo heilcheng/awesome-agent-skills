@@ -539,6 +539,9 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [LucioLiu/nuwa-skill-acquisition](https://github.com/LucioLiu/nuwa-skill-acquisition) - Teach an agent to find and install existing skills before building one
+- [LucioLiu/nuwa-collab-log](https://github.com/LucioLiu/nuwa-collab-log) - Multi-agent collaboration standard: pull rules, task handoff, flow-back, team journal
+- [LucioLiu/nuwa-notify](https://github.com/LucioLiu/nuwa-notify) - Push notifications to the owner's phone via ntfy, with when-to-call discipline
 </details>
 
 <details>
@@ -557,6 +560,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+- [LucioLiu/nuwa-modao](https://github.com/LucioLiu/nuwa-modao) - Fool-proof requirement clarification: turn vague requests into a consensus sheet before work starts
 </details>
 
 ---
