@@ -535,6 +535,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
+- [atdy/maoxuan-product-agent](https://github.com/atdy/maoxuan-product-agent) - Chinese product decision agent distilled from *On Contradiction* and *On Practice*; identifies the core constraint and returns prioritized actions without exposing theory
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
