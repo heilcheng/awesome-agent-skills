@@ -548,6 +548,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - Code review and PR autofix workflows
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
+- [0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly) - Deterministic Software Graph, MCP server, and agent skills for TypeScript architecture, request tracing, dependency analysis, and impact analysis.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
 </details>
 
