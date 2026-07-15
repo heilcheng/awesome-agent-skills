@@ -561,6 +561,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 ---
 
+- [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights
+
 ## Skill Quality Standards
 
 When evaluating or contributing skills, look for:
