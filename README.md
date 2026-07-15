@@ -95,6 +95,10 @@ It is recommended to use the **[SkillsMP Marketplace](https://skillsmp.com)**, w
 
 You can also use **[skills.sh](https://skills.sh)** — Vercel's leaderboard — to intuitively view the most popular Skills repositories and individual Skill usage statistics.
 
+### skillZs Agent Skills Directory
+
+Use **[skillZs](https://skillzs.dev)** to search an Agent Skills directory and follow practical guides for discovering, evaluating, and creating skills. Listings link to their public sources and include compatibility and category metadata.
+
 ### npx skills CLI Tool
 
 For specific skills, use the `npx skills` command-line tool to quickly discover, add, and manage skills. For detailed parameters, see [vercel-labs/skills](https://github.com/vercel-labs/skills).
