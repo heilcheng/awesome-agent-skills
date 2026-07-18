@@ -388,6 +388,20 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/ship](https://agent-skill.co/garrytan/skills/ship) - Release Engineer: sync, test, audit, and push
 </details>
 
+<details>
+<summary><strong>Customer Success Skills by Stephen Rogan</strong></summary>
+
+58 plug-and-play customer success skills by [Stephen Rogan](https://github.com/stephenrogan).
+- [stephenrogan/csm-skills](https://github.com/stephenrogan/csm-skills) - 58 plug-and-play agent skills covering the full Customer Success Manager workflow — pre-call prep, QBR assembly, health scoring, renewal risk, stakeholder mapping, escalations, and written comms. Works standalone from a single conversation; scales to CRM-wired automation.
+</details>
+
+<details>
+<summary><strong>Leadership Skills by Stephen Rogan</strong></summary>
+
+32 leadership skills for human and agent management by [Stephen Rogan](https://github.com/stephenrogan).
+- [stephenrogan/leadership-skills](https://github.com/stephenrogan/leadership-skills) - 32 agent skills for leaders managing humans and agents — decision memos, 1:1 prep, talent calibration, premortems, plus an AI-native manager bundle (agent delegation briefs, output review, eval design, risk governance). Every skill enforces an explicit human-decision boundary.
+</details>
+
 ---
 
 ### Security & Web Intelligence
