@@ -424,6 +424,11 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [binance/query-token-audit](https://agent-skill.co/binance/skills/query-token-audit) - Audit token security to detect scams and honeypots
 - [binance/trading-signal](https://agent-skill.co/binance/skills/trading-signal) - Monitor on-chain Smart Money buy/sell signals
 
+#### Skills by GenTech Labs
+
+ERC-8004 agent identity, x402 micro-payments, and on-chain agent toolkit with credit scoring.
+- [gentech-agent-kit](https://github.com/ProtoJay4789/gentech-agent-kit) - Build, deploy, and manage on-chain AI agents with ERC-8004 identity registry and x402 pay-per-call payments
+
 #### Skills by Sanity
 
 Install from [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit).
