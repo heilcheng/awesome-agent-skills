@@ -280,6 +280,24 @@ Official skills for ML workflows.
 - [greensock/gsap-scrolltrigger](https://agent-skill.co/greensock/skills/gsap-scrolltrigger) - ScrollTrigger for scroll-linked animations and pinning
 - [greensock/gsap-react](https://agent-skill.co/greensock/skills/gsap-react) - React integration with useGSAP hook and SSR patterns
 
+#### Skills by Markstream
+
+Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills).
+
+| Skill | Description |
+|-------|-------------|
+| [markstream-angular](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-angular) | Integrate streaming Markdown into Angular apps |
+| [markstream-custom-components](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-custom-components) | Add scoped renderer overrides and trusted custom tags |
+| [markstream-install](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-install) | Choose and install the correct framework package and peers |
+| [markstream-migration](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-migration) | Migrate existing Markdown renderers while preserving behavior |
+| [markstream-nuxt](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-nuxt) | Configure SSR-safe streaming Markdown in Nuxt 3 and Nuxt 4 |
+| [markstream-react](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-react) | Integrate streaming Markdown into React and Next.js apps |
+| [markstream-svelte](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-svelte) | Integrate streaming Markdown into Svelte 5 apps |
+| [markstream-vue](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-vue) | Integrate streaming Markdown into Vue 3 apps |
+| [markstream-vue2](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-vue2) | Integrate streaming Markdown into Vue 2.6 and Vue 2.7 apps |
+| [markstream-vue2-cli](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-vue2-cli) | Configure Vue CLI and Webpack 4-compatible Vue 2 rendering |
+| [markstream-vue2-vite](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-vue2-vite) | Configure Vue 2 and Vite worker imports and CSS |
+
 #### Skills by WordPress
 - [WordPress/wp-block-development](https://agent-skill.co/WordPress/skills/wp-block-development) - Gutenberg blocks: block.json, attributes, rendering
 - [WordPress/wp-plugin-development](https://agent-skill.co/WordPress/skills/wp-plugin-development) - Plugin architecture, hooks, settings API, security
@@ -548,7 +566,6 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - Code review and PR autofix workflows
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
-- [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills) - 11 skills for multi-framework streaming Markdown in AI chat interfaces
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
 </details>
 
