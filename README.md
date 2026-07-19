@@ -559,6 +559,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Security and Safety</strong></summary>
+
+- [razel369/guard-x402-payments](https://github.com/razel369/intentfence/tree/main/skills/guard-x402-payments) - Validate x402 quotes, ceilings, and payee allowlists before agents sign
+</details>
+
 ---
 
 ## Skill Quality Standards
