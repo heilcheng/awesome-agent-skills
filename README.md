@@ -539,7 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
-- [Piccolo123/ai-footprints](https://github.com/Piccolo123/ai-footprints) - 跨平台智能收藏管理，AI自动分类整理、共享协作、Agent API接入
+- [url-manager](https://github.com/Piccolo123/url-manager) - Agent-first URL collection & knowledge management. AI agents auto-register, collect, categorize, tag, search, and share links. 16 MCP tools.
 </details>
 
 <details>
