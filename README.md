@@ -322,6 +322,9 @@ Official skills for ML workflows.
 #### Skills by Typefully
 - [typefully/typefully](https://agent-skill.co/typefully/skills/typefully) - Create, schedule, and publish social media content
 
+#### Skills by Schedulala
+- [schedulala/schedulala-agent](https://github.com/schedulala/schedulala-agent) - Schedule and publish social media posts to 12 platforms with per-platform rules, media handling, analytics, and engagement
+
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
