@@ -546,7 +546,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Generate hand-drawn Excalidraw diagrams from prompt
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - Code review and PR autofix workflows
-- [skyestrela/ai-agent-skill-preview](https://github.com/skyestrela/ai-agent-skill-preview) - Evidence-first code review, bug reproduction, and dependency-risk triage workflows with tested CLI installation and an example report
+- [skyestrela/ai-agent-skill-preview](https://github.com/skyestrela/ai-agent-skill-preview) - Evidence-first code review, bug reproduction, dependency-risk triage, and rollback-readiness workflows with tested CLI installation and an example report
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
