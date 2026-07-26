@@ -802,6 +802,7 @@ Every skill in this list is a public GitHub repository — you can read the full
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Standards and tools for the DESIGN.md protocol.
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Open source agent skills for OpenClaw.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of Model Context Protocol (MCP) servers.
+- [BundleDex](https://bundledex.net) — Discover OKF bundles (AI agent knowledge packages). MCP server with 5 tools, llms.txt ready, DNS-AID configured. [GitHub](https://github.com/McClawdDigital/bundledex)
 
 ---
 
