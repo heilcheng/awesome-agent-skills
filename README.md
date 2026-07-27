@@ -538,6 +538,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
+- [merc1305/findMate](https://github.com/merc1305/findMate/tree/main/skills/find-complementary-founders) - Privacy-first owner-to-owner matching for complementary human cofounders
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
 </details>
 
