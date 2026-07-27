@@ -549,6 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [WikkyGao/prototypes-spec](https://github.com/WikkyGao/prototypes-spec) - 从 Axure/Mockplus/MasterGo/蓝湖等原型 HTML 导出中自动识别页面结构、控件和交互，生成 PRD/功能清单/测试用例/数据字典等 7 种开发交付物
 </details>
 
 <details>
