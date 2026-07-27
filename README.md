@@ -549,6 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [WikkyGao/pencil-designer](https://github.com/WikkyGao/pencil-designer) - 页面设计自动化：通过自然语言生成 .pen 设计文件，支持组件库管理、可交互 HTML 原型生成、多格式导出
 </details>
 
 <details>
