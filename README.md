@@ -43,6 +43,7 @@ That's it. No installation. No configuration. No coding required.
   - [Vector Databases](#vector-databases)
   - [Marketing](#marketing)
   - [Productivity and Collaboration](#productivity-and-collaboration)
+  - [Integration and Automation](#integration-and-automation)
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
 - [Skill Quality Standards](#skill-quality-standards)
@@ -517,12 +518,14 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 ## Community Skills
 
+<a id="vector-databases"></a>
 <details>
 <summary><strong>Vector Databases</strong></summary>
 
 - [qdrant/skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search, scaling, and performance
 </details>
 
+<a id="marketing"></a>
 <details>
 <summary><strong>Marketing</strong></summary>
 
@@ -532,6 +535,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Hard-edged writing style contract for forceful English prose
 </details>
 
+<a id="productivity-and-collaboration"></a>
 <details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
@@ -541,6 +545,15 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
 </details>
 
+<a id="integration-and-automation"></a>
+<details>
+<summary><strong>Integration and Automation</strong></summary>
+
+- [Xquik X Data Skill](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) - Agent Skill for X data reads, exports, monitoring, webhooks, MCP, and confirmation-gated publishing through Xquik. Not affiliated with X Corp.
+- [TweetClaw](https://github.com/Xquik-dev/tweetclaw/tree/master/skills/tweetclaw) - OpenClaw skill and plugin for X searches, media, exports, monitors, webhooks, and confirmation-gated publishing through Xquik. Not affiliated with X Corp.
+</details>
+
+<a id="development-and-testing"></a>
 <details>
 <summary><strong>Development and Testing</strong></summary>
 
@@ -551,6 +564,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
 </details>
 
+<a id="context-engineering"></a>
 <details>
 <summary><strong>Context Engineering</strong></summary>
 
