@@ -545,6 +545,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Development and Testing</strong></summary>
 
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Generate hand-drawn Excalidraw diagrams from prompt
+- [xiaopixuan/skills-public](https://github.com/xiaopixuan/skills-public) - Public Codex skills catalog with editable draw.io diagrams, skill design review, example prompts, and review scorecards
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - Code review and PR autofix workflows
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
