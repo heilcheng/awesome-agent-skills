@@ -563,7 +563,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Personal Development</strong></summary>
 
-- [ToruAI/smalltalk](https://github.com/ToruAI/smalltalk) - Daily small talk training: roleplay sparring, honest scoring, real-world missions
+- [ToruGuy/smalltalk](https://github.com/ToruGuy/smalltalk) - Daily small talk training: roleplay sparring, honest scoring, real-world missions
 </details>
 
 ---
