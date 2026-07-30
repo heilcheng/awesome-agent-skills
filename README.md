@@ -45,6 +45,7 @@ That's it. No installation. No configuration. No coding required.
   - [Productivity and Collaboration](#productivity-and-collaboration)
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
+  - [Personal Development](#personal-development)
 - [Skill Quality Standards](#skill-quality-standards)
 - [Using Skills](#using-skills)
 - [Creating Skills](#creating-skills)
@@ -557,6 +558,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+</details>
+
+<details>
+<summary><strong>Personal Development</strong></summary>
+
+- [ToruGuy/smalltalk](https://github.com/ToruGuy/smalltalk) - Daily small talk training: roleplay sparring, honest scoring, real-world missions
 </details>
 
 ---
