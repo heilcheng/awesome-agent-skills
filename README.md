@@ -388,6 +388,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/ship](https://agent-skill.co/garrytan/skills/ship) - Release Engineer: sync, test, audit, and push
 </details>
 
+#### Skill by DeAI1227
+- [DeAI1227/gop](https://github.com/DeAI1227/God-Of-Prompt/tree/main/skills/gop) - Turn rough requirements into six-part XML system prompts and execute them immediately
+
 ---
 
 ### Security & Web Intelligence
