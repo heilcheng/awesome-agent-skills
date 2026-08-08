@@ -451,17 +451,17 @@ Install from [better-auth/skills](https://github.com/better-auth/skills).
 |-------|-------------|
 | [agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops |
 
-#### Product Manager Skills by Dean Peters
+#### Product Management Skills by Product on Purpose
 
 | Skill | Description |
 |-------|-------------|
-| [pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 product management skills covering discovery, definition, delivery, and optimization |
+| [pm-skills](https://github.com/product-on-purpose/pm-skills) | 68 product management skills covering discovery, definition, delivery, and iteration, with 6 sub-agents and 12 workflows |
 
 #### Product Management Skills by Pawel Huryn
 
 | Skill | Description |
 |-------|-------------|
-| [pm-skills-huryn](https://github.com/product-on-purpose/pm-skills) | Advanced product management frameworks, OKRs, and strategy skills |
+| [pm-skills-huryn](https://github.com/phuryn/pm-skills) | Advanced product management frameworks, OKRs, and strategy skills |
 
 #### Skills by Garry Tan (gstack)
 
