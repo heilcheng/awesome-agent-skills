@@ -559,6 +559,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Education and Corporate Training</strong></summary>
+
+- [Shuwanito/SkillsMP](https://github.com/Shuwanito/SkillsMP) - Education and corporate training skills with per-skill evals and certification: clinical case generation, code review, sales coaching
+</details>
+
 ---
 
 ## Skill Quality Standards
