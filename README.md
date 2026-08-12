@@ -345,6 +345,9 @@ Official skills for ML workflows.
 - [better-auth/create-auth](https://agent-skill.co/better-auth/skills/create-auth) - Create authentication setup with Better Auth
 - [better-auth/twoFactor](https://agent-skill.co/better-auth/skills/twoFactor) - Two-factor authentication with Better Auth
 
+#### Skills by HumanPen
+- [humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill) - Rewrites .docx/.pptx documents to read as human-written and lower AI-detection scores
+
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
 
