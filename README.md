@@ -539,6 +539,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [wulitou-shubing/video-audio-transcribe](https://github.com/wulitou-shubing/social-content-monitor-skills/tree/main/skills/video-audio-transcribe) - Transcribe authorized video and audio into timestamped TXT and SRT
+- [wulitou-shubing/social-content-monitor-to-lark](https://github.com/wulitou-shubing/social-content-monitor-skills/tree/main/skills/social-content-monitor-to-lark) - Monitor creator posts and write deduplicated metadata and transcripts to Lark
 </details>
 
 <details>
