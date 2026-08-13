@@ -549,6 +549,9 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [d4rkNinja/system-architecture-harness](https://github.com/d4rkNinja/arcforge/tree/main/skills/system-architecture-harness) - Design evidence-backed production software architectures
+- [d4rkNinja/ai-agent-system-architecture](https://github.com/d4rkNinja/arcforge/tree/main/skills/ai-agent-system-architecture) - Design governed AI and multi-agent system architectures
+- [d4rkNinja/architecture-review-gate](https://github.com/d4rkNinja/arcforge/tree/main/skills/architecture-review-gate) - Independently review architecture proposals and release readiness
 </details>
 
 <details>
