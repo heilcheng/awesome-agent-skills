@@ -520,7 +520,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Skill Collections</strong></summary>
 
-- [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 installable skills for research, market intelligence, content, social, security, and growth workflows, compatible with Codex and DeepSeek Harness
+- [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 100 installable skills for research, market intelligence, content, social, security, and growth workflows, compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness
 </details>
 
 <details>
