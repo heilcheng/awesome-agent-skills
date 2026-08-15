@@ -518,6 +518,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 ## Community Skills
 
 <details>
+<summary><strong>Skill Collections</strong></summary>
+
+- [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 installable skills for research, market intelligence, content, social, security, and growth workflows, compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness
+</details>
+
+<details>
 <summary><strong>Vector Databases</strong></summary>
 
 - [qdrant/skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search, scaling, and performance
