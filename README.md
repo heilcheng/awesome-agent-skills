@@ -552,6 +552,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 </details>
 
 <details>
+<summary><strong>Live Data and Sensing</strong></summary>
+
+- [eirik-rune/runemap](https://github.com/eirik-rune/runemap/tree/main/skills/echorune-radar) - Weather and a radar map drawn as text characters, one HTTP request, no image to look at
+</details>
+
+<details>
 <summary><strong>Context Engineering</strong></summary>
 
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
