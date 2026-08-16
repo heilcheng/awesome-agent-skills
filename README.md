@@ -539,6 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [weike-zhang/grounded-ai-tutor](https://github.com/weike-zhang/grounded-ai-tutor) - AI tutor that explains the missing step in plain language
 </details>
 
 <details>
@@ -549,6 +550,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [weike-zhang/project-publisher](https://github.com/weike-zhang/project-publisher) - Review and keep a project's public files current before launch
 </details>
 
 <details>
