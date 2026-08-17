@@ -145,6 +145,54 @@ Instalar mediante [google-gemini/gemini-api-dev](https://agent-skill.co/google-g
 
 ---
 
+## Skills de la Comunidad
+
+<details>
+<summary><strong>Bases de datos vectoriales</strong></summary>
+
+- [qdrant/skills](https://github.com/qdrant/skills) - Búsqueda vectorial, escalado y rendimiento en Qdrant
+</details>
+
+<details>
+<summary><strong>Marketing</strong></summary>
+
+- [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 marcos de marketing para outreach y auditorías
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - SEO universal para analizar sitios
+- [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - Más de 20 métodos creativos (SIT, TRIZ, SCAMPER)
+- [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Contrato de estilo para prosa inglesa directa y fuerte
+</details>
+
+<details>
+<summary><strong>Productividad y colaboración</strong></summary>
+
+- [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Convertir, OCR y redactar PII en documentos
+- [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Convierte docs o código en StudyVaults interactivos
+- [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Memoria jerárquica persistida en el sistema de archivos
+- [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Gestiona issues, proyectos y equipos de Linear
+- [weike-zhang/grounded-ai-tutor](https://github.com/weike-zhang/grounded-ai-tutor) - Tutor de IA que explica el paso que falta, en lenguaje sencillo
+</details>
+
+<details>
+<summary><strong>Desarrollo y pruebas</strong></summary>
+
+- [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Genera diagramas Excalidraw a mano alzada desde un prompt
+- [coderabbitai/skills](https://github.com/coderabbitai/skills) - Revisión de código y autofix de PRs
+- [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Parte tareas largas (100+ archivos) por descomposición
+- [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Skills de Node.js, Fastify y TypeScript de Matteo Collina
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Frontend con criterio para evitar UI genérica
+- [weike-zhang/project-publisher](https://github.com/weike-zhang/project-publisher) - Revisa y actualiza los archivos públicos antes del lanzamiento
+</details>
+
+<details>
+<summary><strong>Ingeniería de contexto</strong></summary>
+
+- [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Estrategias de compresión para sesiones largas
+- [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Diseña memoria a corto plazo y basada en grafos
+- [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Memoria en grafo para más contexto y refactors más seguros
+</details>
+
+---
+
 ## Tendencias y Capacidades (2026)
 
 El ecosistema de agentes de IA ha pasado drásticamente de interfaces de chat reactivas a **sistemas autónomos orientados a objetivos** que ejecutan flujos de trabajo de varios pasos de extremo a extremo, un periodo a menudo llamado el "Salto del Agente".

@@ -141,6 +141,54 @@ OpenAI 카탈로그의 공식 큐레이션 스킬.
 
 ---
 
+## 커뮤니티 스킬
+
+<details>
+<summary><strong>벡터 데이터베이스</strong></summary>
+
+- [qdrant/skills](https://github.com/qdrant/skills) - Qdrant 벡터 검색, 확장, 성능 스킬
+</details>
+
+<details>
+<summary><strong>마케팅</strong></summary>
+
+- [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 아웃리치와 감사에 쓰는 마케팅 프레임워크 17종
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - 사이트 분석용 범용 SEO 스킬
+- [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - SIT, TRIZ, SCAMPER 등 창의 방법 20가지 이상
+- [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - 강하고 짧은 영어 산문을 위한 문체 계약
+</details>
+
+<details>
+<summary><strong>생산성 및 협업</strong></summary>
+
+- [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - 문서 변환, OCR, 개인정보 삭제
+- [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - 문서나 코드베이스를 인터랙티브 학습고로 바꿈
+- [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - 파일에 남는 계층형 메모리
+- [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Linear 이슈, 프로젝트, 팀 관리
+- [weike-zhang/grounded-ai-tutor](https://github.com/weike-zhang/grounded-ai-tutor) - 빠진 한 단계를 쉬운 말로 설명하는 AI 튜터
+</details>
+
+<details>
+<summary><strong>개발 및 테스트</strong></summary>
+
+- [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - 프롬프트로 손그림풍 Excalidraw 다이어그램 생성
+- [coderabbitai/skills](https://github.com/coderabbitai/skills) - 코드 리뷰와 PR 자동 수정
+- [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - 파일 100개 넘는 긴 작업을 쪼개서 처리
+- [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Matteo Collina의 Node.js, Fastify, TypeScript 스킬
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - 뻔한 UI를 걷어내는 프론트엔드 스킬
+- [weike-zhang/project-publisher](https://github.com/weike-zhang/project-publisher) - 공개 전에 README 등 대외 파일을 점검하고 고침
+</details>
+
+<details>
+<summary><strong>컨텍스트 엔지니어링</strong></summary>
+
+- [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - 긴 세션용 컨텍스트 압축
+- [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - 단기 기억과 그래프 기억 설계
+- [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - 그래프 기억으로 맥락을 빠르게, 리팩터를 안전하게
+</details>
+
+---
+
 ## 트렌드 및 역량 (2026)
 
 AI 에이전트 생태계는 반응형 채팅 인터페이스에서 엔드투엔드 다단계 워크플로우를 실행하는 **자율적이고 목표 중심적인 시스템**으로 급격히 변화했습니다. 이 시기를 흔히 "에이전트 리프(Agent Leap)"라고 부릅니다.

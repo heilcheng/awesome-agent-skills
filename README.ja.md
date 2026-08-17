@@ -146,6 +146,54 @@ OpenAI カタログからの公式厳選スキル。
 
 ---
 
+## コミュニティスキル
+
+<details>
+<summary><strong>ベクトルデータベース</strong></summary>
+
+- [qdrant/skills](https://github.com/qdrant/skills) - Qdrant のベクトル検索、スケール、性能向けスキル
+</details>
+
+<details>
+<summary><strong>マーケティング</strong></summary>
+
+- [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - アウトリーチと監査向けのマーケティング枠組み 17 種
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - サイト分析向けの汎用 SEO スキル
+- [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - SIT / TRIZ / SCAMPER など 20 以上の発想手法
+- [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - 鋭く力強い英語散文のための文体契約
+</details>
+
+<details>
+<summary><strong>生産性とコラボレーション</strong></summary>
+
+- [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - 文書変換、OCR、個人情報の墨消し
+- [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - ドキュメントやコードベースを学習用 StudyVault にする
+- [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - ファイルに残る階層メモリ
+- [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Linear の issue、プロジェクト、チームを管理
+- [weike-zhang/grounded-ai-tutor](https://github.com/weike-zhang/grounded-ai-tutor) - 足りない一歩を平易な言葉で説明する
+</details>
+
+<details>
+<summary><strong>開発とテスト</strong></summary>
+
+- [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - プロンプトから手描き風の Excalidraw 図を生成
+- [coderabbitai/skills](https://github.com/coderabbitai/skills) - コードレビューと PR 自動修正
+- [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - 100 ファイル超の長文脈タスクを分解して進める
+- [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Matteo Collina による Node.js / Fastify / TypeScript スキル
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - 量産 UI を避けるフロントエンド技能
+- [weike-zhang/project-publisher](https://github.com/weike-zhang/project-publisher) - 公開前に対外ファイルを点検して更新する
+</details>
+
+<details>
+<summary><strong>コンテキストエンジニアリング</strong></summary>
+
+- [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - 長時間セッション向けのコンテキスト圧縮
+- [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - 短期記憶とグラフ記憶の設計
+- [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - グラフ記憶でコンテキストを速くし、リファクタを安全にする
+</details>
+
+---
+
 ## トレンドと能力 (2026)
 
 AI エージェントのエコシステムは、反応的なチャットインターフェースから、エンドツーエンドの多段階ワークフローを実行する **自律的で目標駆動型のシステム** へと劇的に変化しました。この時期はしばしば「エージェント・リープ（エージェントの跳躍）」と呼ばれます。

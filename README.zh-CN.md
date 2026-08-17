@@ -151,6 +151,54 @@ npx skills remove [skill-name]     # 卸载技能
 
 ---
 
+## 社区技能
+
+<details>
+<summary><strong>向量数据库</strong></summary>
+
+- [qdrant/skills](https://github.com/qdrant/skills) - Qdrant 向量检索、扩容和性能调优
+</details>
+
+<details>
+<summary><strong>营销</strong></summary>
+
+- [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 套获客和审计用的营销框架
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - 通用网站 SEO 分析
+- [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20 多种创意方法（SIT、TRIZ、SCAMPER）
+- [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - 把英文写得硬、短、有力
+</details>
+
+<details>
+<summary><strong>效率与协作</strong></summary>
+
+- [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - 文档转换、OCR、脱敏
+- [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - 把文档或代码库做成可互动的学习库
+- [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - 分层记忆，落盘保存
+- [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - 管理 Linear 的 issue、项目和团队
+- [weike-zhang/grounded-ai-tutor](https://github.com/weike-zhang/grounded-ai-tutor) - 用白话补上你卡住的那一步
+</details>
+
+<details>
+<summary><strong>开发与测试</strong></summary>
+
+- [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - 根据提示生成手绘风 Excalidraw 图
+- [coderabbitai/skills](https://github.com/coderabbitai/skills) - 代码审查和 PR 自动修复
+- [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - 把上百个文件的长任务拆开做
+- [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Matteo Collina 写的 Node.js、Fastify、TypeScript 技能
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - 把套模板的前端界面做回去
+- [weike-zhang/project-publisher](https://github.com/weike-zhang/project-publisher) - 上线前核对并更新对外文件
+</details>
+
+<details>
+<summary><strong>上下文工程</strong></summary>
+
+- [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - 长会话的上下文压缩办法
+- [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - 设计短期记忆和图谱记忆
+- [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - 用图谱记忆加快上下文、降低重构风险
+</details>
+
+---
+
 ## 趋势与能力 (2026)
 
 AI Agent 生态系统已发生巨大转变，从反应式聊天界面演进为执行端到端多步骤工作流的 **自主、目标驱动系统** —— 这一时期通常被称为“Agent 大飞跃”。
