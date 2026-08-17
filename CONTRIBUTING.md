@@ -1,79 +1,71 @@
-# Contributing to Awesome Agent Skills
+# Contributing to Agent Skill Index 🐍🍎
 
-Thank you for your interest in contributing! This document provides guidelines to ensure consistency and quality across the repository.
+First off, thank you for considering contributing to the **Agent Skill Index**! It's people like you who make the AI ecosystem more capable, reliable, and accessible for everyone.
 
-## Adding a New Skill or Collection
+> [!TIP]
+> This project is more than just a list of links. It is a **living standard** for how AI agents should be taught new capabilities. Your contributions help define that standard.
 
-### Entry Format
+---
 
-All entries must be added as **table rows** in the correct section of `README.md`. Use this format:
+## 🛠️ How Can You Contribute?
 
-```markdown
-| [Skill Name](https://github.com/owner/repo) | Short, neutral description of what the skill does |
-```
+We welcome contributions in many forms. Choose the path that fits your expertise:
 
-### Quality Checklist
+### 1. Add a New Skill (Most Common)
+If you've built or found a high-quality AI agent skill, please share it!
+- **Format**: All skills must follow the `SKILL.md` standard.
+- **Location**: Skills are primarily hosted in their own repositories, but we index them here.
+- **How-to**:
+  1. Fork the repository.
+  2. Add your skill's metadata to the relevant section in `README.md`.
+  3. Ensure it follows our [Quality Standards](https://agent-skill.co/#quality-standards).
+  4. Open a Pull Request.
 
-Before submitting a PR:
+### 2. Improve Tutorials & Guides
+Help us make the "Agentic Way" easier to understand.
+- Fix typos or technical inaccuracies.
+*   Add real-world examples to existing skills.
+- Translate documentation into new languages (we currently support 6!).
 
-- [ ] The repository or link is **public and accessible** (no 404s)
-- [ ] The entry is placed in the **correct section** (Skill Collections, Dev Tools, Integration, etc.)
-- [ ] The description is **one line**, neutral, and factual — no promotional language
-- [ ] The entry uses **table row format** (`| link | description |`), not bullet points
-- [ ] You have verified the skill/tool **actually works**
-- [ ] No duplicate entries exist in the list
+### 3. Core Development
+Improve the **Agent Skill Index** website or CLI tool.
+- **Stack**: Next.js, Tailwind CSS, Framer Motion, TypeScript.
+- **Issues**: Check the [Issues](https://github.com/heilcheng/awesome-agent-skills/issues) tab for "good first issue" labels.
 
-### Section Ordering
+---
 
-Entries within each section are organized in the order they were added. Add new entries at the **end** of the relevant section table.
+## 📋 The SKILL.md Standard
 
-The main sections are:
+Every skill in the index should be self-contained in a `SKILL.md` file. A perfect skill includes:
 
-1. **Skill Collections** — repositories containing multiple skills
-2. **Document Processing** — document conversion and manipulation
-3. **Development & Code Tools** — coding, testing, and dev workflows
-4. **Data & Analysis** — data processing and analytics
-5. **Integration & Automation** — external service connections and automation
-6. **Collaboration & Project Management** — git workflows and team tools
-7. **Security & Systems** — security analysis and system management
-8. **Advanced & Research** — experimental and research-oriented skills
+| Section | Purpose |
+| :--- | :--- |
+| **Title** | Clear, unique name of the capability. |
+| **Description** | What problem does this solve for the user? |
+| **Instructions** | Step-by-step logic for the AI to follow. |
+| **Context** | What files/folders should the AI look at? |
+| **Examples** | 2-3 concrete "Before/After" or "Input/Output" cases. |
 
-## Translation Guidelines
+---
 
-This repository is maintained in 6 languages:
+## 🚀 The PR Process
 
-| File | Language |
-|------|----------|
-| `README.md` | English (source of truth) |
-| `README.es.md` | Spanish |
-| `README.ja.md` | Japanese |
-| `README.ko.md` | Korean |
-| `README.zh-CN.md` | Simplified Chinese |
-| `README.zh-TW.md` | Traditional Chinese |
+1. **Fork & Clone**: Create your feature branch.
+2. **Commit**: Use descriptive commit messages (e.g., `feat: add documentation-helper skill`).
+3. **Verify**: Run `npm run build` in the `website/` directory to ensure no regressions.
+4. **Submit**: Open your PR with a brief description of what you've changed.
 
-When making changes:
+---
 
-- **English-only PRs are fine** — maintainers will sync translations
-- If you update a translated README, ensure the change matches the English version
-- **Do not translate**: repository names, URLs, code blocks, CLI commands, or technical identifiers
-- **Do translate**: section headers, descriptions, and explanatory text
-- Keep the same structure and section ordering across all files
+## ❤️ Sponsorship & Partnerships
 
-## PR Guidelines
+Want to support the project or feature your AI platform?
+- **Contact**: Reach out to **Hailey Cheng (Cheng Hei Lam)** at [haileycheng@proton.me](mailto:haileycheng@proton.me).
+- **LinkedIn**: [Hailey Cheng (Cheng Hei Lam)](https://www.linkedin.com/in/heilcheng/)
+- **X / Twitter**: [@haileyhmt](https://x.com/haileyhmt)
 
-- **One logical change per PR** — don't bundle unrelated additions
-- **Title format**: `Add [skill-name] to [section]` or `docs: [description]`
-- Ensure your PR doesn't introduce merge conflicts with `main`
-- If adding to Skill Collections, only `README.md` needs to be updated (translations will be synced)
+---
 
-## What Will Get Your PR Closed
+## ⚖️ License
 
-- Linked repository returns a **404** (deleted or private)
-- Entry placed in the **wrong section** (e.g., in Table of Contents or "How It Works")
-- **Promotional or marketing language** in the description
-- **Duplicate** of an existing entry
-- **Broken formatting** (not a valid table row)
-
-## Questions?
-
-Open an issue if you're unsure where an entry belongs or need help with formatting.
+By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).

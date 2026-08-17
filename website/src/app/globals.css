@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+  .dark {
+    color-scheme: dark;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    @apply bg-white text-neutral-900 font-sans antialiased;
+  }
+
+  .dark body {
+    @apply bg-neutral-950 text-neutral-100;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tight font-bold text-neutral-900;
+  }
+
+  .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    @apply text-neutral-100;
+  }
+
+  p {
+    @apply text-neutral-600 leading-relaxed;
+  }
+
+  .dark p {
+    @apply text-neutral-400;
+  }
+
+  code {
+    @apply font-mono text-neutral-800 bg-neutral-100 px-1.5 py-0.5 rounded text-[0.85em];
+  }
+
+  .dark code {
+    @apply text-neutral-200 bg-neutral-800;
+  }
+}
+
+/* Scrollbar utilities */
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+.sidebar-scroll::-webkit-scrollbar { width: 3px; }
+.sidebar-scroll::-webkit-scrollbar-track { background: transparent; }
+.sidebar-scroll::-webkit-scrollbar-thumb { background: #e5e7eb; border-radius: 99px; }
+.sidebar-scroll::-webkit-scrollbar-thumb:hover { background: #d1d5db; }

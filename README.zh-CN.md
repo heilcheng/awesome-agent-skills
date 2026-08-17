@@ -1,57 +1,114 @@
-# Awesome Agent Skills
+# Agent Skill Index
 
-[English](README.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md)
+[English](README.md) | [繁体中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md)
 
-精选的 AI 程序编码代理技能、工具和功能列表。
+[![Agent Skill Index Banner](assets/banner.png)](https://agent-skill.co)
+
+> 🌐 在 **[agent-skill.co](https://agent-skill.co)** 浏览实时目录
+
+维护者：[Hailey Cheng (Cheng Hei Lam)](https://www.linkedin.com/in/heilcheng/) · X [@haileyhmt](https://x.com/haileyhmt) · [haileycheng@proton.me](mailto:haileycheng@proton.me)
+
+从未听说过“agent skills”？你来对地方了。这是一份由社区精选的清单，收录了简单的文本文件，能教 AI 助理（如 Claude、Copilot 或 Codex）按需学习新能力，无需重新训练。与批量生成的技能库不同，本集合专注于由实际工程团队创建并使用的真实世界 Agent 技能。兼容 Claude Code、Codex、Antigravity、Gemini CLI、Cursor、GitHub Copilot、Windsurf 等。
+
+---
+
+## 快速开始（30 秒）
+
+**步骤 1：从下方目录中选择一个技能**（或浏览 [agent-skill.co](https://agent-skill.co)）
+
+**步骤 2：将其加载到您的 AI 代理：**
+- Claude Code：`/skills add <github-url>`
+- Claude.ai：在新对话中粘贴 SKILL.md 的原始 URL
+- Codex / Copilot：遵循 [使用技能](#使用技能) 中链接的平台文档
+
+**步骤 3：要求您的 AI 使用它。** 只需用简单的中文或英文描述您的需求。
+
+就这样。无需安装。无需配置。无需编程。
 
 ---
 
 ## 目录
 
 - [什么是 Agent Skills？](#什么是-agent-skills)
+- [如何找到技能（推荐）](#如何找到技能推荐)
 - [兼容的代理](#兼容的代理)
-- [技能列表](#技能列表)
-- [官方教程和指南](#官方教程和指南)
+- [官方技能目录](#官方技能目录)
+  - [AI 平台与模型](#ai-平台与模型)
+  - [云端与基础设施](#云端与基础设施)
+  - [开发者工具与框架](#开发者工具与框架)
+  - [Google 生态系统](#google-生态系统)
+  - [商业、生产力与营销](#商业生产力与营销)
+  - [安全与网络情报](#安全与网络情报)
+- [社区技能](#社区技能)
+- [技能质量标准](#技能质量标准)
 - [使用技能](#使用技能)
 - [创建技能](#创建技能)
-- [社区资源](#社区资源)
+- [官方教程与指南](#官方教程与指南)
+- [趋势与能力 (2026)](#趋势与能力-2026)
 - [常见问题](#常见问题)
 - [贡献](#贡献)
-- [许可](#许可)
-- [参考资料](#参考资料)
+- [联系方式](#联系方式)
+- [授权](#授权)
 
 ---
 
 ## 什么是 Agent Skills？
 
-将 **Agent Skills** 想象成 AI 助理的「使用指南」。AI 不需要预先知道所有事情，技能让它可以随时学习新能力，就像给人一张食谱卡，而不是让他们背诵整本食谱书。
+将 **Agent Skills** 想象成 AI 助理的“操作指南”。AI 不需要预先知道所有事情，技能让它可以随时学习新能力，就像给人一张菜谱卡，而不是让他们背诵整本食谱书。
 
-技能是简单的文本文件（称为 `SKILL.md`），教导 AI 如何执行特定任务。当你请求 AI 做某件事时，它会找到正确的技能，阅读指令，然后开始工作。
+技能是简单的文本文件（称为 `SKILL.md`），教导 AI 如何执行特定任务。当您要求 AI 做某件事时，它会找到正确的技能，阅读指令，然后开始工作。
 
 ### 运作方式
 
 技能分三个阶段加载：
 
-1. **浏览** - AI 看到可用技能列表（只有名称和简短描述）
-2. **加载** - 当需要技能时，AI 会阅读完整指令
-3. **使用** - AI 遵循指令并访问任何辅助文件
+1. **浏览**：AI 看到可用技能列表（只有名称和简短描述）
+2. **加载**：当需要技能时，AI 会阅读完整指令
+3. **使用**：AI 遵循指令并访问任何辅助文件
 
 ### 为什么这很重要
 
-- **更快更轻量** - AI 只在需要时加载所需内容
-- **跨平台使用** - 创建一次技能，在任何兼容的 AI 工具中使用
-- **易于分享** - 技能只是可以复制、下载或在 GitHub 分享的文件
+- **更快更轻量**：AI 只在需要时加载所需内容
+- **随处可用**：创建一次技能，即可在任何兼容的 AI 工具中使用
+- **易于分享**：技能只是您可以复制、下载或在 GitHub 分享的文件
 
-技能是**指令**，不是代码。AI 像人阅读指南一样阅读它们，然后遵循步骤。
+技能是**指令**，不是代码。AI 像人类阅读指南一样阅读它们，然后遵循步骤。
+
+---
+
+## 如何找到技能（推荐）
+
+### SkillsMP 市场
+
+[![SkillsMP Marketplace](assets/skills-mp.png)](https://skillsmp.com)
+
+推荐使用 **[SkillsMP 市场](https://skillsmp.com)**，它会自动索引 GitHub 上的所有 Skill 项目，并按类别、更新时间、星数和其他标签进行组织——这是发现和评估技能最简单的方法。
+
+### skills.sh 排行榜 (由 Vercel 提供)
+
+[![skills.sh Leaderboard](assets/skills-sh.png)](https://skills.sh)
+
+您也可以使用 **[skills.sh](https://skills.sh)** —— Vercel 的排行榜 —— 直观地查看最受欢迎的 Skills 仓库和单个技能的使用统计数据。
+
+### npx skills CLI 工具
+
+对于特定技能，使用 `npx skills` 命令行工具快速发现、添加和管理技能。详细参数请参阅 [vercel-labs/skills](https://github.com/vercel-labs/skills)。
+
+```bash
+npx skills find [query]            # 搜索相关技能
+npx skills add <owner/repo>        # 安装技能（支持 GitHub 简写、完整 URL、本地路径）
+npx skills list                    # 列出已安装技能
+npx skills check                   # 检查可用更新
+npx skills update                  # 升级所有技能
+npx skills remove [skill-name]     # 卸载技能
+```
 
 ---
 
 ## 兼容的代理
 
-以下平台有记录的 Agent Skills 支持：
-
 | 代理 | 文档 |
-|------|------|
+|-------|---------------|
 | Claude Code | [code.claude.com/docs/en/skills](https://code.claude.com/docs/en/skills) |
 | Claude.ai | [support.claude.com](https://support.claude.com/en/articles/12512180-using-skills-in-claude) |
 | Codex (OpenAI) | [developers.openai.com](https://developers.openai.com/codex/skills) |
@@ -60,442 +117,80 @@
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 | Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
+| Junie | [junie.jetbrains.com](https://junie.jetbrains.com/docs/agent-skills.html) |
 
 ---
 
-## 技能列表
+## 官方技能目录
 
-### 官方 Claude 技能（文档处理）
+### AI 平台与模型
 
-Claude 提供常用文档类型的内置技能：
+#### Anthropic 技能
+官方内置技能，用于常见文件类型和创意工作流程。
+- [anthropics/docx](https://agent-skill.co/anthropics/skills/docx) - 创建、编辑和分析 Word 文档
+- [anthropics/doc-coauthoring](https://agent-skill.co/anthropics/skills/doc-coauthoring) - 协作式文档编辑与共同创作
+- [anthropics/pptx](https://agent-skill.co/anthropics/skills/pptx) - 创建、编辑和分析 PowerPoint 演示
+- [anthropics/xlsx](https://agent-skill.co/anthropics/skills/xlsx) - 创建、编辑和分析 Excel 表格
+- [anthropics/pdf](https://agent-skill.co/anthropics/skills/pdf) - 提取文本、创建 PDF 并处理表单
+- [anthropics/algorithmic-art](https://agent-skill.co/anthropics/skills/algorithmic-art) - 使用 p5.js 创建生成艺术
+- [anthropics/canvas-design](https://agent-skill.co/anthropics/skills/canvas-design) - 设计 PNG 和 PDF 格式的视觉艺术
+- [anthropics/frontend-design](https://agent-skill.co/anthropics/skills/frontend-design) - 前端设计与 UI/UX 开发工具
+- [anthropics/webapp-testing](https://agent-skill.co/anthropics/skills/webapp-testing) - 使用 Playwright 测试本地网页应用
 
-| 技能 | 描述 | 来源 |
-|------|------|------|
-| docx | 创建、编辑、分析带有跟踪更改的 Word 文档 | [anthropics/skills](https://github.com/anthropics/skills) |
-| xlsx | 电子表格操作：公式、图表、数据转换 | [anthropics/skills](https://github.com/anthropics/skills) |
-| pptx | 读取、生成和调整幻灯片、布局、模板 | [anthropics/skills](https://github.com/anthropics/skills) |
-| pdf | 从 PDF 提取文本、表格、元数据 | [anthropics/skills](https://github.com/anthropics/skills) |
+#### OpenAI 技能 (Codex)
+来自 OpenAI 目录的官方精选技能。
+- [openai/cloudflare-deploy](https://agent-skill.co/openai/skills/cloudflare-deploy) - 使用 Workers 和 Pages 部署到 Cloudflare
+- [openai/imagegen](https://agent-skill.co/openai/skills/imagegen) - 使用 OpenAI Image API 生成图像
+- [openai/jupyter-notebook](https://agent-skill.co/openai/skills/jupyter-notebook) - 创建干净、可重现的 Jupyter 笔记本
+- [openai/figma-implement-design](https://agent-skill.co/openai/skills/figma-implement-design) - 将 Figma 设计转化为生产就绪的代码
 
-### 官方 OpenAI Codex 技能
-
-Codex 支持不同范围的技能：
-
-| 技能范围 | 位置 | 建议用途 |
-|----------|------|----------|
-| REPO | `$CWD/.codex/skills` | 与工作文件夹相关的技能（例如微服务或模块）|
-| REPO | `$CWD/../.codex/skills` | 父文件夹中共享区域的技能 |
-| REPO | `$REPO_ROOT/.codex/skills` | 仓库中所有人使用的根技能 |
-| USER | `$CODEX_HOME/skills`（默认：`~/.codex/skills`）| 适用于任何仓库的个人技能 |
-| ADMIN | `/etc/codex/skills` | SDK 脚本、自动化和默认管理技能 |
-| SYSTEM | 与 Codex 捆绑 | 内置技能如 skill-creator 和 plan |
-
-### 官方 HuggingFace 技能
-
-| 技能 | 描述 | 来源 |
-|------|------|------|
-| hf_dataset_creator | 创建结构化训练数据集的提示、模板和脚本 | [huggingface/skills](https://github.com/huggingface/skills) |
-| hf_model_evaluation | 协调评估作业、生成报告和映射指标的指令和工具 | [huggingface/skills](https://github.com/huggingface/skills) |
-| hf-llm-trainer | 包含指导、辅助脚本、成本估算器的完整训练技能 | [huggingface/skills](https://github.com/huggingface/skills) |
-| hf-paper-publisher | 在 Hugging Face Hub 上发布和管理研究论文的工具 | [huggingface/skills](https://github.com/huggingface/skills) |
-
-### 社区技能
-
-社区维护的技能和集合（使用前请验证）：
-
-#### 技能集合
-
-| 仓库 | 描述 |
-|------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | 官方 Anthropic 集合（文档编辑、数据分析）|
-| [openai/skills](https://github.com/openai/skills) | 官方 OpenAI Codex 技能目录 |
-| [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace 技能（兼容 Claude、Codex、Gemini）|
-| [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai 集合，附 CLI 安装程序 |
-| [agentskill.sh](https://agentskill.sh) | 44k+ 技能目录，内置安全扫描和 `/learn` 安装器 |
-| [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ 经过验证的 Claude Code 和 Claude.ai 技能 |
-| [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 专业功能技能 |
-| [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | 多代理协作技能 |
-| [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) | Pydantic AI 集成 |
-| [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) | DSPy 框架技能 |
-| [hikanner/agent-skills](https://github.com/hikanner/agent-skills) | 精选的 Claude Agent Skills 合集 |
-| [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) | Freeact 代理库技能 |
-| [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | 类似 npm 的技能 CLI（`brew install dmgrok/tap/skills`）— 汇集 24 个提供者的 177+ 技能 |
-| [gotalab/skillport](https://github.com/gotalab/skillport) | 通过 CLI 或 MCP 分发技能 |
-| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git、代码审查和测试技能 |
-| [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) | 加密货币、Web3 和区块链技能 |
-| [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 项市场推广技能：定价、外展、SEO、广告、留存和运营 |
-| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 项产品管理技能，涵盖发现、定义、交付和优化 |
-| [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | Google Workspace（Gmail、Chat、Calendar、Docs、Drive、Sheets、Slides）、AI 委托（Jules、Manus、Deep Research）和数据库技能 |
-| [RioBot-Grind/agentfund-skill](https://github.com/RioBot-Grind/agentfund-skill) | Base 链上 AI 代理的众筹 — 里程碑托管 |
-
-#### 文档处理
-
-| 技能 | 描述 |
-|------|------|
-| [Markdown to EPUB](https://github.com/smerchek/claude-epub-skill) | 将 markdown 文档转换为专业 EPUB 电子书 |
-
-#### 开发和代码工具
-
-| 技能 | 描述 |
-|------|------|
-| [aws-skills](https://github.com/zxkane/aws-skills) | AWS 开发与 CDK 最佳实践 |
-| [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 图表和交互式数据可视化 |
-| [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | 测试网页应用的浏览器自动化 |
-| [Specrate](https://github.com/rickygao/specrate) | 以结构化工作流管理规格（spec）与变更 |
-| [SwiftUI Skills](https://github.com/ameyalambat128/swiftui-skills) | 从 Xcode 提取的 Apple 编写的 SwiftUI 和平台指南 |
-| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | 与 iOS 模拟器交互进行测试 |
-| [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift 并发迁移指南 |
-| [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md 插件开发 |
-| [Stream Coding](https://github.com/frmoretto/stream-coding) | 流式编码方法论 |
-| [Tool Advisor](https://github.com/dragon1086/claude-skills) | 分析提示并推荐最佳工具、技能、代理和编排模式 |
-| [Vibe Testing](https://github.com/knot0-com/vibe-testing) | 在编写代码之前使用 LLM 推理压力测试规格文档 |
-| [Mantra](https://mantra.gonewx.com) | AI 编码会话管理 — 保存、恢复和时间旅行 Claude Code、Cursor 和 Windsurf 会话 |
-
-#### 数据和分析
-
-| 技能 | 描述 |
-|------|------|
-| [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | 分析 CSV 文件并生成可视化洞察 |
-| [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | 完整的 Kaggle 集成 — 账户设置、比赛报告、数据集/模型下载、Notebook 执行、提交和徽章收集 |
-
-#### 集成和自动化
-
-| 技能 | 描述 |
-|------|------|
-| [Dev Browser](https://github.com/SawyerHood/dev-browser) | 代理的网页浏览器功能 |
-| [Vectorize MCP Worker](https://github.com/dannwaneri/vectorize-mcp-worker) | 用于生产环境 RAG 的边缘原生 MCP 服务器模式 |
-| [Agent Manager](https://github.com/fractalmind-ai/agent-manager-skill) | 通过 tmux 管理本地 CLI AI 代理（启动/停止/监控/分配 + cron 调度）|
-| [HOL Claude Skills](https://github.com/hashgraph-online/hol-claude-skills) | 通过 Registry Broker 进行 AI 代理发现 - /hol-search, /hol-resolve, /hol-chat |
-| [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI 自动化 |
-| [Notification Skill](https://github.com/caopulan/Notification-Skill) | 为代理工作流发送消息通知 |
-| [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API 集成 |
-| [AgentStore](https://github.com/techgangboss/agentstore) | 开源插件市场，支持免 Gas USDC 支付、CLI 安装和 3 字段发布 API |
-| [Transloadit Skills](https://github.com/transloadit/skills) | 媒体处理：视频编码、图像处理、OCR 及 86+ Robots |
-| [commune](https://github.com/shanjairaj7/commune-skill) | 代理原生电子邮件收件箱 — 永久 @commune.ai 地址，完整收发、语义搜索、分类和 Webhook |
-
-#### 协作与项目管理
-
-| 技能 | 描述 |
-|------|------|
-| [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | 自动化 Git 操作和仓库交互 |
-| [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | 评估代码实现计划 |
-| [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | 检测失败测试并提出修复建议 |
-
-#### 安全和系统
-
-| 技能 | 描述 |
-|------|------|
-| [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace) | 数字取证分析与调查 |
-| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) | 现代加密替代 GPG/PGP，支持后量子安全、可组合认证和代理间通信 |
-| [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | 使用 Sigma 检测规则进行威胁狩猎 |
-| [Vincent Wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet) | 代理用安全 EVM 钱包，支持转账、交换和交易 |
-| [Vincent Polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket) | 代理用 Polymarket 预测市场交易 |
-| [Agent OS Governance](https://github.com/imran-siddique/agent-os) | AI 代理的内核级治理 — 确定性策略执行、合规检查、审计日志 |
-
-#### 高级与研究
-
-| 技能 | 描述 |
-|------|------|
-| [Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 上下文工程技术 |
-| [Pomodoro System Skill](https://github.com/jakedahn/pomodoro) | 系统技能模式（记忆并改进的技能） |
-| [Mind Cloning](https://github.com/yzfly/Mind-Cloning-Engineering) | 使用 LLM 技能进行思维克隆 |
+#### Google Gemini 技能
+通过 [google-gemini/gemini-api-dev](https://agent-skill.co/google-gemini/skills/gemini-api-dev) 安装。
+- [google-gemini/gemini-api-dev](https://agent-skill.co/google-gemini/skills/gemini-api-dev) - 开发 Gemini 驱动应用的最佳实践
+- [google-gemini/vertex-ai-api-dev](https://agent-skill.co/google-gemini/skills/vertex-ai-api-dev) - 在 Google Cloud Vertex AI 上开发 Gemini 应用
 
 ---
 
-## 官方教程和指南
+## 趋势与能力 (2026)
 
-### Claude 和 Anthropic
-- [在 Claude 中使用技能](https://support.claude.com/en/articles/12512180-using-skills-in-claude) - 官方快速入门指南
-- [如何创建自定义技能](https://support.claude.com/en/articles/12512198-creating-custom-skills) - 逐步编写指南
-- [Claude Code 技能文档](https://code.claude.com/docs/en/skills) - 官方参考
+AI Agent 生态系统已发生巨大转变，从反应式聊天界面演进为执行端到端多步骤工作流的 **自主、目标驱动系统** —— 这一时期通常被称为“Agent 大飞跃”。
 
-### GitHub Copilot
-- [关于 Agent Skills](https://docs.github.com/copilot/concepts/agents/about-agent-skills) - GitHub 文档
-- [VS Code Agent Skills](https://code.visualstudio.com/docs/copilot/customization/agent-skills) - VS Code 集成
+### 1. 自主执行
+现代 Agent 已超越简单的“提示-响应”模型。它们会将宏大目标分解为多步骤战略计划，权衡利弊并独立执行序列。
 
-### Model Context Protocol (MCP)
-- [MCP 官方文档](https://modelcontextprotocol.io/) - 开放标准
-- [创建你的第一个 MCP 服务器](https://modelcontextprotocol.io/docs/first-server) - Python/TypeScript 指南
-- [MCP 服务器示例](https://github.com/modelcontextprotocol/servers) - 官方服务器实现
-
----
-
-## 使用技能
-
-### 在 Claude.ai 中使用技能
-1. 点击聊天界面中的技能图标
-2. 从市场添加技能或上传自定义技能
-3. Claude 会根据你的任务自动激活相关技能
-
-### 在 Google Antigravity 中使用技能
-
-Antigravity 支持两种类型的技能：
-
-*   **Workspace Skills**: 位于 `/.agent/skills/` 的项目特定技能
-*   **Global Skills**: 位于 `~/.gemini/antigravity/skills` 的用户全局技能
-
-更多详情请参阅[官方文档](https://antigravity.google/docs/skills)。
-
-### 在 Claude Code 中使用技能
-将技能放在配置目录中：
-
-```bash
-mkdir -p ~/.claude/skills/
-cp -r skill-name ~/.claude/skills/
-```
-
-技能会自动加载并在相关时激活。
-
-### 在 Codex 中使用技能
-
-**创建技能：**
-
-使用 Codex 内置的 `$skill-creator` 技能。描述你想让技能做什么，Codex 会自动为你创建。
-
-如果你使用 `$skill-installer create-plan` 安装了 `$create-plan`（实验性），Codex 会在写入文件之前创建计划。
-
-你也可以通过创建一个包含 `SKILL.md` 文件的文件夹来手动创建技能：
-
-````markdown
----
-name: skill-name
-description: 帮助 Codex 选择技能的描述
-metadata:
-  short-description: 可选的面向用户的描述
----
-
-使用此技能时 Codex 代理应遵循的技能指令。
-````
-
-**安装新技能：**
-
-使用 `$skill-installer` 技能从 GitHub 下载技能：
-
-```bash
-$skill-installer linear
-```
-
-你也可以指示安装程序从其他仓库下载技能。安装技能后，重启 Codex 以加载新技能。
-
-### 在 VS Code 中使用技能
-
-技能存储在包含 `SKILL.md` 文件的目录中。VS Code 支持两个位置：
-
-- `.github/skills/` - 所有新技能的推荐位置
-- `.claude/skills/` - 传统位置，也支持
-
-**创建技能：**
-
-1. 在工作区创建 `.github/skills` 目录
-2. 为你的技能创建子目录（例如 `.github/skills/webapp-testing`）
-3. 创建包含以下结构的 `SKILL.md` 文件：
-
-```markdown
----
-name: skill-name
-description: 技能的功能描述和使用时机
----
-
-# 技能指令
-
-你的详细指令、指南和示例...
-```
-
-### 在 Copilot CLI 中使用技能
-
-**将技能添加到你的仓库：**
-
-1. 创建 `.github/skills` 目录（`.claude/skills` 中的技能也受支持）
-2. 为你的技能创建子目录（例如 `.github/skills/webapp-testing`）
-3. 创建包含技能指令的 `SKILL.md` 文件
-
-**SKILL.md 结构：**
-
-- `name`（必需）：使用连字符代替空格的唯一小写标识符
-- `description`（必需）：技能的功能以及 Copilot 何时应使用它
-- `license`（可选）：适用于此技能的许可证
-- 包含指令、示例和指南的 Markdown 正文
-
-**SKILL.md 示例：**
-
-````markdown
----
-name: github-actions-failure-debugging
-description: 调试失败的 GitHub Actions 工作流程的指南。
----
-
-调试失败的 GitHub Actions 工作流程：
-
-1. 使用 `list_workflow_runs` 查找最近的工作流程运行
-2. 使用 `summarize_job_log_failures` 获取失败作业的 AI 摘要
-3. 如需详细失败日志，使用 `get_job_logs`
-4. 尝试在你的环境中重现故障
-5. 修复失败的构建
-````
-
-执行任务时，Copilot 根据你的提示和技能描述决定何时使用技能。`SKILL.md` 文件会注入到代理的上下文中。
-
-### 使用 MCP 服务器（Claude Desktop）
-
-编辑你的配置文件：
-- **macOS**：`~/Library/Application Support/Claude/claude_desktop_config.json`
-- **Windows**：`%APPDATA%\Claude\claude_desktop_config.json`
-
-配置示例：
-```json
-{
-  "mcpServers": {
-    "filesystem": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-filesystem",
-        "/Users/username/Desktop"
-      ]
-    }
-  }
-}
-```
-
----
-
-## 创建技能
-
-技能是告诉代理如何执行特定任务的指令包。默认情况下它们不是可执行代码。
-
-### 技能结构
-
-```
-skill-name/
-├── SKILL.md          # 必需：指令和元数据
-├── scripts/          # 可选：辅助脚本
-├── templates/        # 可选：文档模板
-└── resources/        # 可选：参考文件
-```
-
-### 基本 SKILL.md 模板
-
-```markdown
----
-name: my-skill-name
-description: 清楚描述此技能的功能。
----
-
-# 我的技能名称
-
-技能目的的详细描述。
-
-## 何时使用此技能
-
-- 使用案例 1
-- 使用案例 2
-
-## 指令
-
-[代理执行此技能的详细指令]
-
-## 示例
-
-[实际示例]
-```
-
-### MCP 服务器示例（Python）
-
-对于需要连接外部数据源的技能，你可以创建 MCP 服务器：
-
-```bash
-pip install fastmcp
-```
-
-server.py：
-```python
-from fastmcp import FastMCP
-
-mcp = FastMCP("My Server")
-
-@mcp.tool()
-def hello_world(name: str = "World") -> str:
-    """A simple tool that says hello."""
-    return f"Hello, {name}!"
-
-if __name__ == "__main__":
-    mcp.run()
-```
-
----
-
-## 社区资源
-
-### LangChain Tools
-- [Google Search](https://python.langchain.com/docs/integrations/tools/google_search/) - SerpApi 包装器
-- [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/) - 从维基百科获取摘要
-- [Python REPL](https://python.langchain.com/docs/integrations/tools/python/) - 执行 Python 代码
-- [Custom Tools Guide](https://python.langchain.com/docs/how_to/custom_tools/) - 如何使用 `@tool` 装饰器
-
-### 文章与研究
-- [I found 50 companies accidentally breaking HIPAA with ChatGPT](https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc) - AI 隐私风险分析
-- [I built a Production RAG System for $5/month](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj) - RAG 架构成本优化指南
+### 2. 多代理编排
+复杂任务由专业代理团队（文档、测试、编码）管理，并由负责合成交付物和解决冲突的“经理”代理进行协调。
 
 ---
 
 ## 常见问题
 
 ### 什么是 Agent Skills？
+Agent Skills 是教导 AI 助理如何执行特定任务的指令文件。它们仅在需要时加载，因此 AI 保持快速且专注。
 
-Agent Skills 是教导 AI 助理如何执行特定任务的指令文件。将它们视为 AI 阅读和遵循的「使用指南」。它们只在需要时加载，所以 AI 保持快速和专注。
-
-### Agent Skills 与微调有何不同？
-
-微调永久改变 AI 的思考方式（昂贵且难以更新）。Agent Skills 只是指令文件，你可以随时更新、替换或分享，而无需触及 AI 本身。
-
-### Agent Skills 和 MCP 有何区别？
-
-它们做不同的事情，配合使用效果很好：
-- **Agent Skills** = 教导 AI *如何*做某事（工作流程、最佳实践）
-- **MCP** = 帮助 AI *访问*事物（API、数据库、外部工具）
-
-### 哪些 AI 工具支持 Agent Skills？
-
-目前支持：**Claude**（Claude.ai 和 Claude Code）、**GitHub Copilot**、**VS Code**、**Codex**（OpenAI）、**Antigravity**（Google）、**Gemini CLI** 和 **Kiro**。随着更多工具采用该标准，列表还在不断增长。
-
-### Agent Skills 会执行代码吗？
-
-不会。技能只是文本指令，AI 像阅读食谱一样阅读和遵循。如果需要执行实际代码，你可以搭配技能使用 MCP 服务器。
-
-### 如何创建我的第一个 Agent Skill？
-
-1. 创建一个 `SKILL.md` 文件，在顶部写上名称和描述
-2. 在文件中编写清晰的逐步指令
-3. 将其放在 `.github/skills/` 或 `.claude/skills/` 文件夹中
-4. 测试一下！
-
-完整指南：[如何创建自定义技能](https://support.claude.com/en/articles/12512198-creating-custom-skills)
+### Agent Skills 与微调 (Fine-tuning) 有何不同？
+微调会永久改变 AI 的思考方式（成本高且难以更新）。Agent Skills 只是指令文件——您可以随时更新、更换或分享它们，而无需触动 AI 本身。
 
 ---
 
-## 贡献
+## 相关 Awesome 清单
 
-欢迎贡献。完整指南请参阅 **[CONTRIBUTING.md](CONTRIBUTING.md)**。
-
-快速摘要：
-- 遵循技能模板结构
-- 提供清晰、可操作的指令
-- 在适当的地方包含可运行的示例
-- 记录权衡和潜在问题
-- 为了最佳性能，将 SKILL.md 保持在 500 行以下
-- 在添加之前验证技能确实存在
+- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - 为 Claude Code 精选的技能与工具清单。
+- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - DESIGN.md 协议的标准与工具。
+- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - OpenClaw 的开源 Agent 技能。
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - 模型上下文协议 (MCP) 服务器集合。
 
 ---
 
-## 许可
+## 联系方式
 
-MIT 许可 - 详见 LICENSE 文件。
+有关此项目的问题、合作洽谈或意见反馈：
+
+- LinkedIn: [Hailey Cheng (Cheng Hei Lam)](https://www.linkedin.com/in/heilcheng/)
+- X / Twitter: [@haileyhmt](https://x.com/haileyhmt)
+- Email: [haileycheng@proton.me](mailto:haileycheng@proton.me)
 
 ---
 
-## 参考资料
-
-- [Anthropic: 在 Claude 中使用技能](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
-- [Anthropic: 创建自定义技能](https://support.claude.com/en/articles/12512198-creating-custom-skills)
-- [Claude Code 技能文档](https://code.claude.com/docs/en/skills)
-- [GitHub Copilot: 关于 Agent Skills](https://docs.github.com/copilot/concepts/agents/about-agent-skills)
-- [Model Context Protocol 文档](https://modelcontextprotocol.io/)
+## 授权
+MIT 授权 - 详见 [LICENSE](LICENSE) 文件。

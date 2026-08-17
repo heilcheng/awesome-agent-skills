@@ -1,0 +1,1682 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Agent Skill Index — The Ultimate AI Agent Skills List & Tutorials</title>
+<meta name="description" content="Explore the most comprehensive list of AI agent skills, tools, and workflows. Master agentic AI with our curated skill list, tutorials, and quality standards for 2026."/>
+<meta property="og:title" content="Agent Skill Index"/>
+<meta property="og:description" content="The definitive repository for AI agent skills and tutorials. Compatible with Claude, Codex, Copilot, and more."/>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='24' font-size='24'>🐍🍎</text></svg>"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+/* ── DARK THEME (default) ─────────────────── */
+:root{
+  --bg:#000;
+  --bg1:rgba(255,255,255,0.03);
+  --bg2:rgba(255,255,255,0.05);
+  --bg3:rgba(255,255,255,0.08);
+  --border:rgba(255,255,255,0.08);
+  --border2:rgba(255,255,255,0.12);
+  --text:rgba(255,255,255,0.95);
+  --text2:rgba(255,255,255,0.6);
+  --text3:rgba(255,255,255,0.35);
+  --blue:#0a84ff;
+  --green:#30d158;
+  --purple:#bf5af2;
+  --orange:#ff9f0a;
+  --red:#ff453a;
+  --teal:#5ac8fa;
+  --pink:#ff375f;
+  --r:20px;
+  --r-sm:12px;
+  --blur:blur(24px) saturate(180%);
+  --shadow:0 0 0 0.5px rgba(255,255,255,0.06),0 24px 64px rgba(0,0,0,0.6);
+  --shadow-sm:0 0 0 0.5px rgba(255,255,255,0.06),0 8px 24px rgba(0,0,0,0.4);
+  --gap:12px;
+  --nav-bg:rgba(0,0,0,0.7);
+  --code-bg:rgba(0,0,0,0.5);
+  --code-bg2:rgba(0,0,0,0.4);
+  --hero-bg:var(--bg2);
+  --footer-bg:rgba(0,0,0,0.3);
+}
+
+/* ── LIGHT THEME ─────────────────────────── */
+[data-theme="light"]{
+  --bg:#f2f2f7;
+  --bg1:#ffffff;
+  --bg2:#ffffff;
+  --bg3:rgba(0,0,0,0.06);
+  --border:rgba(0,0,0,0.1);
+  --border2:rgba(0,0,0,0.18);
+  --text:#1d1d1f;
+  --text2:#6e6e73;
+  --text3:#aeaeb2;
+  --blur:blur(24px) saturate(160%);
+  --shadow:0 0 0 0.5px rgba(0,0,0,0.08),0 24px 64px rgba(0,0,0,0.1);
+  --shadow-sm:0 0 0 0.5px rgba(0,0,0,0.06),0 8px 24px rgba(0,0,0,0.08);
+  --nav-bg:rgba(242,242,247,0.85);
+  --code-bg:rgba(0,0,0,0.05);
+  --code-bg2:rgba(0,0,0,0.04);
+  --hero-bg:#ffffff;
+  --footer-bg:rgba(0,0,0,0.04);
+}
+[data-theme="light"] body{
+  background:#f2f2f7;
+  background-image:
+    radial-gradient(ellipse 80% 60% at 20% -10%,rgba(10,132,255,0.06) 0%,transparent 60%),
+    radial-gradient(ellipse 60% 40% at 80% 10%,rgba(191,90,242,0.04) 0%,transparent 50%);
+}
+[data-theme="light"] h1{
+  background:linear-gradient(135deg,#1d1d1f 40%,rgba(0,0,0,0.5));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+[data-theme="light"] .stat-card .big-n{
+  background:linear-gradient(135deg,#1d1d1f,rgba(0,0,0,.5));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+[data-theme="light"] #search{background:rgba(0,0,0,0.06);border-color:var(--border2)}
+[data-theme="light"] .glass{box-shadow:0 2px 12px rgba(0,0,0,0.06)}
+[data-theme="light"] nav{border-bottom-color:rgba(0,0,0,0.1)}
+[data-theme="light"] .hero-card::before{opacity:0}
+[data-theme="light"] .sk-card:hover{box-shadow:0 8px 32px rgba(0,0,0,0.12)}
+[data-theme="light"] .hl{background:rgba(255,193,7,.25);color:#7a5700}
+[data-theme="light"] .k{color:#d400a0}
+[data-theme="light"] .s{color:#c05000}
+[data-theme="light"] .c{color:rgba(0,0,0,0.4)}
+[data-theme="light"] .v{color:#3a7a00}
+[data-theme="light"] .p{color:#0060a0}
+[data-theme="light"] .n{color:#1d1d1f}
+[data-theme="light"] .cmd{color:#006080}
+[data-theme="light"] .dir{color:#b05000}
+[data-theme="light"] .cm{color:rgba(0,0,0,0.3)}
+[data-theme="light"] footer{background:rgba(0,0,0,0.03);border-top-color:rgba(0,0,0,0.08)}
+[data-theme="light"] pre{background:rgba(0,0,0,0.04);border-radius:0 0 var(--r-sm) var(--r-sm)}
+
+html{scroll-behavior:smooth;-webkit-font-smoothing:antialiased}
+body{
+  font-family:'SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif;
+  background:var(--bg);
+  color:var(--text);
+  min-height:100vh;
+  background-image:
+    radial-gradient(ellipse 80% 60% at 20% -10%,rgba(10,132,255,0.12) 0%,transparent 60%),
+    radial-gradient(ellipse 60% 40% at 80% 10%,rgba(191,90,242,0.08) 0%,transparent 50%),
+    radial-gradient(ellipse 40% 80% at 90% 80%,rgba(48,209,88,0.05) 0%,transparent 50%);
+  background-attachment:fixed;
+  transition:background-color .3s,color .3s;
+}
+a{color:var(--blue);text-decoration:none}
+a:hover{opacity:.8}
+code,pre{font-family:'SF Mono','Fira Code','Menlo',monospace}
+
+/* ── GLASS CARD ────────────────────────── */
+.glass{
+  background:var(--bg2);
+  backdrop-filter:var(--blur);
+  -webkit-backdrop-filter:var(--blur);
+  border:1px solid var(--border);
+  border-radius:var(--r);
+  transition:border-color .2s,transform .2s,box-shadow .2s;
+}
+.glass:hover{border-color:var(--border2)}
+
+/* ── NAV ───────────────────────────────── */
+nav{
+  position:fixed;top:0;left:0;right:0;z-index:200;
+  height:52px;
+  background:var(--nav-bg);
+  backdrop-filter:blur(20px) saturate(200%);
+  -webkit-backdrop-filter:blur(20px) saturate(200%);
+  border-bottom:1px solid var(--border);
+  display:flex;align-items:center;
+  padding:0 24px;gap:24px;
+  transition:background .3s,border-color .3s;
+}
+.nav-brand{
+  display:flex;align-items:center;gap:10px;
+  font-size:15px;font-weight:700;color:var(--text);
+  white-space:nowrap;flex-shrink:0;
+}
+.nav-logo-mark{
+  width:28px;height:28px;border-radius:8px;
+  background:linear-gradient(135deg,var(--blue),var(--purple));
+  display:flex;align-items:center;justify-content:center;
+  font-weight:800;font-size:13px;color:#fff;
+  font-family:monospace;flex-shrink:0;
+}
+.nav-links{display:flex;align-items:center;gap:4px;margin-left:8px}
+.nav-link{
+  padding:6px 12px;border-radius:8px;
+  font-size:13px;color:var(--text2);
+  transition:color .15s,background .15s;
+}
+.nav-link:hover{color:var(--text);background:var(--bg2);text-decoration:none}
+.nav-link.active{color:var(--text)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:8px}
+
+/* Theme toggle button */
+#theme-toggle{
+  display:flex;align-items:center;justify-content:center;
+  width:36px;height:36px;border-radius:9px;
+  border:1px solid var(--border2);
+  background:var(--bg2);
+  cursor:pointer;transition:all .15s;color:var(--text2);
+}
+#theme-toggle:hover{border-color:var(--blue);color:var(--text)}
+#theme-toggle svg{width:16px;height:16px;fill:currentColor}
+
+.nav-gh{
+  display:flex;align-items:center;gap:6px;
+  padding:6px 14px;border-radius:9px;
+  border:1px solid var(--border2);
+  background:var(--bg2);
+  font-size:13px;font-weight:500;color:var(--text2);
+  cursor:pointer;transition:all .15s;
+}
+.nav-gh:hover{border-color:var(--blue);color:var(--text);text-decoration:none}
+.nav-gh svg{width:14px;height:14px;fill:currentColor}
+#star-chip{
+  font-size:11px;background:var(--bg3);
+  padding:2px 7px;border-radius:20px;
+}
+
+/* ── LAYOUT ────────────────────────────── */
+.page{max-width:1200px;margin:0 auto;padding:80px 20px 80px}
+.section{margin-bottom:64px}
+.section-label{
+  font-size:11px;font-weight:700;letter-spacing:1.2px;
+  text-transform:uppercase;color:var(--text3);
+  margin-bottom:20px;
+}
+
+/* ── BENTO GRID ───────────────────────── */
+.bento{
+  display:grid;
+  grid-template-columns:repeat(12,1fr);
+  gap:var(--gap);
+}
+.b-12{grid-column:span 12}
+.b-8{grid-column:span 8}
+.b-6{grid-column:span 6}
+.b-5{grid-column:span 5}
+.b-4{grid-column:span 4}
+.b-3{grid-column:span 3}
+.b-2{grid-column:span 2}
+.b-r2{grid-row:span 2}
+
+/* ── HERO ──────────────────────────────── */
+.hero-card{
+  padding:52px 52px 40px;
+  background:
+    radial-gradient(ellipse 100% 100% at 60% -20%,rgba(10,132,255,0.15) 0%,transparent 60%),
+    var(--hero-bg);
+  position:relative;overflow:hidden;
+}
+[data-theme="dark"] .hero-card::before{
+  content:'';position:absolute;
+  inset:-1px;border-radius:calc(var(--r) + 1px);
+  background:linear-gradient(135deg,rgba(255,255,255,0.12),rgba(255,255,255,0.04),rgba(255,255,255,0.0));
+  mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);
+  mask-composite:exclude;-webkit-mask-composite:xor;
+  padding:1px;pointer-events:none;
+}
+.hero-eyebrow{
+  display:inline-flex;align-items:center;gap:8px;
+  padding:5px 12px;border-radius:20px;
+  border:1px solid var(--border2);
+  background:rgba(255,255,255,0.04);
+  font-size:12px;color:var(--text3);
+  margin-bottom:20px;
+}
+[data-theme="light"] .hero-eyebrow{background:rgba(0,0,0,0.04)}
+.live-dot{
+  width:6px;height:6px;border-radius:50%;
+  background:var(--green);
+  animation:pulse 2s ease infinite;
+  flex-shrink:0;
+}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(.8)}}
+h1{
+  font-size:clamp(36px,4.5vw,58px);
+  font-weight:800;letter-spacing:-2px;line-height:1.05;
+  margin-bottom:16px;
+  background:linear-gradient(135deg,#fff 40%,rgba(255,255,255,0.5));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.hero-sub{
+  font-size:17px;color:var(--text2);line-height:1.6;
+  max-width:540px;margin-bottom:16px;
+}
+.hero-tagline{
+  font-size:14px;color:var(--green);font-weight:600;
+  margin-bottom:24px;letter-spacing:.2px;
+}
+.search-wrap{position:relative;max-width:500px;margin-bottom:24px}
+.search-icon{
+  position:absolute;left:14px;top:50%;transform:translateY(-50%);
+  width:15px;height:15px;fill:var(--text3);pointer-events:none;
+}
+#search{
+  width:100%;padding:13px 48px 13px 40px;
+  background:rgba(0,0,0,0.4);
+  border:1px solid var(--border2);border-radius:13px;
+  color:var(--text);font-size:14px;outline:none;
+  transition:border-color .15s,box-shadow .15s;
+  font-family:inherit;
+}
+#search::placeholder{color:var(--text3)}
+#search:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(10,132,255,.18)}
+.kbd{
+  position:absolute;right:12px;top:50%;transform:translateY(-50%);
+  font-size:10px;color:var(--text3);
+  background:var(--bg3);border:1px solid var(--border);
+  border-radius:5px;padding:2px 6px;letter-spacing:.5px;
+}
+.hero-stats{display:flex;gap:20px;flex-wrap:wrap}
+.h-stat{
+  display:flex;flex-direction:column;
+  padding:12px 20px;border-radius:var(--r-sm);
+  background:rgba(0,0,0,0.3);border:1px solid var(--border);
+  min-width:90px;
+}
+[data-theme="light"] .h-stat{background:rgba(0,0,0,0.04)}
+.h-stat-n{font-size:22px;font-weight:700;letter-spacing:-1px}
+.h-stat-l{font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:.8px;margin-top:2px}
+
+/* stat side cards */
+.stat-card{
+  padding:24px;display:flex;flex-direction:column;
+  justify-content:space-between;
+}
+.stat-card .big-n{
+  font-size:48px;font-weight:800;letter-spacing:-3px;
+  background:linear-gradient(135deg,#fff,rgba(255,255,255,.5));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.stat-card .sc-label{font-size:13px;color:var(--text2)}
+.stat-card .sc-sub{font-size:11px;color:var(--text3);margin-top:4px}
+.accent-dot{
+  width:10px;height:10px;border-radius:50%;
+  margin-bottom:auto;
+}
+
+/* ── SECTION HEADINGS ─────────────────── */
+h2{font-size:28px;font-weight:700;letter-spacing:-1px;margin-bottom:8px}
+h3{font-size:20px;font-weight:700;letter-spacing:-.5px}
+.lead{font-size:16px;color:var(--text2);line-height:1.7;margin-bottom:0}
+
+/* ── EXPLAINER CARDS ──────────────────── */
+.explainer{padding:32px}
+.explainer h2{margin-bottom:12px}
+.tag{
+  display:inline-block;padding:3px 10px;border-radius:20px;
+  font-size:11px;font-weight:600;letter-spacing:.5px;
+  border:1px solid;margin-bottom:12px;
+}
+.tag-blue{color:var(--blue);border-color:rgba(10,132,255,.3);background:rgba(10,132,255,.08)}
+.tag-green{color:var(--green);border-color:rgba(48,209,88,.3);background:rgba(48,209,88,.08)}
+.tag-purple{color:var(--purple);border-color:rgba(191,90,242,.3);background:rgba(191,90,242,.08)}
+.tag-orange{color:var(--orange);border-color:rgba(255,159,10,.3);background:rgba(255,159,10,.08)}
+
+/* ── CODE BLOCK ───────────────────────── */
+.code-wrap{
+  background:var(--code-bg);
+  border:1px solid var(--border);
+  border-radius:var(--r-sm);
+  overflow:hidden;margin-top:16px;
+}
+.code-header{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:10px 16px;border-bottom:1px solid var(--border);
+  background:rgba(255,255,255,.02);
+}
+[data-theme="light"] .code-header{background:rgba(0,0,0,.02)}
+.code-lang{font-size:11px;color:var(--text3);font-family:monospace;letter-spacing:.5px}
+.copy-btn{
+  font-size:11px;color:var(--text3);
+  background:var(--bg3);border:1px solid var(--border);
+  border-radius:6px;padding:3px 8px;cursor:pointer;
+  transition:color .15s,border-color .15s;font-family:inherit;
+}
+.copy-btn:hover{color:var(--text);border-color:var(--border2)}
+pre{
+  padding:16px;overflow-x:auto;font-size:13px;line-height:1.7;
+  tab-size:2;-moz-tab-size:2;
+}
+pre code{background:none;border:none;padding:0;font-size:inherit}
+/* syntax colors */
+.k{color:#fc5fa3}
+.s{color:#fc6a11}
+.c{color:rgba(255,255,255,0.35)}
+.v{color:#9ecd6f}
+.p{color:#41a1c0}
+.n{color:#d8d8d8}
+.cmd{color:var(--teal)}
+.dir{color:var(--orange)}
+.cm{color:rgba(255,255,255,.3)}
+
+/* ── STEPS ────────────────────────────── */
+.steps{display:flex;flex-direction:column;gap:0}
+.step{
+  display:flex;gap:20px;
+  padding:20px 0;
+  border-bottom:1px solid var(--border);
+}
+.step:last-child{border-bottom:none}
+.step-num{
+  width:32px;height:32px;border-radius:50%;
+  background:rgba(10,132,255,.15);border:1px solid rgba(10,132,255,.3);
+  display:flex;align-items:center;justify-content:center;
+  font-size:13px;font-weight:700;color:var(--blue);
+  flex-shrink:0;margin-top:2px;
+}
+.step-body h4{font-size:15px;font-weight:600;margin-bottom:6px}
+.step-body p{font-size:14px;color:var(--text2);line-height:1.6}
+
+/* ── NEWCOMER STEPS ───────────────────── */
+.newcomer-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--gap);margin-top:0}
+.ns-card{
+  padding:24px;border-radius:var(--r);
+  background:var(--bg2);border:1px solid var(--border);
+  display:flex;flex-direction:column;gap:12px;
+  transition:border-color .2s,transform .15s;
+}
+.ns-card:hover{border-color:var(--border2);transform:translateY(-2px)}
+.ns-num{
+  width:36px;height:36px;border-radius:10px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:16px;font-weight:800;color:#fff;
+  flex-shrink:0;
+}
+.ns-card h3{font-size:16px;font-weight:700;margin:0}
+.ns-card p{font-size:13px;color:var(--text2);line-height:1.6;margin:0}
+.ns-code{
+  margin-top:4px;padding:10px 14px;
+  background:var(--code-bg);border:1px solid var(--border);
+  border-radius:8px;font-family:monospace;font-size:12px;color:var(--teal);
+}
+[data-theme="light"] .ns-code{color:var(--blue)}
+
+/* ── PILL GRID ───────────────────────── */
+.pill-grid{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.pill{
+  display:flex;align-items:center;gap:6px;
+  padding:6px 12px;border-radius:20px;
+  border:1px solid var(--border);background:var(--bg2);
+  font-size:13px;color:var(--text2);
+  transition:border-color .15s,color .15s;
+}
+.pill:hover{border-color:var(--border2);color:var(--text)}
+.pill-dot{width:6px;height:6px;border-radius:50%}
+
+/* ── FEATURE GRID ────────────────────── */
+.feat-card{padding:24px;height:100%}
+.feat-icon{
+  width:36px;height:36px;border-radius:10px;
+  display:flex;align-items:center;justify-content:center;
+  margin-bottom:16px;
+}
+.feat-icon svg{width:18px;height:18px}
+.feat-card h3{font-size:16px;margin-bottom:8px}
+.feat-card p{font-size:13px;color:var(--text2);line-height:1.6}
+
+/* ── FIELD TABLE ────────────────────── */
+.field-card{padding:20px;height:100%}
+.field-name{
+  font-family:monospace;font-size:14px;font-weight:600;
+  color:var(--blue);margin-bottom:4px;
+}
+.field-req{
+  display:inline-block;font-size:10px;padding:1px 7px;
+  border-radius:10px;margin-bottom:10px;font-weight:600;
+}
+.req{background:rgba(48,209,88,.12);color:var(--green);border:1px solid rgba(48,209,88,.25)}
+.opt{background:rgba(255,255,255,.06);color:var(--text3);border:1px solid var(--border)}
+[data-theme="light"] .opt{background:rgba(0,0,0,.04)}
+.field-desc{font-size:13px;color:var(--text2);line-height:1.6}
+.field-ex{
+  margin-top:10px;padding:8px 12px;
+  background:var(--code-bg2);border-radius:8px;
+  font-family:monospace;font-size:12px;color:var(--text3);
+}
+
+/* ── SKILLS DIRECTORY ────────────────── */
+#dir-section{scroll-margin-top:60px}
+.dir-toolbar{
+  display:flex;align-items:center;gap:8px;
+  flex-wrap:wrap;margin-bottom:16px;
+}
+.filter-scroll{
+  display:flex;gap:6px;overflow-x:auto;
+  scrollbar-width:none;flex:1;
+}
+.filter-scroll::-webkit-scrollbar{display:none}
+.filter-btn{
+  white-space:nowrap;padding:7px 16px;
+  border-radius:20px;border:1px solid var(--border);
+  background:var(--bg2);font-size:13px;color:var(--text2);
+  cursor:pointer;transition:all .15s;font-family:inherit;
+  display:flex;align-items:center;gap:6px;flex-shrink:0;
+}
+.filter-btn:hover{border-color:var(--border2);color:var(--text)}
+.filter-btn.active{border-color:var(--blue);background:rgba(10,132,255,.12);color:var(--blue)}
+.filter-cnt{
+  font-size:11px;opacity:.7;
+  background:rgba(255,255,255,.08);padding:1px 5px;border-radius:8px;
+}
+[data-theme="light"] .filter-cnt{background:rgba(0,0,0,.06)}
+.dir-meta{
+  display:flex;align-items:center;justify-content:space-between;
+  font-size:13px;color:var(--text3);margin-bottom:12px;
+}
+.clear-btn{
+  color:var(--blue);background:none;border:none;
+  cursor:pointer;font-size:13px;font-family:inherit;display:none;
+}
+.skills-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(290px,1fr));
+  gap:10px;
+}
+.sk-card{
+  background:var(--bg2);
+  border:1px solid var(--border);border-radius:16px;
+  padding:16px;
+  transition:border-color .2s,transform .15s,box-shadow .2s;
+  position:relative;overflow:hidden;
+  display:flex;flex-direction:column;gap:6px;
+  text-decoration:none!important;
+}
+.sk-card::before{
+  content:'';position:absolute;left:0;top:0;bottom:0;
+  width:2px;background:var(--cat-col,var(--blue));
+  opacity:.6;
+}
+.sk-card:hover{
+  border-color:var(--border2);
+  transform:translateY(-2px);
+  box-shadow:0 12px 40px rgba(0,0,0,.5);
+}
+.sk-name{
+  font-size:14px;font-weight:600;color:var(--blue);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.sk-desc{
+  font-size:12px;color:var(--text2);line-height:1.5;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.sk-ext{
+  width:12px;height:12px;fill:var(--text3);
+  position:absolute;right:14px;top:18px;
+  opacity:0;transition:opacity .15s;
+}
+.sk-card:hover .sk-ext{opacity:.7}
+.hl{background:rgba(255,211,61,.2);border-radius:3px;color:#ffe066}
+
+/* ── LOADER / EMPTY ─────────────────── */
+.dir-loader{
+  display:flex;align-items:center;justify-content:center;
+  flex-direction:column;gap:12px;padding:60px 0;
+  color:var(--text3);font-size:14px;
+}
+.spin{
+  width:32px;height:32px;border:2px solid var(--border);
+  border-top-color:var(--blue);border-radius:50%;
+  animation:spin .7s linear infinite;
+}
+@keyframes spin{to{transform:rotate(360deg)}}
+.dir-empty{
+  text-align:center;padding:60px 0;
+  color:var(--text3);font-size:14px;display:none;
+}
+
+/* ── SECTION DIVIDER ────────────────── */
+.sec-divider{
+  display:flex;align-items:center;gap:16px;
+  margin-bottom:24px;
+}
+.sec-divider .sec-icon{
+  width:40px;height:40px;border-radius:12px;
+  display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;
+}
+.sec-divider h2{flex:1}
+.sec-cnt{
+  font-size:12px;background:var(--bg3);border:1px solid var(--border);
+  padding:3px 10px;border-radius:20px;color:var(--text3);
+}
+.sec-line{flex:1;height:1px;background:var(--border)}
+
+/* ── RESOURCE CARDS ─────────────────── */
+.res-card{
+  padding:24px;display:flex;flex-direction:column;gap:8px;
+}
+.res-card h3{font-size:16px}
+.res-card p{font-size:13px;color:var(--text2);line-height:1.6}
+.res-link{
+  display:inline-flex;align-items:center;gap:6px;
+  font-size:13px;color:var(--blue);margin-top:auto;padding-top:8px;
+  font-weight:500;
+}
+.res-link svg{width:12px;height:12px;fill:currentColor}
+.res-link:hover{opacity:.8;text-decoration:none}
+
+/* ── HOW IT WORKS ───────────────────── */
+.how-card{padding:28px;height:100%}
+.how-num{
+  font-size:11px;font-weight:700;letter-spacing:1px;
+  text-transform:uppercase;color:var(--text3);margin-bottom:16px;
+  display:flex;align-items:center;gap:8px;
+}
+.how-num::before{
+  content:attr(data-n);
+  width:22px;height:22px;border-radius:50%;
+  background:var(--bg3);border:1px solid var(--border);
+  display:flex;align-items:center;justify-content:center;
+  font-size:11px;font-weight:700;color:var(--text2);
+  flex-shrink:0;
+}
+.how-card h3{font-size:18px;margin-bottom:10px}
+.how-card p{font-size:13px;color:var(--text2);line-height:1.65}
+.how-detail{
+  margin-top:14px;padding:12px 14px;
+  background:rgba(0,0,0,.3);border-radius:10px;
+  border:1px solid var(--border);
+  font-family:monospace;font-size:12px;color:var(--text2);font-family:monospace;line-height:1.6;
+}
+[data-theme="light"] .how-detail{background:rgba(0,0,0,.04)}
+
+/* ── PRACTICE CARDS ────────────────── */
+.prac-card{padding:22px;height:100%}
+.prac-card .prac-num{
+  font-size:11px;font-weight:700;letter-spacing:.5px;
+  color:var(--text3);margin-bottom:10px;
+}
+.prac-card h3{font-size:15px;margin-bottom:8px}
+.prac-card p{font-size:13px;color:var(--text2);line-height:1.6}
+.prac-tip{
+  margin-top:12px;padding:10px 12px;
+  background:rgba(10,132,255,.08);
+  border:1px solid rgba(10,132,255,.2);
+  border-radius:8px;font-size:12px;color:var(--text2);line-height:1.5;
+}
+.prac-tip strong{color:var(--blue)}
+
+/* ── AGENT GRID ─────────────────────── */
+.agent-card{
+  display:flex;flex-direction:column;gap:4px;
+  padding:18px;
+  justify-content:space-between;
+}
+.agent-name{font-size:15px;font-weight:600}
+.agent-by{font-size:11px;color:var(--text3)}
+.agent-status{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:11px;font-weight:500;
+}
+.status-dot{width:5px;height:5px;border-radius:50%}
+
+/* ── INLINE NOTICE ─────────────────── */
+.notice{
+  padding:14px 16px;border-radius:var(--r-sm);
+  border:1px solid;font-size:13px;line-height:1.5;
+  display:flex;gap:10px;align-items:flex-start;
+  margin-top:16px;
+}
+.notice svg{width:16px;height:16px;fill:currentColor;flex-shrink:0;margin-top:1px}
+.notice-blue{border-color:rgba(10,132,255,.25);background:rgba(10,132,255,.07);color:var(--text2)}
+.notice-blue svg{color:var(--blue)}
+.notice-green{border-color:rgba(48,209,88,.25);background:rgba(48,209,88,.07);color:var(--text2)}
+.notice-green svg{color:var(--green)}
+
+/* ── CONTACT SECTION ───────────────── */
+.contact-card{
+  padding:40px;
+  background:
+    radial-gradient(ellipse 80% 80% at 10% 50%,rgba(10,132,255,0.08) 0%,transparent 60%),
+    var(--bg2);
+}
+.contact-card h2{margin-bottom:8px}
+.contact-card .contact-sub{font-size:15px;color:var(--text2);margin-bottom:28px}
+.contact-links{display:flex;flex-wrap:wrap;gap:12px}
+.contact-link{
+  display:inline-flex;align-items:center;gap:10px;
+  padding:12px 20px;border-radius:var(--r-sm);
+  border:1px solid var(--border2);background:var(--bg3);
+  font-size:14px;font-weight:500;color:var(--text);
+  transition:all .15s;text-decoration:none!important;
+}
+.contact-link:hover{border-color:var(--blue);color:var(--blue);transform:translateY(-1px)}
+.contact-link svg{width:18px;height:18px;fill:currentColor;flex-shrink:0}
+
+/* ── FAQ ────────────────────────────── */
+.faq-item{
+  border-bottom:1px solid var(--border);
+  padding:20px 0;
+}
+.faq-item:first-child{padding-top:0}
+.faq-item:last-child{border-bottom:none}
+.faq-q{font-size:15px;font-weight:600;margin-bottom:8px}
+.faq-a{font-size:14px;color:var(--text2);line-height:1.7}
+.faq-a code{
+  background:var(--bg3);padding:1px 6px;border-radius:5px;
+  font-family:monospace;font-size:13px;color:var(--blue);
+}
+
+/* ── FOOTER ─────────────────────────── */
+footer{
+  border-top:1px solid var(--border);
+  padding:28px 20px;
+  text-align:center;
+  font-size:12px;color:var(--text3);
+  background:var(--footer-bg);
+  transition:background .3s,border-color .3s;
+}
+footer a{color:var(--text2)}
+footer a:hover{color:var(--text)}
+.footer-contact{margin-top:10px;font-size:12px}
+.footer-contact a{color:var(--blue)}
+
+/* ── RESPONSIVE ─────────────────────── */
+@media(max-width:900px){
+  .b-8{grid-column:span 12}
+  .b-5{grid-column:span 12}
+  .b-4{grid-column:span 6}
+  .b-3{grid-column:span 6}
+  .hero-card{padding:32px 24px 28px}
+  h1{font-size:36px}
+  nav .nav-links{display:none}
+  .newcomer-steps{grid-template-columns:1fr}
+}
+@media(max-width:600px){
+  .b-4,.b-3,.b-6{grid-column:span 12}
+  .bento{gap:8px}
+  .page{padding:70px 14px 60px}
+  .skills-grid{grid-template-columns:1fr}
+  .contact-links{flex-direction:column}
+}
+</style>
+</head>
+<body>
+
+<!-- ── NAV ──────────────────────────────────── -->
+<nav>
+  <a class="nav-brand" href="#">
+    <div class="nav-logo-mark">🐍🍎</div>
+    Agent Skill Index
+  </a>
+  <div class="nav-links">
+    <a class="nav-link" href="#newcomer">Get Started</a>
+    <a class="nav-link" href="#tutorial">Tutorial</a>
+    <a class="nav-link" href="#reference">Reference</a>
+    <a class="nav-link" href="#dir-section">Skills</a>
+    <a class="nav-link" href="#resources">Resources</a>
+  </div>
+  <div class="nav-right">
+    <button id="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark theme" aria-label="Toggle theme">
+      <!-- Sun icon (shown in dark mode) -->
+      <svg id="icon-sun" viewBox="0 0 16 16" style="display:block"><path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/></svg>
+      <!-- Moon icon (shown in light mode) -->
+      <svg id="icon-moon" viewBox="0 0 16 16" style="display:none"><path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/></svg>
+    </button>
+    <a class="nav-gh" href="https://github.com/heilcheng/awesome-agent-skills" target="_blank" rel="noopener">
+      <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+      GitHub
+      <span id="star-chip">—</span>
+    </a>
+  </div>
+</nav>
+
+<!-- ── PAGE ──────────────────────────────────── -->
+<div class="page">
+
+<!-- ═══ HERO ═══════════════════════════════════ -->
+<section class="section">
+  <div class="bento">
+
+    <!-- Main hero card -->
+    <div class="glass hero-card b-8">
+      <div class="hero-eyebrow">
+        <span class="live-dot"></span>
+        Open standard · Community curated · Auto-synced
+      </div>
+      <h1>Give Your AI<br>New Superpowers</h1>
+      <p class="hero-sub">Agent Skills are simple text files that teach AI assistants (Claude, Copilot, Codex and more) to do new things — on demand. No coding. No setup.</p>
+      <p class="hero-tagline">↓ Just pick a skill, paste a link, and ask your AI to use it.</p>
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 16 16"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.099zm-5.242 1.406a5 5 0 1 1 0-10 5 5 0 0 1 0 10z"/></svg>
+        <input type="search" id="search" placeholder="Search skills, tools, categories..." autocomplete="off" spellcheck="false"/>
+        <span class="kbd">⌘K</span>
+      </div>
+      <div class="hero-stats">
+        <div class="h-stat"><span class="h-stat-n" id="stat-skills">—</span><span class="h-stat-l">Skills</span></div>
+        <div class="h-stat"><span class="h-stat-n">8</span><span class="h-stat-l">Categories</span></div>
+        <div class="h-stat"><span class="h-stat-n">30+</span><span class="h-stat-l">Agents</span></div>
+        <div class="h-stat"><span class="h-stat-n">6</span><span class="h-stat-l">Languages</span></div>
+      </div>
+    </div>
+
+    <!-- Stat cards column -->
+    <div class="glass stat-card b-4">
+      <div class="accent-dot" style="background:var(--green)"></div>
+      <div class="big-n" id="stat-skills-2">100+</div>
+      <div class="sc-label">Community Skills</div>
+      <div class="sc-sub">Across 8 categories, maintained by the community</div>
+    </div>
+
+    <div class="glass stat-card b-4">
+      <div class="accent-dot" style="background:var(--purple)"></div>
+      <div class="big-n">1</div>
+      <div class="sc-label">File required</div>
+      <div class="sc-sub">SKILL.md is all you need to create or use a skill</div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ NEWCOMER QUICK START ═══════════════════ -->
+<section class="section" id="newcomer">
+  <div class="section-label">New here? Start in 30 seconds — no coding required</div>
+
+  <div class="newcomer-steps">
+
+    <div class="ns-card">
+      <div class="ns-num" style="background:var(--blue)">1</div>
+      <h3>Find a Skill</h3>
+      <p>Browse the directory below — skills are organized by category (development, data, automation, security, and more). Each card links directly to the skill on GitHub.</p>
+      <div style="margin-top:8px;font-size:13px;color:var(--text3)">👇 Scroll down to browse all skills</div>
+    </div>
+
+    <div class="ns-card">
+      <div class="ns-num" style="background:var(--purple)">2</div>
+      <h3>Load It Into Your AI</h3>
+      <p>Copy the GitHub URL and add it to your AI agent. Each platform has a slightly different command:</p>
+      <div class="ns-code">Claude Code:<br>/skills add &lt;github-url&gt;</div>
+      <div class="ns-code" style="margin-top:6px">Claude.ai:<br>Paste raw SKILL.md URL in chat</div>
+    </div>
+
+    <div class="ns-card">
+      <div class="ns-num" style="background:var(--green)">3</div>
+      <h3>Ask in Plain English</h3>
+      <p>Just tell your AI what you want — it reads the skill instructions automatically and gets to work. No commands to memorize. No configuration.</p>
+      <div class="ns-code" style="color:var(--green)">"Analyze this CSV file and<br>give me a summary"</div>
+    </div>
+
+  </div>
+
+  <div class="glass" style="margin-top:var(--gap);padding:20px 28px;display:flex;align-items:center;gap:16px;flex-wrap:wrap">
+    <svg width="18" height="18" viewBox="0 0 16 16" fill="var(--blue)" style="flex-shrink:0"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/><path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/></svg>
+    <span style="font-size:14px;color:var(--text2)"><strong style="color:var(--text)">Not a developer?</strong> Skills are plain text instructions — there's no code involved. You only need an AI subscription (e.g. Claude.ai free tier works) and a GitHub account is optional.</span>
+  </div>
+</section>
+
+<!-- ═══ WHAT ARE AGENT SKILLS ════════════════════ -->
+<section class="section" id="tutorial">
+  <div class="section-label">What are Agent Skills</div>
+  <div class="bento">
+
+    <!-- Main explainer -->
+    <div class="glass explainer b-8">
+      <span class="tag tag-blue">Overview</span>
+      <h2>Portable knowledge for AI agents</h2>
+      <p class="lead" style="margin-bottom:16px">Agent Skills are folders containing a <code style="color:var(--blue);font-size:14px">SKILL.md</code> file — a blend of metadata and instructions that agents discover and load on demand. Think of them as <em>loadable expertise</em>: domain knowledge, team conventions, and repeatable workflows your agent can access exactly when needed.</p>
+      <p class="lead" style="margin-bottom:20px">The format was originally developed by Anthropic, released as an open standard, and has been adopted by 30+ agent products including Claude, Codex, Cursor, Copilot, Gemini CLI, and more.</p>
+      <div class="code-wrap">
+        <div class="code-header">
+          <span class="code-lang">SKILL.md — minimal example</span>
+          <button class="copy-btn" onclick="copy(this,`---\nname: roll-dice\ndescription: Roll dice using a random number generator. Use when asked to roll a die (d6, d20, etc.).\n---\n\nTo roll a die, run:\n\`\`\`bash\necho $((RANDOM % <sides> + 1))\n\`\`\`\n`)">Copy</button>
+        </div>
+        <pre><code><span class="k">---</span>
+<span class="p">name</span><span class="n">: </span><span class="v">roll-dice</span>
+<span class="p">description</span><span class="n">: </span><span class="s">Roll dice using a random number generator. Use when asked
+  to roll a die (d6, d20, etc.), roll dice, or generate a random roll.</span>
+<span class="k">---</span>
+
+<span class="cm"># Skill body — full Markdown, no format restrictions</span>
+
+To roll a die, run this command:
+
+<span class="n">```bash
+</span><span class="cmd">echo</span> <span class="v">$((RANDOM % &lt;sides&gt; + 1))</span>
+<span class="n">```</span></code></pre>
+      </div>
+    </div>
+
+    <!-- Why / benefits -->
+    <div class="glass explainer b-4 b-r2">
+      <span class="tag tag-green">Why Agent Skills?</span>
+      <h2>Three perspectives</h2>
+      <div class="steps" style="margin-top:16px">
+        <div class="step">
+          <div class="step-num">1</div>
+          <div class="step-body">
+            <h4>For complete newcomers</h4>
+            <p>Find a skill, copy its GitHub URL, paste it in your AI chat. That's it — the AI reads the instructions and knows what to do. No installation, no terminal.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div class="step-body">
+            <h4>For teams and enterprises</h4>
+            <p>Capture organizational knowledge — runbooks, style guides, domain procedures — in portable, version-controlled packages.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <div class="step-body">
+            <h4>For skill authors</h4>
+            <p>Build capabilities once and deploy them across any skills-compatible agent. One file, zero infrastructure. Share on GitHub like any project.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ HOW IT WORKS ═══════════════════════════ -->
+<section class="section">
+  <div class="section-label">How it works — Progressive Disclosure</div>
+  <div class="bento">
+
+    <div class="glass how-card b-4">
+      <div class="how-num" data-n="1">Discovery</div>
+      <h3>Lightweight scan at startup</h3>
+      <p>At startup, the agent loads only the <code style="color:var(--blue)">name</code> and <code style="color:var(--blue)">description</code> of every available skill — roughly 50–100 tokens per skill. No instructions are loaded yet.</p>
+      <div class="how-detail">~project/.agents/skills/<br>~/.agents/skills/<br>~/.claude/skills/</div>
+    </div>
+
+    <div class="glass how-card b-4" style="border-color:rgba(191,90,242,.2)">
+      <div class="how-num" data-n="2">Activation</div>
+      <h3>On-demand loading when relevant</h3>
+      <p>When the user's task matches a skill's description, the agent reads the full <code style="color:var(--purple)">SKILL.md</code> into context. This is where your instructions, examples, and scripts live.</p>
+      <div class="how-detail" style="color:var(--purple);opacity:.8">Recommended: &lt; 5,000 tokens<br>Recommended: &lt; 500 lines</div>
+    </div>
+
+    <div class="glass how-card b-4" style="border-color:rgba(48,209,88,.2)">
+      <div class="how-num" data-n="3">Execution</div>
+      <h3>Instructions followed, scripts run</h3>
+      <p>The agent follows the Markdown instructions — running referenced scripts, loading additional files from <code style="color:var(--green)">scripts/</code> or <code style="color:var(--green)">references/</code> as needed.</p>
+      <div class="how-detail" style="color:var(--green);opacity:.8">scripts/ &nbsp;→ executable code<br>references/ → documentation<br>assets/ &nbsp;&nbsp;→ templates</div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ QUICKSTART TUTORIAL ═══════════════════ -->
+<section class="section">
+  <div class="section-label">Quickstart — Create your first skill in 5 minutes</div>
+  <div class="bento">
+
+    <div class="glass explainer b-6">
+      <span class="tag tag-blue">Step 1</span>
+      <h2>Create the directory structure</h2>
+      <p class="lead" style="margin-bottom:4px">Skills live in a <code style="color:var(--orange)">skills/</code> folder. The folder name must match the <code style="color:var(--blue)">name</code> field in your SKILL.md.</p>
+      <div class="code-wrap">
+        <div class="code-header"><span class="code-lang">Shell</span><button class="copy-btn" onclick="copy(this,'# Project-level (shared with project)\nmkdir -p .agents/skills/my-skill\n\n# User-level (personal, available everywhere)\nmkdir -p ~/.agents/skills/my-skill')">Copy</button></div>
+        <pre><code><span class="cm"># Project-level (shared with project)</span>
+<span class="cmd">mkdir</span> -p <span class="dir">.agents/skills/my-skill</span>
+
+<span class="cm"># User-level (personal, available everywhere)</span>
+<span class="cmd">mkdir</span> -p <span class="dir">~/.agents/skills/my-skill</span>
+
+<span class="cm"># Claude Code also reads from:</span>
+<span class="dir">.claude/skills/my-skill/</span>
+<span class="dir">~/.claude/skills/my-skill/</span></code></pre>
+      </div>
+      <div class="notice notice-blue">
+        <svg viewBox="0 0 16 16"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/><path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/></svg>
+        Project-level skills override user-level skills with the same name.
+      </div>
+    </div>
+
+    <div class="glass explainer b-6">
+      <span class="tag tag-purple">Step 2</span>
+      <h2>Write your SKILL.md</h2>
+      <p class="lead" style="margin-bottom:4px">Create <code style="color:var(--blue)">.agents/skills/my-skill/SKILL.md</code> with YAML frontmatter followed by Markdown instructions.</p>
+      <div class="code-wrap">
+        <div class="code-header"><span class="code-lang">SKILL.md</span><button class="copy-btn" onclick="copy(this,'---\nname: my-skill\ndescription: >\n  A description of what this skill does and when to use it.\n  Use when the user asks to [specific trigger].\nlicense: MIT\nmetadata:\n  author: your-name\n  version: \"1.0\"\n---\n\n## Instructions\n\n1. First, do this.\n2. Then, do that.\n\n## Examples\n\n...')">Copy</button></div>
+        <pre><code><span class="k">---</span>
+<span class="p">name</span><span class="n">: </span><span class="v">my-skill</span>
+<span class="p">description</span><span class="n">: </span><span class="s">&gt;
+  What this skill does and when to use it.
+  Use when the user asks to [specific task].</span>
+<span class="p">license</span><span class="n">: </span><span class="v">MIT</span>
+<span class="p">metadata</span><span class="n">:</span>
+  <span class="p">author</span><span class="n">: </span><span class="v">your-name</span>
+  <span class="p">version</span><span class="n">: </span><span class="s">"1.0"</span>
+<span class="k">---</span>
+
+<span class="cm">## Instructions</span>
+
+<span class="n">1. First, do this.</span>
+<span class="n">2. Then, do that.</span></code></pre>
+      </div>
+    </div>
+
+    <div class="glass explainer b-6">
+      <span class="tag tag-green">Step 3</span>
+      <h2>Write clear instructions</h2>
+      <p class="lead" style="margin-bottom:4px">The Markdown body is completely free-form. Structure it so the agent can follow it step-by-step. Recommended sections:</p>
+      <div class="code-wrap">
+        <div class="code-header"><span class="code-lang">Recommended body structure</span></div>
+        <pre><code><span class="cm">## When to use this skill</span>
+<span class="n">Trigger conditions, scope, and limitations.</span>
+
+<span class="cm">## Instructions</span>
+<span class="n">Step-by-step procedure. Be explicit.</span>
+
+<span class="cm">## Gotchas</span>
+<span class="n">Environment-specific facts. Things that defy expectations.</span>
+
+<span class="cm">## Examples</span>
+<span class="n">Concrete input → output pairs.</span>
+
+<span class="cm">## Validation</span>
+<span class="n">How to verify the output is correct.</span></code></pre>
+      </div>
+    </div>
+
+    <div class="glass explainer b-6">
+      <span class="tag tag-orange">Step 4</span>
+      <h2>Add scripts (optional)</h2>
+      <p class="lead" style="margin-bottom:4px">Place executable files in a <code style="color:var(--orange)">scripts/</code> subdirectory. Agents can run them. Design scripts to be agent-friendly:</p>
+      <div class="code-wrap">
+        <div class="code-header"><span class="code-lang">Python — PEP 723 inline dependencies</span><button class="copy-btn" onclick="copy(this,'#!/usr/bin/env -S uv run\n# /// script\n# requires-python = \">= 3.11\"\n# dependencies = [\"requests\", \"rich\"]\n# ///\nimport sys, json\n\n# Avoid interactive prompts\n# Use structured output (JSON/CSV)\n# Write errors to stderr\n# Exit with meaningful codes\nprint(json.dumps({\"result\": \"ok\"}))')">Copy</button></div>
+        <pre><code><span class="cm">#!/usr/bin/env -S uv run</span>
+<span class="cm"># /// script</span>
+<span class="cm"># requires-python = ">= 3.11"</span>
+<span class="cm"># dependencies = ["requests", "rich"]</span>
+<span class="cm"># ///</span>
+<span class="n">import sys, json</span>
+
+<span class="cm"># Design principles for agent scripts:</span>
+<span class="cm"># - No interactive prompts</span>
+<span class="cm"># - Structured output (JSON/CSV)</span>
+<span class="cm"># - Errors to stderr, data to stdout</span>
+<span class="cm"># - --help flag, meaningful exit codes</span>
+<span class="n">print</span><span class="n">(json.dumps({</span><span class="s">"result"</span><span class="n">: </span><span class="s">"ok"</span><span class="n">}))</span></code></pre>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ SKILL.MD REFERENCE ════════════════════ -->
+<section class="section" id="reference">
+  <div class="section-label">SKILL.md Format Reference</div>
+  <div class="bento" style="margin-bottom:16px">
+    <div class="glass explainer b-12">
+      <span class="tag tag-blue">Complete Specification</span>
+      <h2>Frontmatter fields</h2>
+      <p class="lead">Every SKILL.md starts with YAML frontmatter. Only <code style="color:var(--blue)">name</code> and <code style="color:var(--blue)">description</code> are required. The Markdown body that follows has no format restrictions — write whatever helps the agent do the task.</p>
+    </div>
+  </div>
+  <div class="bento">
+
+    <div class="glass field-card b-4">
+      <div class="field-name">name</div>
+      <span class="field-req req">Required</span>
+      <div class="field-desc">Lowercase alphanumeric + hyphens only. 1–64 characters. Must match the parent directory name. No consecutive hyphens, no leading/trailing hyphens.</div>
+      <div class="field-ex">name: pdf-processing<br>name: code-review<br>name: data-analysis</div>
+    </div>
+
+    <div class="glass field-card b-8">
+      <div class="field-name">description</div>
+      <span class="field-req req">Required</span>
+      <div class="field-desc">1–1024 characters. This is the <em>most important field</em> — it's what agents read at startup to decide whether to activate the skill. Describe both what the skill does AND when to use it. Include specific keywords agents would encounter. Use imperative phrasing: "Use this skill when..."</div>
+      <div class="field-ex">
+        Good: "Extracts text and tables from PDF files. Use when working with PDFs, forms, or document extraction."<br>
+        Poor: "Helps with PDFs."
+      </div>
+    </div>
+
+    <div class="glass field-card b-4">
+      <div class="field-name">license</div>
+      <span class="field-req opt">Optional</span>
+      <div class="field-desc">License name or reference to a bundled file. Keeps skill packages self-contained.</div>
+      <div class="field-ex">license: MIT<br>license: Apache-2.0<br>license: LICENSE.txt</div>
+    </div>
+
+    <div class="glass field-card b-4">
+      <div class="field-name">compatibility</div>
+      <span class="field-req opt">Optional</span>
+      <div class="field-desc">1–500 characters. Only include if your skill has specific requirements: target agent, system packages, or network access needs. Most skills don't need this field.</div>
+      <div class="field-ex">Requires git, docker, jq<br>Designed for Claude Code<br>Requires Python 3.11+</div>
+    </div>
+
+    <div class="glass field-card b-4">
+      <div class="field-name">metadata</div>
+      <span class="field-req opt">Optional</span>
+      <div class="field-desc">Arbitrary key-value map for additional properties not defined by the spec. Use unique key names to avoid conflicts.</div>
+      <div class="field-ex">metadata:<br>&nbsp;&nbsp;author: your-org<br>&nbsp;&nbsp;version: "2.1"</div>
+    </div>
+
+    <div class="glass field-card b-4">
+      <div class="field-name">allowed-tools</div>
+      <span class="field-req opt">Optional · Experimental</span>
+      <div class="field-desc">Space-delimited list of tools pre-approved to run. Support varies between agents. Reduces per-action approval prompts for trusted operations.</div>
+      <div class="field-ex">allowed-tools: Bash(git:*) Read Write</div>
+    </div>
+
+    <!-- Full example -->
+    <div class="glass explainer b-12">
+      <div class="code-wrap">
+        <div class="code-header">
+          <span class="code-lang">Complete SKILL.md example</span>
+          <button class="copy-btn" onclick="copy(this,'---\nname: pdf-processing\ndescription: >\n  Extract text and tables from PDF files, fill PDF forms, and merge\n  multiple PDFs. Use when working with PDF documents, forms, or when\n  the user mentions PDFs, document extraction, or form filling.\nlicense: Apache-2.0\ncompatibility: Requires Python 3.11+ and uv\nmetadata:\n  author: example-org\n  version: \"1.0\"\nallowed-tools: Bash(uv:*) Read Write\n---\n\n## When to use this skill\n\nActivate when the user needs to extract text, fill forms, or merge PDFs.\n\n## Instructions\n\n1. Verify the input is a valid PDF.\n2. Run the appropriate script from scripts/.\n3. Validate output before returning.\n\n## Gotchas\n\n- Scanned PDFs require OCR (scripts/ocr.py, not scripts/extract.py)\n- Password-protected PDFs fail silently without --password')">Copy</button>
+        </div>
+        <pre><code><span class="k">---</span>
+<span class="p">name</span><span class="n">: </span><span class="v">pdf-processing</span>
+<span class="p">description</span><span class="n">: </span><span class="s">&gt;
+  Extract text and tables from PDF files, fill PDF forms, and merge
+  multiple PDFs. Use when working with PDF documents, forms, or when
+  the user mentions PDFs, document extraction, or form filling.</span>
+<span class="p">license</span><span class="n">: </span><span class="v">Apache-2.0</span>
+<span class="p">compatibility</span><span class="n">: </span><span class="v">Requires Python 3.11+ and uv</span>
+<span class="p">metadata</span><span class="n">:</span>
+  <span class="p">author</span><span class="n">: </span><span class="v">example-org</span>
+  <span class="p">version</span><span class="n">: </span><span class="s">"1.0"</span>
+<span class="p">allowed-tools</span><span class="n">: </span><span class="v">Bash(uv:*) Read Write</span>
+<span class="k">---</span>
+
+<span class="cm">## When to use this skill</span>
+<span class="n">Activate when the user needs to extract text, fill forms, or merge PDFs.</span>
+
+<span class="cm">## Instructions</span>
+<span class="n">1. Verify the input is a valid PDF.</span>
+<span class="n">2. Run the appropriate script from </span><span class="v">scripts/</span><span class="n">.</span>
+<span class="n">3. Validate output before returning.</span>
+
+<span class="cm">## Gotchas</span>
+<span class="n">- Scanned PDFs require OCR (</span><span class="v">scripts/ocr.py</span><span class="n">, not </span><span class="v">scripts/extract.py</span><span class="n">)</span>
+<span class="n">- Password-protected PDFs fail silently without </span><span class="v">--password</span></code></pre>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ BEST PRACTICES ════════════════════════ -->
+<section class="section">
+  <div class="section-label">Best Practices</div>
+  <div class="bento">
+
+    <div class="glass prac-card b-4">
+      <div class="prac-num">01 — Description</div>
+      <h3>Write descriptions for discovery, not documentation</h3>
+      <p>The description field is the only thing agents read before deciding to activate a skill. Include the exact words users would say. Use imperative triggers like "Use this skill when..."</p>
+      <div class="prac-tip"><strong>Test:</strong> Write 20 queries — 10 that should activate the skill, 10 that should not. Measure trigger rates and iterate.</div>
+    </div>
+
+    <div class="glass prac-card b-4">
+      <div class="prac-num">02 — Scope</div>
+      <h3>Design coherent, right-sized skills</h3>
+      <p>Too narrow (one-liners) wastes overhead. Too broad (everything about AWS) becomes unfocused. Aim for skills that own a clear domain and activate for a well-defined set of tasks.</p>
+      <div class="prac-tip"><strong>Rule of thumb:</strong> Under 500 lines, under 5,000 tokens. Split larger skills into referenced files.</div>
+    </div>
+
+    <div class="glass prac-card b-4">
+      <div class="prac-num">03 — Instructions</div>
+      <h3>Add what agents lack; skip what they know</h3>
+      <p>Focus on project conventions, domain-specific procedures, edge cases unique to your environment, and specific tools. Omit general knowledge the agent already has.</p>
+      <div class="prac-tip"><strong>Write a Gotchas section</strong> for environment-specific facts that defy common assumptions.</div>
+    </div>
+
+    <div class="glass prac-card b-4">
+      <div class="prac-num">04 — Control</div>
+      <h3>Be prescriptive only when it matters</h3>
+      <p>Give freedom when multiple approaches produce equivalent results. Be explicit and strict when operations are fragile, irreversible, or must follow a specific sequence.</p>
+      <div class="prac-tip"><strong>Prefer:</strong> "Provide defaults, not menus. Procedures over declarations."</div>
+    </div>
+
+    <div class="glass prac-card b-4">
+      <div class="prac-num">05 — Scripts</div>
+      <h3>Make scripts agent-friendly by design</h3>
+      <p>Agents can not respond to interactive prompts. Use non-interactive flags, structured output (JSON/CSV not freeform text), helpful error messages, and meaningful exit codes.</p>
+      <div class="prac-tip"><strong>Pattern:</strong> Data to stdout, diagnostics to stderr, structured exit codes.</div>
+    </div>
+
+    <div class="glass prac-card b-4">
+      <div class="prac-num">06 — Validation</div>
+      <h3>Build validation loops into instructions</h3>
+      <p>Have the agent verify its own work before returning. Checklists for multi-step workflows, output template matching, and plan-validate-execute patterns for destructive operations.</p>
+      <div class="prac-tip"><strong>Example:</strong> "Before committing, run tests and confirm green. If tests fail, fix then re-run."</div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ FAQ ════════════════════════════════════ -->
+<section class="section">
+  <div class="section-label">Frequently Asked Questions</div>
+  <div class="glass" style="padding:28px 36px">
+    <div class="faq-item">
+      <div class="faq-q">What exactly is an Agent Skill?</div>
+      <div class="faq-a">A skill is a plain-text instruction file (called <code>SKILL.md</code>) that teaches an AI assistant how to do a specific task. Think of it like a recipe card: the AI reads it, follows the steps, and gets the job done. Skills only load when needed, so the AI stays fast.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">I'm not a developer — can I still use skills?</div>
+      <div class="faq-a">Yes, absolutely. Skills are plain-English instruction files, not code. You need an AI assistant (like Claude.ai — free tier works) and nothing else. No terminal, no GitHub account required. Just copy a skill's GitHub URL and paste it into your AI chat.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Are skills free?</div>
+      <div class="faq-a">Skills themselves are free text files — every skill in this directory is free to download and use. You do need an AI subscription (e.g. Claude Pro, GitHub Copilot) to run them, since skills are read and followed by the AI. Many AI tools have free tiers that work fine.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How do I know if a skill is safe to use?</div>
+      <div class="faq-a">Every skill in this list is a public GitHub repository — you can read the full instructions before loading anything. Check the repo's stars, last update date, and README. Skills are plain text: there's no executable code that runs on your machine just from loading a skill.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How are Agent Skills different from fine-tuning?</div>
+      <div class="faq-a">Fine-tuning permanently changes how an AI thinks (expensive and hard to update). Skills are just instruction files you can update, swap, or share at any time without touching the AI itself.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">What's the difference between Agent Skills and MCP?</div>
+      <div class="faq-a">They do different things and work great together: <strong>Agent Skills</strong> teach the AI <em>how</em> to do something (workflows, best practices). <strong>MCP</strong> helps the AI <em>access</em> things (APIs, databases, external tools).</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Which AI tools support Agent Skills?</div>
+      <div class="faq-a">Claude (Claude.ai and Claude Code), GitHub Copilot, VS Code, Codex (OpenAI), Antigravity (Google), Gemini CLI, Kiro, and 25+ more. The list keeps growing as more tools adopt the open standard.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How do I create my first skill?</div>
+      <div class="faq-a">Create a folder named after your skill, put a <code>SKILL.md</code> file inside with a name and description at the top, then write your instructions in plain English below. Place the folder in <code>.claude/skills/</code> or <code>.github/skills/</code> depending on your AI tool. Full guide: <a href="https://support.claude.com/en/articles/12512198-creating-custom-skills" target="_blank" rel="noopener">Creating custom skills</a>.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ SKILLS DIRECTORY ══════════════════════ -->
+<section class="section" id="dir-section">
+  <div class="sec-divider">
+    <div class="sec-icon" style="background:rgba(10,132,255,.1)">
+      <svg width="18" height="18" viewBox="0 0 16 16" fill="rgba(10,132,255,.8)"><path d="M.5 3l.04-.87a1.99 1.99 0 0 1 2.01-1.13l4.52.08 1.1 1.27 3.85.07a2 2 0 0 1 1.98 2H2.5a1 1 0 0 0-1 1v5l-.5-.62a1 1 0 0 1-.5-.87V3z"/><path d="M2 5a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1H2zm1 5a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/></svg>
+    </div>
+    <h2>Skills Directory</h2>
+    <span class="sec-cnt" id="dir-cnt">Loading...</span>
+    <div class="sec-line"></div>
+  </div>
+
+  <div id="dir-loader" class="dir-loader">
+    <div class="spin"></div>
+    Loading skills from README...
+  </div>
+
+  <div id="dir-content" style="display:none">
+    <div class="dir-toolbar">
+      <div class="filter-scroll" id="filter-row">
+        <button class="filter-btn active" data-cat="all" onclick="setCat(this,'all')">All <span class="filter-cnt" id="fc-all">—</span></button>
+        <button class="filter-btn" data-cat="Skill Collections" onclick="setCat(this,'Skill Collections')">Collections <span class="filter-cnt" id="fc-0">—</span></button>
+        <button class="filter-btn" data-cat="Document Processing" onclick="setCat(this,'Document Processing')">Documents <span class="filter-cnt" id="fc-1">—</span></button>
+        <button class="filter-btn" data-cat="Development & Code Tools" onclick="setCat(this,'Development & Code Tools')">Dev & Code <span class="filter-cnt" id="fc-2">—</span></button>
+        <button class="filter-btn" data-cat="Data & Analysis" onclick="setCat(this,'Data & Analysis')">Data <span class="filter-cnt" id="fc-3">—</span></button>
+        <button class="filter-btn" data-cat="Integration & Automation" onclick="setCat(this,'Integration & Automation')">Integration <span class="filter-cnt" id="fc-4">—</span></button>
+        <button class="filter-btn" data-cat="Collaboration & Project Management" onclick="setCat(this,'Collaboration & Project Management')">Collab <span class="filter-cnt" id="fc-5">—</span></button>
+        <button class="filter-btn" data-cat="Security & Systems" onclick="setCat(this,'Security & Systems')">Security <span class="filter-cnt" id="fc-6">—</span></button>
+        <button class="filter-btn" data-cat="Advanced & Research" onclick="setCat(this,'Advanced & Research')">Research <span class="filter-cnt" id="fc-7">—</span></button>
+        <button class="filter-btn" data-cat="official" onclick="setCat(this,'official')">Official <span class="filter-cnt" id="fc-off">—</span></button>
+      </div>
+    </div>
+    <div class="dir-meta">
+      <span id="result-label"></span>
+      <button class="clear-btn" id="clear-btn" onclick="clearQ()">Clear search</button>
+    </div>
+    <div class="skills-grid" id="skills-grid"></div>
+    <div class="dir-empty" id="dir-empty">No skills matched your search.</div>
+  </div>
+</section>
+
+<!-- ═══ COMPATIBLE AGENTS ═════════════════════ -->
+<section class="section" id="agents">
+  <div class="section-label">Compatible Agents — 30+ platforms</div>
+  <div class="bento" id="agents-bento">
+
+    <div class="glass explainer b-12" style="margin-bottom:0;padding:24px 32px">
+      <p class="lead" style="margin-bottom:20px">Agent Skills is an open standard adopted by leading AI development tools. Skills you create work across all of these platforms without modification.</p>
+      <div class="pill-grid">
+        <span class="pill"><span class="pill-dot" style="background:#0a84ff"></span>Claude Code</span>
+        <span class="pill"><span class="pill-dot" style="background:#0a84ff"></span>Claude.ai</span>
+        <span class="pill"><span class="pill-dot" style="background:#30d158"></span>OpenAI Codex</span>
+        <span class="pill"><span class="pill-dot" style="background:#ff9f0a"></span>GitHub Copilot</span>
+        <span class="pill"><span class="pill-dot" style="background:#bf5af2"></span>Cursor</span>
+        <span class="pill"><span class="pill-dot" style="background:#bf5af2"></span>Windsurf</span>
+        <span class="pill"><span class="pill-dot" style="background:#5ac8fa"></span>Gemini CLI</span>
+        <span class="pill"><span class="pill-dot" style="background:#5ac8fa"></span>VS Code</span>
+        <span class="pill"><span class="pill-dot" style="background:#ff453a"></span>Junie (JetBrains)</span>
+        <span class="pill"><span class="pill-dot" style="background:#ff9f0a"></span>Goose</span>
+        <span class="pill"><span class="pill-dot" style="background:#30d158"></span>Amp</span>
+        <span class="pill"><span class="pill-dot" style="background:#30d158"></span>OpenHands</span>
+        <span class="pill"><span class="pill-dot" style="background:#bf5af2"></span>Roo Code</span>
+        <span class="pill"><span class="pill-dot" style="background:#5ac8fa"></span>Mux</span>
+        <span class="pill"><span class="pill-dot" style="background:#ff9f0a"></span>Letta</span>
+        <span class="pill"><span class="pill-dot" style="background:#0a84ff"></span>Spring AI</span>
+        <span class="pill"><span class="pill-dot" style="background:#5ac8fa"></span>Firebender</span>
+        <span class="pill"><span class="pill-dot" style="background:#ff453a"></span>Mistral Vibe</span>
+        <span class="pill"><span class="pill-dot" style="background:#30d158"></span>OpenCode</span>
+        <span class="pill"><span class="pill-dot" style="background:#ff9f0a"></span>Autohand Code CLI</span>
+        <span class="pill"><span class="pill-dot" style="background:#bf5af2"></span>Almirant</span>
+        <span class="pill">+ 10 more</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ WHERE TO FIND SKILLS ══════════════════ -->
+<section class="section">
+  <div class="section-label">Where to find skills</div>
+  <div class="bento">
+
+    <div class="glass explainer b-12" style="padding:28px 32px">
+      <h2 style="margin-bottom:20px">Discovery &amp; installation</h2>
+      <div class="bento" style="margin-top:0">
+
+        <div class="b-6" style="display:flex;flex-direction:column;gap:12px">
+          <h3 style="font-size:15px;color:var(--text2);font-weight:500;margin-bottom:4px">Quick install with CLI tools</h3>
+          <div class="code-wrap">
+            <div class="code-header"><span class="code-lang">Shell — various install methods</span></div>
+            <pre><code><span class="cm"># Using the official `skills` CLI</span>
+<span class="cmd">npx</span> skills add anthropics/skills
+
+<span class="cm"># Install from any GitHub repo</span>
+<span class="cmd">npx</span> skills add &lt;owner&gt;/&lt;repo&gt;
+
+<span class="cm"># Install a specific skill by folder</span>
+<span class="cmd">npx</span> skills add &lt;owner&gt;/&lt;repo&gt; --skill pdf-processing
+
+<span class="cm"># Validate a skill locally</span>
+<span class="cmd">npx</span> skills-ref validate ./my-skill</code></pre>
+          </div>
+        </div>
+
+        <div class="b-6" style="display:flex;flex-direction:column;gap:12px">
+          <h3 style="font-size:15px;color:var(--text2);font-weight:500;margin-bottom:4px">Manual installation</h3>
+          <div class="code-wrap">
+            <div class="code-header"><span class="code-lang">Shell — manual clone</span></div>
+            <pre><code><span class="cm"># Clone skill repo into user skills directory</span>
+<span class="cmd">git clone</span> https://github.com/anthropics/skills \
+  ~/.agents/skills/anthropics
+
+<span class="cm"># Or copy a single skill</span>
+<span class="cmd">cp</span> -r my-downloaded-skill \
+  .agents/skills/my-downloaded-skill
+
+<span class="cm"># Structure check: skill must have SKILL.md</span>
+<span class="cmd">ls</span> ~/.agents/skills/my-skill/SKILL.md</code></pre>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ RESOURCES ══════════════════════════════ -->
+<section class="section" id="resources">
+  <div class="section-label">Official links and resources</div>
+  <div class="bento">
+
+    <div class="glass res-card b-4">
+      <span class="tag tag-blue">Specification</span>
+      <h3>Official Spec</h3>
+      <p>The complete SKILL.md format specification, directory structure requirements, progressive disclosure design, and client implementation guide.</p>
+      <a class="res-link" href="https://agentskills.io/specification" target="_blank" rel="noopener">
+        agentskills.io/specification
+        <svg viewBox="0 0 16 16"><path d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg>
+      </a>
+    </div>
+
+    <div class="glass res-card b-4">
+      <span class="tag tag-green">Official Skills</span>
+      <h3>anthropics/skills</h3>
+      <p>Official Anthropic skill collection — document editing, data analysis, and example skills. The reference implementation for skill authors.</p>
+      <a class="res-link" href="https://github.com/anthropics/skills" target="_blank" rel="noopener">
+        github.com/anthropics/skills
+        <svg viewBox="0 0 16 16"><path d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg>
+      </a>
+    </div>
+
+    <div class="glass res-card b-4">
+      <span class="tag tag-purple">Validation</span>
+      <h3>Reference Library</h3>
+      <p>Validate skills and generate prompt XML. Use <code style="font-size:12px;color:var(--purple)">npx skills-ref validate ./my-skill</code> to check your SKILL.md before publishing.</p>
+      <a class="res-link" href="https://github.com/agentskills/agentskills" target="_blank" rel="noopener">
+        github.com/agentskills/agentskills
+        <svg viewBox="0 0 16 16"><path d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg>
+      </a>
+    </div>
+
+    <div class="glass res-card b-4">
+      <span class="tag tag-orange">Directory</span>
+      <h3>This Repository</h3>
+      <p>Curated awesome list of community Agent Skills. 100+ skills across 8 categories, maintained in 6 languages. Submit a PR to add your skill.</p>
+      <a class="res-link" href="https://github.com/heilcheng/awesome-agent-skills" target="_blank" rel="noopener">
+        heilcheng/awesome-agent-skills
+        <svg viewBox="0 0 16 16"><path d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg>
+      </a>
+    </div>
+
+    <div class="glass res-card b-4">
+      <span class="tag tag-blue">Discovery</span>
+      <h3>agentskill.sh</h3>
+      <p>Community skills directory with 44k+ skills, security scanning, and a <code style="font-size:12px;color:var(--blue)">/learn</code> installer. The largest aggregator of community skills.</p>
+      <a class="res-link" href="https://agentskill.sh" target="_blank" rel="noopener">
+        agentskill.sh
+        <svg viewBox="0 0 16 16"><path d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg>
+      </a>
+    </div>
+
+    <div class="glass res-card b-4">
+      <span class="tag tag-green">Community</span>
+      <h3>Discord &amp; GitHub</h3>
+      <p>Join the Agent Skills Discord server for discussions, announcements, and help. Open issues and contribute to the standard on GitHub.</p>
+      <a class="res-link" href="https://agentskills.io" target="_blank" rel="noopener">
+        agentskills.io
+        <svg viewBox="0 0 16 16"><path d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg>
+      </a>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══ CONTACT ═════════════════════════════════ -->
+<section class="section" id="contact">
+  <div class="section-label">Contact &amp; Inquiries</div>
+  <div class="bento">
+    <div class="glass contact-card b-12">
+      <h2>Get in Touch</h2>
+      <p class="contact-sub">Questions, partnership inquiries, collaboration ideas, or feedback about this project — reach out any time.</p>
+      <div class="contact-links">
+
+        <a class="contact-link" href="https://www.linkedin.com/in/heilcheng/" target="_blank" rel="noopener">
+          <!-- LinkedIn icon -->
+          <svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          Hailey Cheng
+        </a>
+
+        <a class="contact-link" href="https://x.com/haileyhmt" target="_blank" rel="noopener">
+          <!-- X (Twitter) icon -->
+          <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          @haileyhmt
+        </a>
+
+        <a class="contact-link" href="mailto:haileycheng@proton.me">
+          <!-- Email icon -->
+          <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+          haileycheng@proton.me
+        </a>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+</div><!-- .page -->
+
+<footer>
+  <p>Built from <a href="https://github.com/heilcheng/awesome-agent-skills">heilcheng/awesome-agent-skills</a>
+  · Skills data auto-synced from README.md
+  · Spec by <a href="https://agentskills.io">agentskills.io</a></p>
+  <p class="footer-contact">
+    Maintained by <a href="https://www.linkedin.com/in/heilcheng/">Hailey Cheng</a>
+    · <a href="https://x.com/haileyhmt">@haileyhmt</a>
+    · <a href="mailto:haileycheng@proton.me">haileycheng@proton.me</a>
+  </p>
+</footer>
+
+<script>
+// ── THEME ───────────────────────────────────────────
+function applyTheme(t) {
+  document.documentElement.setAttribute('data-theme', t);
+  document.getElementById('icon-sun').style.display  = t === 'dark'  ? 'block' : 'none';
+  document.getElementById('icon-moon').style.display = t === 'light' ? 'block' : 'none';
+}
+function toggleTheme() {
+  const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  applyTheme(next);
+  try { localStorage.setItem('theme', next); } catch(_) {}
+}
+// Restore saved theme or respect OS preference
+(function() {
+  let saved;
+  try { saved = localStorage.getItem('theme'); } catch(_) {}
+  if (saved === 'light' || saved === 'dark') { applyTheme(saved); return; }
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) applyTheme('light');
+})();
+
+// ── CONFIG ─────────────────────────────────────────
+const REPO = 'heilcheng/awesome-agent-skills';
+const README_RAW = `https://raw.githubusercontent.com/${REPO}/main/README.md`;
+const GH_API = `https://api.github.com/repos/${REPO}`;
+
+const OFFICIAL_SECTIONS = [
+  'Official Claude Skills (Document Processing)',
+  'Official OpenAI Codex Skills',
+  'Official HuggingFace Skills',
+];
+
+const CAT_COLORS = {
+  'Skill Collections':                  '#bc8cff',
+  'Document Processing':                '#f78166',
+  'Development & Code Tools':           '#3fb950',
+  'Data & Analysis':                    '#58a6ff',
+  'Integration & Automation':           '#ffa657',
+  'Collaboration & Project Management': '#ff7b72',
+  'Security & Systems':                 '#ff6e6e',
+  'Advanced & Research':                '#d2a8ff',
+  'official':                           '#79c0ff',
+};
+
+const FC_IDS = ['fc-0','fc-1','fc-2','fc-3','fc-4','fc-5','fc-6','fc-7'];
+const CAT_ORDER = Object.keys(CAT_COLORS).filter(k => k !== 'official');
+
+// ── STATE ───────────────────────────────────────────
+let allSkills = [];
+let currentCat = 'all';
+let currentQ = '';
+
+// ── PARSE README ────────────────────────────────────
+function parseReadme(md) {
+  const out = [];
+  let sec = null;
+  for (const line of md.split('\n')) {
+    const h4 = line.match(/^####\s+(.+)/);
+    const h3 = line.match(/^###\s+(.+)/);
+    if (h4) { sec = h4[1].trim(); continue; }
+    if (h3) { sec = h3[1].trim(); continue; }
+    if (!sec || !line.startsWith('|')) continue;
+    if (/^\|\s*[-:]/.test(line)) continue;
+    if (/^\|\s*(Skill|Repository|Name|Agent|Tool)\s*\|/.test(line)) continue;
+    const lm = line.match(/\[([^\]]+)\]\(([^)]+)\)/);
+    if (!lm) continue;
+    const cols = line.split('|').map(c => c.trim()).filter(Boolean);
+    if (cols.length < 2) continue;
+    out.push({ section: sec, name: lm[1], url: lm[2], desc: cols[1] || '' });
+  }
+  return out;
+}
+
+function catFor(section) {
+  return OFFICIAL_SECTIONS.includes(section) ? 'official' : section;
+}
+
+// ── HIGHLIGHT ───────────────────────────────────────
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function hi(text, q) {
+  if (!q) return esc(text);
+  const re = new RegExp(`(${q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi');
+  return esc(text).replace(re, '<span class="hl">$1</span>');
+}
+
+// ── RENDER SKILLS ───────────────────────────────────
+function render() {
+  const q = currentQ.toLowerCase().trim();
+  const grid = document.getElementById('skills-grid');
+  const empty = document.getElementById('dir-empty');
+  const label = document.getElementById('result-label');
+  const clearBtn = document.getElementById('clear-btn');
+
+  const filtered = allSkills.filter(sk => {
+    const cat = catFor(sk.section);
+    if (currentCat === 'official' && cat !== 'official') return false;
+    if (currentCat !== 'all' && currentCat !== 'official' && cat !== currentCat) return false;
+    if (!q) return true;
+    return sk.name.toLowerCase().includes(q) ||
+           sk.desc.toLowerCase().includes(q) ||
+           sk.section.toLowerCase().includes(q);
+  });
+
+  // Group by section
+  const groups = {};
+  for (const sk of filtered) (groups[sk.section] ??= []).push(sk);
+
+  if (filtered.length === 0) {
+    grid.innerHTML = '';
+    empty.style.display = 'block';
+  } else {
+    empty.style.display = 'none';
+    const sortedSecs = Object.keys(groups).sort((a, b) => {
+      const ai = CAT_ORDER.indexOf(catFor(a));
+      const bi = CAT_ORDER.indexOf(catFor(b));
+      return (ai === -1 ? 999 : ai) - (bi === -1 ? 999 : bi);
+    });
+
+    grid.innerHTML = sortedSecs.map(sec => {
+      const cat = catFor(sec);
+      const color = CAT_COLORS[cat] || '#388bfd';
+      const header = `<div style="grid-column:1/-1;margin-top:16px;margin-bottom:4px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--text3)">${esc(sec)} <span style="color:var(--text3);font-weight:400;opacity:.6">(${groups[sec].length})</span></div>`;
+      const cards = groups[sec].map(sk => `
+<a class="sk-card" href="${esc(sk.url)}" target="_blank" rel="noopener" style="--cat-col:${color}">
+  <div class="sk-name">${hi(sk.name, q)}</div>
+  <div class="sk-desc">${hi(sk.desc, q)}</div>
+  <svg class="sk-ext" viewBox="0 0 16 16"><path d="M10.5 3h2.5v2.5l-1-1-5.5 5.5-.7-.7 5.5-5.5-1-1zm-7.5 0h3v1h-3v8h8v-3h1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/></svg>
+</a>`).join('');
+      return header + cards;
+    }).join('');
+  }
+
+  label.textContent = q
+    ? `${filtered.length} result${filtered.length !== 1 ? 's' : ''} for "${q}"`
+    : `${filtered.length} skill${filtered.length !== 1 ? 's' : ''}`;
+
+  clearBtn.style.display = q ? 'block' : 'none';
+}
+
+// ── FILTER ──────────────────────────────────────────
+function setCat(btn, cat) {
+  currentCat = cat;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+// ── CLEAR ───────────────────────────────────────────
+function clearQ() {
+  document.getElementById('search').value = '';
+  currentQ = '';
+  render();
+}
+
+// ── SEARCH ──────────────────────────────────────────
+let searchTimer;
+document.getElementById('search').addEventListener('input', e => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    currentQ = e.target.value;
+    if (currentQ) {
+      document.getElementById('dir-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    render();
+  }, 150);
+});
+document.addEventListener('keydown', e => {
+  if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+    e.preventDefault();
+    document.getElementById('search').focus();
+    document.getElementById('search').select();
+  }
+});
+
+// ── COPY BUTTON ─────────────────────────────────────
+function copy(btn, text) {
+  navigator.clipboard.writeText(text).then(() => {
+    const orig = btn.textContent;
+    btn.textContent = 'Copied';
+    setTimeout(() => { btn.textContent = orig; }, 1500);
+  });
+}
+
+// ── LOAD STARS ──────────────────────────────────────
+async function loadStars() {
+  try {
+    const r = await fetch(GH_API);
+    if (r.ok) {
+      const d = await r.json();
+      const n = d.stargazers_count;
+      const chip = document.getElementById('star-chip');
+      chip.textContent = n >= 1000 ? `${(n/1000).toFixed(1)}k` : String(n);
+    }
+  } catch (_) {}
+}
+
+// ── INIT ────────────────────────────────────────────
+async function init() {
+  loadStars();
+  try {
+    const r = await fetch(README_RAW);
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const md = await r.text();
+    allSkills = parseReadme(md);
+
+    const total = allSkills.length;
+    document.getElementById('stat-skills').textContent = total;
+    document.getElementById('stat-skills-2').textContent = total + '+';
+    document.getElementById('dir-cnt').textContent = `${total} entries`;
+    document.getElementById('fc-all').textContent = total;
+
+    CAT_ORDER.forEach((cat, i) => {
+      const cnt = allSkills.filter(sk => catFor(sk.section) === cat).length;
+      const el = document.getElementById(FC_IDS[i]);
+      if (el) el.textContent = cnt;
+    });
+    const offCnt = allSkills.filter(sk => catFor(sk.section) === 'official').length;
+    const offEl = document.getElementById('fc-off');
+    if (offEl) offEl.textContent = offCnt;
+
+    document.getElementById('dir-loader').style.display = 'none';
+    document.getElementById('dir-content').style.display = '';
+    render();
+
+  } catch (err) {
+    document.getElementById('dir-loader').innerHTML =
+      `<span style="color:var(--text3)">Failed to load skills. <a href="https://github.com/${REPO}">View on GitHub</a></span>`;
+  }
+}
+
+// ── ACTIVE NAV SECTION ──────────────────────────────
+const navLinks = document.querySelectorAll('.nav-link');
+const sections = ['newcomer','tutorial','reference','dir-section','agents','resources'];
+const observer = new IntersectionObserver(entries => {
+  for (const e of entries) {
+    if (e.isIntersecting) {
+      const id = e.target.id;
+      navLinks.forEach(l => {
+        l.classList.toggle('active', l.getAttribute('href') === `#${id}`);
+      });
+    }
+  }
+}, { threshold: 0.2, rootMargin: '-52px 0px 0px 0px' });
+sections.forEach(id => {
+  const el = document.getElementById(id);
+  if (el) observer.observe(el);
+});
+
+init();
+</script>
+</body>
+</html>
