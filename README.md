@@ -345,6 +345,9 @@ Official skills for ML workflows.
 - [better-auth/create-auth](https://agent-skill.co/better-auth/skills/create-auth) - Create authentication setup with Better Auth
 - [better-auth/twoFactor](https://agent-skill.co/better-auth/skills/twoFactor) - Two-factor authentication with Better Auth
 
+#### Skills by Zinc
+- [zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout) - Discover, buy, track, and return products across 50+ US retailers
+
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
 
