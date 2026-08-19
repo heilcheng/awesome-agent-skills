@@ -552,6 +552,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 </details>
 
 <details>
+<summary><strong>Design and Visuals</strong></summary>
+
+- [sjh9714/repo-cover](https://github.com/sjh9714/repo-cover) - Design GitHub social-preview cards (og:image) as one self-contained HTML file, four moods, CJK-first, deterministic checks
+</details>
+
+<details>
 <summary><strong>Context Engineering</strong></summary>
 
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
