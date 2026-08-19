@@ -538,7 +538,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
-- [matebenyovszky/agentplaybooks](https://github.com/matebenyovszky/agentplaybooks/tree/main/packages/cli/skills/agentplaybooks) - Audit and sync portable agent skills and MCP configurations across clients
+- [matebenyovszky/agentplaybooks](https://github.com/matebenyovszky/agentplaybooks/tree/main/packages/cli/skills/agentplaybooks) - Audit and sync skills, MCP configs, and instructions across Claude Code, Cursor, Codex, Antigravity, and Hermes
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
 </details>
 
