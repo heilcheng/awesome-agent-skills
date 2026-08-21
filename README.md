@@ -539,6 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [JunoChenZt/pptx-to-html-trace](https://github.com/JunoChenZt/pptx-to-html-trace) - Rebuild PowerPoint or PDF slides as HTML with overlay and difference verification
 </details>
 
 <details>
