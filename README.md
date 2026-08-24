@@ -549,6 +549,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [Ghost011118/engineering-decision-governor](https://github.com/Ghost011118/engineering-decision-governor) - Evidence-first engineering authority boundaries, deterministic auto-fixes, and owner decision escalation
+- [Ghost011118/sol-hierarchical-orchestrator](https://github.com/Ghost011118/sol-hierarchical-orchestrator) - SOL-TERRA-LUNA multi-agent orchestration with adaptive routing, task packets, ledgers, and verification gates
 </details>
 
 <details>
@@ -557,6 +559,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+- [Ghost011118/project-context-governor](https://github.com/Ghost011118/project-context-governor) - Low-cost evidence-backed project context across chats, with integrity anomaly reporting
 - [Ghost011118/project-state-governor](https://github.com/Ghost011118/project-state-governor) - Evidence-backed canonical project state across sessions, branches, reviews, and research cycles
 </details>
 
