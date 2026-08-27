@@ -549,6 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [uizze/anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) - Free MIT Skill for stopping UI slop with product-specific design contracts, required states, and a hard finish gate; the optional authenticated MCP provides find_ui_references and find_ui_materials over 800,000+ real web and iOS screens.
 </details>
 
 <details>
