@@ -322,6 +322,9 @@ Official skills for ML workflows.
 #### Skills by Typefully
 - [typefully/typefully](https://agent-skill.co/typefully/skills/typefully) - Create, schedule, and publish social media content
 
+#### Skills by Surendran B
+- [surendranb/writing-skills](https://github.com/surendranb/writing-skills) - 15 writing-style skills: 8 measurable frameworks (plain language, ASD-STE100, AP journalism, GOV.UK, business BLUF) and 7 character voices, each with a verify checklist
+
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
