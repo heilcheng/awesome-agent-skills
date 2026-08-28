@@ -196,6 +196,9 @@ Official skills for ML workflows.
 #### Skills by MiniMax
 - [MiniMax-AI/frontend-dev](https://agent-skill.co/MiniMax-AI/skills/frontend-dev) - Frontend with animations and AI media via MiniMax
 - [MiniMax-AI/minimax-pdf](https://agent-skill.co/MiniMax-AI/skills/minimax-pdf) - Generate, fill, and reformat PDFs
+
+#### Skills by SandBase
+- [sandbaseai/cli](https://github.com/sandbaseai/cli/tree/main/skills/sandbase) - Official SandBase skill and MCP bridge for connecting coding agents to 2,000+ AI models and APIs
 ### Cloud & Infrastructure
 
 #### Skills by Cloudflare
