@@ -539,6 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [263311487-ux/falsify](https://github.com/263311487-ux/falsify) - The scientific thinking protocol for AI agents: falsification-first, no verdict without a falsifiable hypothesis; 28-case eval suite (dual-model 26/28), live browser checker
 </details>
 
 <details>
