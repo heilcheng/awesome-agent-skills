@@ -559,6 +559,13 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Document Trust & Verification</strong></summary>
+
+- [Sketchjar/stipple-agent-skills](https://github.com/Sketchjar/stipple-agent-skills) - 7 document-trust skills: forensic document authenticity (tamper risk bands + per-signal evidence), citation verification, grounded extraction, AI-written-text detection, identity checks, adverse-media screening, and free AU/NZ tender search. Free anonymous tier.
+
+</details>
+
 ---
 
 ## Skill Quality Standards
