@@ -538,6 +538,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
+- [caix84476-netizen/personal-understanding](https://github.com/caix84476-netizen/personal-understanding) - Verbatim-first, evidence-chain personal memory: captures your exact words immutably, then derives events, entities, and causal hypotheses — every fact traceable to its source. Local-first, stdlib-only.
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
 </details>
 
