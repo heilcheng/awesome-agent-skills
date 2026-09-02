@@ -319,6 +319,9 @@ Official skills for ML workflows.
 #### Skills by Courier
 - [trycourier/courier-skills](https://github.com/trycourier/courier-skills) - Multi-channel notifications via email, SMS, push, and chat
 
+#### Skills by uxgen
+- [kinerette/claude-code-checkout-upsell](https://github.com/kinerette/claude-code-checkout-upsell) - Decides which upsell goes where in a store (order bump in the checkout, one-click upsell after payment, one cross-sell and a free-shipping bar in the cart) from the merchant's product, with the EU, UK and US consumer-law constraints attached
+
 #### Skills by Typefully
 - [typefully/typefully](https://agent-skill.co/typefully/skills/typefully) - Create, schedule, and publish social media content
 
