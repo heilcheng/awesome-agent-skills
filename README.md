@@ -392,6 +392,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 ### Security & Web Intelligence
 
+#### Community Skills
+- [sandbaseai/skill-security-audit](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/skill-security-audit) - Audit third-party Skills, MCP servers, and extensions before installation by mapping permissions, credentials, data flows, dependencies, network access, and destructive actions
+
 #### Skills by Trail of Bits
 - [trailofbits/audit-context-building](https://agent-skill.co/trailofbits/skills/audit-context-building) - Deep architectural context via granular code analysis
 - [trailofbits/building-secure-contracts](https://agent-skill.co/trailofbits/skills/building-secure-contracts) - Smart contract security toolkit for 6 blockchains
