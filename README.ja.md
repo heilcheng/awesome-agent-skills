@@ -90,6 +90,10 @@ GitHub 上のすべての Skill プロジェクトを自動的にインデック
 
 Vercel のリーダーボードである **[skills.sh](https://skills.sh)** を使用して、最も人気のある Skills リポジトリや個々のスキルの使用統計を直感的に確認することもできます。
 
+### WorkBuddy Skill Atlas
+
+WorkBuddy ユーザー向けの **[WorkBuddy Skill Atlas](https://sandbaseai.github.io/workbuddy-skill/)** は、10,000 件を超える公開 `SKILL.md` パスを、不変の GitHub 出典、重複検出、互換性スコア、保守的な静的レビューシグナルとともに索引化しています。カタログ ID をコピーし、オープンソースのアダプターでレビュー可能な WorkBuddy パッケージを作成できます。
+
 ### npx skills CLI ツール
 
 特定のスキルについては、`npx skills` コマンドラインツールを使用して、スキルの発見、追加、管理を迅速に行うことができます。詳細は [vercel-labs/skills](https://github.com/vercel-labs/skills) を参照してください。

@@ -90,6 +90,10 @@
 
 您也可以使用 **[skills.sh](https://skills.sh)** —— Vercel 的排行榜 —— 直觀地查看最受歡迎的 Skills 倉庫和單個技能的使用統計數據。
 
+### WorkBuddy Skill Atlas
+
+對於 WorkBuddy 使用者，**[WorkBuddy Skill Atlas](https://sandbaseai.github.io/workbuddy-skill/zh-CN.html)** 收錄超過 10,000 個公開 `SKILL.md` 路徑，提供不可變 GitHub 來源、重複偵測、相容度評分和保守的靜態審查訊號。複製目錄 ID 後，可用其開源適配器產生便於審查的 WorkBuddy 技能包。
+
 ### npx skills CLI 工具
 
 對於特定技能，使用 `npx skills` 命令行工具快速發現、添加和管理技能。詳細參數請參閱 [vercel-labs/skills](https://github.com/vercel-labs/skills)。

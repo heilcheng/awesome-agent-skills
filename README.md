@@ -95,6 +95,10 @@ It is recommended to use the **[SkillsMP Marketplace](https://skillsmp.com)**, w
 
 You can also use **[skills.sh](https://skills.sh)** — Vercel's leaderboard — to intuitively view the most popular Skills repositories and individual Skill usage statistics.
 
+### WorkBuddy Skill Atlas
+
+For WorkBuddy users, **[WorkBuddy Skill Atlas](https://sandbaseai.github.io/workbuddy-skill/)** indexes more than 10,000 public `SKILL.md` paths with immutable GitHub provenance, duplicate detection, compatibility scoring, and conservative static review signals. Each catalog ID can be copied into its open-source adapter to produce a reviewable WorkBuddy package.
+
 ### npx skills CLI Tool
 
 For specific skills, use the `npx skills` command-line tool to quickly discover, add, and manage skills. For detailed parameters, see [vercel-labs/skills](https://github.com/vercel-labs/skills).
