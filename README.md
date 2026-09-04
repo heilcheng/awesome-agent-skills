@@ -521,6 +521,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Vector Databases</strong></summary>
 
 - [qdrant/skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search, scaling, and performance
+- [kavel-image](https://github.com/hanshs474/kavel-image-skill) - Generate images and edit photos from a prompt with no API key and no account, through Kavel's anonymous endpoint — text-to-image plus face-preserving edits (hairstyle, outfit, expression). *By [@hanshs474](https://github.com/hanshs474)*
 </details>
 
 <details>
