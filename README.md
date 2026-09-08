@@ -553,6 +553,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 <details>
 <summary><strong>Context Engineering</strong></summary>
+- [edouard-claude/ironloop](https://github.com/edouard-claude/ironloop) - Verification-first 5-layer engineering harness (spec→gen→test→sim→pentest). Wraps AI-generated code in an iron harness for guaranteed correctness.
 
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
