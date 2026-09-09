@@ -526,6 +526,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Marketing</strong></summary>
 
+- [jakemanger/shotglass-skills](https://github.com/jakemanger/shotglass-skills) - Film macOS app and browser demos with AI through ShotGlass; opens editable recordings. Requires the local ShotGlass app and MCP connection (licensed video export).
 - [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 marketing frameworks for outreach and audits
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
 - [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20+ creative methodologies (SIT, TRIZ, SCAMPER)
