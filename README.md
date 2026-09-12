@@ -290,6 +290,9 @@ Official skills for ML workflows.
 - [figma/figma-generate-library](https://agent-skill.co/figma/skills/figma-generate-library) - Build or update a design system library in Figma from a codebase
 - [figma/figma-use](https://agent-skill.co/figma/skills/figma-use) - Run Figma Plugin API scripts for canvas writes and inspections
 
+#### Skills by Zambo
+- [zambodotdev/zambo](https://github.com/zambodotdev/zambo-mcp/tree/main/skills/zambo) - Give your AI hands: 120 MCP tools via one URL. Free 20 calls/tool/day, no account.
+
 ---
 
 ### Google Ecosystem
