@@ -390,6 +390,10 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 ---
 
+#### Skills by drillr
+- [Little-Grebe-Inc/drillr-skill](https://github.com/Little-Grebe-Inc/drillr-skill) - Financial data and research API for US, China and Japan equities: filings, statements, earnings, ownership, events, analyst data, company discovery and research signals
+
+
 ### Security & Web Intelligence
 
 #### Skills by Trail of Bits
