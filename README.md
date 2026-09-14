@@ -549,6 +549,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [JonathanXDR/lean-comments](https://github.com/JonathanXDR/lean-comments) - Keep a comment only when it carries information the code cannot
+- [JonathanXDR/nuxt-style-readme](https://github.com/JonathanXDR/nuxt-style-readme) - Write evidence-based READMEs in the concise Nuxt style
 </details>
 
 <details>
