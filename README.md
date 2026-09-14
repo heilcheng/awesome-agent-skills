@@ -533,6 +533,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 </details>
 
 <details>
+<summary><strong>Career</strong></summary>
+
+- [vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent) - Privacy-first skill to discover, qualify, complete, and track your own job applications
+</details>
+
+<details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
