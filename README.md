@@ -528,6 +528,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 - [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 marketing frameworks for outreach and audits
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
+- [manmohm/advisorsai-check](https://github.com/manmohm/advisorsai-check) - Bounded public-page readiness check for AI answer engines (robots, sitemap, JSON-LD, llms.txt)
 - [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20+ creative methodologies (SIT, TRIZ, SCAMPER)
 - [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Hard-edged writing style contract for forceful English prose
 </details>
