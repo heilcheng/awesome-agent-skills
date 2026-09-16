@@ -388,11 +388,14 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/ship](https://agent-skill.co/garrytan/skills/ship) - Release Engineer: sync, test, audit, and push
 </details>
 
+<details>
+<summary><strong>Skills by drillr</strong></summary>
+
+Financial data and research for US, China and Japan equities by [drillr](https://drillr.ai), built from primary filings.
+- [Little-Grebe-Inc/drillr-skill](https://github.com/Little-Grebe-Inc/drillr-skill) - Filings and full-text filing search, statements as reported, earnings, ownership, corporate events, executives, analyst data and research signals over drillr's REST API and MCP server
+</details>
+
 ---
-
-#### Skills by drillr
-- [Little-Grebe-Inc/drillr-skill](https://github.com/Little-Grebe-Inc/drillr-skill) - Financial data and research API for US, China and Japan equities: filings, statements, earnings, ownership, events, analyst data, company discovery and research signals
-
 
 ### Security & Web Intelligence
 
