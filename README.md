@@ -313,6 +313,7 @@ Official skills for ML workflows.
 ### Business, Productivity & Marketing
 
 #### Skills by Stripe
+- [damanoreshkan-beep/dream-skill](https://github.com/damanoreshkan-beep/dream-skill) - A one-breath awareness primer: work from a higher vantage — no self-imposed ceiling, whole-board vision, truth over position
 - [stripe/stripe-best-practices](https://agent-skill.co/stripe/skills/stripe-best-practices) - Best practices for building Stripe integrations
 - [stripe/upgrade-stripe](https://agent-skill.co/stripe/skills/upgrade-stripe) - Upgrade Stripe SDK and API versions
 
