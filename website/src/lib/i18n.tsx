@@ -177,7 +177,8 @@ description: Tell the AI what this does in plain English.
       items: [
         { q: "What is MCP?", a: "The Model Context Protocol (MCP) is an open standard that allows AI models to discover and use data and tools (skills) regardless of the platform." },
         { q: "How do I evaluate quality?", a: "A high-quality skill has clear success criteria, defined failure modes, and no ambiguous language. It should work reliably even in long context sessions." },
-        { q: "Do skills work across all tools?", a: "Most modern AI tools support skill-like constructs. The SKILL.md format is designed to be framework-agnostic." }
+        { q: "Do skills work across all tools?", a: "Most modern AI tools support skill-like constructs. The SKILL.md format is designed to be framework-agnostic." },
+        { q: "How does the AI pick between similar skills?", a: "There's no priority flag. The AI matches each skill's name and description against the task, so specific, scenario-grounded descriptions win over vague ones." }
       ]
     },
     contributing: { title: "Contributing", subtitle: "Help grow the most comprehensive open source collection of AI agent skills.", guideBtn: "Contributing Guide", repoBtn: "View Repository" },
