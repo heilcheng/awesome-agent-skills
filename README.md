@@ -525,6 +525,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 <details>
 <summary><strong>Marketing</strong></summary>
+- [wwewtech/chatexport-need-miner](https://github.com/wwewtech/chatexport-need-miner) - Mines offline Telegram Desktop chat exports (result.json) for unmet market needs and product opportunities
 
 - [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 marketing frameworks for outreach and audits
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
