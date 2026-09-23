@@ -537,6 +537,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
+- [equalang/equalang-skill](https://github.com/equalang/equalang-skill) - Translate whole files with layout preservation where supported and transcribe recordings; requires an Equalang API key and credits
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
 </details>
