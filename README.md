@@ -539,6 +539,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
+- [K-kiron/PaperCourt](https://github.com/K-kiron/PaperCourt) - Trace empirical ML paper claims to evidence and repeatable checks
 </details>
 
 <details>
@@ -549,6 +550,9 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [K-kiron/RageClick](https://github.com/K-kiron/RageClick) - Replay local web interaction failures with browser evidence
+- [K-kiron/ProveIt](https://github.com/K-kiron/ProveIt) - Check that the same pytest regression test fails before a fix and passes after it
+- [K-kiron/RepoQuest](https://github.com/K-kiron/RepoQuest) - Turn verified Python bug fixes into offline debugging games
 </details>
 
 <details>
@@ -557,6 +561,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+- [K-kiron/SkillClash](https://github.com/K-kiron/SkillClash) - Review task-specific Codex instruction conflicts with exact source citations
 </details>
 
 ---
