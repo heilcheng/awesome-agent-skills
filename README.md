@@ -388,6 +388,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/ship](https://agent-skill.co/garrytan/skills/ship) - Release Engineer: sync, test, audit, and push
 </details>
 
+#### Skills by Omentir
+- [omentir/linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) - LinkedIn prospecting, lead scoring, and outreach drafts through the Omentir MCP server
+
 ---
 
 ### Security & Web Intelligence
