@@ -530,6 +530,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
 - [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20+ creative methodologies (SIT, TRIZ, SCAMPER)
 - [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Hard-edged writing style contract for forceful English prose
+- [berthelius/brand-machines](https://github.com/berthelius/brand-machines-agents/tree/main/skills/brand-machines) - Diagnose brand systems and review proposals against identity principles and sources; English and Spanish
 </details>
 
 <details>
