@@ -557,6 +557,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) - Compression strategies for long-running sessions
 - [muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) - Design short-term and graph-based memory architectures
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
+- [alapha888/session-handoff-kit](https://github.com/alapha888/session-handoff-kit) - Structured end-of-session handoff notes (with context hygiene checklist and template) so the next agent session resumes with full context
 </details>
 
 ---
