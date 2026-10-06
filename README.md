@@ -345,6 +345,9 @@ Official skills for ML workflows.
 - [better-auth/create-auth](https://agent-skill.co/better-auth/skills/create-auth) - Create authentication setup with Better Auth
 - [better-auth/twoFactor](https://agent-skill.co/better-auth/skills/twoFactor) - Two-factor authentication with Better Auth
 
+#### Skills by MAQAMI
+- [negm17111995/maqami-travel-booking](https://github.com/negm17111995/mcp-server/tree/main/skills/maqami-travel-booking) - Search hotels and flights, then send a secure checkout link
+
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
 
