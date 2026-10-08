@@ -535,6 +535,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
+- [Arcmira find-quotes](https://github.com/arcmira/mcp/blob/master/plugins/arcmira/skills/find-quotes/SKILL.md) - Find source-linked quotes and timestamps across indexed YouTube videos through Arcmira MCP; requires an Arcmira account
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
