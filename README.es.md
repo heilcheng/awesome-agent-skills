@@ -145,6 +145,10 @@ Instalar mediante [google-gemini/gemini-api-dev](https://agent-skill.co/google-g
 
 ---
 
+## Skills de la Comunidad
+
+- [martinsantos/typography-studio](https://github.com/martinsantos/typography-studio) - Diseño y revisión tipográfica con pruebas renderizadas reales; español e inglés
+
 ## Tendencias y Capacidades (2026)
 
 El ecosistema de agentes de IA ha pasado drásticamente de interfaces de chat reactivas a **sistemas autónomos orientados a objetivos** que ejecutan flujos de trabajo de varios pasos de extremo a extremo, un periodo a menudo llamado el "Salto del Agente".
