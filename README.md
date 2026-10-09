@@ -292,6 +292,15 @@ Official skills for ML workflows.
 
 ---
 
+#### Skills by Bestax
+- [allxsmith/bestax-form](https://github.com/allxsmith/bestax/tree/main/skills/bestax-form) - Forms with Field, Control, Label and Help: inputs, selects, checkboxes, radios, switches
+- [allxsmith/bestax-layout-scaffold](https://github.com/allxsmith/bestax/tree/main/skills/bestax-layout-scaffold) - Responsive page layouts: app shells, dashboards, landing, auth and settings pages
+- [allxsmith/bestax-theming](https://github.com/allxsmith/bestax/tree/main/skills/bestax-theming) - Brand colors, dark mode and visual tokens through Bulma CSS variables
+- [allxsmith/bestax-icons](https://github.com/allxsmith/bestax/tree/main/skills/bestax-icons) - Icon and IconText with Font Awesome, Material Design Icons and three more libraries
+- [allxsmith/bestax-custom-component](https://github.com/allxsmith/bestax/tree/main/skills/bestax-custom-component) - Compose a new component in the Bestax style with helper props and Bulma classes
+- [allxsmith/bestax-optimize](https://github.com/allxsmith/bestax/tree/main/skills/bestax-optimize) - Measure and cut built CSS size with lighter presets and selective imports
+- [allxsmith/bestax-migrate](https://github.com/allxsmith/bestax/tree/main/skills/bestax-migrate) - Migrate from react-bulma-components, rbx or bloomer to Bestax
+
 ### Google Ecosystem
 
 #### Skills by Google Labs (Stitch)
