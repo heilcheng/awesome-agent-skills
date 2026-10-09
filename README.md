@@ -196,6 +196,15 @@ Official skills for ML workflows.
 #### Skills by MiniMax
 - [MiniMax-AI/frontend-dev](https://agent-skill.co/MiniMax-AI/skills/frontend-dev) - Frontend with animations and AI media via MiniMax
 - [MiniMax-AI/minimax-pdf](https://agent-skill.co/MiniMax-AI/skills/minimax-pdf) - Generate, fill, and reformat PDFs
+#### Skills by LivePair AI
+Official skills for the LivePair API — private image/video/text generation, per-call pricing.
+- [livepairai/livepair-api-overview](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-api-overview) - Endpoint map, x402/prepaid-key payment rails, and skill routing
+- [livepairai/livepair-image-generate](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-image-generate) - Text-to-image, image edits, upscaling, and background removal
+- [livepairai/livepair-video](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-video) - Text-to-video and image-to-video, including the private model line
+- [livepairai/livepair-chat](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-chat) - OpenAI-compatible text completions billed per token
+- [livepairai/livepair-x402](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-x402) - HTTP 402 payments in USDC on Base and wallet volume tiers
+- [livepairai/livepair-mcp](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-mcp) - Remote MCP server setup per host and the 11 tools
+
 ### Cloud & Infrastructure
 
 #### Skills by Cloudflare
