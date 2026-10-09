@@ -517,6 +517,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 ## Community Skills
 
+- [ReplyNodes URL to Markdown](https://github.com/replynodes/replynodes-agent-skills/tree/main/skills/url-to-markdown) - Fetch a public webpage as clean Markdown for reading, summarization, quotation, and citation. See the [Markdown API documentation](https://replynodes.com/markdown-api/).
+
 <details>
 <summary><strong>Vector Databases</strong></summary>
 
