@@ -499,6 +499,17 @@ Install from [firecrawl/cli](https://github.com/firecrawl/cli).
 | [firecrawl-scrape](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-scrape) | Scrape web pages and extract content |
 | [firecrawl-search](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-search) | Search the web and extract results |
 
+#### Skills by looot
+
+Install from [loootai/looot-skills](https://github.com/loootai/looot-skills) with `npx skills add loootai/looot-skills`.
+
+| Skill | Description |
+|-------|-------------|
+| [looot](https://github.com/loootai/looot-skills/tree/main/skills/looot) | Base skill: connect the looot MCP server, search the endpoint catalog, read the price, run it |
+| [looot-find-professional-emails](https://github.com/loootai/looot-skills/tree/main/skills/looot-find-professional-emails) | Find a person's work email from a name and a company |
+| [looot-enrich-a-company](https://github.com/loootai/looot-skills/tree/main/skills/looot-enrich-a-company) | Look up firmographics for a company domain |
+| [looot-google-serp](https://github.com/loootai/looot-skills/tree/main/skills/looot-google-serp) | Read a Google results page as structured rows |
+
 #### Skills by Microsoft
 
 Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills).
