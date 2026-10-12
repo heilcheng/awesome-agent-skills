@@ -530,6 +530,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
 - [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) - 20+ creative methodologies (SIT, TRIZ, SCAMPER)
 - [SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose) - Hard-edged writing style contract for forceful English prose
+- [wu736139669/geo-agent-skills](https://github.com/wu736139669/geo-agent-skills) - Two GEO skills: generate Markdown versions + llms.txt for AI agents, and audit AI-agent readiness with a 9-point score
 </details>
 
 <details>
