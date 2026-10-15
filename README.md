@@ -48,6 +48,7 @@ That's it. No installation. No configuration. No coding required.
   - [Career](#career)
   - [Productivity and Collaboration](#productivity-and-collaboration)
   - [Development and Testing](#development-and-testing)
+  - [Crypto and Web3](#crypto-and-web3)
   - [Context Engineering](#context-engineering)
   - [Crypto and Market Data](#crypto-and-market-data)
   - [Education and Teaching](#education-and-teaching)
@@ -616,6 +617,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [rickygao/specrate](https://github.com/rickygao/specrate) - Manage specs and changes in a structured workflow
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Stitch UI generation with local HTML and screenshots
 - [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices
+</details>
+
+<details>
+<summary><strong>Crypto and Web3</strong></summary>
+
+- [DerDoPhil/swarmskill-agent-skill](https://github.com/DerDoPhil/swarmskill-agent-skill) - Coordinated swarm coin-trading on Solana/pump.fun for up to 500 agents (ERC-8257 tool, on-chain verified settlement)
 </details>
 
 <details>
