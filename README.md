@@ -424,6 +424,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [binance/query-token-audit](https://agent-skill.co/binance/skills/query-token-audit) - Audit token security to detect scams and honeypots
 - [binance/trading-signal](https://agent-skill.co/binance/skills/trading-signal) - Monitor on-chain Smart Money buy/sell signals
 
+#### Skills by MetaMask
+- [metamask/metamask-agent-wallet](https://github.com/MetaMask/agent-skills/tree/main/skills/metamask-agent-wallet) - Self-custodial agent wallet: swaps, bridges, perps, prediction markets, x402 payments
+
 #### Skills by Sanity
 
 Install from [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit).
