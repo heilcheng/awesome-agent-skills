@@ -462,6 +462,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 ### Security & Web Intelligence
 
+#### Community
+- [YangTech-gh/Awesome-Bug-Bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty) - Scope-first bug bounty skill: recon, impact routing, 36 vuln playbooks, payloads, business logic (authorized testing only)
+
 #### Skills by Trail of Bits
 - [trailofbits/audit-context-building](https://github.com/trailofbits/skills/tree/main/plugins/audit-context-building/skills/audit-context-building) - Deep architectural context via granular code analysis
 - [trailofbits/building-secure-contracts](https://github.com/trailofbits/skills) - Smart contract security toolkit for 6 blockchains
