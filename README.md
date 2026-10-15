@@ -386,6 +386,9 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 - [resend/react-email](https://github.com/resend/resend-skills/tree/main/skills/react-email) - Build emails with React Email components
 - [resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices) - Email deliverability and design best practices
 
+#### Skills by ErzyCall
+- [Erzy-Inc/erzycall-outbound-call](https://github.com/Erzy-Inc/erzycall-skills/tree/main/skills/erzycall-outbound-call) - Lets an agent or app make and take real phone calls through MCP or API
+
 #### Skills by Sanity
 Install from [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit).
 - [sanity-io/sanity-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/sanity-best-practices) - Best practices for Sanity Studio and content workflows
