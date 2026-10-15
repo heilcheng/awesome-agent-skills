@@ -458,6 +458,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Full gstack collection: YC founder stack for planning, review, QA, and shipping
 </details>
 
+#### Skills by Omentir
+- [omentir/linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) - LinkedIn prospecting, lead scoring, and outreach drafts through the Omentir MCP server
+
 ---
 
 ### Security & Web Intelligence
