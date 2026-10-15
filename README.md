@@ -370,6 +370,9 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 #### Skills by Surendran B
 - [surendranb/writing-skills](https://github.com/surendranb/writing-skills) - 15 writing-style skills: 8 measurable frameworks (plain language, ASD-STE100, AP journalism, GOV.UK, business BLUF) and 7 character voices, each with a verify checklist
 
+#### Skills by Schedulala
+- [schedulala/schedulala-agent](https://github.com/schedulala/schedulala-agent) - Schedule and publish social media posts to 12 platforms with per-platform rules, media handling, analytics, and engagement
+
 #### Skills by Composio
 - [composiohq/composio](https://github.com/composio-community/skills/tree/main/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
 
