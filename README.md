@@ -711,6 +711,14 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
 </details>
 
+<details>
+<summary><strong>Commerce and Payments</strong></summary>
+
+- [darioandyoshi-tech/awm-skills](https://github.com/darioandyoshi-tech/awm-skills) - AI Work Market (AWM): USDC escrow for AI agent work contracts on Base Mainnet. Complements x402 (atomic pay-per-call) with multi-day proof + dispute + release. 1% fee, Safe + Timelock governance.
+- [inference-sh/skills](https://github.com/inference-sh/skills) - 250+ AI model and tool skills via the inference.sh CLI (image, video, LLMs, search)
+- [Merit-Systems/awesome-agentic-commerce](https://github.com/Merit-Systems/awesome-agentic-commerce) - Curated agent commerce resources, x402, USDC, MPC wallets
+</details>
+
 ---
 
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights
