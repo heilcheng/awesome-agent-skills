@@ -521,6 +521,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 <details>
 <summary><strong>Marketing</strong></summary>
+- [wwewtech/chatexport-need-miner](https://github.com/wwewtech/chatexport-need-miner) - Mines offline Telegram Desktop chat exports (result.json) for unmet market needs and product opportunities
 
 - [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 marketing frameworks for outreach and audits
 - [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - AI marketing skills: SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, Lead Qualification. 5 free skills + premium via Cogny MCP
