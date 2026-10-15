@@ -522,6 +522,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <details>
 <summary><strong>Marketing</strong></summary>
 
+- [jakemanger/shotglass-skills](https://github.com/jakemanger/shotglass-skills) - Film macOS app and browser demos with AI through ShotGlass; opens editable recordings. Requires the local ShotGlass app and MCP connection (licensed video export).
 - [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills) - 17 marketing frameworks for outreach and audits
 - [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - AI marketing skills: SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, Lead Qualification. 5 free skills + premium via Cogny MCP
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for website analysis
