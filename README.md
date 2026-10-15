@@ -616,6 +616,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [rickygao/specrate](https://github.com/rickygao/specrate) - Manage specs and changes in a structured workflow
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Stitch UI generation with local HTML and screenshots
 - [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices
+- [masakaai/rea-captcha](https://github.com/masakaai/rea-captcha/tree/main/.agents/skills/rea-captcha) - Verify authorized browser test flows and resume existing sessions
 </details>
 
 <details>
