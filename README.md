@@ -711,6 +711,13 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
 </details>
 
+<details>
+<summary><strong>Document Trust & Verification</strong></summary>
+
+- [Sketchjar/stipple-agent-skills](https://github.com/Sketchjar/stipple-agent-skills) - 7 document-trust skills: forensic document authenticity (tamper risk bands + per-signal evidence), citation verification, grounded extraction, AI-written-text detection, identity checks, adverse-media screening, and free AU/NZ tender search. Free anonymous tier.
+
+</details>
+
 ---
 
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights
