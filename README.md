@@ -413,6 +413,9 @@ Open-source SEO, GEO, and paid-ads skills for marketing work. They pull from liv
 #### Skills by SuperCLI
 - [javimosch/supercli](https://github.com/javimosch/supercli) - Universal CLI router with 4,795+ agent skills (`SKILL.md`). Agents discover CLI tools by intent via `sc skills search`, inspect schemas via `sc inspect`, and execute with deterministic JSON output. Each plugin ships with its own `skills/quickstart/SKILL.md` — instant agent onboarding for 7,000+ CLI tools.
 
+#### Skills by MAQAMI
+- [negm17111995/maqami-travel-booking](https://github.com/negm17111995/mcp-server/tree/main/skills/maqami-travel-booking) - Search hotels and flights, then send a secure checkout link
+
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
 
