@@ -346,6 +346,10 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 
 ### Business, Productivity & Marketing
 
+#### Marketing Skills by Lyubov Cheremisina
+
+- [LuCheremisina/marketing-skills](https://github.com/LuCheremisina/marketing-skills) - Marketing research, SEO/GEO, Yandex analytics and sourced expert content; per-client requirements documented
+
 #### Skills by Stripe
 - [stripe/stripe-best-practices](https://agent-skill.co/stripe/skills/stripe-best-practices) - Best practices for building Stripe integrations
 - [stripe/upgrade-stripe](https://agent-skill.co/stripe/skills/upgrade-stripe) - Upgrade Stripe SDK and API versions
