@@ -616,6 +616,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [rickygao/specrate](https://github.com/rickygao/specrate) - Manage specs and changes in a structured workflow
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Stitch UI generation with local HTML and screenshots
 - [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices
+- [stas4000/what-could-break](https://github.com/stas4000/what-could-break) - Finds what a change breaks outside its own diff and proves it by running the code
+- [stas4000/tastegate](https://github.com/stas4000/tastegate) - Renders the page in headless Chromium and gates it on contrast, overlap and layout rules
 </details>
 
 <details>
