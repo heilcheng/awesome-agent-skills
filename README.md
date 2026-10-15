@@ -711,6 +711,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
 </details>
 
+<details>
+<summary><strong>Security and Safety</strong></summary>
+
+- [razel369/guard-x402-payments](https://github.com/razel369/intentfence/tree/main/skills/guard-x402-payments) - Validate x402 quotes, ceilings, and payee allowlists before agents sign
+</details>
+
 ---
 
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights
