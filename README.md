@@ -458,6 +458,20 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Full gstack collection: YC founder stack for planning, review, QA, and shipping
 </details>
 
+<details>
+<summary><strong>Developer Marketing Skills by Infrasity</strong></summary>
+
+7 developer marketing skills by [Infrasity](https://github.com/infrasity-labs/dev-gtm-claude-skills).
+- [dev-gtm-claude-skills/docs-auditor](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/docs-auditor) - Audits any developer documentation site across 33 checks in 7 categories and produces an interactive scored report out of 100, rendered inline in Claude.
+- [dev-gtm-claude-skills/brief-outline-generator](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/brief-outline-generator-v2) - Turns a blog title and a focus keyword into a structured, formatted Word document — a content outline a writer can fill in. Not a finished article: section headings, short topic prompts, and FAQ questions, formatted and ready to hand to a writer.
+- [dev-gtm-claude-skills/blog-post-counter](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/blog-post-counter) - 
+Finds the blog URL for any company and their competitors and counts the total number of unique blog posts published.
+- [dev-gtm-claude-skills/growth-report](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/growth-report) - Generates a comprehensive 3-month SEO performance HTML report for any domain using live DataForSEO data. Covers traffic trends, keyword rankings, top content clusters, competitive positioning, strategic priorities, and an executive summary — delivered as a dark-theme executive-ready HTML file.
+- [dev-gtm-claude-skills/api-docs-quality-report](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/api-docs-quality-report) - Crawls every endpoint page on an API documentation site, scores each one across 5 quality checks, detects site-wide patterns, and produces an interactive HTML report with a summary scorecard, ranked issues, and per-endpoint fix guidance.
+- [dev-gtm-claude-skills/sdk-docs-auditor](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/llms-txt-checker) - The llms-txt-checker skill audits any domain's AI-readiness to directly probe robots.txt, llms.txt, and llms-full.txt, then scores each file against a structured checklist and delivers a formatted report with pass/warn/fail findings and actionable fixes.
+- [dev-gtm-claude-skills/sdk-docs-auditor](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/sdk-docs-auditor) - The SDK Docs Auditor skill crawls an SDK documentation site, audits it across six key sections (Installation, Quick Start, Error Handling, Troubleshooting, Examples, Best Practices), cross-references gaps across all pages, and produces a report based on it.
+</details>
+
 ---
 
 ### Security & Web Intelligence
@@ -542,6 +556,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - 12 skills for ecommerce product images (Amazon main image, A+, banners)
 - [xianyu110/ecommerce-video-skills](https://github.com/xianyu110/ecommerce-video-skills) - 12 skills for ecommerce short videos with local ffmpeg rendering
 </details>
+
 
 <details>
 <summary><strong>Productivity and Collaboration</strong></summary>
@@ -709,6 +724,20 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills
 - [uxuiprinciples/agent-skills](https://github.com/uxuiprinciples/agent-skills) - 5 UX/UI skills: evaluate interfaces against 168 research-backed principles
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
+</details>
+
+<details>
+<summary><strong>Developer Marketing Skills by Infrasity</strong></summary>
+
+7 developer marketing skills by [Infrasity](https://github.com/infrasity-labs/dev-gtm-claude-skills).
+- [dev-gtm-claude-skills/docs-auditor](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/docs-auditor) - Audits any developer documentation site across 33 checks in 7 categories and produces an interactive scored report out of 100, rendered inline in Claude.
+- [dev-gtm-claude-skills/brief-outline-generator](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/brief-outline-generator-v2) - Turns a blog title and a focus keyword into a structured, formatted Word document — a content outline a writer can fill in. Not a finished article: section headings, short topic prompts, and FAQ questions, formatted and ready to hand to a writer.
+- [dev-gtm-claude-skills/blog-post-counter](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/blog-post-counter) - 
+Finds the blog URL for any company and their competitors and counts the total number of unique blog posts published.
+- [dev-gtm-claude-skills/growth-report](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/growth-report) - Generates a comprehensive 3-month SEO performance HTML report for any domain using live DataForSEO data. Covers traffic trends, keyword rankings, top content clusters, competitive positioning, strategic priorities, and an executive summary — delivered as a dark-theme executive-ready HTML file.
+- [dev-gtm-claude-skills/api-docs-quality-report](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/api-docs-quality-report) - Crawls every endpoint page on an API documentation site, scores each one across 5 quality checks, detects site-wide patterns, and produces an interactive HTML report with a summary scorecard, ranked issues, and per-endpoint fix guidance.
+- [dev-gtm-claude-skills/sdk-docs-auditor](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/llms-txt-checker) - The llms-txt-checker skill audits any domain's AI-readiness to directly probe robots.txt, llms.txt, and llms-full.txt, then scores each file against a structured checklist and delivers a formatted report with pass/warn/fail findings and actionable fixes.
+- [dev-gtm-claude-skills/sdk-docs-auditor](https://github.com/Infrasity-Labs/dev-gtm-claude-skills/tree/main/skills/sdk-docs-auditor) - The SDK Docs Auditor skill crawls an SDK documentation site, audits it across six key sections (Installation, Quick Start, Error Handling, Troubleshooting, Examples, Best Practices), cross-references gaps across all pages, and produces a report based on it.
 </details>
 
 ---
