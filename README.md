@@ -711,6 +711,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
 </details>
 
+<details>
+<summary><strong>Data & Compliance</strong></summary>
+
+- [strale-io/strale](https://github.com/strale-io/strale) - MCP server + REST API exposing Strale’s data capability catalog: company registry lookups across 27 countries, sanctions/PEP screening, IBAN/VAT/LEI validation, web intelligence, and document extraction. Also reachable via x402 micropayments on Base.
+</details>
+
 ---
 
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights
