@@ -711,6 +711,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
 </details>
 
+<details>
+<summary><strong>Chinese Ecosystem Skills</strong></summary>
+
+- **[Aura-huang/agency-agents-cn](https://github.com/Aura-huang/agency-agents-cn)** - 一人公司技能库中国版。针对中国市场（微信、小红书、抖音、B站、知乎等）深度优化的 15+ 原创 Agent 角色，一人创业者专属。
+</details>
+
 ---
 
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights
