@@ -567,6 +567,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - Three skills for authoring natural-language web and mobile tests, triaging failures, and debugging fixes with MCP evidence
 - [kranz-org/kranz-services](https://github.com/kranz-org/kranz/tree/main/skills/kranz-services) - Inspect and control live development services through Kranz MCP
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Generate hand-drawn Excalidraw diagrams from prompt
+- [xiaopixuan/skills-public](https://github.com/xiaopixuan/skills-public) - Public Codex skills catalog with editable draw.io diagrams, skill design review, example prompts, and review scorecards
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - Code review and PR autofix workflows
 - [lmammino/c4-codebase-architecture](https://github.com/lmammino/c4-codebase-architecture-skill/tree/main/skills/c4-codebase-architecture) - Generate evidence-based C4 architecture docs from codebases
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) - Audit AI coding-agent session health and cost
