@@ -1021,3 +1021,9 @@ If you use these skill patterns in your research or project, please cite:
 ## License
 
 MIT License. See LICENSE file for details.
+
+
+
+## BrowserAct
+
+Browser automation CLI for AI agents.
