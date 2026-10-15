@@ -47,6 +47,7 @@ That's it. No installation. No configuration. No coding required.
   - [Marketing](#marketing)
   - [Career](#career)
   - [Productivity and Collaboration](#productivity-and-collaboration)
+  - [Finance and Trading](#finance-and-trading)
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
   - [Crypto and Market Data](#crypto-and-market-data)
@@ -559,6 +560,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [makenotion/skills](https://github.com/makenotion/skills) - Notion API integration, database operations, and content management
 - [smerchek/claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Converts markdown documents into professional EPUB ebook files
 - [talkstream/ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
+</details>
+
+<details>
+<summary><strong>Finance and Trading</strong></summary>
+
+- [ego-protocol/tbd-vote-cli](https://github.com/ego-protocol/tbd-vote-cli) - Trade on TBD, a Solana-based prediction market for human opinions, via the `@tbd-vote/cli` package; defers to an [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec for autonomous-loop instructions and HTTP fallback
 </details>
 
 <details>
