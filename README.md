@@ -619,6 +619,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 </details>
 
 <details>
+<summary><strong>Live Data and Sensing</strong></summary>
+
+- [eirik-rune/runemap](https://github.com/eirik-rune/runemap/tree/main/skills/echorune-radar) - Weather and a radar map drawn as text characters, one HTTP request, no image to look at
+</details>
+
+<details>
 <summary><strong>Context Engineering</strong></summary>
 
 - [DrDroidLab/setup-open-index](https://github.com/DrDroidLab/open-index/blob/main/skills/setup-open-index/SKILL.md) - Set up structured context graphs with hybrid search and read/write MCP access
