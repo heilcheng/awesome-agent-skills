@@ -361,6 +361,10 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 #### Skills by Courier
 - [trycourier/courier-skills](https://github.com/trycourier/courier-skills) - Multi-channel notifications via email, SMS, push, and chat
 
+#### Skills by Sendsets
+- [AddisonHoff/send-cold-email](https://github.com/AddisonHoff/sendsets/tree/main/skills/send-cold-email) - Send cold email sequences to a lead list, with test and replies
+- [AddisonHoff/sendsets](https://github.com/AddisonHoff/sendsets/tree/main/skills/sendsets) - Turn a product into outbound campaigns and run them
+
 #### Skills by Typefully
 - [typefully/typefully](https://github.com/typefully/agent-skills/tree/main/skills/typefully) - Create, schedule, and publish social media content
 
