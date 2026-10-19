@@ -559,6 +559,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [makenotion/skills](https://github.com/makenotion/skills) - Notion API integration, database operations, and content management
 - [smerchek/claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Converts markdown documents into professional EPUB ebook files
 - [talkstream/ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
+- [kklimuk/docx-cli](https://github.com/kklimuk/docx-cli/tree/main/skills/docx-cli) - Work on Word .docx files in place: tracked changes, comments, forms, tables, styles.
+- [stevyhacker/lokalbot-cli](https://github.com/stevyhacker/lokalbot/tree/master/.agents/skills/lokalbot-cli) - Retrieve recorded meetings and separately authorized screen memory on macOS
 </details>
 
 <details>
@@ -633,6 +635,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory) - Local-first persistent memory for coding agents via MCP, with governed recall
 - [jakedahn/pomodoro](https://github.com/jakedahn/pomodoro) - System Skill Pattern — skills that remember and improve
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Mind cloning with LLM skills
+- [JayPokale/Chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle) - Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked
 </details>
 
 <details>
@@ -709,6 +712,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills
 - [uxuiprinciples/agent-skills](https://github.com/uxuiprinciples/agent-skills) - 5 UX/UI skills: evaluate interfaces against 168 research-backed principles
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
+- [KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ skills for academic writing, systematic reviews and scientific analysis
 </details>
 
 ---
