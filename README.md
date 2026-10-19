@@ -644,6 +644,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) - Cryptocurrency, web3 and blockchain skills
 - [RioTheGreat-ai/agentfund-skill](https://github.com/RioTheGreat-ai/agentfund-skill) - Crowdfunding for AI agents on Base chain - milestone escrow
 - [kybernetwork/kyberswap-skills](https://github.com/kybernetwork/kyberswap-skills) - Token swap quotes and transactions across 18 EVM chains
+- [zhuyansen/daily-alpha-scanner](https://github.com/zhuyansen/daily-alpha-scanner) - Daily on-chain research with OKX OnchainOS: hot tokens, smart money, meme launches, token risk
 </details>
 
 <details>
