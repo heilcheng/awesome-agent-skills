@@ -22,7 +22,7 @@ Never heard of "agent skills" before? You're in the right place. This is a commu
 | **Description** | Real-time AI agent monitoring dashboard — tracks Gateway status, sessions, token usage & trends |
 | **Stars** | ⭐ 1.3k+ |
 
-![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/master/Openclaw%20Monitor.jpg)
 
 
 
