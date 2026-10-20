@@ -532,6 +532,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) - 125 growth/GTM skills for ads, lead gen, outreach, and SEO
 - [wgwtest/novel-writing](https://github.com/wgwtest/novel-writing) - Codex skill for fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks
 - [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) - 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops
+- [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) - 19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator
 </details>
 
 <details>
