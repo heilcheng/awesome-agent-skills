@@ -693,6 +693,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - Web browser capability for agents
 - [techgangboss/agentstore](https://github.com/techgangboss/agentstore) - Open-source plugin marketplace with CLI install
 - [transloadit/skills](https://github.com/transloadit/skills) - Media processing: video encoding, image manipulation, OCR
+- [MSG91/m91-skill](https://github.com/MSG91/m91-skill) - Ask a human for approval on their phone before risky agent actions
 </details>
 
 <details>
