@@ -559,6 +559,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [makenotion/skills](https://github.com/makenotion/skills) - Notion API integration, database operations, and content management
 - [smerchek/claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Converts markdown documents into professional EPUB ebook files
 - [talkstream/ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
+- [luchasarie/bro-skill](https://github.com/luchasarie/bro-skill) - Re-explains the assistant's last reply or pasted text in plain language
 </details>
 
 <details>
