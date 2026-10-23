@@ -644,7 +644,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) - Cryptocurrency, web3 and blockchain skills
 - [RioTheGreat-ai/agentfund-skill](https://github.com/RioTheGreat-ai/agentfund-skill) - Crowdfunding for AI agents on Base chain - milestone escrow
 - [kybernetwork/kyberswap-skills](https://github.com/kybernetwork/kyberswap-skills) - Token swap quotes and transactions across 18 EVM chains
-- [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday/tree/main/integrations/mcp) - Sovereign Layer-1 DOOM payments, replay-proof invoices, and Base Mainnet wDOOM Proof-of-Escrow verification for AI agents
+- [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday) - Sovereign L1 DOOM payments, replay-proof invoices, and Base wDOOM Proof-of-Escrow verification
 </details>
 
 <details>
@@ -679,7 +679,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Digital forensics analysis and investigation
 - [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
 - [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
-- [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) - Security firewall skill and MCP server protecting autonomous coding agents from prompt-injection honeypots and unescrowed GitHub bounties
+- [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) - Security firewall and MCP scanner protecting coding agents from prompt-injection bounty traps
 </details>
 
 <details>
