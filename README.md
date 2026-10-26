@@ -977,6 +977,7 @@ Every skill in this list is a public GitHub repository — you can read the full
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of Model Context Protocol (MCP) servers.
 - [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - Learning hub of agent skills, prompts, notebooks, and papers for product builders.
 - [awesome-agent-skills (VoltAgent)](https://github.com/VoltAgent/awesome-agent-skills) - Large curated list of agent skills from official teams and the community.
+- [BundleDex](https://bundledex.net) - Directory of Open Knowledge Format (OKF) bundles for AI agents.
 
 ---
 
