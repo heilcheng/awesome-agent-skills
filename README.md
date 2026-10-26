@@ -120,6 +120,12 @@ npx skills update                  # Upgrade all skills
 npx skills remove [skill-name]     # Uninstall skills
 ```
 
+### Skill managers & CLIs
+
+Beyond one-shot installers, these tools keep a skill library and sync it across agents:
+
+- **[skills-manager](https://github.com/shenysun/skills-manager)** (`npx skills-manager-cli`) — One hub (`~/.skills-manager`) distributes skills to 70+ agents via a conversation-driven manager skill; tree-SHA updates and a resident cost ledger.
+
 ---
 
 ## Compatible Agents
