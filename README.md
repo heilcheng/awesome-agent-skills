@@ -667,6 +667,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 - [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Rewrite rough ideas into model-ready text-to-video prompts (Seedance, Sora, Kling, Veo); bilingual EN/中文
 - [NoizAI/skills](https://github.com/NoizAI/skills) - Human-like TTS skills with tested speaking styles, emotional tone, and local or cloud voice backends
+- [vargHQ/how-to-make-ai-video](https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video) - How to make any AI video: find the skill, the options to show and the steps. No key needed.
 </details>
 
 <details>
