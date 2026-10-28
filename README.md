@@ -423,6 +423,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [coreyhaines31/page-cro](https://github.com/coreyhaines31/marketingskills) - Improve conversion rates on marketing pages
 - [coreyhaines31/pricing-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing) - Define pricing and packaging for SaaS
 - [coreyhaines31/social-content](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social) - Create and schedule social media content
+- [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
 </details>
 
 <details>
