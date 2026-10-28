@@ -706,6 +706,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [transloadit/skills](https://github.com/transloadit/skills) - Media processing: video encoding, image manipulation, OCR
 - [voygr-tech/placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall) - Places real phone calls to US businesses and returns the outcome and transcript
 - [MSG91/m91-skill](https://github.com/MSG91/m91-skill) - Ask a human for approval on their phone before risky agent actions
+- [ajnart/self-host](https://github.com/ajnart/self-host) - Agent installs self-hosted apps and sets up admin accounts, API keys and app links
 </details>
 
 <details>
