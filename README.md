@@ -654,6 +654,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [RioTheGreat-ai/agentfund-skill](https://github.com/RioTheGreat-ai/agentfund-skill) - Crowdfunding for AI agents on Base chain - milestone escrow
 - [kybernetwork/kyberswap-skills](https://github.com/kybernetwork/kyberswap-skills) - Token swap quotes and transactions across 18 EVM chains
 - [zhuyansen/daily-alpha-scanner](https://github.com/zhuyansen/daily-alpha-scanner) - Daily on-chain research with OKX OnchainOS: hot tokens, smart money, meme launches, token risk
+- [RozoAI/rozo-checkout-skill](https://github.com/RozoAI/rozo-checkout-skill) - Pay OpenRouter and Coinbase invoices with crypto, with quotes and settlement tracking
 </details>
 
 <details>
