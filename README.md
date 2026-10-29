@@ -568,6 +568,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 </details>
 
 <details>
+<summary><strong>Research and Knowledge Retrieval</strong></summary>
+
+- [Intelligent-Internet/II-Commons-Skills](https://github.com/Intelligent-Internet/II-Commons-Skills) - Agent skill and npm CLI for daily-updated retrieval across arXiv, PubMed/PMC, and supported US policy corpora
+</details>
+
+<details>
 <summary><strong>Development and Testing</strong></summary>
 
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - Three skills for authoring natural-language web and mobile tests, triaging failures, and debugging fixes with MCP evidence
