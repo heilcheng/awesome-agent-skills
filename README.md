@@ -660,6 +660,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <summary><strong>Education and Teaching</strong></summary>
 
 - [YujxZJCN/teaching-skills](https://github.com/YujxZJCN/teaching-skills) - University teaching lifecycle for professors: course design, lessons, exams, grading (Codex: YujxZJCN/teaching-skills-codex)
+- [DeanChensj/jiangshan-atlas](https://github.com/DeanChensj/jiangshan-map/tree/main/skills/jiangshan-atlas) - Locate Chinese historical events, classical poems, ancient places, and figure trajectories
 </details>
 
 <details>
