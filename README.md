@@ -548,6 +548,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
+- [TH1RT3EN-LI/figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) - Reconstruct paper figures and technical diagrams as editable PowerPoint geometry, live text, connectors, and audited LaTeX assets
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
