@@ -83,6 +83,16 @@ Skills load in three stages:
 2. **Load**: When a skill is needed, the AI reads the full instructions
 3. **Use**: The AI follows the instructions and accesses any helper files
 
+### How Agents Choose Between Skills
+
+When two or more skills could plausibly apply, there's no priority flag or registry ranking to break the tie — selection happens through the same judgment used at the Browse stage:
+
+- **Name relevance**: a skill named `pdf-form-filler` will beat a generic `document-helper` for a task about filling out a PDF.
+- **Description matching**: the `description` field is what the AI actually reasons over during Browse. A specific, scenario-grounded description ("Use when extracting tables from scanned PDFs") out-competes a vague one ("Helps with documents").
+- **Available context capacity**: only names and descriptions are loaded at the Browse stage; full instructions are pulled in only for the skill that's selected. A broad description competing for the same intent as a precise one can crowd it out, or leave the AI uncertain enough to load neither.
+
+If a skill you expect to trigger isn't firing, the fix is almost always to narrow its `name` and `description` — there's no ranking flag that decides between two otherwise-matching skills. That's separate from *visibility*, which some agents do let you control directly: Claude Code's `skillOverrides` setting can hide a skill from consideration entirely or restrict it to manual invocation, `disable-model-invocation: true` in a skill's frontmatter takes it out of automatic selection, and `skillListingBudgetFraction` caps how many skill descriptions get loaded into context at all (dropping the least-used ones first in a long session). None of these rank one visible, matching skill above another — they only decide which skills are in the running before matching happens.
+
 ### Why This Matters
 
 - **Faster and lighter**: The AI only loads what it needs, when it needs it
@@ -962,6 +972,10 @@ Currently supported: **Claude** (Claude.ai and Claude Code), **GitHub Copilot**,
 ### Do Agent Skills run code?
 
 No. Skills are just text instructions — the AI reads and follows them like a recipe. If you need to run actual code, you'd use MCP servers alongside skills.
+
+### What happens if multiple skills could apply to the same task?
+
+There's no ranking system that picks between two matching skills — the AI picks based on how well each skill's name and description fit the task at hand, so narrowing their descriptions is the fix if two keep colliding. Full breakdown, including the settings that control which skills are even in the running (`skillOverrides`, `disable-model-invocation`): [How Agents Choose Between Skills](#how-agents-choose-between-skills).
 
 ### How do I create my first Agent Skill?
 
