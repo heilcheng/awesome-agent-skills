@@ -546,6 +546,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 </details>
 
 <details>
+<summary><strong>Media</strong></summary>
+
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks/tree/main/skills/remove-ai-watermarks) - Identify and remove AI provenance marks from user-owned images and video
+</details>
+
+<details>
 <summary><strong>Productivity and Collaboration</strong></summary>
 
 - [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Document processing: convert, OCR, and redact PII
