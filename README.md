@@ -624,6 +624,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices
 - [LeulAria/Aria-Icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search 1.4M open-source icons and add them to a project as source files
 - [Grit-77/checking-delivery](https://github.com/Grit-77/done-is-a-claim/tree/main/skills/checking-delivery) - Check delivery at its destination and separate acknowledgements from verified consumer results.
+- [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 </details>
 
 <details>
