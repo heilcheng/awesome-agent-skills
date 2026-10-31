@@ -565,6 +565,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [stevyhacker/lokalbot-cli](https://github.com/stevyhacker/lokalbot/tree/master/.agents/skills/lokalbot-cli) - Retrieve recorded meetings and separately authorized screen memory on macOS
 - [arifszn/slide-wright](https://github.com/arifszn/slide-wright) - Turns a topic into a themed HTML slide deck; exports to PowerPoint and PDF
 - [luchasarie/bro-skill](https://github.com/luchasarie/bro-skill) - Re-explains the assistant's last reply or pasted text in plain language
+- [signbee/skill](https://github.com/signbee/skill) - Send Markdown or PDF contracts for two-party e-signing with SHA-256 audit trails
 </details>
 
 <details>
