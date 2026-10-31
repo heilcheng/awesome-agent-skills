@@ -381,6 +381,9 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 - [makenotion/meeting-intelligence](https://github.com/makenotion/cursor-notion-plugin/tree/main/skills/meeting-intelligence) - Prepare meeting materials by gathering Notion context
 - [makenotion/spec-to-implementation](https://github.com/makenotion/cursor-notion-plugin/tree/main/skills/spec-to-implementation) - Turn tech specs into concrete Notion tasks
 
+#### Skills by Taskade
+- [taskade/tasks.md](https://github.com/taskade/tasks.md) - The build ledger a coding agent keeps. What was asked, decided, and built with evidence. Install with `npx skills add taskade/tasks.md`.
+
 #### Skills by Resend
 - [resend/resend](https://github.com/resend/resend-skills/tree/main/skills/resend) - Send and manage emails via the Resend API
 - [resend/react-email](https://github.com/resend/resend-skills/tree/main/skills/react-email) - Build emails with React Email components
