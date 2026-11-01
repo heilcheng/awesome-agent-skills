@@ -624,6 +624,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices
 - [LeulAria/Aria-Icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search 1.4M open-source icons and add them to a project as source files
 - [Grit-77/checking-delivery](https://github.com/Grit-77/done-is-a-claim/tree/main/skills/checking-delivery) - Check delivery at its destination and separate acknowledgements from verified consumer results.
+- [hnewcity/agent-speedup-estimator](https://github.com/hnewcity/agent-speedup-estimator/tree/main/skills/agent-speedup-estimator) - Estimate hardware upgrade speedups for Claude Code and Codex from local timings.
 </details>
 
 <details>
