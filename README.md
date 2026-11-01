@@ -624,7 +624,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices
 - [LeulAria/Aria-Icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search 1.4M open-source icons and add them to a project as source files
 - [Grit-77/checking-delivery](https://github.com/Grit-77/done-is-a-claim/tree/main/skills/checking-delivery) - Check delivery at its destination and separate acknowledgements from verified consumer results.
-- [wunder-ui/wunderui](https://github.com/wunder-ui/wunderui/tree/main/skills) - Set up the WunderUI design system, build complete screens from its React components, theme it in a brand colour and keep design tokens clean
+- [wunder-ui/wunderui](https://github.com/wunder-ui/wunderui/tree/main/skills) - Set up WunderUI, build screens, theme a brand colour and audit design tokens
 </details>
 
 <details>
