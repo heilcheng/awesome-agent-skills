@@ -1,0 +1,48 @@
+name: Sync translations and website
+
+# README.md is the single source of truth for listed skills. Whenever it changes
+# on main, regenerate the skill directory in every README.<lang>.md and the
+# website's skills.json, and commit the result.
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/sync_translations.py
+      - scripts/i18n.json
+      - website/scripts/build-skills.mjs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-readmes
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Regenerate translations and website data
+        run: |
+          python3 scripts/sync_translations.py
+          node website/scripts/build-skills.mjs
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "Everything already in sync."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.*.md website/src/data/skills.json
+          git commit -m "Sync translated READMEs and website skill data from README.md"
+          git push
