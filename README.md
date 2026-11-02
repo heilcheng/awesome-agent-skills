@@ -682,6 +682,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [vargHQ/how-to-make-ai-video](https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video) - How to make any AI video: find the skill, the options to show and the steps. No key needed.
 - [liyupi/memecub](https://github.com/liyupi/memecub) - Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles
 - [krisyangdev/motionboard](https://github.com/krisyangdev/motionboard) - Make launch films from 38 Apple and Linear shot recipes, rebuilt in HyperFrames (HTML + GSAP).
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Write, check and render Remotion-style TypeScript videos without a browser
 </details>
 
 <details>
