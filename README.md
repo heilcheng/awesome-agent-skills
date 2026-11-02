@@ -676,6 +676,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [NoizAI/skills](https://github.com/NoizAI/skills) - Human-like TTS skills with tested speaking styles, emotional tone, and local or cloud voice backends
 - [jangtrinh/design-os](https://github.com/jangtrinh/design-os) - Free design skills and verification gates for Claude Code, Codex, Gemini CLI and Antigravity
 - [vargHQ/how-to-make-ai-video](https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video) - How to make any AI video: find the skill, the options to show and the steps. No key needed.
+- [liyupi/memecub](https://github.com/liyupi/memecub) - Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles
 </details>
 
 <details>
