@@ -1449,6 +1449,13 @@
   "group": "Marketing"
  },
  {
+  "name": "zhuyansen/backlink-guard",
+  "url": "https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard",
+  "description": "Vet link sources before you submit, verify listings, and audit backlinks for link spam",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
   "name": "vaibhavarora14/job-application-agent",
   "url": "https://github.com/vaibhavarora14/job-application-agent",
   "description": "Privacy-first skill to discover, qualify, complete, and track your own job applications",
@@ -1473,6 +1480,13 @@
   "name": "xianyu110/ecommerce-video-skills",
   "url": "https://github.com/xianyu110/ecommerce-video-skills",
   "description": "12 skills for ecommerce short videos with local ffmpeg rendering",
+  "tab": "community",
+  "group": "Career"
+ },
+ {
+  "name": "career-ops-hq/career-ops",
+  "url": "https://github.com/career-ops-hq/career-ops",
+  "description": "Open-source AI job search agent: scores each job against your CV; you press Submit",
   "tab": "community",
   "group": "Career"
  },
@@ -1592,6 +1606,27 @@
   "name": "luchasarie/bro-skill",
   "url": "https://github.com/luchasarie/bro-skill",
   "description": "Re-explains the assistant's last reply or pasted text in plain language",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "Drix10/ai-news",
+  "url": "https://github.com/Drix10/ai-resources/tree/main/skills/ai-news",
+  "description": "Answer \"what's new in AI\" questions from dated AI news briefings, citing the source posts",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "MetcalfSolutions/Satori",
+  "url": "https://github.com/MetcalfSolutions/Satori",
+  "description": "Wisdom companion skill with SQLite memory vault that stays silent during pure coding work",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "kochetkov-ma/brewpage-publish",
+  "url": "https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish",
+  "description": "Publish text, files or folder sites to brewpage.app and return a shareable link",
   "tab": "community",
   "group": "Productivity and Collaboration"
  },
@@ -1820,6 +1855,13 @@
   "group": "Development and Testing"
  },
  {
+  "name": "fastcrw/crw",
+  "url": "https://github.com/fastcrw/crw/tree/main/skills",
+  "description": "Search, scrape, crawl and extract the web with a self-hostable Rust binary and MCP server",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
   "name": "unbrowse-ai/unbrowse",
   "url": "https://github.com/unbrowse-ai/unbrowse/tree/main/skill",
   "description": "Search, call, and read websites through a hosted API or MCP",
@@ -1974,6 +2016,27 @@
   "group": "Development and Testing"
  },
  {
+  "name": "cyphercodes/location-picker",
+  "url": "https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker",
+  "description": "Add a map field that captures one latitude/longitude to web forms and apps",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "mobbin/skills",
+  "url": "https://github.com/mobbin/skills",
+  "description": "Search real app screens, flows and website sections on Mobbin to ground UI design",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "ukorvl/lightweight-charts-react-components",
+  "url": "https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components",
+  "description": "React financial-chart integration recipes for coding agents",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
   "name": "DrDroidLab/setup-open-index",
   "url": "https://github.com/DrDroidLab/open-index/blob/main/skills/setup-open-index/SKILL.md",
   "description": "Set up structured context graphs with hybrid search and read/write MCP access",
@@ -2114,9 +2177,23 @@
   "group": "Crypto and Market Data"
  },
  {
+  "name": "0xArchiveIO/backtest",
+  "url": "https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest",
+  "description": "Test Hyperliquid trading strategies with backtests and out-of-sample checks",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
   "name": "YujxZJCN/teaching-skills",
   "url": "https://github.com/YujxZJCN/teaching-skills",
   "description": "University teaching lifecycle for professors: course design, lessons, exams, grading (Codex: YujxZJCN/teaching-skills-codex)",
+  "tab": "community",
+  "group": "Education and Teaching"
+ },
+ {
+  "name": "DeanChensj/jiangshan-atlas",
+  "url": "https://github.com/DeanChensj/jiangshan-map/tree/main/skills/jiangshan-atlas",
+  "description": "Locate Chinese historical events, classical poems, ancient places, and figure trajectories",
   "tab": "community",
   "group": "Education and Teaching"
  },
@@ -2131,6 +2208,34 @@
   "name": "NoizAI/skills",
   "url": "https://github.com/NoizAI/skills",
   "description": "Human-like TTS skills with tested speaking styles, emotional tone, and local or cloud voice backends",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "jangtrinh/design-os",
+  "url": "https://github.com/jangtrinh/design-os",
+  "description": "Free design skills and verification gates for Claude Code, Codex, Gemini CLI and Antigravity",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "vargHQ/how-to-make-ai-video",
+  "url": "https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video",
+  "description": "How to make any AI video: find the skill, the options to show and the steps. No key needed.",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "liyupi/memecub",
+  "url": "https://github.com/liyupi/memecub",
+  "description": "Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "krisyangdev/motionboard",
+  "url": "https://github.com/krisyangdev/motionboard",
+  "description": "Make launch films from 38 Apple and Linear shot recipes, rebuilt in HyperFrames (HTML + GSAP).",
   "tab": "community",
   "group": "Creative and Media"
  },
@@ -2180,6 +2285,13 @@
   "name": "jthack/threat-hunting-with-sigma-rules-skill",
   "url": "https://github.com/jthack/threat-hunting-with-sigma-rules-skill",
   "description": "Hunt for threats using Sigma detection rules",
+  "tab": "community",
+  "group": "Security"
+ },
+ {
+  "name": "Reware-Labs/securitycards",
+  "url": "https://github.com/Reware-Labs/securitycards",
+  "description": "Fetch version-pinned secure-coding rules for the libraries a project uses",
   "tab": "community",
   "group": "Security"
  },
@@ -2268,6 +2380,27 @@
   "group": "Integration and Automation"
  },
  {
+  "name": "ajnart/self-host",
+  "url": "https://github.com/ajnart/self-host",
+  "description": "Agent installs self-hosted apps and sets up admin accounts, API keys and app links",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "777genius/agent-notifications",
+  "url": "https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications",
+  "description": "Send desktop attention and progress alerts through an installed notification plugin",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "radres/call-me",
+  "url": "https://github.com/radres/call-me/tree/main/skill",
+  "description": "Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
   "name": "browser-act/skills",
   "url": "https://github.com/browser-act/skills",
   "description": "22 browser automation skills for structured data extraction",
@@ -2348,6 +2481,13 @@
   "name": "cbrock84/headcount",
   "url": "https://github.com/cbrock84/headcount",
   "description": "Company-department skills (legal, finance, security, ops), each citing its governing source",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "laolaoshiren/claude-code-skills-zh",
+  "url": "https://github.com/laolaoshiren/claude-code-skills-zh",
+  "description": "Curated Chinese Claude Code skills, agents and plugins collection",
   "tab": "community",
   "group": "Skill Collections"
  },

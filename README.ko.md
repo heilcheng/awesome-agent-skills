@@ -527,6 +527,7 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [wgwtest/novel-writing](https://github.com/wgwtest/novel-writing) - Codex skill for fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks
 - [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) - 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops
 - [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) - 19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator
+- [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard) - Vet link sources before you submit, verify listings, and audit backlinks for link spam
 </details>
 
 <details>
@@ -536,6 +537,7 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [socai-io/jev-social](https://github.com/socai-io/jev-social/tree/main/skills/jev-social) - Research social platforms through typed Jev actions in local Chrome
 - [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - 12 skills for ecommerce product images (Amazon main image, A+, banners)
 - [xianyu110/ecommerce-video-skills](https://github.com/xianyu110/ecommerce-video-skills) - 12 skills for ecommerce short videos with local ffmpeg rendering
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scores each job against your CV; you press Submit
 </details>
 
 <details>
@@ -558,6 +560,9 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [stevyhacker/lokalbot-cli](https://github.com/stevyhacker/lokalbot/tree/master/.agents/skills/lokalbot-cli) - Retrieve recorded meetings and separately authorized screen memory on macOS
 - [arifszn/slide-wright](https://github.com/arifszn/slide-wright) - Turns a topic into a themed HTML slide deck; exports to PowerPoint and PDF
 - [luchasarie/bro-skill](https://github.com/luchasarie/bro-skill) - Re-explains the assistant's last reply or pasted text in plain language
+- [Drix10/ai-news](https://github.com/Drix10/ai-resources/tree/main/skills/ai-news) - Answer "what's new in AI" questions from dated AI news briefings, citing the source posts
+- [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) - Wisdom companion skill with SQLite memory vault that stays silent during pure coding work
+- [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
 </details>
 
 <details>
@@ -595,6 +600,7 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay/tree/main/skills/orca-replay) - Read a recorded agent run from its trace, replay it offline, or fork it onto another model
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) - 26 skills for UI audits, typography, docs, PR review, and releases
 - [lukstei/slop-grader](https://github.com/lukstei/slop-grader) - Rule-based CLI tool evaluating custom rulesets to guide auto-fixing with an AI agent
+- [fastcrw/crw](https://github.com/fastcrw/crw/tree/main/skills) - Search, scrape, crawl and extract the web with a self-hostable Rust binary and MCP server
 - [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse/tree/main/skill) - Search, call, and read websites through a hosted API or MCP
 - [aaddrick/building-with-typesafe-jev](https://github.com/aaddrick/building-with-typesafe-jev) - Design TypeSafe Jev calls: typed questions, confidence routing, 150+ prior-art projects
 - [umutbozdag/manage-skills](https://github.com/umutbozdag/agent-skills-manager/tree/main/skills/manage-skills) - Discover, create, edit, toggle, copy, and move agent skills across 11 tools from the terminal
@@ -617,6 +623,9 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices
 - [LeulAria/Aria-Icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search 1.4M open-source icons and add them to a project as source files
 - [Grit-77/checking-delivery](https://github.com/Grit-77/done-is-a-claim/tree/main/skills/checking-delivery) - Check delivery at its destination and separate acknowledgements from verified consumer results.
+- [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
+- [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
+- [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
 </details>
 
 <details>
@@ -647,12 +656,14 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [RioTheGreat-ai/agentfund-skill](https://github.com/RioTheGreat-ai/agentfund-skill) - Crowdfunding for AI agents on Base chain - milestone escrow
 - [kybernetwork/kyberswap-skills](https://github.com/kybernetwork/kyberswap-skills) - Token swap quotes and transactions across 18 EVM chains
 - [zhuyansen/daily-alpha-scanner](https://github.com/zhuyansen/daily-alpha-scanner) - Daily on-chain research with OKX OnchainOS: hot tokens, smart money, meme launches, token risk
+- [0xArchiveIO/backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Test Hyperliquid trading strategies with backtests and out-of-sample checks
 </details>
 
 <details>
 <summary><strong>교육 및 강의</strong></summary>
 
 - [YujxZJCN/teaching-skills](https://github.com/YujxZJCN/teaching-skills) - University teaching lifecycle for professors: course design, lessons, exams, grading (Codex: YujxZJCN/teaching-skills-codex)
+- [DeanChensj/jiangshan-atlas](https://github.com/DeanChensj/jiangshan-map/tree/main/skills/jiangshan-atlas) - Locate Chinese historical events, classical poems, ancient places, and figure trajectories
 </details>
 
 <details>
@@ -660,6 +671,10 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 
 - [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Rewrite rough ideas into model-ready text-to-video prompts (Seedance, Sora, Kling, Veo); bilingual EN/中文
 - [NoizAI/skills](https://github.com/NoizAI/skills) - Human-like TTS skills with tested speaking styles, emotional tone, and local or cloud voice backends
+- [jangtrinh/design-os](https://github.com/jangtrinh/design-os) - Free design skills and verification gates for Claude Code, Codex, Gemini CLI and Antigravity
+- [vargHQ/how-to-make-ai-video](https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video) - How to make any AI video: find the skill, the options to show and the steps. No key needed.
+- [liyupi/memecub](https://github.com/liyupi/memecub) - Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles
+- [krisyangdev/motionboard](https://github.com/krisyangdev/motionboard) - Make launch films from 38 Apple and Linear shot recipes, rebuilt in HyperFrames (HTML + GSAP).
 </details>
 
 <details>
@@ -682,6 +697,7 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Digital forensics analysis and investigation
 - [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
 - [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
+- [Reware-Labs/securitycards](https://github.com/Reware-Labs/securitycards) - Fetch version-pinned secure-coding rules for the libraries a project uses
 </details>
 
 <details>
@@ -699,6 +715,9 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [transloadit/skills](https://github.com/transloadit/skills) - Media processing: video encoding, image manipulation, OCR
 - [voygr-tech/placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall) - Places real phone calls to US businesses and returns the outcome and transcript
 - [MSG91/m91-skill](https://github.com/MSG91/m91-skill) - Ask a human for approval on their phone before risky agent actions
+- [ajnart/self-host](https://github.com/ajnart/self-host) - Agent installs self-hosted apps and sets up admin accounts, API keys and app links
+- [777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications) - Send desktop attention and progress alerts through an installed notification plugin
+- [radres/call-me](https://github.com/radres/call-me/tree/main/skill) - Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app
 </details>
 
 <details>
@@ -717,6 +736,7 @@ Azure SDK 및 Microsoft AI Foundry를 위한 133개의 도메인 특화 스킬�
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
 - [KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ skills covering the full academic research lifecycle, from literature review to peer review
 - [cbrock84/headcount](https://github.com/cbrock84/headcount) - Company-department skills (legal, finance, security, ops), each citing its governing source
+- [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Curated Chinese Claude Code skills, agents and plugins collection
 </details>
 
 ---
