@@ -716,6 +716,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [MSG91/m91-skill](https://github.com/MSG91/m91-skill) - Ask a human for approval on their phone before risky agent actions
 - [ajnart/self-host](https://github.com/ajnart/self-host) - Agent installs self-hosted apps and sets up admin accounts, API keys and app links
 - [777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications) - Send desktop attention and progress alerts through an installed notification plugin
+- [radres/call-me](https://github.com/radres/call-me/tree/main/skill) - Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app
 </details>
 
 <details>
