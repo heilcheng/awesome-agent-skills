@@ -633,7 +633,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
-- [ateymoori/android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Drive and check an Android app's UI on the emulator through Oh My Android MCP tools.
+- [ateymoori/android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Drive and check an Android app's UI on the emulator through Oh My Android MCP tools
 </details>
 
 <details>
