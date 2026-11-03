@@ -690,6 +690,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity
 - [Qiuner/birdview](https://github.com/Qiuner/birdview) - Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML
 - [manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop) - Flags stock AI phrasing, guides the edit, checks names, numbers, quotes and links
+- [federicodeponte/autonomous-research](https://github.com/federicodeponte/opendraft/tree/master/skills/autonomous-research) - Drafts research papers and literature reviews from one topic, with checked DOIs
 </details>
 
 <details>
