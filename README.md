@@ -513,6 +513,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 - [honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins) - 11 skills + MCP server for building and querying a governed semantic layer over Snowflake, Databricks, and BigQuery from coding agents (Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI). Same trusted model serves BI tools and AI agents. Plugins are Apache 2.0.
 - [exmergo/explore](https://github.com/exmergo/dex/tree/main/skills/explore) - Profile warehouses, verify joins, and map schemas
+- [antvis/ava](https://github.com/antvis/AVA/tree/ai/skills/ava) - Query files and databases, reuse business definitions, and generate interactive charts
 <summary><strong>Cloud Storage</strong></summary>
 
 - [backblaze-labs/claude-skill-b2-cloud-storage](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage) - Manage Backblaze B2 storage: list, audit, cleanup, security, lifecycle
