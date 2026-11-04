@@ -386,6 +386,14 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 - [resend/react-email](https://github.com/resend/resend-skills/tree/main/skills/react-email) - Build emails with React Email components
 - [resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices) - Email deliverability and design best practices
 
+#### Skills by Mailtrap
+
+- [mailtrap/sending-emails](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/sending-emails) - Live sending via Email API and SMTP (transactional vs bulk)
+- [mailtrap/testing-with-sandbox](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/testing-with-sandbox) - Email Sandbox, Testing API, safe capture in dev/staging
+- [mailtrap/setting-up-sending-domain](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/setting-up-sending-domain) - Domain verification, DNS records, compliance
+- [mailtrap/managing-contacts](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/managing-contacts) - Contacts API, lists, segments, CRM-style sync
+- [mailtrap/authorizing-api-requests](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/authorizing-api-requests) - Token scope, auth headers, resolving account ID
+
 #### Skills by Sanity
 Install from [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit).
 - [sanity-io/sanity-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/sanity-best-practices) - Best practices for Sanity Studio and content workflows
