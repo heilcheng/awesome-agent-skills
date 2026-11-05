@@ -206,6 +206,9 @@ Official skills for ML workflows.
 - [fal-ai-community/fal-realtime](https://github.com/fal-ai-community/skills) - Real-time and streaming AI image generation
 - [fal-ai-community/fal-upscale](https://github.com/fal-ai-community/skills) - Upscale and enhance image resolution
 
+#### Skills by WaveSpeedAI
+- [WaveSpeedAI/agent-skills](https://github.com/WaveSpeedAI/agent-skills) - Generate and edit images, video, audio, and 3D on WaveSpeed via CLI or MCP, plus per-model skills (Seedream, Seedance, Veo 3.1, Wan, Nano Banana, MiniMax Speech, upscalers)
+
 #### Skills by MiniMax
 - [MiniMax-AI/frontend-dev](https://github.com/MiniMax-AI/skills/tree/main/skills/frontend-dev) - Frontend with animations and AI media via MiniMax
 - [MiniMax-AI/minimax-pdf](https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-pdf) - Generate, fill, and reformat PDFs
