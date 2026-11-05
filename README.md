@@ -651,6 +651,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [jakedahn/pomodoro](https://github.com/jakedahn/pomodoro) - System Skill Pattern — skills that remember and improve
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Mind cloning with LLM skills
 - [JayPokale/Chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle) - Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked
+- [luchtan-GIT/music-for-robots](https://github.com/luchtan-GIT/m4r-data/tree/main/skills/music-for-robots) - Break autoregressive lock-in via unquantized MP3 audio ingestion without compacting context
 </details>
 
 <details>
