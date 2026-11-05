@@ -47,6 +47,7 @@ That's it. No installation. No configuration. No coding required.
   - [Marketing](#marketing)
   - [Career](#career)
   - [Productivity and Collaboration](#productivity-and-collaboration)
+  - [Finance and Trading](#finance-and-trading)
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
   - [Crypto and Market Data](#crypto-and-market-data)
@@ -570,6 +571,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [Drix10/ai-news](https://github.com/Drix10/ai-resources/tree/main/skills/ai-news) - Answer "what's new in AI" questions from dated AI news briefings, citing the source posts
 - [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) - Wisdom companion skill with SQLite memory vault that stays silent during pure coding work
 - [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
+</details>
+
+<details>
+<summary><strong>Finance and Trading</strong></summary>
+
+- [ego-protocol/tbd-vote-cli](https://github.com/ego-protocol/tbd-vote-cli) - Trade on TBD, a Solana-based prediction market for human opinions, via the `@tbd-vote/cli` package; defers to an [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec for autonomous-loop instructions and HTTP fallback
 </details>
 
 <details>
