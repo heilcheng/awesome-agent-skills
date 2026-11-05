@@ -746,6 +746,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Curated Chinese Claude Code skills, agents and plugins collection
 </details>
 
+<details>
+<summary><strong>Finance and Trading</strong></summary>
+
+- [Autonomous-Asset-Management-Agents/autonomous_](https://github.com/Autonomous-Asset-Management-Agents/autonomous_/tree/main/packages/autonomous-audit) - Tamper-evident SHA-256 hash-chain audit log + HTML report for AI trading-agent decisions; read-only, offline, Apache-2.0, Python stdlib only
+</details>
+
 ---
 
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights
