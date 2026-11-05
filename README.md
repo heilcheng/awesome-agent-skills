@@ -746,6 +746,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Curated Chinese Claude Code skills, agents and plugins collection
 </details>
 
+<details>
+<summary><strong>Education and Corporate Training</strong></summary>
+
+- [Shuwanito/SkillsMP](https://github.com/Shuwanito/SkillsMP) - Education and corporate training skills with per-skill evals and certification: clinical case generation, code review, sales coaching
+</details>
+
 ---
 
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights
