@@ -413,6 +413,9 @@ Open-source SEO, GEO, and paid-ads skills for marketing work. They pull from liv
 #### Skills by SuperCLI
 - [javimosch/supercli](https://github.com/javimosch/supercli) - Universal CLI router with 4,795+ agent skills (`SKILL.md`). Agents discover CLI tools by intent via `sc skills search`, inspect schemas via `sc inspect`, and execute with deterministic JSON output. Each plugin ships with its own `skills/quickstart/SKILL.md` — instant agent onboarding for 7,000+ CLI tools.
 
+#### Skills by LaunchMyStore
+- [LaunchMyStore/skill](https://github.com/LaunchMyStore/skill) - Natural-language router for the LaunchMyStore e-commerce platform. Scaffold apps with the `lms` CLI, dispatch App Bridge actions, build WASM Functions (cart transform / discount / shipping / payment / delivery / order validation), write Aqua/Liquid theme sections, and drive the LaunchMyStore MCP server (130+ merchant-store tools). Universal SKILL.md install across Claude Code, Codex, Cursor, Gemini CLI, Windsurf, Antigravity, and more.
+
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
 
