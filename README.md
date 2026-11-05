@@ -458,6 +458,13 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Full gstack collection: YC founder stack for planning, review, QA, and shipping
 </details>
 
+<details>
+<summary><strong>Skills by drillr</strong></summary>
+
+Financial data and research for US, China and Japan equities by [drillr](https://drillr.ai), built from primary filings.
+- [Little-Grebe-Inc/drillr-skill](https://github.com/Little-Grebe-Inc/drillr-skill) - Filings and full-text filing search, statements as reported, earnings, ownership, corporate events, executives, analyst data and research signals over drillr's REST API and MCP server
+</details>
+
 ---
 
 ### Security & Web Intelligence
