@@ -458,6 +458,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Full gstack collection: YC founder stack for planning, review, QA, and shipping
 </details>
 
+#### Skill by DeAI1227
+- [DeAI1227/gop](https://github.com/DeAI1227/God-Of-Prompt/tree/main/skills/gop) - Turn rough requirements into six-part XML system prompts and execute them immediately
+
 ---
 
 ### Security & Web Intelligence
