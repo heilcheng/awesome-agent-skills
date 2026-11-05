@@ -48,6 +48,7 @@ That's it. No installation. No configuration. No coding required.
   - [Career](#career)
   - [Productivity and Collaboration](#productivity-and-collaboration)
   - [Development and Testing](#development-and-testing)
+  - [Crypto and Web3](#crypto-and-web3)
   - [Context Engineering](#context-engineering)
   - [Crypto and Market Data](#crypto-and-market-data)
   - [Education and Teaching](#education-and-teaching)
@@ -633,6 +634,12 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
+</details>
+
+<details>
+<summary><strong>Crypto and Web3</strong></summary>
+
+- [DerDoPhil/swarmskill-agent-skill](https://github.com/DerDoPhil/swarmskill-agent-skill) - Coordinated swarm coin-trading on Solana/pump.fun for up to 500 agents (ERC-8257 tool, on-chain verified settlement)
 </details>
 
 <details>
