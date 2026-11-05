@@ -413,6 +413,19 @@ Open-source SEO, GEO, and paid-ads skills for marketing work. They pull from liv
 #### Skills by SuperCLI
 - [javimosch/supercli](https://github.com/javimosch/supercli) - Universal CLI router with 4,795+ agent skills (`SKILL.md`). Agents discover CLI tools by intent via `sc skills search`, inspect schemas via `sc inspect`, and execute with deterministic JSON output. Each plugin ships with its own `skills/quickstart/SKILL.md` — instant agent onboarding for 7,000+ CLI tools.
 
+#### Skills by Openapi
+- [openapi/openapi-auth](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-auth) - OAuth tokens, scopes and wallet for Openapi APIs
+- [openapi/openapi-company](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-company) - Italian, EU and worldwide company data lookups
+- [openapi/openapi-documents](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-documents) - Official Italian business documents and chamber-of-commerce reports
+- [openapi/openapi-risk](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-risk) - Credit scores, due diligence and worldwide KYC
+- [openapi/openapi-trust](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-trust) - Validate emails, phones, IPs and identities
+- [openapi/openapi-geo](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-geo) - Italian geocoding, zip codes, cadastre and valuations
+- [openapi/openapi-messaging](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-messaging) - Send SMS, certified e-mail and postal mail
+- [openapi/openapi-esignature](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-esignature) - eIDAS electronic signatures and qualified timestamps
+- [openapi/openapi-invoicing](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-invoicing) - Italian e-invoicing via SDI and bill payments
+- [openapi/openapi-automotive](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-automotive) - European vehicle data by license plate
+- [openapi/openapi-utilities](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-utilities) - Exchange rates, HTML-to-PDF, .it domains, managed RAG
+
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
 
