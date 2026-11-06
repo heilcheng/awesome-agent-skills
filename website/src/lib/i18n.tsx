@@ -89,7 +89,8 @@ export const t = {
         infra: "Cloud & Infra",
         devtools: "Dev Tools",
         business: "Business",
-        security: "Security"
+        security: "Security",
+        community: "Community"
       }
     },
     quality: { 
@@ -299,7 +300,8 @@ description: Tell the AI what this does in plain English.
         infra: "雲端與基礎結構",
         devtools: "開發工具",
         business: "商業",
-        security: "安全"
+        security: "安全",
+        community: "社群"
       }
     },
     quality: { 
@@ -488,7 +490,8 @@ description: Tell the AI what this does in plain English.
         infra: "云端与基础设施",
         devtools: "开发工具",
         business: "商业",
-        security: "安全"
+        security: "安全",
+        community: "社区"
       }
     },
     quality: { 
@@ -677,7 +680,8 @@ description: Tell the AI what this does in plain English.
         infra: "クラウド & インフラ",
         devtools: "開発ツール",
         business: "ビジネス",
-        security: "セキュリティ"
+        security: "セキュリティ",
+        community: "コミュニティ"
       }
     },
     quality: { 
@@ -866,7 +870,8 @@ description: Tell the AI what this does in plain English.
         infra: "클라우드 및 인프라",
         devtools: "개발 도구",
         business: "비즈니스",
-        security: "보안"
+        security: "보안",
+        community: "커뮤니티"
       }
     },
     quality: { 
@@ -1055,7 +1060,8 @@ description: Tell the AI what this does in plain English.
         infra: "Cloud & Infra",
         devtools: "Herramientas Dev",
         business: "Negocios",
-        security: "Seguridad"
+        security: "Seguridad",
+        community: "Comunidad"
       }
     },
     quality: { 
