@@ -493,17 +493,6 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [microsoft/skills](https://github.com/microsoft/skills) - Full official Microsoft agent skills collection
 </details>
 
-#### Skills by looot
-
-Install from [loootai/looot-skills](https://github.com/loootai/looot-skills) with `npx skills add loootai/looot-skills`.
-
-| Skill | Description |
-|-------|-------------|
-| [looot](https://github.com/loootai/looot-skills/tree/main/skills/looot) | Base skill: connect the looot MCP server, search the endpoint catalog, read the price, run it |
-| [looot-find-professional-emails](https://github.com/loootai/looot-skills/tree/main/skills/looot-find-professional-emails) | Find a person's work email from a name and a company |
-| [looot-enrich-a-company](https://github.com/loootai/looot-skills/tree/main/skills/looot-enrich-a-company) | Look up firmographics for a company domain |
-| [looot-google-serp](https://github.com/loootai/looot-skills/tree/main/skills/looot-google-serp) | Read a Google results page as structured rows |
-
 #### Skills by Binance
 - [binance/crypto-market-rank](https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/crypto-market-rank) - Query crypto market rankings and leaderboards
 - [binance/query-token-audit](https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/query-token-audit) - Audit token security to detect scams and honeypots
@@ -736,6 +725,7 @@ Install from [loootai/looot-skills](https://github.com/loootai/looot-skills) wit
 - [ajnart/self-host](https://github.com/ajnart/self-host) - Agent installs self-hosted apps and sets up admin accounts, API keys and app links
 - [777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications) - Send desktop attention and progress alerts through an installed notification plugin
 - [radres/call-me](https://github.com/radres/call-me/tree/main/skill) - Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app
+- [loootai/looot-skills](https://github.com/loootai/looot-skills) - Search and run business-data endpoints (email, company, SERP) through the looot MCP server
 </details>
 
 <details>
