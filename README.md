@@ -633,6 +633,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
+- [cyucelen/isola](https://github.com/cyucelen/isola/tree/main/skills/isola) - Run per-worktree dev services, ports and databases with the isola CLI
+- [cyucelen/isola-init](https://github.com/cyucelen/isola/tree/main/skills/isola-init) - Configure isola for a repo: services, env and per-worktree databases
 </details>
 
 <details>
