@@ -516,7 +516,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <summary><strong>Cloud Storage</strong></summary>
 
 - [backblaze-labs/claude-skill-b2-cloud-storage](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage) - Manage Backblaze B2 storage: list, audit, cleanup, security, lifecycle
-- [PabloCirre/kaijuconverter-mcp](https://github.com/PabloCirre/kaijuconverter-mcp) - Fast MCP server and agent skill for universal format conversion, validation, and OCR across 201+ file formats
+- [PabloCirre/kaijuconverter-mcp](https://github.com/PabloCirre/kaijuconverter-mcp) - Universal format conversion, PDF/A validation, and OCR across 201+ file formats
 - [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Analyze CSV files and generate insights with visualizations
 - [shepsci/kaggle-skill](https://github.com/shepsci/kaggle-skill) - Complete Kaggle integration — competition reports, dataset downloads, submissions
 </details>
