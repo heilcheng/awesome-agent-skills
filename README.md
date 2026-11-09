@@ -641,6 +641,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [tiptreesystems/lacuna-code-to-paper](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-code-to-paper) - Trace an ML repository to its recorded research papers via Lacuna MCP
 - [tiptreesystems/lacuna-prior-work](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-prior-work) - Compare a proposed ML method with prior papers and research directions via Lacuna MCP
 - [onehumanbeing/handsy](https://github.com/onehumanbeing/esp32-iphone-agent/tree/main/skills/handsy) - See and operate a real iPhone through an ESP32-S3 board with the esp32agent CLI or MCP
+- [cyucelen/isola](https://github.com/cyucelen/isola/tree/main/skills/isola) - Run per-worktree dev services, ports and databases with the isola CLI
+- [cyucelen/isola-init](https://github.com/cyucelen/isola/tree/main/skills/isola-init) - Configure isola for a repo: services, env and per-worktree databases
 </details>
 
 <details>
