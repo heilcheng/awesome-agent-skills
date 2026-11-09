@@ -535,6 +535,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) - 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops
 - [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) - 19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator
 - [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard) - Vet link sources before you submit, verify listings, and audit backlinks for link spam
+- [evergreentree97/k-humanizer](https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer) - Translate English into natural Korean for Korean customers; keeps prices, dates and policies exact
 </details>
 
 <details>
@@ -545,6 +546,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - 12 skills for ecommerce product images (Amazon main image, A+, banners)
 - [xianyu110/ecommerce-video-skills](https://github.com/xianyu110/ecommerce-video-skills) - 12 skills for ecommerce short videos with local ffmpeg rendering
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scores each job against your CV; you press Submit
+- [evergreentree97/k-humanizer-resume](https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer-resume) - Edit Korean resumes and job applications without adding claims beyond the supplied evidence
 </details>
 
 <details>
