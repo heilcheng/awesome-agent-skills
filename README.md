@@ -636,6 +636,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
 - [orbi-build/orbi](https://github.com/orbi-build/orbi/tree/main/integrations/claude-plugin/skills) - Draft and suggest GitHub Issues an AI agent can deliver as reviewed PRs
 - [ateymoori/android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Drive and check an Android app's UI on the emulator through Oh My Android MCP tools
+- [tiptreesystems/lacuna-code-to-paper](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-code-to-paper) - Trace an ML repository to its recorded research papers via Lacuna MCP
+- [tiptreesystems/lacuna-prior-work](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-prior-work) - Compare a proposed ML method with prior papers and research directions via Lacuna MCP
 </details>
 
 <details>
