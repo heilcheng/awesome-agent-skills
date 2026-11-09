@@ -513,6 +513,10 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 - [honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins) - 11 skills + MCP server for building and querying a governed semantic layer over Snowflake, Databricks, and BigQuery from coding agents (Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI). Same trusted model serves BI tools and AI agents. Plugins are Apache 2.0.
 - [exmergo/explore](https://github.com/exmergo/dex/tree/main/skills/explore) - Profile warehouses, verify joins, and map schemas
+- [rhiever/evident-charts](https://github.com/rhiever/evident-charts/tree/main/skills/evident-charts) - Makes and critiques charts and checks the rendered image for errors
+</details>
+
+<details>
 <summary><strong>Cloud Storage</strong></summary>
 
 - [backblaze-labs/claude-skill-b2-cloud-storage](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage) - Manage Backblaze B2 storage: list, audit, cleanup, security, lifecycle
@@ -570,6 +574,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [Drix10/ai-news](https://github.com/Drix10/ai-resources/tree/main/skills/ai-news) - Answer "what's new in AI" questions from dated AI news briefings, citing the source posts
 - [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) - Wisdom companion skill with SQLite memory vault that stays silent during pure coding work
 - [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html) - Answers hard questions as one readable, offline HTML page
+- [Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator) - Translate foreign academic handouts into Chinese with subject glossaries and multi-format export
 </details>
 
 <details>
@@ -632,7 +638,16 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [Grit-77/checking-delivery](https://github.com/Grit-77/done-is-a-claim/tree/main/skills/checking-delivery) - Check delivery at its destination and separate acknowledgements from verified consumer results.
 - [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
+- [swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli) - Turn a text DSL, JSON, or Graphviz DOT into an editable, auto-laid-out Excalidraw diagram
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
+- [orbi-build/orbi](https://github.com/orbi-build/orbi/tree/main/integrations/claude-plugin/skills) - Draft and suggest GitHub Issues an AI agent can deliver as reviewed PRs
+- [ateymoori/android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Drive and check an Android app's UI on the emulator through Oh My Android MCP tools
+- [tiptreesystems/lacuna-code-to-paper](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-code-to-paper) - Trace an ML repository to its recorded research papers via Lacuna MCP
+- [tiptreesystems/lacuna-prior-work](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-prior-work) - Compare a proposed ML method with prior papers and research directions via Lacuna MCP
+- [onehumanbeing/handsy](https://github.com/onehumanbeing/esp32-iphone-agent/tree/main/skills/handsy) - See and operate a real iPhone through an ESP32-S3 board with the esp32agent CLI or MCP
+- [cyucelen/isola](https://github.com/cyucelen/isola/tree/main/skills/isola) - Run per-worktree dev services, ports and databases with the isola CLI
+- [cyucelen/isola-init](https://github.com/cyucelen/isola/tree/main/skills/isola-init) - Configure isola for a repo: services, env and per-worktree databases
+- [awss1i/checking-a-page](https://github.com/awss1i/assay/tree/main/plugins/assay/skills/checking-a-page) - Check a page the agent wrote by using every control in Chromium and reporting what broke
 </details>
 
 <details>
@@ -651,6 +666,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [jakedahn/pomodoro](https://github.com/jakedahn/pomodoro) - System Skill Pattern — skills that remember and improve
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Mind cloning with LLM skills
 - [JayPokale/Chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle) - Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Cross-agent memory skills (deja-history, deja-search, deja-reflect) across 43 coding agents
 </details>
 
 <details>
@@ -682,6 +698,10 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [vargHQ/how-to-make-ai-video](https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video) - How to make any AI video: find the skill, the options to show and the steps. No key needed.
 - [liyupi/memecub](https://github.com/liyupi/memecub) - Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles
 - [krisyangdev/motionboard](https://github.com/krisyangdev/motionboard) - Make launch films from 38 Apple and Linear shot recipes, rebuilt in HyperFrames (HTML + GSAP).
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Write, check and render Remotion-style TypeScript videos without a browser
+- [jangtrinh/design-os-figma-plugin](https://github.com/jangtrinh/design-os-figma-plugin) - Free CLI bridge letting Claude Code or Codex read and edit the file open in Figma Desktop
+- [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) - Free skills and MCP server for modelling, verifying and rendering 3D in headless Blender
+- [jangtrinh/design-os-studio](https://github.com/jangtrinh/design-os-studio) - Free design skills for DESIGN:OS Studio, a GPU interface design tool with code output
 </details>
 
 <details>
@@ -690,6 +710,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity
 - [Qiuner/birdview](https://github.com/Qiuner/birdview) - Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML
 - [manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop) - Flags stock AI phrasing, guides the edit, checks names, numbers, quotes and links
+- [federicodeponte/autonomous-research](https://github.com/federicodeponte/opendraft/tree/master/skills/autonomous-research) - Drafts research papers and literature reviews from one topic, with checked DOIs
+- [duyunzhoudyz/gongwen](https://github.com/duyunzhoudyz/dyz-gongwen-skills/tree/main/skills/gongwen) - Chinese official document writing: drafting, review, GB/T 9704 formatting; no fabrication
 </details>
 
 <details>
@@ -705,6 +727,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
 - [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
 - [Reware-Labs/securitycards](https://github.com/Reware-Labs/securitycards) - Fetch version-pinned secure-coding rules for the libraries a project uses
+- [Echolonius/safe-agent-commerce](https://github.com/Echolonius/the-penniless-agent/tree/main/skills/safe-agent-commerce) - Safety rules for agents that earn or spend money: check payment proof before doing any work
 </details>
 
 <details>
@@ -725,6 +748,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [ajnart/self-host](https://github.com/ajnart/self-host) - Agent installs self-hosted apps and sets up admin accounts, API keys and app links
 - [777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications) - Send desktop attention and progress alerts through an installed notification plugin
 - [radres/call-me](https://github.com/radres/call-me/tree/main/skill) - Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app
+- [LazyAGI/workflow-agent-kit](https://github.com/LazyAGI/LazyMind/tree/main/skills/workflow-agent-kit) - Inspect durable LazyMind workflow tasks and review their output artifacts through MCP
+- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) - Search, product cards, reviews and price comparison across 12 Russian and Chinese marketplaces
 </details>
 
 <details>
@@ -744,6 +769,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ skills covering the full academic research lifecycle, from literature review to peer review
 - [cbrock84/headcount](https://github.com/cbrock84/headcount) - Company-department skills (legal, finance, security, ops), each citing its governing source
 - [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Curated Chinese Claude Code skills, agents and plugins collection
+- [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 66 skills for SEO and GEO audits, conversion copy, code review and app shipping
 </details>
 
 ---
