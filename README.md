@@ -690,6 +690,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [liyupi/memecub](https://github.com/liyupi/memecub) - Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles
 - [krisyangdev/motionboard](https://github.com/krisyangdev/motionboard) - Make launch films from 38 Apple and Linear shot recipes, rebuilt in HyperFrames (HTML + GSAP).
 - [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Write, check and render Remotion-style TypeScript videos without a browser
+- [jangtrinh/design-os-figma-plugin](https://github.com/jangtrinh/design-os-figma-plugin) - Free CLI bridge letting Claude Code or Codex read and edit the file open in Figma Desktop
+- [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) - Free skills and MCP server for modelling, verifying and rendering 3D in headless Blender
+- [jangtrinh/design-os-studio](https://github.com/jangtrinh/design-os-studio) - Free design skills for DESIGN:OS Studio, a GPU interface design tool with code output
 </details>
 
 <details>
