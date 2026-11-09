@@ -688,7 +688,6 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 - [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Digital forensics analysis and investigation
 - [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
-- [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
 </details>
 
 <details>
@@ -723,7 +722,6 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [uxuiprinciples/agent-skills](https://github.com/uxuiprinciples/agent-skills) - 5 UX/UI skills: evaluate interfaces against 168 research-backed principles
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
 - [KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ skills covering the full academic research lifecycle, from literature review to peer review
-- [cbrock84/headcount](https://github.com/cbrock84/headcount) - Company-department skills (legal, finance, security, ops), each citing its governing source
 </details>
 
 ---
