@@ -744,6 +744,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ skills covering the full academic research lifecycle, from literature review to peer review
 - [cbrock84/headcount](https://github.com/cbrock84/headcount) - Company-department skills (legal, finance, security, ops), each citing its governing source
 - [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Curated Chinese Claude Code skills, agents and plugins collection
+- [nexscope-ai/nexscope-ecommerce-skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills) - 127 portable ecommerce skills for marketplace research, keywords, sourcing, and listings
 </details>
 
 ---
