@@ -696,6 +696,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <summary><strong>Media & Content</strong></summary>
 
 - [tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) - Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API
+- [video-db/skills](https://github.com/video-db/skills) - Summarize a video, find moments by what is said or shown, cut clips, add subtitles, monitor streams
 </details>
 
 <details>
