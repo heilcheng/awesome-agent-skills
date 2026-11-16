@@ -598,6 +598,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [sametcelikbicak/task-decomposer](https://github.com/sametcelikbicak/task-decomposer) - Decomposes complex requests into structured, AI-friendly task sequences
 - [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills/tree/master/harmony-next) - HarmonyOS NEXT workflows for AI coding agents
 - [sarveshsea/audit-frontend-design](https://github.com/sarveshsea/memi/tree/main/skills/audit-frontend-design) - Audit frontend design debt before editing code
+- [mwahaj36/dom-blame](https://github.com/mwahaj36/dom-blame/tree/main/.agents/skills/dom-blame) - Trace clicked DOM elements through React Fiber, HTTP JSON schema drift, and SQL queries via `@dom-blame/mcp` (`npx skills add mwahaj36/dom-blame`)
 - [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency, testing, and architecture
 - [fcavalcantirj/claude-code-eyes](https://github.com/fcavalcantirj/claude-code-eyes) - Camera vision for Claude Code — see hardware, screens and wiring to verify physical output
 - [Shilo/pixellab-pip](https://github.com/Shilo/pixellab-pip) - Route PixelLab MCP/REST to generate, edit, and animate pixel art
