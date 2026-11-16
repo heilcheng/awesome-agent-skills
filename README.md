@@ -570,6 +570,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [Drix10/ai-news](https://github.com/Drix10/ai-resources/tree/main/skills/ai-news) - Answer "what's new in AI" questions from dated AI news briefings, citing the source posts
 - [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) - Wisdom companion skill with SQLite memory vault that stays silent during pure coding work
 - [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
+- [KyaniteLabs/checkyourself](https://github.com/KyaniteLabs/checkyourself/tree/main/skills/checkyourself) - Production-readiness diagnostics for AI-built apps
 </details>
 
 <details>
@@ -633,6 +634,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
+- [simongonzalezdc/web-typography-skill](https://github.com/simongonzalezdc/web-typography-skill) - Web typography workflow for readable front-end text
 </details>
 
 <details>
