@@ -633,6 +633,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
+- [hyper-elements/hyper-elements](https://github.com/hyper-elements/hyper-elements/tree/main/skills/hyper-elements) - Write emails, web pages, PDFs and images as React components
+- [hyper-elements/email-testing](https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing) - Preview and check any HTML email in Outlook, Gmail, Apple Mail, Yahoo and AOL
 </details>
 
 <details>
