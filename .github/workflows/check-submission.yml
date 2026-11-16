@@ -1,0 +1,62 @@
+name: Check submission
+
+# pull_request_target runs with the base repo's token so it can comment on fork PRs
+# without a maintainer clicking "Approve and run". It is safe here because the job
+# checks out the BASE branch only and reads the PR through the API; PR code never runs.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, edited]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: check-submission-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    if: github.event.pull_request.user.login != github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+
+      - id: run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPORT_PATH: ${{ runner.temp }}/report.md
+        run: python3 .github/scripts/check_submission.py
+
+      - name: Post or update comment and label
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          PR: ${{ github.event.pull_request.number }}
+          RESULT: ${{ steps.run.outputs.result }}
+          REPORT: ${{ runner.temp }}/report.md
+        run: |
+          gh label create needs-fixes -R "$REPO" --color D93F0B --description "Automated submission check failed; see the bot comment" 2>/dev/null || true
+          id=$(gh api "repos/$REPO/issues/$PR/comments" --paginate --jq '.[] | select(.body | startswith("<!-- check-submission -->")) | .id' | head -n1)
+          if [ -n "$id" ]; then
+            gh api -X PATCH "repos/$REPO/issues/comments/$id" -F body=@"$REPORT" >/dev/null
+          else
+            gh pr comment "$PR" -R "$REPO" --body-file "$REPORT"
+          fi
+          if [ "$RESULT" = "fail" ]; then
+            gh pr edit "$PR" -R "$REPO" --add-label needs-fixes
+          else
+            gh pr edit "$PR" -R "$REPO" --remove-label needs-fixes 2>/dev/null || true
+          fi
+
+      - name: Fail the check when rules are broken
+        if: steps.run.outputs.result == 'fail'
+        run: |
+          echo "::error::Submission does not meet AGENTS.md requirements. See the PR comment."
+          exit 1

@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predev": "node scripts/build-skills.mjs",
     "dev": "next dev",
+    "prebuild": "node scripts/build-skills.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"

@@ -1,0 +1,2501 @@
+[
+ {
+  "name": "anthropics/docx",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/docx",
+  "description": "Create, edit, and analyze Word documents",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/doc-coauthoring",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+  "description": "Collaborative document editing and co-authoring",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/pptx",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/pptx",
+  "description": "Create, edit, and analyze PowerPoint presentations",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/xlsx",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
+  "description": "Create, edit, and analyze Excel spreadsheets",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/pdf",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+  "description": "Extract text, create PDFs, and handle forms",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/algorithmic-art",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art",
+  "description": "Create generative art using p5.js with seeded randomness",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/canvas-design",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
+  "description": "Design visual art in PNG and PDF formats",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/frontend-design",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+  "description": "Frontend design and UI/UX development tools",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/slack-gif-creator",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator",
+  "description": "Create animated GIFs optimized for Slack size constraints",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/theme-factory",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
+  "description": "Style artifacts with professional themes or generate custom themes",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/web-artifacts-builder",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder",
+  "description": "Build complex claude.ai HTML artifacts with React and Tailwind",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/mcp-builder",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder",
+  "description": "Create MCP servers to integrate external APIs and services",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/webapp-testing",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
+  "description": "Test local web applications using Playwright",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/brand-guidelines",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
+  "description": "Apply Anthropic's brand colors and typography to artifacts",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/internal-comms",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/internal-comms",
+  "description": "Write status reports, newsletters, and FAQs",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/skill-creator",
+  "url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+  "description": "Guide for creating skills that extend Claude's capabilities",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "anthropics/template",
+  "url": "https://github.com/anthropics/skills/tree/main/template",
+  "description": "Basic template for creating new skills",
+  "tab": "ai",
+  "group": "Anthropic"
+ },
+ {
+  "name": "openai/cloudflare-deploy",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/cloudflare-deploy",
+  "description": "Deploy apps to Cloudflare using Workers and Pages",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/develop-web-game",
+  "url": "https://github.com/openai/skills",
+  "description": "Build and test web games iteratively using Playwright",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/gh-address-comments",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/gh-address-comments",
+  "description": "Address review and issue comments on open GitHub PRs via CLI",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/gh-fix-ci",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/gh-fix-ci",
+  "description": "Debug and fix failing GitHub Actions PR checks",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/imagegen",
+  "url": "https://github.com/openai/skills/tree/main/skills/.system/imagegen",
+  "description": "Generate and edit images using OpenAI's Image API",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/jupyter-notebook",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/jupyter-notebook",
+  "description": "Create clean, reproducible Jupyter notebooks",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/linear",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/linear",
+  "description": "Manage issues, projects, and team workflows in Linear",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/netlify-deploy",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/netlify-deploy",
+  "description": "Automate Netlify deployments with CLI support",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/notion-knowledge-capture",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/notion-knowledge-capture",
+  "description": "Convert conversations into structured Notion wiki entries",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/pdf",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/pdf",
+  "description": "Read, create, and review PDFs with layout integrity",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/playwright",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/playwright",
+  "description": "Automate real browser interactions for navigation and forms",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/speech",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/speech",
+  "description": "Generate spoken audio from text using OpenAI's API",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/figma",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/figma",
+  "description": "Use the Figma MCP server to fetch design context",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "openai/figma-implement-design",
+  "url": "https://github.com/openai/skills/tree/main/skills/.curated/figma-implement-design",
+  "description": "Translate Figma designs into production-ready code",
+  "tab": "ai",
+  "group": "OpenAI (Codex)"
+ },
+ {
+  "name": "google-gemini/gemini-api-dev",
+  "url": "https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-api-dev",
+  "description": "Best practices for developing Gemini-powered apps",
+  "tab": "ai",
+  "group": "Google Gemini"
+ },
+ {
+  "name": "google-gemini/vertex-ai-api-dev",
+  "url": "https://github.com/google-gemini/gemini-skills",
+  "description": "Developing Gemini apps on Google Cloud Vertex AI",
+  "tab": "ai",
+  "group": "Google Gemini"
+ },
+ {
+  "name": "google-gemini/gemini-live-api-dev",
+  "url": "https://github.com/google-gemini/gemini-skills/tree/main/skills/gemini-live-api-dev",
+  "description": "Building real-time bidirectional streaming apps",
+  "tab": "ai",
+  "group": "Google Gemini"
+ },
+ {
+  "name": "huggingface/hf-cli",
+  "url": "https://github.com/huggingface/skills/tree/main/skills/hf-cli",
+  "description": "HF CLI tool for Hub operations",
+  "tab": "ai",
+  "group": "Hugging Face"
+ },
+ {
+  "name": "huggingface/hugging-face-datasets",
+  "url": "https://github.com/huggingface/skills/tree/main/skills/huggingface-datasets",
+  "description": "Create and manage datasets with SQL querying",
+  "tab": "ai",
+  "group": "Hugging Face"
+ },
+ {
+  "name": "huggingface/hugging-face-model-trainer",
+  "url": "https://github.com/huggingface/skills",
+  "description": "Train models with TRL: SFT, DPO, GRPO",
+  "tab": "ai",
+  "group": "Hugging Face"
+ },
+ {
+  "name": "huggingface/transformers.js",
+  "url": "https://github.com/huggingface/skills/tree/main/skills/transformers-js",
+  "description": "Run ML models in the browser with Transformers.js",
+  "tab": "ai",
+  "group": "Hugging Face"
+ },
+ {
+  "name": "replicate/replicate",
+  "url": "https://github.com/replicate/skills",
+  "description": "Discover and run AI models via API",
+  "tab": "ai",
+  "group": "Replicate"
+ },
+ {
+  "name": "fal-ai-community/fal-generate",
+  "url": "https://github.com/fal-ai-community/skills",
+  "description": "Generate images and videos using fal.ai",
+  "tab": "ai",
+  "group": "fal.ai"
+ },
+ {
+  "name": "MiniMax-AI/frontend-dev",
+  "url": "https://github.com/MiniMax-AI/skills/tree/main/skills/frontend-dev",
+  "description": "Frontend with animations and AI media via MiniMax",
+  "tab": "ai",
+  "group": "MiniMax"
+ },
+ {
+  "name": "MiniMax-AI/minimax-pdf",
+  "url": "https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-pdf",
+  "description": "Generate, fill, and reformat PDFs",
+  "tab": "ai",
+  "group": "MiniMax"
+ },
+ {
+  "name": "Bria-AI/bria-ai",
+  "url": "https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai",
+  "description": "AI image generation, editing, and background removal API",
+  "tab": "ai",
+  "group": "Bria AI"
+ },
+ {
+  "name": "Bria-AI/remove-background",
+  "url": "https://github.com/Bria-AI/bria-skill/tree/main/skills/remove-background",
+  "description": "Remove image backgrounds for transparent PNGs and cutouts",
+  "tab": "ai",
+  "group": "Bria AI"
+ },
+ {
+  "name": "Bria-AI/video-remove-background",
+  "url": "https://github.com/Bria-AI/bria-skill/tree/main/skills/video-remove-background",
+  "description": "Remove video backgrounds for transparent, alpha-channel clips",
+  "tab": "ai",
+  "group": "Bria AI"
+ },
+ {
+  "name": "Bria-AI/vgl",
+  "url": "https://github.com/Bria-AI/bria-skill/tree/main/skills/vgl",
+  "description": "Structured JSON control over AI image generation (FIBO)",
+  "tab": "ai",
+  "group": "Bria AI"
+ },
+ {
+  "name": "Bria-AI/image-utils",
+  "url": "https://github.com/Bria-AI/bria-skill/tree/main/skills/image-utils",
+  "description": "Resize, crop, composite, and convert images with Pillow",
+  "tab": "ai",
+  "group": "Bria AI"
+ },
+ {
+  "name": "cloudflare/agents-sdk",
+  "url": "https://github.com/cloudflare/skills/tree/main/skills/agents-sdk",
+  "description": "Build stateful AI agents with scheduling, RPC, and MCP servers",
+  "tab": "infra",
+  "group": "Cloudflare"
+ },
+ {
+  "name": "cloudflare/building-ai-agent-on-cloudflare",
+  "url": "https://github.com/cloudflare/skills",
+  "description": "Build AI agents with state and WebSockets on Cloudflare",
+  "tab": "infra",
+  "group": "Cloudflare"
+ },
+ {
+  "name": "cloudflare/durable-objects",
+  "url": "https://github.com/cloudflare/skills/tree/main/skills/durable-objects",
+  "description": "Stateful coordination with RPC, SQLite, and WebSockets",
+  "tab": "infra",
+  "group": "Cloudflare"
+ },
+ {
+  "name": "cloudflare/web-perf",
+  "url": "https://github.com/cloudflare/skills/tree/main/skills/web-perf",
+  "description": "Audit Core Web Vitals and render-blocking resources",
+  "tab": "infra",
+  "group": "Cloudflare"
+ },
+ {
+  "name": "cloudflare/wrangler",
+  "url": "https://github.com/cloudflare/skills/tree/main/skills/wrangler",
+  "description": "Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows",
+  "tab": "infra",
+  "group": "Cloudflare"
+ },
+ {
+  "name": "netlify/netlify-functions",
+  "url": "https://github.com/netlify/context-and-tools/tree/main/skills/netlify-functions",
+  "description": "Build serverless API endpoints and background tasks",
+  "tab": "infra",
+  "group": "Netlify"
+ },
+ {
+  "name": "netlify/netlify-edge-functions",
+  "url": "https://github.com/netlify/context-and-tools/tree/main/skills/netlify-edge-functions",
+  "description": "Low-latency edge middleware and geolocation logic",
+  "tab": "infra",
+  "group": "Netlify"
+ },
+ {
+  "name": "netlify/netlify-blobs",
+  "url": "https://github.com/netlify/context-and-tools/tree/main/skills/netlify-blobs",
+  "description": "Key-value object storage for files and data",
+  "tab": "infra",
+  "group": "Netlify"
+ },
+ {
+  "name": "netlify/netlify-db",
+  "url": "https://github.com/netlify/context-and-tools/tree/main/skills/netlify-database",
+  "description": "Managed Postgres with deploy preview branching",
+  "tab": "infra",
+  "group": "Netlify"
+ },
+ {
+  "name": "netlify/netlify-deploy",
+  "url": "https://github.com/netlify/context-and-tools/tree/main/skills/netlify-deploy",
+  "description": "Automated deployment workflow for Netlify sites",
+  "tab": "infra",
+  "group": "Netlify"
+ },
+ {
+  "name": "netlify/netlify-ai-gateway",
+  "url": "https://github.com/netlify/context-and-tools/tree/main/skills/netlify-ai-gateway",
+  "description": "Access AI models via unified gateway endpoint",
+  "tab": "infra",
+  "group": "Netlify"
+ },
+ {
+  "name": "vercel-labs/react-best-practices",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices",
+  "description": "React best practices and patterns",
+  "tab": "infra",
+  "group": "Vercel"
+ },
+ {
+  "name": "vercel-labs/web-design-guidelines",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines",
+  "description": "Web design guidelines and standards",
+  "tab": "infra",
+  "group": "Vercel"
+ },
+ {
+  "name": "vercel-labs/next-best-practices",
+  "url": "https://github.com/vercel-labs/agent-skills",
+  "description": "Next.js best practices and recommended patterns",
+  "tab": "infra",
+  "group": "Vercel"
+ },
+ {
+  "name": "vercel-labs/react-native-skills",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills",
+  "description": "React Native best practices and performance guidelines",
+  "tab": "infra",
+  "group": "Vercel"
+ },
+ {
+  "name": "hashicorp/new-terraform-provider",
+  "url": "https://github.com/hashicorp/agent-skills/tree/main/plugins/terraform/skills/new-terraform-provider",
+  "description": "Scaffold a new Terraform provider project using the Plugin Framework",
+  "tab": "infra",
+  "group": "HashiCorp (Terraform)"
+ },
+ {
+  "name": "hashicorp/provider-resources",
+  "url": "https://github.com/hashicorp/agent-skills/tree/main/plugins/terraform/skills/provider-resources",
+  "description": "Implement Terraform Provider resources and data sources",
+  "tab": "infra",
+  "group": "HashiCorp (Terraform)"
+ },
+ {
+  "name": "hashicorp/provider-test-patterns",
+  "url": "https://github.com/hashicorp/agent-skills/tree/main/plugins/terraform/skills/provider-test-patterns",
+  "description": "Acceptance test patterns for Terraform providers",
+  "tab": "infra",
+  "group": "HashiCorp (Terraform)"
+ },
+ {
+  "name": "hashicorp/refactor-module",
+  "url": "https://github.com/hashicorp/agent-skills/tree/main/plugins/terraform/skills/refactor-module",
+  "description": "Transform monolithic Terraform configurations into reusable modules",
+  "tab": "infra",
+  "group": "HashiCorp (Terraform)"
+ },
+ {
+  "name": "hashicorp/terraform-style-guide",
+  "url": "https://github.com/hashicorp/agent-skills/tree/main/plugins/terraform/skills/terraform-style-guide",
+  "description": "Generate Terraform HCL code following HashiCorp's official style conventions",
+  "tab": "infra",
+  "group": "HashiCorp (Terraform)"
+ },
+ {
+  "name": "hashicorp/terraform-stacks",
+  "url": "https://github.com/hashicorp/agent-skills/tree/main/plugins/terraform/skills/terraform-stacks",
+  "description": "Manage infrastructure across multiple environments, regions, and cloud accounts",
+  "tab": "infra",
+  "group": "HashiCorp (Terraform)"
+ },
+ {
+  "name": "neondatabase/neon-postgres",
+  "url": "https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres",
+  "description": "Best practices for Neon Serverless Postgres",
+  "tab": "infra",
+  "group": "Neon"
+ },
+ {
+  "name": "neondatabase/claimable-postgres",
+  "url": "https://github.com/neondatabase/mcp-server-neon/tree/main/.agents/skills/claimable-postgres",
+  "description": "Claimable Postgres database provisioning with Neon",
+  "tab": "infra",
+  "group": "Neon"
+ },
+ {
+  "name": "neondatabase/neon-postgres-egress-optimizer",
+  "url": "https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres-egress-optimizer",
+  "description": "Optimize Neon Postgres egress and data transfer",
+  "tab": "infra",
+  "group": "Neon"
+ },
+ {
+  "name": "clickhouse/clickhouse-best-practices",
+  "url": "https://github.com/ClickHouse/agent-skills/tree/main/skills/clickhouse-best-practices",
+  "description": "Best practices for working with ClickHouse",
+  "tab": "infra",
+  "group": "ClickHouse"
+ },
+ {
+  "name": "supabase/postgres-best-practices",
+  "url": "https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices",
+  "description": "PostgreSQL best practices for Supabase",
+  "tab": "infra",
+  "group": "Supabase"
+ },
+ {
+  "name": "tinybirdco/tinybird-best-practices",
+  "url": "https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-best-practices",
+  "description": "Tinybird project guidelines for datasources, pipes, endpoints, and SQL",
+  "tab": "infra",
+  "group": "Tinybird"
+ },
+ {
+  "name": "tinybirdco/tinybird-cli-guidelines",
+  "url": "https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-cli-guidelines",
+  "description": "Tinybird CLI usage guidelines and commands",
+  "tab": "infra",
+  "group": "Tinybird"
+ },
+ {
+  "name": "tinybirdco/tinybird-typescript-sdk-guidelines",
+  "url": "https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-typescript-sdk-guidelines",
+  "description": "Tinybird TypeScript SDK usage guidelines",
+  "tab": "infra",
+  "group": "Tinybird"
+ },
+ {
+  "name": "voltagent/create-voltagent",
+  "url": "https://github.com/VoltAgent/skills/tree/main/skills/create-voltagent",
+  "description": "Project setup guide with CLI and manual steps",
+  "tab": "devtools",
+  "group": "VoltAgent"
+ },
+ {
+  "name": "voltagent/voltagent-best-practices",
+  "url": "https://github.com/VoltAgent/skills/tree/main/skills/voltagent-best-practices",
+  "description": "Architecture and usage patterns for agents, workflows, memory, and servers",
+  "tab": "devtools",
+  "group": "VoltAgent"
+ },
+ {
+  "name": "voltagent/voltagent-core-reference",
+  "url": "https://github.com/VoltAgent/skills/tree/main/skills/voltagent-core-reference",
+  "description": "Reference for the VoltAgent class options and lifecycle methods",
+  "tab": "devtools",
+  "group": "VoltAgent"
+ },
+ {
+  "name": "voltagent/voltagent-docs-bundle",
+  "url": "https://github.com/VoltAgent/skills/tree/main/skills/voltagent-docs-bundle",
+  "description": "Lookup embedded docs from @voltagent/core for version-matched documentation",
+  "tab": "devtools",
+  "group": "VoltAgent"
+ },
+ {
+  "name": "callstackincubator/react-native-best-practices",
+  "url": "https://github.com/callstackincubator/agent-skills/tree/main/skills/react-native-best-practices",
+  "description": "Performance optimization for React Native apps",
+  "tab": "devtools",
+  "group": "CallStack"
+ },
+ {
+  "name": "callstackincubator/github",
+  "url": "https://github.com/callstackincubator/agent-skills",
+  "description": "GitHub workflow patterns for PRs, code review, branching",
+  "tab": "devtools",
+  "group": "CallStack"
+ },
+ {
+  "name": "callstackincubator/upgrading-react-native",
+  "url": "https://github.com/callstackincubator/agent-skills/tree/main/skills/upgrading-react-native",
+  "description": "React Native upgrade workflow: templates, dependencies, and pitfalls",
+  "tab": "devtools",
+  "group": "CallStack"
+ },
+ {
+  "name": "expo/building-native-ui",
+  "url": "https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-native-ui",
+  "description": "Build apps with Expo Router, styling, components, and animations",
+  "tab": "devtools",
+  "group": "Expo"
+ },
+ {
+  "name": "expo/expo-api-routes",
+  "url": "https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-router",
+  "description": "Create API routes in Expo Router with EAS Hosting",
+  "tab": "devtools",
+  "group": "Expo"
+ },
+ {
+  "name": "expo/expo-deployment",
+  "url": "https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-hosting",
+  "description": "Deploy Expo apps to production",
+  "tab": "devtools",
+  "group": "Expo"
+ },
+ {
+  "name": "expo/upgrading-expo",
+  "url": "https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-upgrade",
+  "description": "Upgrade Expo SDK versions",
+  "tab": "devtools",
+  "group": "Expo"
+ },
+ {
+  "name": "expo/use-dom",
+  "url": "https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-dom",
+  "description": "Run web code in a webview on native using DOM components",
+  "tab": "devtools",
+  "group": "Expo"
+ },
+ {
+  "name": "remotion-dev/remotion",
+  "url": "https://github.com/remotion-dev/skills",
+  "description": "Programmatic video creation with React",
+  "tab": "devtools",
+  "group": "Remotion"
+ },
+ {
+  "name": "duckdb/attach-db",
+  "url": "https://github.com/duckdb/duckdb-skills/tree/main/skills/attach-db",
+  "description": "Attach a DuckDB database file for interactive querying",
+  "tab": "devtools",
+  "group": "DuckDB"
+ },
+ {
+  "name": "duckdb/query",
+  "url": "https://github.com/duckdb/duckdb-skills/tree/main/skills/query",
+  "description": "Run SQL queries against attached databases or ad-hoc files",
+  "tab": "devtools",
+  "group": "DuckDB"
+ },
+ {
+  "name": "duckdb/duckdb-docs",
+  "url": "https://github.com/duckdb/duckdb-skills/tree/main/skills/duckdb-docs",
+  "description": "Search DuckDB and DuckLake documentation",
+  "tab": "devtools",
+  "group": "DuckDB"
+ },
+ {
+  "name": "greensock/gsap-core",
+  "url": "https://github.com/greensock/gsap-skills/tree/main/skills/gsap-core",
+  "description": "Core API: gsap.to(), from(), fromTo(), easing, duration, stagger",
+  "tab": "devtools",
+  "group": "GSAP (GreenSock)"
+ },
+ {
+  "name": "greensock/gsap-scrolltrigger",
+  "url": "https://github.com/greensock/gsap-skills/tree/main/skills/gsap-scrolltrigger",
+  "description": "ScrollTrigger for scroll-linked animations and pinning",
+  "tab": "devtools",
+  "group": "GSAP (GreenSock)"
+ },
+ {
+  "name": "greensock/gsap-react",
+  "url": "https://github.com/greensock/gsap-skills/tree/main/skills/gsap-react",
+  "description": "React integration with useGSAP hook and SSR patterns",
+  "tab": "devtools",
+  "group": "GSAP (GreenSock)"
+ },
+ {
+  "name": "markstream-angular",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-angular",
+  "description": "Integrate streaming Markdown into Angular apps",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-custom-components",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-custom-components",
+  "description": "Add scoped renderer overrides and trusted custom tags",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-install",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-install",
+  "description": "Choose and install the correct framework package and peers",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-migration",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-migration",
+  "description": "Migrate existing Markdown renderers while preserving behavior",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-nuxt",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-nuxt",
+  "description": "Configure SSR-safe streaming Markdown in Nuxt 3 and Nuxt 4",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-react",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-react",
+  "description": "Integrate streaming Markdown into React and Next.js apps",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-svelte",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-svelte",
+  "description": "Integrate streaming Markdown into Svelte 5 apps",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-vue",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-vue",
+  "description": "Integrate streaming Markdown into Vue 3 apps",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-vue2",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-vue2",
+  "description": "Integrate streaming Markdown into Vue 2.6 and Vue 2.7 apps",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-vue2-cli",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-vue2-cli",
+  "description": "Configure Vue CLI and Webpack 4-compatible Vue 2 rendering",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "markstream-vue2-vite",
+  "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-vue2-vite",
+  "description": "Configure Vue 2 and Vite worker imports and CSS",
+  "tab": "devtools",
+  "group": "Markstream"
+ },
+ {
+  "name": "WordPress/wp-block-development",
+  "url": "https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-block-development",
+  "description": "Gutenberg blocks: block.json, attributes, rendering",
+  "tab": "devtools",
+  "group": "WordPress"
+ },
+ {
+  "name": "WordPress/wp-plugin-development",
+  "url": "https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-plugin-development",
+  "description": "Plugin architecture, hooks, settings API, security",
+  "tab": "devtools",
+  "group": "WordPress"
+ },
+ {
+  "name": "WordPress/wp-playground",
+  "url": "https://github.com/WordPress/agent-skills/tree/trunk/skills/wp-playground",
+  "description": "WordPress Playground for instant local environments",
+  "tab": "devtools",
+  "group": "WordPress"
+ },
+ {
+  "name": "figma/figma-generate-library",
+  "url": "https://github.com/figma/mcp-server-guide/tree/main/skills/figma-generate-library",
+  "description": "Build or update a design system library in Figma from a codebase",
+  "tab": "devtools",
+  "group": "Figma"
+ },
+ {
+  "name": "figma/figma-use",
+  "url": "https://github.com/figma/mcp-server-guide/tree/main/skills/figma-use",
+  "description": "Run Figma Plugin API scripts for canvas writes and inspections",
+  "tab": "devtools",
+  "group": "Figma"
+ },
+ {
+  "name": "Ivy Tendril",
+  "url": "https://github.com/Ivy-Interactive/Ivy-Tendril",
+  "description": "Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.",
+  "tab": "devtools",
+  "group": "Ivy"
+ },
+ {
+  "name": "google-labs-code/design-md",
+  "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-utilities/skills/design-md",
+  "description": "Create and manage DESIGN.md files",
+  "tab": "devtools",
+  "group": "Google Labs (Stitch)"
+ },
+ {
+  "name": "google-labs-code/enhance-prompt",
+  "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-utilities/skills/enhance-prompt",
+  "description": "Improve prompts with design specs and UI/UX vocabulary",
+  "tab": "devtools",
+  "group": "Google Labs (Stitch)"
+ },
+ {
+  "name": "google-labs-code/react-components",
+  "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-build/skills/react-components",
+  "description": "Stitch to React components conversion",
+  "tab": "devtools",
+  "group": "Google Labs (Stitch)"
+ },
+ {
+  "name": "google-labs-code/shadcn-ui",
+  "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-build/skills/shadcn-ui",
+  "description": "Build UI components with shadcn/ui",
+  "tab": "devtools",
+  "group": "Google Labs (Stitch)"
+ },
+ {
+  "name": "google-labs-code/stitch-loop",
+  "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-utilities/skills/stitch-loop",
+  "description": "Iterative design-to-code feedback loop",
+  "tab": "devtools",
+  "group": "Google Labs (Stitch)"
+ },
+ {
+  "name": "googleworkspace/gws-drive",
+  "url": "https://github.com/googleworkspace/cli/tree/main/skills/gws-drive",
+  "description": "Manage Google Drive files, folders, and shared drives",
+  "tab": "devtools",
+  "group": "Google Workspace CLI"
+ },
+ {
+  "name": "googleworkspace/gws-sheets",
+  "url": "https://github.com/googleworkspace/cli/tree/main/skills/gws-sheets",
+  "description": "Read and write Google Sheets spreadsheets",
+  "tab": "devtools",
+  "group": "Google Workspace CLI"
+ },
+ {
+  "name": "googleworkspace/gws-gmail",
+  "url": "https://github.com/googleworkspace/cli/tree/main/skills/gws-gmail",
+  "description": "Send, read, and manage Gmail email",
+  "tab": "devtools",
+  "group": "Google Workspace CLI"
+ },
+ {
+  "name": "googleworkspace/gws-calendar",
+  "url": "https://github.com/googleworkspace/cli/tree/main/skills/gws-calendar",
+  "description": "Manage Google Calendar calendars and events",
+  "tab": "devtools",
+  "group": "Google Workspace CLI"
+ },
+ {
+  "name": "googleworkspace/gws-workflow",
+  "url": "https://github.com/googleworkspace/cli/tree/main/skills/gws-workflow",
+  "description": "Cross-service Google Workspace productivity workflows",
+  "tab": "devtools",
+  "group": "Google Workspace CLI"
+ },
+ {
+  "name": "stripe/stripe-best-practices",
+  "url": "https://github.com/stripe/ai/tree/main/skills/stripe-best-practices",
+  "description": "Best practices for building Stripe integrations",
+  "tab": "business",
+  "group": "Stripe"
+ },
+ {
+  "name": "stripe/upgrade-stripe",
+  "url": "https://github.com/stripe/ai/tree/main/skills/upgrade-stripe",
+  "description": "Upgrade Stripe SDK and API versions",
+  "tab": "business",
+  "group": "Stripe"
+ },
+ {
+  "name": "trycourier/courier-skills",
+  "url": "https://github.com/trycourier/courier-skills",
+  "description": "Multi-channel notifications via email, SMS, push, and chat",
+  "tab": "business",
+  "group": "Courier"
+ },
+ {
+  "name": "typefully/typefully",
+  "url": "https://github.com/typefully/agent-skills/tree/main/skills/typefully",
+  "description": "Create, schedule, and publish social media content",
+  "tab": "business",
+  "group": "Typefully"
+ },
+ {
+  "name": "ndesv21/socialclaw",
+  "url": "https://github.com/ndesv21/socialclaw",
+  "description": "Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via a single workspace API key.",
+  "tab": "business",
+  "group": "SocialClaw"
+ },
+ {
+  "name": "surendranb/writing-skills",
+  "url": "https://github.com/surendranb/writing-skills",
+  "description": "15 writing-style skills: 8 measurable frameworks (plain language, ASD-STE100, AP journalism, GOV.UK, business BLUF) and 7 character voices, each with a verify checklist",
+  "tab": "business",
+  "group": "Surendran B"
+ },
+ {
+  "name": "composiohq/composio",
+  "url": "https://github.com/composio-community/skills/tree/main/skills/composio",
+  "description": "Connect AI agents to 1000+ external apps with managed authentication",
+  "tab": "business",
+  "group": "Composio"
+ },
+ {
+  "name": "agentrhq/authsome",
+  "url": "https://github.com/agentrhq/authsome",
+  "description": "Local OAuth2 and API-key credential broker for AI agents. Login once via browser PKCE or device code, encrypted vault at ~/.authsome, local proxy injects credentials at request time. 30+ providers preconfigured.",
+  "tab": "business",
+  "group": "Authsome"
+ },
+ {
+  "name": "makenotion/knowledge-capture",
+  "url": "https://github.com/makenotion/cursor-notion-plugin/tree/main/skills/knowledge-capture",
+  "description": "Transform conversations into structured Notion documentation",
+  "tab": "business",
+  "group": "Notion"
+ },
+ {
+  "name": "makenotion/meeting-intelligence",
+  "url": "https://github.com/makenotion/cursor-notion-plugin/tree/main/skills/meeting-intelligence",
+  "description": "Prepare meeting materials by gathering Notion context",
+  "tab": "business",
+  "group": "Notion"
+ },
+ {
+  "name": "makenotion/spec-to-implementation",
+  "url": "https://github.com/makenotion/cursor-notion-plugin/tree/main/skills/spec-to-implementation",
+  "description": "Turn tech specs into concrete Notion tasks",
+  "tab": "business",
+  "group": "Notion"
+ },
+ {
+  "name": "resend/resend",
+  "url": "https://github.com/resend/resend-skills/tree/main/skills/resend",
+  "description": "Send and manage emails via the Resend API",
+  "tab": "business",
+  "group": "Resend"
+ },
+ {
+  "name": "resend/react-email",
+  "url": "https://github.com/resend/resend-skills/tree/main/skills/react-email",
+  "description": "Build emails with React Email components",
+  "tab": "business",
+  "group": "Resend"
+ },
+ {
+  "name": "resend/email-best-practices",
+  "url": "https://github.com/resend/resend-skills/tree/main/skills/email-best-practices",
+  "description": "Email deliverability and design best practices",
+  "tab": "business",
+  "group": "Resend"
+ },
+ {
+  "name": "sanity-io/sanity-best-practices",
+  "url": "https://github.com/sanity-io/agent-toolkit/tree/main/skills/sanity-best-practices",
+  "description": "Best practices for Sanity Studio and content workflows",
+  "tab": "business",
+  "group": "Sanity"
+ },
+ {
+  "name": "sanity-io/content-modeling-best-practices",
+  "url": "https://github.com/sanity-io/agent-toolkit/tree/main/skills/content-modeling-best-practices",
+  "description": "Guidelines for designing scalable content models in Sanity",
+  "tab": "business",
+  "group": "Sanity"
+ },
+ {
+  "name": "sanity-io/seo-aeo-best-practices",
+  "url": "https://github.com/sanity-io/agent-toolkit/tree/main/skills/seo-aeo-best-practices",
+  "description": "SEO and answer engine optimization patterns",
+  "tab": "business",
+  "group": "Sanity"
+ },
+ {
+  "name": "better-auth/best-practices",
+  "url": "https://github.com/better-auth/skills/tree/main/better-auth/best-practices",
+  "description": "Best practices for Better Auth integration",
+  "tab": "business",
+  "group": "Better Auth"
+ },
+ {
+  "name": "better-auth/create-auth",
+  "url": "https://github.com/better-auth/skills/tree/main/better-auth/create-auth",
+  "description": "Create authentication setup with Better Auth",
+  "tab": "business",
+  "group": "Better Auth"
+ },
+ {
+  "name": "better-auth/twoFactor",
+  "url": "https://github.com/better-auth/skills/tree/main/better-auth/twoFactor",
+  "description": "Two-factor authentication with Better Auth",
+  "tab": "business",
+  "group": "Better Auth"
+ },
+ {
+  "name": "better-auth/explain-error",
+  "url": "https://github.com/better-auth/skills",
+  "description": "Explain Better Auth error messages",
+  "tab": "business",
+  "group": "Better Auth"
+ },
+ {
+  "name": "nowork-studio/seo",
+  "url": "https://github.com/nowork-studio/NotFair/tree/main/seo",
+  "description": "SEO and GEO: site analysis, keyword research, meta tags, schema markup, and content writing",
+  "tab": "business",
+  "group": "NotFair"
+ },
+ {
+  "name": "nowork-studio/google-ads",
+  "url": "https://github.com/nowork-studio/NotFair/tree/main/google-ads",
+  "description": "Google Ads audits: wasted-spend detection, search-term cleanup, keyword and bid management",
+  "tab": "business",
+  "group": "NotFair"
+ },
+ {
+  "name": "nowork-studio/meta-ads",
+  "url": "https://github.com/nowork-studio/NotFair/tree/main/meta-ads",
+  "description": "Meta (Facebook + Instagram) Ads: ROAS analysis, creative-fatigue and audience-overlap diagnosis",
+  "tab": "business",
+  "group": "NotFair"
+ },
+ {
+  "name": "humanpen/humanpen-skill",
+  "url": "https://github.com/humanpen/humanpen-skill",
+  "description": "Rewrites .docx/.pptx documents to read as human-written and lower AI-detection scores",
+  "tab": "business",
+  "group": "HumanPen"
+ },
+ {
+  "name": "product-on-purpose/pm-skills",
+  "url": "https://github.com/product-on-purpose/pm-skills",
+  "description": "68 product management skills covering discovery, definition, delivery, and iteration, with 6 sub-agents and 12 workflows",
+  "tab": "business",
+  "group": "Product Management · Product on Purpose"
+ },
+ {
+  "name": "javimosch/supercli",
+  "url": "https://github.com/javimosch/supercli",
+  "description": "Universal CLI router with 4,795+ agent skills (SKILL.md). Agents discover CLI tools by intent via sc skills search, inspect schemas via sc inspect, and execute with deterministic JSON output. Each plugin ships with its own skills/quickstart/SKILL.md — instant agent onboarding for 7,000+ CLI tools.",
+  "tab": "business",
+  "group": "SuperCLI"
+ },
+ {
+  "name": "coreyhaines31/ai-seo",
+  "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo",
+  "description": "Optimize content for AI-generated answers",
+  "tab": "business",
+  "group": "Marketing · Corey Haines"
+ },
+ {
+  "name": "coreyhaines31/copywriting",
+  "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting",
+  "description": "Write marketing copy for landing pages and ads",
+  "tab": "business",
+  "group": "Marketing · Corey Haines"
+ },
+ {
+  "name": "coreyhaines31/email-sequence",
+  "url": "https://github.com/coreyhaines31/marketingskills",
+  "description": "Build email sequences and drip campaigns",
+  "tab": "business",
+  "group": "Marketing · Corey Haines"
+ },
+ {
+  "name": "coreyhaines31/pricing-strategy",
+  "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing",
+  "description": "Define pricing and packaging for SaaS",
+  "tab": "business",
+  "group": "Marketing · Corey Haines"
+ },
+ {
+  "name": "coreyhaines31/social-content",
+  "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/social",
+  "description": "Create and schedule social media content",
+  "tab": "business",
+  "group": "Marketing · Corey Haines"
+ },
+ {
+  "name": "deanpeters/epic-hypothesis",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/epic-hypothesis",
+  "description": "Turn initiatives into testable hypotheses",
+  "tab": "business",
+  "group": "Product Manager · Dean Peters"
+ },
+ {
+  "name": "deanpeters/opportunity-solution-tree",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/opportunity-solution-tree",
+  "description": "Generate solution trees based on Teresa Torres' method",
+  "tab": "business",
+  "group": "Product Manager · Dean Peters"
+ },
+ {
+  "name": "deanpeters/prd-development",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/prd-development",
+  "description": "Structured PRD process: problem to metrics",
+  "tab": "business",
+  "group": "Product Manager · Dean Peters"
+ },
+ {
+  "name": "deanpeters/roadmap-planning",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/roadmap-planning",
+  "description": "Strategic roadmap process and communication",
+  "tab": "business",
+  "group": "Product Manager · Dean Peters"
+ },
+ {
+  "name": "phuryn/create-prd",
+  "url": "https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/create-prd",
+  "description": "Create a PRD with 8-section template",
+  "tab": "business",
+  "group": "Product Management · Pawel Huryn"
+ },
+ {
+  "name": "phuryn/product-strategy",
+  "url": "https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-strategy",
+  "description": "Create product strategy using the Canvas",
+  "tab": "business",
+  "group": "Product Management · Pawel Huryn"
+ },
+ {
+  "name": "phuryn/user-personas",
+  "url": "https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/user-personas",
+  "description": "Create user personas with JTBD, pains, and gains",
+  "tab": "business",
+  "group": "Product Management · Pawel Huryn"
+ },
+ {
+  "name": "phuryn/market-sizing",
+  "url": "https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/market-sizing",
+  "description": "Estimate TAM, SAM, SOM with top-down and bottom-up",
+  "tab": "business",
+  "group": "Product Management · Pawel Huryn"
+ },
+ {
+  "name": "phuryn/pm-skills",
+  "url": "https://github.com/phuryn/pm-skills",
+  "description": "Full collection: advanced product management frameworks, OKRs, and strategy skills",
+  "tab": "business",
+  "group": "Product Management · Pawel Huryn"
+ },
+ {
+  "name": "garrytan/office-hours",
+  "url": "https://github.com/garrytan/gstack/tree/main/office-hours",
+  "description": "YC Office Hours: reframing product before code",
+  "tab": "business",
+  "group": "Garry Tan (gstack)"
+ },
+ {
+  "name": "garrytan/plan-ceo-review",
+  "url": "https://github.com/garrytan/gstack/tree/main/plan-ceo-review",
+  "description": "CEO/Founder plan review modes",
+  "tab": "business",
+  "group": "Garry Tan (gstack)"
+ },
+ {
+  "name": "garrytan/design-review",
+  "url": "https://github.com/garrytan/gstack/tree/main/design-review",
+  "description": "Visual audit and atomic fixes with screenshots",
+  "tab": "business",
+  "group": "Garry Tan (gstack)"
+ },
+ {
+  "name": "garrytan/qa",
+  "url": "https://github.com/garrytan/gstack/tree/main/qa",
+  "description": "QA Lead: find bugs and generate regression tests",
+  "tab": "business",
+  "group": "Garry Tan (gstack)"
+ },
+ {
+  "name": "garrytan/ship",
+  "url": "https://github.com/garrytan/gstack/tree/main/ship",
+  "description": "Release Engineer: sync, test, audit, and push",
+  "tab": "business",
+  "group": "Garry Tan (gstack)"
+ },
+ {
+  "name": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "description": "Full gstack collection: YC founder stack for planning, review, QA, and shipping",
+  "tab": "business",
+  "group": "Garry Tan (gstack)"
+ },
+ {
+  "name": "trailofbits/audit-context-building",
+  "url": "https://github.com/trailofbits/skills/tree/main/plugins/audit-context-building/skills/audit-context-building",
+  "description": "Deep architectural context via granular code analysis",
+  "tab": "security",
+  "group": "Trail of Bits"
+ },
+ {
+  "name": "trailofbits/building-secure-contracts",
+  "url": "https://github.com/trailofbits/skills",
+  "description": "Smart contract security toolkit for 6 blockchains",
+  "tab": "security",
+  "group": "Trail of Bits"
+ },
+ {
+  "name": "trailofbits/modern-python",
+  "url": "https://github.com/trailofbits/skills/tree/main/plugins/modern-python/skills/modern-python",
+  "description": "Modern Python tooling with uv, ruff, and pytest",
+  "tab": "security",
+  "group": "Trail of Bits"
+ },
+ {
+  "name": "getsentry/agents-md",
+  "url": "https://github.com/getsentry/skills/tree/main/skills/agents-md",
+  "description": "Generate and manage AGENTS.md files",
+  "tab": "security",
+  "group": "Sentry"
+ },
+ {
+  "name": "getsentry/code-review",
+  "url": "https://github.com/getsentry/skills/tree/main/skills/code-review",
+  "description": "Perform structured code reviews",
+  "tab": "security",
+  "group": "Sentry"
+ },
+ {
+  "name": "getsentry/find-bugs",
+  "url": "https://github.com/getsentry/skills/tree/main/skills/find-bugs",
+  "description": "Find and identify bugs in code",
+  "tab": "security",
+  "group": "Sentry"
+ },
+ {
+  "name": "getsentry/skills",
+  "url": "https://github.com/getsentry/skills",
+  "description": "Full collection: debug errors, performance issues, and traces with Sentry",
+  "tab": "security",
+  "group": "Sentry"
+ },
+ {
+  "name": "firecrawl/firecrawl-cli",
+  "url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl",
+  "description": "Scrape, crawl, search, and map the web via CLI",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-agent",
+  "url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl-agent",
+  "description": "AI agent for autonomous web scraping",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-browser",
+  "url": "https://github.com/firecrawl/cli",
+  "description": "Browser-based web scraping and interaction",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-scrape",
+  "url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl-scrape",
+  "description": "Scrape web pages and extract content",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-search",
+  "url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl-search",
+  "description": "Search the web and extract results",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "microsoft/cloud-solution-architect",
+  "url": "https://github.com/microsoft/skills/tree/main/.github/skills/cloud-solution-architect",
+  "description": "Design well-architected Azure cloud systems",
+  "tab": "security",
+  "group": "Microsoft"
+ },
+ {
+  "name": "microsoft/copilot-sdk",
+  "url": "https://github.com/microsoft/skills/tree/main/.github/skills/copilot-sdk",
+  "description": "Build applications powered by GitHub Copilot SDK",
+  "tab": "security",
+  "group": "Microsoft"
+ },
+ {
+  "name": "microsoft/azure-ai-openai-dotnet",
+  "url": "https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-dotnet/skills/azure-ai-openai-dotnet",
+  "description": "GPT-4, embeddings, and DALL-E client for .NET",
+  "tab": "security",
+  "group": "Microsoft"
+ },
+ {
+  "name": "microsoft/azure-ai-projects-python",
+  "url": "https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-python/skills/azure-ai-projects-py",
+  "description": "AI Foundry project client and agents for Python",
+  "tab": "security",
+  "group": "Microsoft"
+ },
+ {
+  "name": "microsoft/azure-identity-typescript",
+  "url": "https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-typescript/skills/azure-identity-ts",
+  "description": "Microsoft Entra ID authentication for TypeScript",
+  "tab": "security",
+  "group": "Microsoft"
+ },
+ {
+  "name": "microsoft/skills",
+  "url": "https://github.com/microsoft/skills",
+  "description": "Full official Microsoft agent skills collection",
+  "tab": "security",
+  "group": "Microsoft"
+ },
+ {
+  "name": "binance/crypto-market-rank",
+  "url": "https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/crypto-market-rank",
+  "description": "Query crypto market rankings and leaderboards",
+  "tab": "security",
+  "group": "Binance"
+ },
+ {
+  "name": "binance/query-token-audit",
+  "url": "https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/query-token-audit",
+  "description": "Audit token security to detect scams and honeypots",
+  "tab": "security",
+  "group": "Binance"
+ },
+ {
+  "name": "binance/trading-signal",
+  "url": "https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/trading-signal",
+  "description": "Monitor on-chain Smart Money buy/sell signals",
+  "tab": "security",
+  "group": "Binance"
+ },
+ {
+  "name": "qdrant/skills",
+  "url": "https://github.com/qdrant/skills",
+  "description": "Agent skills for Qdrant vector search, scaling, and performance",
+  "tab": "community",
+  "group": "Vector Databases"
+ },
+ {
+  "name": "honeydew-ai/honeydew-ai-coding-agents-plugins",
+  "url": "https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins",
+  "description": "11 skills + MCP server for building and querying a governed semantic layer over Snowflake, Databricks, and BigQuery from coding agents (Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI). Same trusted model serves BI tools and AI agents. Plugins are Apache 2.0.",
+  "tab": "community",
+  "group": "Data & Analytics"
+ },
+ {
+  "name": "exmergo/explore",
+  "url": "https://github.com/exmergo/dex/tree/main/skills/explore",
+  "description": "Profile warehouses, verify joins, and map schemas",
+  "tab": "community",
+  "group": "Data & Analytics"
+ },
+ {
+  "name": "backblaze-labs/claude-skill-b2-cloud-storage",
+  "url": "https://github.com/backblaze-labs/claude-skill-b2-cloud-storage",
+  "description": "Manage Backblaze B2 storage: list, audit, cleanup, security, lifecycle",
+  "tab": "community",
+  "group": "Cloud Storage"
+ },
+ {
+  "name": "coffeefuelbump/csv-data-summarizer-claude-skill",
+  "url": "https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill",
+  "description": "Analyze CSV files and generate insights with visualizations",
+  "tab": "community",
+  "group": "Cloud Storage"
+ },
+ {
+  "name": "shepsci/kaggle-skill",
+  "url": "https://github.com/shepsci/kaggle-skill",
+  "description": "Complete Kaggle integration — competition reports, dataset downloads, submissions",
+  "tab": "community",
+  "group": "Cloud Storage"
+ },
+ {
+  "name": "BrianRWagner/ai-marketing-skills",
+  "url": "https://github.com/BrianRWagner/ai-marketing-skills",
+  "description": "17 marketing frameworks for outreach and audits",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "cognyai/claude-code-marketing-skills",
+  "url": "https://github.com/cognyai/claude-code-marketing-skills",
+  "description": "AI marketing skills: SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, Lead Qualification. 5 free skills + premium via Cogny MCP",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "AgriciDaniel/claude-seo",
+  "url": "https://github.com/AgriciDaniel/claude-seo",
+  "description": "Universal SEO skill for website analysis",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "smixs/creative-director-skill",
+  "url": "https://github.com/smixs/creative-director-skill",
+  "description": "20+ creative methodologies (SIT, TRIZ, SCAMPER)",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "SHADOWPR0/beautiful_prose",
+  "url": "https://github.com/SHADOWPR0/beautiful_prose",
+  "description": "Hard-edged writing style contract for forceful English prose",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "LeadMagic/gtm-skills",
+  "url": "https://github.com/LeadMagic/gtm-skills",
+  "description": "189+ GTM playbooks for AI agents covering marketing, sales, customer success, and revenue operations across 26 categories. Compatible with Claude Code, Codex, Cursor, GitHub Copilot, and 12+ agent platforms. Website",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "Vladimir-Human/humanizer-ru",
+  "url": "https://github.com/Vladimir-Human/humanizer-ru",
+  "description": "Russian AI-writing cleanup with 38 style patterns and 35 regex markers.",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "gooseworks-ai/goose-skills",
+  "url": "https://github.com/gooseworks-ai/goose-skills",
+  "description": "125 growth/GTM skills for ads, lead gen, outreach, and SEO",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "wgwtest/novel-writing",
+  "url": "https://github.com/wgwtest/novel-writing",
+  "description": "Codex skill for fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "chadboyda/agent-gtm-skills",
+  "url": "https://github.com/chadboyda/agent-gtm-skills",
+  "description": "18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "shalintripathi/saas-marketing-agents",
+  "url": "https://github.com/shalintripathi/saas-marketing-agents",
+  "description": "19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "zhuyansen/backlink-guard",
+  "url": "https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard",
+  "description": "Vet link sources before you submit, verify listings, and audit backlinks for link spam",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "vaibhavarora14/job-application-agent",
+  "url": "https://github.com/vaibhavarora14/job-application-agent",
+  "description": "Privacy-first skill to discover, qualify, complete, and track your own job applications",
+  "tab": "community",
+  "group": "Career"
+ },
+ {
+  "name": "socai-io/jev-social",
+  "url": "https://github.com/socai-io/jev-social/tree/main/skills/jev-social",
+  "description": "Research social platforms through typed Jev actions in local Chrome",
+  "tab": "community",
+  "group": "Career"
+ },
+ {
+  "name": "xianyu110/ecommerce-image-skills",
+  "url": "https://github.com/xianyu110/ecommerce-image-skills",
+  "description": "12 skills for ecommerce product images (Amazon main image, A+, banners)",
+  "tab": "community",
+  "group": "Career"
+ },
+ {
+  "name": "xianyu110/ecommerce-video-skills",
+  "url": "https://github.com/xianyu110/ecommerce-video-skills",
+  "description": "12 skills for ecommerce short videos with local ffmpeg rendering",
+  "tab": "community",
+  "group": "Career"
+ },
+ {
+  "name": "career-ops-hq/career-ops",
+  "url": "https://github.com/career-ops-hq/career-ops",
+  "description": "Open-source AI job search agent: scores each job against your CV; you press Submit",
+  "tab": "community",
+  "group": "Career"
+ },
+ {
+  "name": "PSPDFKit-labs/nutrient-agent-skill",
+  "url": "https://github.com/PSPDFKit-labs/nutrient-agent-skill",
+  "description": "Document processing: convert, OCR, and redact PII",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "RoundTable02/tutor-skills",
+  "url": "https://github.com/RoundTable02/tutor-skills",
+  "description": "Transform docs or codebases into interactive StudyVaults",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "hanfang/claude-memory-skill",
+  "url": "https://github.com/hanfang/claude-memory-skill",
+  "description": "Hierarchical memory system with filesystem persistence",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "salespeak-ai/buyer-eval-skill",
+  "url": "https://github.com/salespeak-ai/buyer-eval-skill",
+  "description": "B2B vendor evaluation skill: 7-dimension scoring with evidence-tracked scorecards for procurement and build-vs-buy decisions",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "wrsmith108/linear-claude-skill",
+  "url": "https://github.com/wrsmith108/linear-claude-skill",
+  "description": "Manage Linear issues, projects, and teams",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "Orkas-AI/video-router",
+  "url": "https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router",
+  "description": "Route video requests through deterministic agent production stages",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "anzy-renlab-ai/pronounce-word",
+  "url": "https://github.com/anzy-renlab-ai/pronounce/tree/main/skills/pronounce-word",
+  "description": "Play sourced developer-jargon pronunciations with local TTS, IPA, and contested alternatives",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "chubbyguan/chubbyskills",
+  "url": "https://github.com/chubbyguan/chubbyskills",
+  "description": "14 skills for ingesting Chinese content (Douyin, Bilibili, Xiaohongshu, WeChat, X/Twitter, podcasts) into a personal knowledge base — auto image/video routing, subtitle-first transcription, RSS/YouTube subscription scheduling, and a knowledge-base MCP server",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "KKKKhazix/aihot",
+  "url": "https://github.com/KKKKhazix/khazix-skills/tree/main/aihot",
+  "description": "Query Chinese AI news, current topics, and daily briefs from AIHOT through anonymous read-only requests; retain dates and original-source links. Service terms apply separately from the MIT-licensed skill.",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "Digidai/product-manager-skills",
+  "url": "https://github.com/Digidai/product-manager-skills",
+  "description": "PM operator skill across 12 domains: discovery, PRDs, SaaS metrics, pricing, launch, and stakeholder comms",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "makenotion/skills",
+  "url": "https://github.com/makenotion/skills",
+  "description": "Notion API integration, database operations, and content management",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "smerchek/claude-epub-skill",
+  "url": "https://github.com/smerchek/claude-epub-skill",
+  "description": "Converts markdown documents into professional EPUB ebook files",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "talkstream/ru-text",
+  "url": "https://github.com/talkstream/ru-text",
+  "description": "Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "kklimuk/docx-cli",
+  "url": "https://github.com/kklimuk/docx-cli/tree/main/skills/docx-cli",
+  "description": "Work on Word .docx files in place: tracked changes, comments, forms, tables, styles.",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "stevyhacker/lokalbot-cli",
+  "url": "https://github.com/stevyhacker/lokalbot/tree/master/.agents/skills/lokalbot-cli",
+  "description": "Retrieve recorded meetings and separately authorized screen memory on macOS",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "arifszn/slide-wright",
+  "url": "https://github.com/arifszn/slide-wright",
+  "description": "Turns a topic into a themed HTML slide deck; exports to PowerPoint and PDF",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "luchasarie/bro-skill",
+  "url": "https://github.com/luchasarie/bro-skill",
+  "description": "Re-explains the assistant's last reply or pasted text in plain language",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "Drix10/ai-news",
+  "url": "https://github.com/Drix10/ai-resources/tree/main/skills/ai-news",
+  "description": "Answer \"what's new in AI\" questions from dated AI news briefings, citing the source posts",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "MetcalfSolutions/Satori",
+  "url": "https://github.com/MetcalfSolutions/Satori",
+  "description": "Wisdom companion skill with SQLite memory vault that stays silent during pure coding work",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "kochetkov-ma/brewpage-publish",
+  "url": "https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish",
+  "description": "Publish text, files or folder sites to brewpage.app and return a shareable link",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "vostride/agent-qa",
+  "url": "https://github.com/vostride/agent-qa",
+  "description": "Three skills for authoring natural-language web and mobile tests, triaging failures, and debugging fixes with MCP evidence",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "kranz-org/kranz-services",
+  "url": "https://github.com/kranz-org/kranz/tree/main/skills/kranz-services",
+  "description": "Inspect and control live development services through Kranz MCP",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "muthuishere/hand-drawn-diagrams",
+  "url": "https://github.com/muthuishere/hand-drawn-diagrams",
+  "description": "Generate hand-drawn Excalidraw diagrams from prompt",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "coderabbitai/skills",
+  "url": "https://github.com/coderabbitai/skills",
+  "description": "Code review and PR autofix workflows",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "lmammino/c4-codebase-architecture",
+  "url": "https://github.com/lmammino/c4-codebase-architecture-skill/tree/main/skills/c4-codebase-architecture",
+  "description": "Generate evidence-based C4 architecture docs from codebases",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "luoyuctl/agenttrace",
+  "url": "https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit",
+  "description": "Audit AI coding-agent session health and cost",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "massimodeluisa/recursive-decomposition-skill",
+  "url": "https://github.com/massimodeluisa/recursive-decomposition-skill",
+  "description": "Handle long-context tasks (100+ files) via decomposition",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "mcollina/skills",
+  "url": "https://github.com/mcollina/skills/tree/main/skills",
+  "description": "Node.js core, Fastify, and TypeScript skills by Matteo Collina",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "description": "High-agency frontend skill to eliminate generic UI slop",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Evol-ai/SkillCompass",
+  "url": "https://github.com/Evol-ai/SkillCompass",
+  "description": "Local-first skill quality evaluator scoring 6 dimensions with fix suggestions and version tracking",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "smorky850612/AuraKit",
+  "url": "https://github.com/smorky850612/Aurakit",
+  "description": "Full dev lifecycle skill for Claude Code: 46 modes (BUILD/FIX/DEPLOY/REVIEW/TDD/QA/DEBUG), 23 sub-agents, 6-layer OWASP+ security, ~55% token savings via Tiered Model routing",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "MohamedAbdallah-14/unslop",
+  "url": "https://github.com/MohamedAbdallah-14/unslop",
+  "description": "MCP server and CLI skill that removes named AI writing patterns: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocab. Lint-only audit mode, five intensity levels.",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "kubestellar/console",
+  "url": "https://github.com/kubestellar/console",
+  "description": "Multi-cluster Kubernetes dashboard with 10+ built-in agent skills for performance testing, cache compliance, CI debugging, and K8s troubleshooting. MCP server bridges agents to kubeconfig and Kubernetes APIs",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "swarmclawai/swarmclaw",
+  "url": "https://github.com/swarmclawai/swarmclaw/tree/main/skills/swarmclaw",
+  "description": "Operate self-hosted multi-agent runtime workflows",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "swarmclawai/karpathy-guidelines",
+  "url": "https://github.com/swarmclawai/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines",
+  "description": "Coding-agent guardrails for clarity, minimal diffs, and verification",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "ZeroPointRepo/youtube-skills",
+  "url": "https://github.com/ZeroPointRepo/youtube-skills",
+  "description": "YouTube transcripts, search, channel data, and playlists via TranscriptAPI. Works anywhere.",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "0xheycat/isometric-game-skills",
+  "url": "https://github.com/0xheycat/isometric-game-skills",
+  "description": "20 agent-ready skills for isometric game dev: ComfyUI art pipeline, terrain, sprites, renderer, pathfinding, and more",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "sametcelikbicak/coverage-guard",
+  "url": "https://github.com/sametcelikbicak/coverage-guard",
+  "description": "Enforces 100% test coverage for any JavaScript/TypeScript project. Works with Vitest, Jest, react-scripts, and more",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "sametcelikbicak/flaky-test-detector",
+  "url": "https://github.com/sametcelikbicak/flaky-test-detector",
+  "description": "Detects, analyzes, and eliminates flaky tests across any test runner",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "sametcelikbicak/rolecraft",
+  "url": "https://github.com/rolecraft-sh/rolecraft",
+  "description": "Zero-dependency CLI to install AI agent skills as roles & behaviors from any source. Works with opencode, claude-code, cursor, and all spec-compliant agents",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "sametcelikbicak/task-decomposer",
+  "url": "https://github.com/sametcelikbicak/task-decomposer",
+  "description": "Decomposes complex requests into structured, AI-friendly task sequences",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "linhay/harmony-next.skills",
+  "url": "https://github.com/linhay/harmony-next.skills/tree/master/harmony-next",
+  "description": "HarmonyOS NEXT workflows for AI coding agents",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "sarveshsea/audit-frontend-design",
+  "url": "https://github.com/sarveshsea/memi/tree/main/skills/audit-frontend-design",
+  "description": "Audit frontend design debt before editing code",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "eduardo-sl/go-agent-skills",
+  "url": "https://github.com/eduardo-sl/go-agent-skills",
+  "description": "28 curated Go skills for code review, concurrency, testing, and architecture",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "fcavalcantirj/claude-code-eyes",
+  "url": "https://github.com/fcavalcantirj/claude-code-eyes",
+  "description": "Camera vision for Claude Code — see hardware, screens and wiring to verify physical output",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Shilo/pixellab-pip",
+  "url": "https://github.com/Shilo/pixellab-pip",
+  "description": "Route PixelLab MCP/REST to generate, edit, and animate pixel art",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "aaddrick/attention-control",
+  "url": "https://github.com/aaddrick/attention-control",
+  "description": "Air traffic control discipline for coding-agent output, tuned for ADHD reading",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "mdrbx/nerv-ui",
+  "url": "https://github.com/mdrbx/nerv-ui/tree/master/skills/nerv-ui",
+  "description": "Typed React command-center components, live examples, and a portable Agent Skills-compatible skill",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Tencent/aig-agent-redteam",
+  "url": "https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam",
+  "description": "One-command Agent red-team security assessment",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Continuum-AI-Corp/OrcaReplay",
+  "url": "https://github.com/Continuum-AI-Corp/OrcaReplay/tree/main/skills/orca-replay",
+  "description": "Read a recorded agent run from its trace, replay it offline, or fork it onto another model",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "mblode/agent-skills",
+  "url": "https://github.com/mblode/agent-skills",
+  "description": "26 skills for UI audits, typography, docs, PR review, and releases",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "lukstei/slop-grader",
+  "url": "https://github.com/lukstei/slop-grader",
+  "description": "Rule-based CLI tool evaluating custom rulesets to guide auto-fixing with an AI agent",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "fastcrw/crw",
+  "url": "https://github.com/fastcrw/crw/tree/main/skills",
+  "description": "Search, scrape, crawl and extract the web with a self-hostable Rust binary and MCP server",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "unbrowse-ai/unbrowse",
+  "url": "https://github.com/unbrowse-ai/unbrowse/tree/main/skill",
+  "description": "Search, call, and read websites through a hosted API or MCP",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "aaddrick/building-with-typesafe-jev",
+  "url": "https://github.com/aaddrick/building-with-typesafe-jev",
+  "description": "Design TypeSafe Jev calls: typed questions, confidence routing, 150+ prior-art projects",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "umutbozdag/manage-skills",
+  "url": "https://github.com/umutbozdag/agent-skills-manager/tree/main/skills/manage-skills",
+  "description": "Discover, create, edit, toggle, copy, and move agent skills across 11 tools from the terminal",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "ameyalambat128/swiftui-skills",
+  "url": "https://github.com/ameyalambat128/swiftui-skills",
+  "description": "Apple-authored SwiftUI and platform guidance extracted from Xcode",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "AppDeploy-AI/skills",
+  "url": "https://github.com/AppDeploy-AI/skills",
+  "description": "Deploy apps with full stack and get a live URL back",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "ChaosRealmsAI/agent-cli-spec",
+  "url": "https://github.com/ChaosRealmsAI/agent-cli-spec",
+  "description": "CLI design spec — 98 rules for building agent-safe CLI tools",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "chrisvoncsefalvay/claude-d3js-skill",
+  "url": "https://github.com/chrisvoncsefalvay/claude-d3js-skill",
+  "description": "D3 charts and interactive data visualizations",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "conorluddy/ios-simulator-skill",
+  "url": "https://github.com/conorluddy/ios-simulator-skill",
+  "description": "Interact with iOS Simulator for testing",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "dadwadw233/claude-code-harness",
+  "url": "https://github.com/dadwadw233/claude-code-harness",
+  "description": "Harness blueprint skill for request assembly, control loops, memory boundaries, permissions, and recovery",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "dadwadw233/claude-code-philosophy",
+  "url": "https://github.com/dadwadw233/claude-code-philosophy",
+  "description": "Skill for reviewing and structuring agent products around harnesses, memory, permissions, recovery, and UX",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "dragon1086/claude-skills",
+  "url": "https://github.com/dragon1086/claude-skills",
+  "description": "Analyzes prompts and recommends optimal tools, skills, agents, and orchestration patterns",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "frmoretto/stream-coding",
+  "url": "https://github.com/frmoretto/stream-coding",
+  "description": "Stream Coding methodology",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "gapmiss/obsidian-plugin-skill",
+  "url": "https://github.com/gapmiss/obsidian-plugin-skill",
+  "description": "Obsidian.md plugin development",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "glacierphonk/naming",
+  "url": "https://github.com/glacierphonk/naming",
+  "description": "Metaphor-driven naming for products, SaaS, brands, and open source projects",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "knot0-com/vibe-testing",
+  "url": "https://github.com/knot0-com/vibe-testing",
+  "description": "Pressure-test spec documents with LLM reasoning before writing code",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "kylehughes/the-unofficial-swift-concurrency-migration-skill",
+  "url": "https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill",
+  "description": "Swift Concurrency Migration guide",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "lackeyjb/playwright-skill",
+  "url": "https://github.com/lackeyjb/playwright-skill",
+  "description": "Browser automation for testing web apps",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "rickygao/specrate",
+  "url": "https://github.com/rickygao/specrate",
+  "description": "Manage specs and changes in a structured workflow",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "yshishenya/stitchflow",
+  "url": "https://github.com/yshishenya/stitchflow",
+  "description": "Stitch UI generation with local HTML and screenshots",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "zxkane/aws-skills",
+  "url": "https://github.com/zxkane/aws-skills",
+  "description": "AWS development with CDK best practices",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "LeulAria/Aria-Icons",
+  "url": "https://github.com/LeulAria/Aria-Icons/tree/main/skills",
+  "description": "Search 1.4M open-source icons and add them to a project as source files",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Grit-77/checking-delivery",
+  "url": "https://github.com/Grit-77/done-is-a-claim/tree/main/skills/checking-delivery",
+  "description": "Check delivery at its destination and separate acknowledgements from verified consumer results.",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "cyphercodes/location-picker",
+  "url": "https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker",
+  "description": "Add a map field that captures one latitude/longitude to web forms and apps",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "mobbin/skills",
+  "url": "https://github.com/mobbin/skills",
+  "description": "Search real app screens, flows and website sections on Mobbin to ground UI design",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "ukorvl/lightweight-charts-react-components",
+  "url": "https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components",
+  "description": "React financial-chart integration recipes for coding agents",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "DrDroidLab/setup-open-index",
+  "url": "https://github.com/DrDroidLab/open-index/blob/main/skills/setup-open-index/SKILL.md",
+  "description": "Set up structured context graphs with hybrid search and read/write MCP access",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "muratcankoylan/context-compression",
+  "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression",
+  "description": "Compression strategies for long-running sessions",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "muratcankoylan/memory-systems",
+  "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems",
+  "description": "Design short-term and graph-based memory architectures",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "TerminallyLazy/tree-ring-memory",
+  "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory/tree/main/skills/tree-ring-memory",
+  "description": "Lifecycle-aware local memory with recall, evidence, audit, and forgetting",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "ohad6k/ditto",
+  "url": "https://github.com/ohad6k/ditto",
+  "description": "Mine Claude Code and Codex session logs into local, evidence-backed agent profiles",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "k-kolomeitsev/data-structure-protocol",
+  "url": "https://github.com/k-kolomeitsev/data-structure-protocol",
+  "description": "Graph-based memory for faster context and safer refactors",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "fockus/skill-memory-bank",
+  "url": "https://github.com/fockus/skill-memory-bank",
+  "description": "Cross-agent long-term project memory via .memory-bank/ for Claude Code, Cursor, Windsurf, Cline, Kilo, OpenCode, Pi Code, Codex — bundles TDD / SOLID / Clean Architecture / FSD rules and 18 dev-toolkit commands",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "swarmclawai/swarmvault",
+  "url": "https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault",
+  "description": "Build local knowledge vaults and context packs",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "Necmttn/ax-extract-workflow",
+  "url": "https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow",
+  "description": "Reconstruct shipped workflows from local ax sessions, commits, skills, and subagent traces",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "qualixar/superlocalmemory",
+  "url": "https://github.com/qualixar/superlocalmemory",
+  "description": "Local-first persistent memory for coding agents via MCP, with governed recall",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "jakedahn/pomodoro",
+  "url": "https://github.com/jakedahn/pomodoro",
+  "description": "System Skill Pattern — skills that remember and improve",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "yzfly/Mind-Cloning-Engineering",
+  "url": "https://github.com/yzfly/Mind-Cloning-Engineering",
+  "description": "Mind cloning with LLM skills",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "JayPokale/Chisle",
+  "url": "https://github.com/JayPokale/Chisle/tree/main/skills/chisle",
+  "description": "Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "coinpaprika/coinpaprika-api",
+  "url": "https://github.com/coinpaprika/skills/tree/main/coinpaprika-api",
+  "description": "Crypto market data for 12,000+ coins and 350+ exchanges",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
+  "name": "coinpaprika/dexpaprika-api",
+  "url": "https://github.com/coinpaprika/skills/tree/main/dexpaprika-api",
+  "description": "DEX pools, tokens, and OHLCV across 36 chains",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
+  "name": "HeyVincent-ai/agent-skills",
+  "url": "https://github.com/HeyVincent-ai/agent-skills",
+  "description": "Polymarket prediction market trading for agents",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
+  "name": "kukapay/crypto-skills",
+  "url": "https://github.com/kukapay/crypto-skills",
+  "description": "Cryptocurrency, web3 and blockchain skills",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
+  "name": "RioTheGreat-ai/agentfund-skill",
+  "url": "https://github.com/RioTheGreat-ai/agentfund-skill",
+  "description": "Crowdfunding for AI agents on Base chain - milestone escrow",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
+  "name": "kybernetwork/kyberswap-skills",
+  "url": "https://github.com/kybernetwork/kyberswap-skills",
+  "description": "Token swap quotes and transactions across 18 EVM chains",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
+  "name": "zhuyansen/daily-alpha-scanner",
+  "url": "https://github.com/zhuyansen/daily-alpha-scanner",
+  "description": "Daily on-chain research with OKX OnchainOS: hot tokens, smart money, meme launches, token risk",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
+  "name": "0xArchiveIO/backtest",
+  "url": "https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest",
+  "description": "Test Hyperliquid trading strategies with backtests and out-of-sample checks",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
+  "name": "YujxZJCN/teaching-skills",
+  "url": "https://github.com/YujxZJCN/teaching-skills",
+  "description": "University teaching lifecycle for professors: course design, lessons, exams, grading (Codex: YujxZJCN/teaching-skills-codex)",
+  "tab": "community",
+  "group": "Education and Teaching"
+ },
+ {
+  "name": "DeanChensj/jiangshan-atlas",
+  "url": "https://github.com/DeanChensj/jiangshan-map/tree/main/skills/jiangshan-atlas",
+  "description": "Locate Chinese historical events, classical poems, ancient places, and figure trajectories",
+  "tab": "community",
+  "group": "Education and Teaching"
+ },
+ {
+  "name": "Alisa0808/vibe-creating-skill",
+  "url": "https://github.com/Alisa0808/vibe-creating-skill",
+  "description": "Rewrite rough ideas into model-ready text-to-video prompts (Seedance, Sora, Kling, Veo); bilingual EN/中文",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "NoizAI/skills",
+  "url": "https://github.com/NoizAI/skills",
+  "description": "Human-like TTS skills with tested speaking styles, emotional tone, and local or cloud voice backends",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "jangtrinh/design-os",
+  "url": "https://github.com/jangtrinh/design-os",
+  "description": "Free design skills and verification gates for Claude Code, Codex, Gemini CLI and Antigravity",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "vargHQ/how-to-make-ai-video",
+  "url": "https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video",
+  "description": "How to make any AI video: find the skill, the options to show and the steps. No key needed.",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "liyupi/memecub",
+  "url": "https://github.com/liyupi/memecub",
+  "description": "Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "krisyangdev/motionboard",
+  "url": "https://github.com/krisyangdev/motionboard",
+  "description": "Make launch films from 38 Apple and Linear shot recipes, rebuilt in HyperFrames (HTML + GSAP).",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "danjdewhurst/story-skills",
+  "url": "https://github.com/danjdewhurst/story-skills",
+  "description": "16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity",
+  "tab": "community",
+  "group": "Writing & Storytelling"
+ },
+ {
+  "name": "Qiuner/birdview",
+  "url": "https://github.com/Qiuner/birdview",
+  "description": "Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML",
+  "tab": "community",
+  "group": "Writing & Storytelling"
+ },
+ {
+  "name": "manavmishra/ZeroSlop",
+  "url": "https://github.com/manavmishra/ZeroSlop",
+  "description": "Flags stock AI phrasing, guides the edit, checks names, numbers, quotes and links",
+  "tab": "community",
+  "group": "Writing & Storytelling"
+ },
+ {
+  "name": "tubeagentkit/youtube-transcript-skills",
+  "url": "https://github.com/tubeagentkit/youtube-transcript-skills",
+  "description": "Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API",
+  "tab": "community",
+  "group": "Media & Content"
+ },
+ {
+  "name": "mhattingpete/claude-skills-marketplace",
+  "url": "https://github.com/mhattingpete/claude-skills-marketplace",
+  "description": "Digital forensics analysis and investigation",
+  "tab": "community",
+  "group": "Security"
+ },
+ {
+  "name": "grittygrease/safe-encryption-skill",
+  "url": "https://github.com/grittygrease/safe-encryption-skill",
+  "description": "Modern encryption alternative to GPG/PGP with post-quantum support",
+  "tab": "community",
+  "group": "Security"
+ },
+ {
+  "name": "jthack/threat-hunting-with-sigma-rules-skill",
+  "url": "https://github.com/jthack/threat-hunting-with-sigma-rules-skill",
+  "description": "Hunt for threats using Sigma detection rules",
+  "tab": "community",
+  "group": "Security"
+ },
+ {
+  "name": "Reware-Labs/securitycards",
+  "url": "https://github.com/Reware-Labs/securitycards",
+  "description": "Fetch version-pinned secure-coding rules for the libraries a project uses",
+  "tab": "community",
+  "group": "Security"
+ },
+ {
+  "name": "c5huracan/meyhem",
+  "url": "https://github.com/c5huracan/meyhem",
+  "description": "Agent-native web search with feedback-driven ranking via REST API and MCP server",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "caopulan/Notification-Skill",
+  "url": "https://github.com/caopulan/Notification-Skill",
+  "description": "Send message notifications for agent workflows",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "commune-dev/commune-skill",
+  "url": "https://github.com/commune-dev/commune-skill",
+  "description": "Agent-native email inbox — permanent @commune.ai address with full send/receive, semantic search, triage, and webhooks",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "ComposioHQ/composio",
+  "url": "https://github.com/ComposioHQ/composio",
+  "description": "Connect AI agents to 1000+ external apps with managed authentication",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "fabioc-aloha/spotify-skill",
+  "url": "https://github.com/fabioc-aloha/spotify-skill",
+  "description": "Spotify API integration",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "gmickel/sheets-cli",
+  "url": "https://github.com/gmickel/sheets-cli",
+  "description": "Google Sheets CLI automation",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "Ivlad003/plugins",
+  "url": "https://github.com/Ivlad003/plugins",
+  "description": "Query and analyze Datadog logs, metrics, monitors, and traces directly from Claude Code via REST API",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "SawyerHood/dev-browser",
+  "url": "https://github.com/SawyerHood/dev-browser",
+  "description": "Web browser capability for agents",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "techgangboss/agentstore",
+  "url": "https://github.com/techgangboss/agentstore",
+  "description": "Open-source plugin marketplace with CLI install",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "transloadit/skills",
+  "url": "https://github.com/transloadit/skills",
+  "description": "Media processing: video encoding, image manipulation, OCR",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "voygr-tech/placecall",
+  "url": "https://github.com/voygr-tech/placecall/tree/main/skills/placecall",
+  "description": "Places real phone calls to US businesses and returns the outcome and transcript",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "MSG91/m91-skill",
+  "url": "https://github.com/MSG91/m91-skill",
+  "description": "Ask a human for approval on their phone before risky agent actions",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "ajnart/self-host",
+  "url": "https://github.com/ajnart/self-host",
+  "description": "Agent installs self-hosted apps and sets up admin accounts, API keys and app links",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "777genius/agent-notifications",
+  "url": "https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications",
+  "description": "Send desktop attention and progress alerts through an installed notification plugin",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "radres/call-me",
+  "url": "https://github.com/radres/call-me/tree/main/skill",
+  "description": "Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "browser-act/skills",
+  "url": "https://github.com/browser-act/skills",
+  "description": "22 browser automation skills for structured data extraction",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "ckanner/agent-skills",
+  "url": "https://github.com/ckanner/agent-skills",
+  "description": "Curated Claude Agent Skills collection",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "cuongducle/community-demand-prospecting-skill",
+  "url": "https://github.com/cuongducle/community-demand-prospecting-skill",
+  "description": "Repo audit, market research, positioning, and community outreach planning",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "DougTrajano/pydantic-ai-skills",
+  "url": "https://github.com/DougTrajano/pydantic-ai-skills",
+  "description": "Pydantic AI integration",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "gotalab/skillport",
+  "url": "https://github.com/gotalab/skillport",
+  "description": "Skills distribution via CLI or MCP",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "karanb192/awesome-claude-skills",
+  "url": "https://github.com/karanb192/awesome-claude-skills",
+  "description": "50+ verified skills for Claude Code and Claude.ai",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "MoizIbnYousaf/ai-agent-skills",
+  "url": "https://github.com/MoizIbnYousaf/ai-agent-skills",
+  "description": "SkillCreator.ai collection with CLI installer",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "OmidZamani/dspy-skills",
+  "url": "https://github.com/OmidZamani/dspy-skills",
+  "description": "Skills for DSPy framework",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "sanjay3290/ai-skills",
+  "url": "https://github.com/sanjay3290/ai-skills",
+  "description": "Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "uxuiprinciples/agent-skills",
+  "url": "https://github.com/uxuiprinciples/agent-skills",
+  "description": "5 UX/UI skills: evaluate interfaces against 168 research-backed principles",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "KalarisLabs/research-agent-skills",
+  "url": "https://github.com/KalarisLabs/research-agent-skills",
+  "description": "280+ skills covering the full academic research lifecycle, from literature review to peer review",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "cbrock84/headcount",
+  "url": "https://github.com/cbrock84/headcount",
+  "description": "Company-department skills (legal, finance, security, ops), each citing its governing source",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "laolaoshiren/claude-code-skills-zh",
+  "url": "https://github.com/laolaoshiren/claude-code-skills-zh",
+  "description": "Curated Chinese Claude Code skills, agents and plugins collection",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "sergebulaev/linkedin-skills",
+  "url": "https://github.com/sergebulaev/linkedin-skills",
+  "description": "Social media marketing skills for 7 platforms: corpus-validated hooks, humanizer, audience insights",
+  "tab": "community",
+  "group": "Skill Collections"
+ }
+]

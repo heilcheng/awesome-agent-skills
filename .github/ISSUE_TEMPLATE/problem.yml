@@ -1,0 +1,26 @@
+name: Report a problem
+description: A broken link, a mistake in the README, or a problem with agent-skill.co
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is only for problems with existing content. To suggest a skill, open a pull request instead (see AGENTS.md). Skill suggestions filed here are not reviewed.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem?
+      options:
+        - Broken or wrong link in README
+        - Incorrect description or attribution
+        - Listed skill is archived, deleted, or unsafe
+        - Website (agent-skill.co) problem
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Which entry or page, and what is wrong?
+    validations:
+      required: true
