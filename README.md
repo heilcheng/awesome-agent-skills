@@ -538,6 +538,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard) - Vet link sources before you submit, verify listings, and audit backlinks for link spam
 - [evergreentree97/k-humanizer](https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer) - Translate English into natural Korean for Korean customers; keeps prices, dates and policies exact
 - [coupler-io/skills](https://github.com/coupler-io/skills) - 108 analytics skills for marketing, PPC, SEO, sales, finance and ecommerce on live data
+- [adkit/ads-skills](https://github.com/adkit/ads-skills) - Create, edit and report on campaigns on 8 ad platforms through the AdKit MCP, saved as drafts
 </details>
 
 <details>
