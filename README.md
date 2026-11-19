@@ -520,12 +520,15 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [exmergo/explore](https://github.com/exmergo/dex/tree/main/skills/explore) - Profile warehouses, verify joins, and map schemas
 - [rhiever/evident-charts](https://github.com/rhiever/evident-charts/tree/main/skills/evident-charts) - Makes and critiques charts and checks the rendered image for errors
 - [antvis/ava](https://github.com/antvis/AVA/tree/ai/skills/ava) - Query files and databases, reuse business definitions, and generate interactive charts
+- [muend/geoai-skills](https://github.com/muend/geoai-skills) - 18 geospatial AI skills: CRS, leakage and validity checks before claims
+</details>
+
+<details>
 <summary><strong>Cloud Storage</strong></summary>
 
 - [backblaze-labs/claude-skill-b2-cloud-storage](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage) - Manage Backblaze B2 storage: list, audit, cleanup, security, lifecycle
 - [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Analyze CSV files and generate insights with visualizations
 - [shepsci/kaggle-skill](https://github.com/shepsci/kaggle-skill) - Complete Kaggle integration — competition reports, dataset downloads, submissions
-- [muend/geoai-skills](https://github.com/muend/geoai-skills) - 18 geospatial AI skills: CRS, leakage and validity checks before claims
 </details>
 
 <details>
