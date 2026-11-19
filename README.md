@@ -711,6 +711,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Write, check and render Remotion-style TypeScript videos without a browser
 - [skulitom/pixelbolt-pixel-art](https://github.com/skulitom/Pixelbolt/tree/main/skills/pixel-art) - Make, fix and export pixel art sprites, tiles, effects and short animations from JSON recipes
 - [qrdxinc/generate-qr](https://github.com/qrdxinc/qrdx/tree/main/skills/generate-qr) - Generate styled QR codes as SVG, PNG, WebP or EPS with colors, frames and logos
+- [iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills) - Nine motion design skills: After Effects, logo animation, Remotion, beat-sync editing and more
 </details>
 
 <details>
