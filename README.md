@@ -649,6 +649,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [ScrapingBee/scrapingbee-cli](https://github.com/ScrapingBee/scrapingbee-cli) - Scrape pages, crawl sites, and get Google, Amazon and YouTube data via the ScrapingBee API
 - [buddy/buddy](https://github.com/buddy/buddy-plugin/tree/main/skills/buddy) - Deploy apps to Buddy sandboxes, expose local ports and run pipelines with the bdy CLI
 - [cloudishai/cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) - Deploy a Dockerfile or folder to a live URL, built server-side with no local Docker.
+- [soba-labs/langchain-agent-skills](https://github.com/soba-labs/langchain-agent-skills) - LangChain, LangGraph, LangSmith and Deep Agents development skills
 </details>
 
 <details>
