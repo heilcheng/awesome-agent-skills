@@ -644,6 +644,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [cyucelen/isola-init](https://github.com/cyucelen/isola/tree/main/skills/isola-init) - Configure isola for a repo: services, env and per-worktree databases
 - [tw93/mole](https://github.com/tw93/Mole/tree/main/skills/mole) - Drive the Mole CLI on macOS and Windows: disk usage, cleanup preview, system health
 - [orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift) - Long coding-agent shifts: persistent punch list, clock-out gate, recovery and receipts
+- [ScrapingBee/scrapingbee-cli](https://github.com/ScrapingBee/scrapingbee-cli) - Scrape pages, crawl sites, and get Google, Amazon and YouTube data via the ScrapingBee API
 </details>
 
 <details>
