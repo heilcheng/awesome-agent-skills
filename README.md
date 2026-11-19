@@ -727,6 +727,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [ajnart/self-host](https://github.com/ajnart/self-host) - Agent installs self-hosted apps and sets up admin accounts, API keys and app links
 - [777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications) - Send desktop attention and progress alerts through an installed notification plugin
 - [radres/call-me](https://github.com/radres/call-me/tree/main/skill) - Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app
+- [LazyAGI/workflow-agent-kit](https://github.com/LazyAGI/LazyMind/tree/main/skills/workflow-agent-kit) - Inspect durable LazyMind workflow tasks and review their output artifacts through MCP
 </details>
 
 <details>
