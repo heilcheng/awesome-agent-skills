@@ -475,11 +475,16 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [getsentry/skills](https://github.com/getsentry/skills) - Full collection: debug errors, performance issues, and traces with Sentry
 
 #### Skills by Firecrawl
-- [firecrawl/firecrawl-cli](https://github.com/firecrawl/cli/tree/main/skills/firecrawl) - Scrape, crawl, search, and map the web via CLI
-- [firecrawl/firecrawl-agent](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-agent) - AI agent for autonomous web scraping
-- [firecrawl/firecrawl-browser](https://github.com/firecrawl/cli) - Browser-based web scraping and interaction
-- [firecrawl/firecrawl-scrape](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-scrape) - Scrape web pages and extract content
-- [firecrawl/firecrawl-search](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-search) - Search the web and extract results
+- [firecrawl/firecrawl](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl) - Search, scrape, crawl, map, and interact with the web from the Firecrawl CLI
+- [firecrawl/firecrawl-search](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-search) - Search the web and get page excerpts or full-page content
+- [firecrawl/firecrawl-scrape](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-scrape) - Scrape a known URL into Markdown or schema-based JSON
+- [firecrawl/firecrawl-interact](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-interact) - Click, fill forms, and paginate on a scraped page in a live browser
+- [firecrawl/firecrawl-agent](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-agent) - Navigate websites autonomously and extract structured data across pages
+- [firecrawl/firecrawl-alexandria](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-alexandria) - Get structured data from Firecrawl Alexandria workflows, data APIs, and indexes
+- [firecrawl/firecrawl-deep-research](https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-deep-research) - Write a cited research report from multiple web sources
+- [firecrawl/firecrawl-seo-audit](https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-seo-audit) - Audit a site's titles, meta tags, headings, and internal links for SEO issues
+- [firecrawl/firecrawl-competitive-intel](https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-competitive-intel) - Track competitor pricing, features, and changelogs
+- [firecrawl/skills](https://github.com/firecrawl/skills) - Full collection: core, workflow, and build skills for Firecrawl
 
 <details>
 <summary><strong>Skills by Microsoft</strong></summary>
