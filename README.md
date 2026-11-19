@@ -634,6 +634,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
 - [orbi-build/orbi](https://github.com/orbi-build/orbi/tree/main/integrations/claude-plugin/skills) - Draft and suggest GitHub Issues an AI agent can deliver as reviewed PRs
+- [ateymoori/android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Drive and check an Android app's UI on the emulator through Oh My Android MCP tools
 </details>
 
 <details>
