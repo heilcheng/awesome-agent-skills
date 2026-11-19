@@ -736,6 +736,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
 - [Reware-Labs/securitycards](https://github.com/Reware-Labs/securitycards) - Fetch version-pinned secure-coding rules for the libraries a project uses
 - [Echolonius/safe-agent-commerce](https://github.com/Echolonius/the-penniless-agent/tree/main/skills/safe-agent-commerce) - Safety rules for agents that earn or spend money: check payment proof before doing any work
+- [goul4rt/lgpd-skills](https://github.com/goul4rt/lgpd-skills) - Audit and implement LGPD (Brazil data protection) and ECA Digital compliance in code
 </details>
 
 <details>
