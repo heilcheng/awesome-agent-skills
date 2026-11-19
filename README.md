@@ -656,6 +656,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [soba-labs/langchain-agent-skills](https://github.com/soba-labs/langchain-agent-skills) - LangChain, LangGraph, LangSmith and Deep Agents development skills
 - [hyper-elements/hyper-elements](https://github.com/hyper-elements/hyper-elements/tree/main/skills/hyper-elements) - Write emails, web pages, PDFs and images as React components
 - [hyper-elements/email-testing](https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing) - Preview and check any HTML email in Outlook, Gmail, Apple Mail, Yahoo and AOL
+- [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui/tree/main/skills/unslop-ui) - Removes AI tells from UI copy, charts and dashboards, and reports what it cut.
 </details>
 
 <details>
