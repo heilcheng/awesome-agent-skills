@@ -712,6 +712,9 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [skulitom/pixelbolt-pixel-art](https://github.com/skulitom/Pixelbolt/tree/main/skills/pixel-art) - Make, fix and export pixel art sprites, tiles, effects and short animations from JSON recipes
 - [qrdxinc/generate-qr](https://github.com/qrdxinc/qrdx/tree/main/skills/generate-qr) - Generate styled QR codes as SVG, PNG, WebP or EPS with colors, frames and logos
 - [iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills) - Nine motion design skills: After Effects, logo animation, Remotion, beat-sync editing and more
+- [jangtrinh/design-os-figma-plugin](https://github.com/jangtrinh/design-os-figma-plugin) - Free CLI bridge letting Claude Code or Codex read and edit the file open in Figma Desktop
+- [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) - Free skills and MCP server for modelling, verifying and rendering 3D in headless Blender
+- [jangtrinh/design-os-studio](https://github.com/jangtrinh/design-os-studio) - Free design skills for DESIGN:OS Studio, a GPU interface design tool with code output
 </details>
 
 <details>
