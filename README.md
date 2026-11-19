@@ -768,6 +768,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [cbrock84/headcount](https://github.com/cbrock84/headcount) - Company-department skills (legal, finance, security, ops), each citing its governing source
 - [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Curated Chinese Claude Code skills, agents and plugins collection
 - [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 66 skills for SEO and GEO audits, conversion copy, code review and app shipping
+- [nexscope-ai/nexscope-ecommerce-skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills) - 127 portable ecommerce skills for marketplace research, keywords, sourcing, and listings
 </details>
 
 ---
