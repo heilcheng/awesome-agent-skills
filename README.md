@@ -578,6 +578,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
 - [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html) - Answers hard questions as one readable, offline HTML page
 - [tt-a1i/archify](https://github.com/tt-a1i/archify/tree/main/archify) - Turn ideas, plans, workflows, or code into interactive HTML diagrams (10 types) and explainers
+- [Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/academic-translation-toolkit) - Translate foreign academic handouts into Chinese with subject glossaries and multi-format export
 </details>
 
 <details>
