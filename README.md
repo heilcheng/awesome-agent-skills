@@ -654,6 +654,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [jakedahn/pomodoro](https://github.com/jakedahn/pomodoro) - System Skill Pattern — skills that remember and improve
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Mind cloning with LLM skills
 - [JayPokale/Chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle) - Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Cross-agent memory skills (deja-history, deja-search, deja-reflect) across 43 coding agents
 </details>
 
 <details>
