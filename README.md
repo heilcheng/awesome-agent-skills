@@ -779,6 +779,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 66 skills for SEO and GEO audits, conversion copy, code review and app shipping
 - [nexscope-ai/nexscope-ecommerce-skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills) - 127 portable ecommerce skills for marketplace research, keywords, sourcing, and listings
 - [thedesignproject/agent-skills](https://github.com/thedesignproject/agent-skills) - Design-system and UI skills for designers working with AI agents
+- [off-grid-ai/skills](https://github.com/off-grid-ai/skills) - 49 skills for real-app testing, design review, legacy codebases and deploys
 </details>
 
 ---
