@@ -685,6 +685,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Mind cloning with LLM skills
 - [JayPokale/Chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle) - Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Cross-agent memory skills (deja-history, deja-search, deja-reflect) across 43 coding agents
+- [Qiuner/birdview](https://github.com/Qiuner/birdview) - Map architecture and constraints to source evidence, review planned changes, and record checks.
 </details>
 
 <details>
@@ -729,7 +730,6 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <summary><strong>Writing & Storytelling</strong></summary>
 
 - [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity
-- [Qiuner/birdview](https://github.com/Qiuner/birdview) - Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML
 - [manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop) - Flags stock AI phrasing, guides the edit, checks names, numbers, quotes and links
 - [federicodeponte/autonomous-research](https://github.com/federicodeponte/opendraft/tree/master/skills/autonomous-research) - Drafts research papers and literature reviews from one topic, with checked DOIs
 - [duyunzhoudyz/gongwen](https://github.com/duyunzhoudyz/dyz-gongwen-skills/tree/main/skills/gongwen) - Chinese official document writing: drafting, review, GB/T 9704 formatting; no fabrication
