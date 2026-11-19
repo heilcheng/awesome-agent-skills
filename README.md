@@ -653,6 +653,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [buddy/buddy](https://github.com/buddy/buddy-plugin/tree/main/skills/buddy) - Deploy apps to Buddy sandboxes, expose local ports and run pipelines with the bdy CLI
 - [cloudishai/cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) - Deploy a Dockerfile or folder to a live URL, built server-side with no local Docker.
 - [soba-labs/langchain-agent-skills](https://github.com/soba-labs/langchain-agent-skills) - LangChain, LangGraph, LangSmith and Deep Agents development skills
+- [hyper-elements/hyper-elements](https://github.com/hyper-elements/hyper-elements/tree/main/skills/hyper-elements) - Write emails, web pages, PDFs and images as React components
+- [hyper-elements/email-testing](https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing) - Preview and check any HTML email in Outlook, Gmail, Apple Mail, Yahoo and AOL
 </details>
 
 <details>
