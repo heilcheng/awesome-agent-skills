@@ -682,6 +682,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [vargHQ/how-to-make-ai-video](https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video) - How to make any AI video: find the skill, the options to show and the steps. No key needed.
 - [liyupi/memecub](https://github.com/liyupi/memecub) - Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles
 - [krisyangdev/motionboard](https://github.com/krisyangdev/motionboard) - Make launch films from 38 Apple and Linear shot recipes, rebuilt in HyperFrames (HTML + GSAP).
+- [marvtub/takes-video-edit](https://github.com/marvtub/takes-public/tree/main/skills/takes-video-edit) - Cut, caption and reframe talking-head takes in the Takes Mac app, from your agent
 </details>
 
 <details>
