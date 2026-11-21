@@ -705,6 +705,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
 - [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
 - [Reware-Labs/securitycards](https://github.com/Reware-Labs/securitycards) - Fetch version-pinned secure-coding rules for the libraries a project uses
+- [shirokun20/kuron-security](https://github.com/shirokun20/kuron-security) - Run Anthropic's Claude Security pipeline (codebase scan, diff scan, scratch-clone patch verification) on any AI coding agent without the Workflow tool, with a 3-lens refutation panel and SARIF 2.1.0 output
 </details>
 
 <details>
