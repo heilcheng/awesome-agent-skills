@@ -535,6 +535,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) - 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops
 - [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) - 19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator
 - [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard) - Vet link sources before you submit, verify listings, and audit backlinks for link spam
+- [backtrue/thinkwithblack-skill](https://github.com/backtrue/thinkwithblack-skill) - 365 bilingual marketing skills for ads, pricing, contribution margin, and repeat purchases.
 </details>
 
 <details>
