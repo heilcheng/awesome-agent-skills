@@ -505,6 +505,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <details>
 <summary><strong>Vector Databases</strong></summary>
 
+- [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill) - Publish a file or folder to a permanent deed.page URL with one request, no account needed
 - [qdrant/skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search, scaling, and performance
 </details>
 
