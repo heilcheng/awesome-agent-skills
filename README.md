@@ -705,6 +705,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
 - [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
 - [Reware-Labs/securitycards](https://github.com/Reware-Labs/securitycards) - Fetch version-pinned secure-coding rules for the libraries a project uses
+- [sandhiveio/How-Could-I-Be-Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked) - Local PR security checks adapted from real open-source reviews
 </details>
 
 <details>
