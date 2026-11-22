@@ -570,6 +570,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [Drix10/ai-news](https://github.com/Drix10/ai-resources/tree/main/skills/ai-news) - Answer "what's new in AI" questions from dated AI news briefings, citing the source posts
 - [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) - Wisdom companion skill with SQLite memory vault that stays silent during pure coding work
 - [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
+- [rockdesk-io/rockdesk-skill](https://github.com/rockdesk-io/rockdesk-skill) - P2P remote control skill & MCP server: shell, 1-RTT FUSE mount, port/serial/USB, GUI
 </details>
 
 <details>
