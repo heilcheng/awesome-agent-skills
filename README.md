@@ -570,6 +570,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [Drix10/ai-news](https://github.com/Drix10/ai-resources/tree/main/skills/ai-news) - Answer "what's new in AI" questions from dated AI news briefings, citing the source posts
 - [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) - Wisdom companion skill with SQLite memory vault that stays silent during pure coding work
 - [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
+- [rockdesk-io/rockdesk-skill](https://github.com/rockdesk-io/rockdesk-skill) - Cross-platform peer-to-peer remote control skill & stdio MCP server (`rds mcp`, 18 tools) for Claude Code, Codex, Gemini CLI, DeepSeek Harness, TRAE, and WorkBuddy — persistent remote shell, 1-RTT FUSE directory mounting, TCP/serial/USB forwarding, and screen/input automation across Windows, macOS, Linux/ARM64, Android, and ESP32-S3
 </details>
 
 <details>
