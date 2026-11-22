@@ -633,7 +633,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
-- [lurcie21/skill-scout](https://github.com/lurcie21/skill-scout) - Audit a GitHub skill repo before installing it: dangerous-call scan, license check, review-only by default
+- [lurcie21/skill-scout](https://github.com/lurcie21/skill-scout) - Audit a GitHub skill repo before install: license, SKILL.md, dangerous calls; review-only.
 </details>
 
 <details>
@@ -697,7 +697,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 <summary><strong>Media & Content</strong></summary>
 
 - [tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) - Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API
-- [lurcie21/douyin-video-brief](https://github.com/lurcie21/douyin-video-brief) - Douyin video to transcript and notes: stream fetch, key frames, faster-whisper transcription, structured summary
+- [lurcie21/douyin-video-brief](https://github.com/lurcie21/douyin-video-brief) - Douyin video to transcript and notes: stream fetch, key frames, faster-whisper, summary.
 </details>
 
 <details>
