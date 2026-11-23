@@ -589,6 +589,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html) - Answers hard questions as one readable, offline HTML page
 - [tt-a1i/archify](https://github.com/tt-a1i/archify/tree/main/archify) - Turn ideas, plans, workflows, or code into interactive HTML diagrams (10 types) and explainers
 - [Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/academic-translation-toolkit) - Translate foreign academic handouts into Chinese with subject glossaries and multi-format export
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web from the last 30 days
 </details>
 
 <details>
