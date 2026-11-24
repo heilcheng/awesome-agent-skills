@@ -466,11 +466,16 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [getsentry/skills](https://github.com/getsentry/skills) - Full collection: debug errors, performance issues, and traces with Sentry
 
 #### Firecrawl 技能
-- [firecrawl/firecrawl-cli](https://github.com/firecrawl/cli/tree/main/skills/firecrawl) - Scrape, crawl, search, and map the web via CLI
-- [firecrawl/firecrawl-agent](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-agent) - AI agent for autonomous web scraping
-- [firecrawl/firecrawl-browser](https://github.com/firecrawl/cli) - Browser-based web scraping and interaction
-- [firecrawl/firecrawl-scrape](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-scrape) - Scrape web pages and extract content
-- [firecrawl/firecrawl-search](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-search) - Search the web and extract results
+- [firecrawl/firecrawl](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl) - Search, scrape, crawl, map, and interact with the web from the Firecrawl CLI
+- [firecrawl/firecrawl-search](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-search) - Search the web and get page excerpts or full-page content
+- [firecrawl/firecrawl-scrape](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-scrape) - Scrape a known URL into Markdown or schema-based JSON
+- [firecrawl/firecrawl-interact](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-interact) - Click, fill forms, and paginate on a scraped page in a live browser
+- [firecrawl/firecrawl-agent](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-agent) - Navigate websites autonomously and extract structured data across pages
+- [firecrawl/firecrawl-alexandria](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-alexandria) - Get structured data from Firecrawl Alexandria workflows, data APIs, and indexes
+- [firecrawl/firecrawl-deep-research](https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-deep-research) - Write a cited research report from multiple web sources
+- [firecrawl/firecrawl-seo-audit](https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-seo-audit) - Audit a site's titles, meta tags, headings, and internal links for SEO issues
+- [firecrawl/firecrawl-competitive-intel](https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-competitive-intel) - Track competitor pricing, features, and changelogs
+- [firecrawl/skills](https://github.com/firecrawl/skills) - Full collection: core, workflow, and build skills for Firecrawl
 
 <details>
 <summary><strong>Microsoft 技能</strong></summary>
@@ -506,6 +511,12 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 
 - [honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins) - 11 skills + MCP server for building and querying a governed semantic layer over Snowflake, Databricks, and BigQuery from coding agents (Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI). Same trusted model serves BI tools and AI agents. Plugins are Apache 2.0.
 - [exmergo/explore](https://github.com/exmergo/dex/tree/main/skills/explore) - Profile warehouses, verify joins, and map schemas
+- [rhiever/evident-charts](https://github.com/rhiever/evident-charts/tree/main/skills/evident-charts) - Makes and critiques charts and checks the rendered image for errors
+- [antvis/ava](https://github.com/antvis/AVA/tree/ai/skills/ava) - Query files and databases, reuse business definitions, and generate interactive charts
+- [muend/geoai-skills](https://github.com/muend/geoai-skills) - 18 geospatial AI skills: CRS, leakage and validity checks before claims
+</details>
+
+<details>
 <summary><strong>云存储</strong></summary>
 
 - [backblaze-labs/claude-skill-b2-cloud-storage](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage) - Manage Backblaze B2 storage: list, audit, cleanup, security, lifecycle
@@ -528,6 +539,10 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) - 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops
 - [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) - 19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator
 - [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard) - Vet link sources before you submit, verify listings, and audit backlinks for link spam
+- [evergreentree97/k-humanizer](https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer) - Translate English into natural Korean for Korean customers; keeps prices, dates and policies exact
+- [coupler-io/skills](https://github.com/coupler-io/skills) - 108 analytics skills for marketing, PPC, SEO, sales, finance and ecommerce on live data
+- [adkit/ads-skills](https://github.com/adkit/ads-skills) - Create, edit and report on campaigns on 8 ad platforms through the AdKit MCP, saved as drafts
+- [backtrue/thinkwithblack-skill](https://github.com/backtrue/thinkwithblack-skill) - 365 bilingual marketing skills for ads, pricing, contribution margin, and repeat purchases.
 </details>
 
 <details>
@@ -538,6 +553,7 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - 12 skills for ecommerce product images (Amazon main image, A+, banners)
 - [xianyu110/ecommerce-video-skills](https://github.com/xianyu110/ecommerce-video-skills) - 12 skills for ecommerce short videos with local ffmpeg rendering
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scores each job against your CV; you press Submit
+- [evergreentree97/k-humanizer-resume](https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer-resume) - Edit Korean resumes and job applications without adding claims beyond the supplied evidence
 </details>
 
 <details>
@@ -563,6 +579,10 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [Drix10/ai-news](https://github.com/Drix10/ai-resources/tree/main/skills/ai-news) - Answer "what's new in AI" questions from dated AI news briefings, citing the source posts
 - [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) - Wisdom companion skill with SQLite memory vault that stays silent during pure coding work
 - [kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) - Publish text, files or folder sites to brewpage.app and return a shareable link
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html) - Answers hard questions as one readable, offline HTML page
+- [tt-a1i/archify](https://github.com/tt-a1i/archify/tree/main/archify) - Turn ideas, plans, workflows, or code into interactive HTML diagrams (10 types) and explainers
+- [Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/academic-translation-toolkit) - Translate foreign academic handouts into Chinese with subject glossaries and multi-format export
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web from the last 30 days
 </details>
 
 <details>
@@ -625,7 +645,25 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [Grit-77/checking-delivery](https://github.com/Grit-77/done-is-a-claim/tree/main/skills/checking-delivery) - Check delivery at its destination and separate acknowledgements from verified consumer results.
 - [cyphercodes/location-picker](https://github.com/cyphercodes/location-picker/tree/master/skills/location-picker) - Add a map field that captures one latitude/longitude to web forms and apps
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
+- [swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli) - Turn a text DSL, JSON, or Graphviz DOT into an editable, auto-laid-out Excalidraw diagram
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
+- [orbi-build/orbi](https://github.com/orbi-build/orbi/tree/main/integrations/claude-plugin/skills) - Draft and suggest GitHub Issues an AI agent can deliver as reviewed PRs
+- [ateymoori/android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Drive and check an Android app's UI on the emulator through Oh My Android MCP tools
+- [tiptreesystems/lacuna-code-to-paper](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-code-to-paper) - Trace an ML repository to its recorded research papers via Lacuna MCP
+- [tiptreesystems/lacuna-prior-work](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-prior-work) - Compare a proposed ML method with prior papers and research directions via Lacuna MCP
+- [onehumanbeing/handsy](https://github.com/onehumanbeing/esp32-iphone-agent/tree/main/skills/handsy) - See and operate a real iPhone through an ESP32-S3 board with the esp32agent CLI or MCP
+- [cyucelen/isola](https://github.com/cyucelen/isola/tree/main/skills/isola) - Run per-worktree dev services, ports and databases with the isola CLI
+- [cyucelen/isola-init](https://github.com/cyucelen/isola/tree/main/skills/isola-init) - Configure isola for a repo: services, env and per-worktree databases
+- [tw93/mole](https://github.com/tw93/Mole/tree/main/skills/mole) - Drive the Mole CLI on macOS and Windows: disk usage, cleanup preview, system health
+- [orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift) - Long coding-agent shifts: persistent punch list, clock-out gate, recovery and receipts
+- [ScrapingBee/scrapingbee-cli](https://github.com/ScrapingBee/scrapingbee-cli) - Scrape pages, crawl sites, and get Google, Amazon and YouTube data via the ScrapingBee API
+- [buddy/buddy](https://github.com/buddy/buddy-plugin/tree/main/skills/buddy) - Deploy apps to Buddy sandboxes, expose local ports and run pipelines with the bdy CLI
+- [cloudishai/cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) - Deploy a Dockerfile or folder to a live URL, built server-side with no local Docker.
+- [soba-labs/langchain-agent-skills](https://github.com/soba-labs/langchain-agent-skills) - LangChain, LangGraph, LangSmith and Deep Agents development skills
+- [hyper-elements/hyper-elements](https://github.com/hyper-elements/hyper-elements/tree/main/skills/hyper-elements) - Write emails, web pages, PDFs and images as React components
+- [hyper-elements/email-testing](https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing) - Preview and check any HTML email in Outlook, Gmail, Apple Mail, Yahoo and AOL
+- [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui/tree/main/skills/unslop-ui) - Removes AI tells from UI copy, charts and dashboards, and reports what it cut.
+- [alexgaoth/find-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/plugin/skills/find-reverse-engineered) - Find an open-source reverse-engineered tool for a closed app, API, device or file format
 </details>
 
 <details>
@@ -644,6 +682,8 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [jakedahn/pomodoro](https://github.com/jakedahn/pomodoro) - System Skill Pattern — skills that remember and improve
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Mind cloning with LLM skills
 - [JayPokale/Chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle) - Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Cross-agent memory skills (deja-history, deja-search, deja-reflect) across 43 coding agents
+- [Qiuner/birdview](https://github.com/Qiuner/birdview) - Map architecture and constraints to source evidence, review planned changes, and record checks.
 </details>
 
 <details>
@@ -675,20 +715,30 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [vargHQ/how-to-make-ai-video](https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video) - How to make any AI video: find the skill, the options to show and the steps. No key needed.
 - [liyupi/memecub](https://github.com/liyupi/memecub) - Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles
 - [krisyangdev/motionboard](https://github.com/krisyangdev/motionboard) - Make launch films from 38 Apple and Linear shot recipes, rebuilt in HyperFrames (HTML + GSAP).
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Write, check and render Remotion-style TypeScript videos without a browser
+- [skulitom/pixelbolt-pixel-art](https://github.com/skulitom/Pixelbolt/tree/main/skills/pixel-art) - Make, fix and export pixel art sprites, tiles, effects and short animations from JSON recipes
+- [qrdxinc/generate-qr](https://github.com/qrdxinc/qrdx/tree/main/skills/generate-qr) - Generate styled QR codes as SVG, PNG, WebP or EPS with colors, frames and logos
+- [iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills) - Nine motion design skills: After Effects, logo animation, Remotion, beat-sync editing and more
+- [jangtrinh/design-os-figma-plugin](https://github.com/jangtrinh/design-os-figma-plugin) - Free CLI bridge letting Claude Code or Codex read and edit the file open in Figma Desktop
+- [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) - Free skills and MCP server for modelling, verifying and rendering 3D in headless Blender
+- [jangtrinh/design-os-studio](https://github.com/jangtrinh/design-os-studio) - Free design skills for DESIGN:OS Studio, a GPU interface design tool with code output
+- [marvtub/takes-video-edit](https://github.com/marvtub/takes-public/tree/main/skills/takes-video-edit) - Cut, caption and reframe talking-head takes in the Takes Mac app, from your agent
 </details>
 
 <details>
 <summary><strong>写作与叙事</strong></summary>
 
 - [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity
-- [Qiuner/birdview](https://github.com/Qiuner/birdview) - Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML
 - [manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop) - Flags stock AI phrasing, guides the edit, checks names, numbers, quotes and links
+- [federicodeponte/autonomous-research](https://github.com/federicodeponte/opendraft/tree/master/skills/autonomous-research) - Drafts research papers and literature reviews from one topic, with checked DOIs
+- [duyunzhoudyz/gongwen](https://github.com/duyunzhoudyz/dyz-gongwen-skills/tree/main/skills/gongwen) - Chinese official document writing: drafting, review, GB/T 9704 formatting; no fabrication
 </details>
 
 <details>
 <summary><strong>媒体与内容</strong></summary>
 
 - [tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) - Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API
+- [video-db/skills](https://github.com/video-db/skills) - VideoDB lets an AI agent watch, search and clip video. Works in Claude, ChatGPT, Claude Code, Cursor and any MCP client.
 </details>
 
 <details>
@@ -698,6 +748,9 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
 - [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
 - [Reware-Labs/securitycards](https://github.com/Reware-Labs/securitycards) - Fetch version-pinned secure-coding rules for the libraries a project uses
+- [Echolonius/safe-agent-commerce](https://github.com/Echolonius/the-penniless-agent/tree/main/skills/safe-agent-commerce) - Safety rules for agents that earn or spend money: check payment proof before doing any work
+- [goul4rt/lgpd-skills](https://github.com/goul4rt/lgpd-skills) - Audit and implement LGPD (Brazil data protection) and ECA Digital compliance in code
+- [sandhiveio/How-Could-I-Be-Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked) - Local PR security checks adapted from real open-source reviews
 </details>
 
 <details>
@@ -718,6 +771,8 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [ajnart/self-host](https://github.com/ajnart/self-host) - Agent installs self-hosted apps and sets up admin accounts, API keys and app links
 - [777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications) - Send desktop attention and progress alerts through an installed notification plugin
 - [radres/call-me](https://github.com/radres/call-me/tree/main/skill) - Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app
+- [LazyAGI/workflow-agent-kit](https://github.com/LazyAGI/LazyMind/tree/main/skills/workflow-agent-kit) - Inspect durable LazyMind workflow tasks and review their output artifacts through MCP
+- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) - Search, product cards, reviews and price comparison across 12 Russian and Chinese marketplaces
 </details>
 
 <details>
@@ -737,6 +792,10 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ skills covering the full academic research lifecycle, from literature review to peer review
 - [cbrock84/headcount](https://github.com/cbrock84/headcount) - Company-department skills (legal, finance, security, ops), each citing its governing source
 - [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Curated Chinese Claude Code skills, agents and plugins collection
+- [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 66 skills for SEO and GEO audits, conversion copy, code review and app shipping
+- [nexscope-ai/nexscope-ecommerce-skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills) - 127 portable ecommerce skills for marketplace research, keywords, sourcing, and listings
+- [thedesignproject/agent-skills](https://github.com/thedesignproject/agent-skills) - Design-system and UI skills for designers working with AI agents
+- [off-grid-ai/skills](https://github.com/off-grid-ai/skills) - 49 skills for real-app testing, design review, legacy codebases and deploys
 </details>
 
 ---

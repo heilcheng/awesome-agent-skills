@@ -1232,37 +1232,72 @@
   "group": "Sentry"
  },
  {
-  "name": "firecrawl/firecrawl-cli",
-  "url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl",
-  "description": "Scrape, crawl, search, and map the web via CLI",
-  "tab": "security",
-  "group": "Firecrawl"
- },
- {
-  "name": "firecrawl/firecrawl-agent",
-  "url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl-agent",
-  "description": "AI agent for autonomous web scraping",
-  "tab": "security",
-  "group": "Firecrawl"
- },
- {
-  "name": "firecrawl/firecrawl-browser",
-  "url": "https://github.com/firecrawl/cli",
-  "description": "Browser-based web scraping and interaction",
-  "tab": "security",
-  "group": "Firecrawl"
- },
- {
-  "name": "firecrawl/firecrawl-scrape",
-  "url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl-scrape",
-  "description": "Scrape web pages and extract content",
+  "name": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl",
+  "description": "Search, scrape, crawl, map, and interact with the web from the Firecrawl CLI",
   "tab": "security",
   "group": "Firecrawl"
  },
  {
   "name": "firecrawl/firecrawl-search",
-  "url": "https://github.com/firecrawl/cli/tree/main/skills/firecrawl-search",
-  "description": "Search the web and extract results",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-search",
+  "description": "Search the web and get page excerpts or full-page content",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-scrape",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-scrape",
+  "description": "Scrape a known URL into Markdown or schema-based JSON",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-interact",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-interact",
+  "description": "Click, fill forms, and paginate on a scraped page in a live browser",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-agent",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-agent",
+  "description": "Navigate websites autonomously and extract structured data across pages",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-alexandria",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-alexandria",
+  "description": "Get structured data from Firecrawl Alexandria workflows, data APIs, and indexes",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-deep-research",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-deep-research",
+  "description": "Write a cited research report from multiple web sources",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-seo-audit",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-seo-audit",
+  "description": "Audit a site's titles, meta tags, headings, and internal links for SEO issues",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/firecrawl-competitive-intel",
+  "url": "https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-competitive-intel",
+  "description": "Track competitor pricing, features, and changelogs",
+  "tab": "security",
+  "group": "Firecrawl"
+ },
+ {
+  "name": "firecrawl/skills",
+  "url": "https://github.com/firecrawl/skills",
+  "description": "Full collection: core, workflow, and build skills for Firecrawl",
   "tab": "security",
   "group": "Firecrawl"
  },
@@ -1347,6 +1382,27 @@
   "name": "exmergo/explore",
   "url": "https://github.com/exmergo/dex/tree/main/skills/explore",
   "description": "Profile warehouses, verify joins, and map schemas",
+  "tab": "community",
+  "group": "Data & Analytics"
+ },
+ {
+  "name": "rhiever/evident-charts",
+  "url": "https://github.com/rhiever/evident-charts/tree/main/skills/evident-charts",
+  "description": "Makes and critiques charts and checks the rendered image for errors",
+  "tab": "community",
+  "group": "Data & Analytics"
+ },
+ {
+  "name": "antvis/ava",
+  "url": "https://github.com/antvis/AVA/tree/ai/skills/ava",
+  "description": "Query files and databases, reuse business definitions, and generate interactive charts",
+  "tab": "community",
+  "group": "Data & Analytics"
+ },
+ {
+  "name": "muend/geoai-skills",
+  "url": "https://github.com/muend/geoai-skills",
+  "description": "18 geospatial AI skills: CRS, leakage and validity checks before claims",
   "tab": "community",
   "group": "Data & Analytics"
  },
@@ -1456,6 +1512,34 @@
   "group": "Marketing"
  },
  {
+  "name": "evergreentree97/k-humanizer",
+  "url": "https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer",
+  "description": "Translate English into natural Korean for Korean customers; keeps prices, dates and policies exact",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "coupler-io/skills",
+  "url": "https://github.com/coupler-io/skills",
+  "description": "108 analytics skills for marketing, PPC, SEO, sales, finance and ecommerce on live data",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "adkit/ads-skills",
+  "url": "https://github.com/adkit/ads-skills",
+  "description": "Create, edit and report on campaigns on 8 ad platforms through the AdKit MCP, saved as drafts",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "backtrue/thinkwithblack-skill",
+  "url": "https://github.com/backtrue/thinkwithblack-skill",
+  "description": "365 bilingual marketing skills for ads, pricing, contribution margin, and repeat purchases.",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
   "name": "vaibhavarora14/job-application-agent",
   "url": "https://github.com/vaibhavarora14/job-application-agent",
   "description": "Privacy-first skill to discover, qualify, complete, and track your own job applications",
@@ -1487,6 +1571,13 @@
   "name": "career-ops-hq/career-ops",
   "url": "https://github.com/career-ops-hq/career-ops",
   "description": "Open-source AI job search agent: scores each job against your CV; you press Submit",
+  "tab": "community",
+  "group": "Career"
+ },
+ {
+  "name": "evergreentree97/k-humanizer-resume",
+  "url": "https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer-resume",
+  "description": "Edit Korean resumes and job applications without adding claims beyond the supplied evidence",
   "tab": "community",
   "group": "Career"
  },
@@ -1627,6 +1718,34 @@
   "name": "kochetkov-ma/brewpage-publish",
   "url": "https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish",
   "description": "Publish text, files or folder sites to brewpage.app and return a shareable link",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "QingYunA/answer-me-with-html",
+  "url": "https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html",
+  "description": "Answers hard questions as one readable, offline HTML page",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify/tree/main/archify",
+  "description": "Turn ideas, plans, workflows, or code into interactive HTML diagrams (10 types) and explainers",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "Koloyaaa/foreign-academic-translator",
+  "url": "https://github.com/Koloyaaa/academic-translation-toolkit",
+  "description": "Translate foreign academic handouts into Chinese with subject glossaries and multi-format export",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web from the last 30 days",
   "tab": "community",
   "group": "Productivity and Collaboration"
  },
@@ -2030,9 +2149,135 @@
   "group": "Development and Testing"
  },
  {
+  "name": "swiftlysingh/excalidraw-cli",
+  "url": "https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli",
+  "description": "Turn a text DSL, JSON, or Graphviz DOT into an editable, auto-laid-out Excalidraw diagram",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
   "name": "ukorvl/lightweight-charts-react-components",
   "url": "https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components",
   "description": "React financial-chart integration recipes for coding agents",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "orbi-build/orbi",
+  "url": "https://github.com/orbi-build/orbi/tree/main/integrations/claude-plugin/skills",
+  "description": "Draft and suggest GitHub Issues an AI agent can deliver as reviewed PRs",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "ateymoori/android-ui-check",
+  "url": "https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check",
+  "description": "Drive and check an Android app's UI on the emulator through Oh My Android MCP tools",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "tiptreesystems/lacuna-code-to-paper",
+  "url": "https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-code-to-paper",
+  "description": "Trace an ML repository to its recorded research papers via Lacuna MCP",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "tiptreesystems/lacuna-prior-work",
+  "url": "https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-prior-work",
+  "description": "Compare a proposed ML method with prior papers and research directions via Lacuna MCP",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "onehumanbeing/handsy",
+  "url": "https://github.com/onehumanbeing/esp32-iphone-agent/tree/main/skills/handsy",
+  "description": "See and operate a real iPhone through an ESP32-S3 board with the esp32agent CLI or MCP",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "cyucelen/isola",
+  "url": "https://github.com/cyucelen/isola/tree/main/skills/isola",
+  "description": "Run per-worktree dev services, ports and databases with the isola CLI",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "cyucelen/isola-init",
+  "url": "https://github.com/cyucelen/isola/tree/main/skills/isola-init",
+  "description": "Configure isola for a repo: services, env and per-worktree databases",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "tw93/mole",
+  "url": "https://github.com/tw93/Mole/tree/main/skills/mole",
+  "description": "Drive the Mole CLI on macOS and Windows: disk usage, cleanup preview, system health",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "orwa-mahmoud/nightshift",
+  "url": "https://github.com/orwa-mahmoud/nightshift",
+  "description": "Long coding-agent shifts: persistent punch list, clock-out gate, recovery and receipts",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "ScrapingBee/scrapingbee-cli",
+  "url": "https://github.com/ScrapingBee/scrapingbee-cli",
+  "description": "Scrape pages, crawl sites, and get Google, Amazon and YouTube data via the ScrapingBee API",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "buddy/buddy",
+  "url": "https://github.com/buddy/buddy-plugin/tree/main/skills/buddy",
+  "description": "Deploy apps to Buddy sandboxes, expose local ports and run pipelines with the bdy CLI",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "cloudishai/cloudish",
+  "url": "https://github.com/cloudishai/skills/tree/main/skills/cloudish",
+  "description": "Deploy a Dockerfile or folder to a live URL, built server-side with no local Docker.",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "soba-labs/langchain-agent-skills",
+  "url": "https://github.com/soba-labs/langchain-agent-skills",
+  "description": "LangChain, LangGraph, LangSmith and Deep Agents development skills",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "hyper-elements/hyper-elements",
+  "url": "https://github.com/hyper-elements/hyper-elements/tree/main/skills/hyper-elements",
+  "description": "Write emails, web pages, PDFs and images as React components",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "hyper-elements/email-testing",
+  "url": "https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing",
+  "description": "Preview and check any HTML email in Outlook, Gmail, Apple Mail, Yahoo and AOL",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "felipebasurto/unslop-ui",
+  "url": "https://github.com/felipebasurto/unslop-ui/tree/main/skills/unslop-ui",
+  "description": "Removes AI tells from UI copy, charts and dashboards, and reports what it cut.",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "alexgaoth/find-reverse-engineered",
+  "url": "https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/plugin/skills/find-reverse-engineered",
+  "description": "Find an open-source reverse-engineered tool for a closed app, API, device or file format",
   "tab": "community",
   "group": "Development and Testing"
  },
@@ -2124,6 +2369,20 @@
   "name": "JayPokale/Chisle",
   "url": "https://github.com/JayPokale/Chisle/tree/main/skills/chisle",
   "description": "Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "vshulcz/deja-vu",
+  "url": "https://github.com/vshulcz/deja-vu",
+  "description": "Cross-agent memory skills (deja-history, deja-search, deja-reflect) across 43 coding agents",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
+  "name": "Qiuner/birdview",
+  "url": "https://github.com/Qiuner/birdview",
+  "description": "Map architecture and constraints to source evidence, review planned changes, and record checks.",
   "tab": "community",
   "group": "Context Engineering"
  },
@@ -2240,16 +2499,65 @@
   "group": "Creative and Media"
  },
  {
+  "name": "0xS4N4TG/kinetograph",
+  "url": "https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph",
+  "description": "Write, check and render Remotion-style TypeScript videos without a browser",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "skulitom/pixelbolt-pixel-art",
+  "url": "https://github.com/skulitom/Pixelbolt/tree/main/skills/pixel-art",
+  "description": "Make, fix and export pixel art sprites, tiles, effects and short animations from JSON recipes",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "qrdxinc/generate-qr",
+  "url": "https://github.com/qrdxinc/qrdx/tree/main/skills/generate-qr",
+  "description": "Generate styled QR codes as SVG, PNG, WebP or EPS with colors, frames and logos",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "iart-ai/motion-design-skills",
+  "url": "https://github.com/iart-ai/motion-design-skills",
+  "description": "Nine motion design skills: After Effects, logo animation, Remotion, beat-sync editing and more",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "jangtrinh/design-os-figma-plugin",
+  "url": "https://github.com/jangtrinh/design-os-figma-plugin",
+  "description": "Free CLI bridge letting Claude Code or Codex read and edit the file open in Figma Desktop",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "jangtrinh/design-os-3d-blender",
+  "url": "https://github.com/jangtrinh/design-os-3d-blender",
+  "description": "Free skills and MCP server for modelling, verifying and rendering 3D in headless Blender",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "jangtrinh/design-os-studio",
+  "url": "https://github.com/jangtrinh/design-os-studio",
+  "description": "Free design skills for DESIGN:OS Studio, a GPU interface design tool with code output",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
+  "name": "marvtub/takes-video-edit",
+  "url": "https://github.com/marvtub/takes-public/tree/main/skills/takes-video-edit",
+  "description": "Cut, caption and reframe talking-head takes in the Takes Mac app, from your agent",
+  "tab": "community",
+  "group": "Creative and Media"
+ },
+ {
   "name": "danjdewhurst/story-skills",
   "url": "https://github.com/danjdewhurst/story-skills",
   "description": "16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity",
-  "tab": "community",
-  "group": "Writing & Storytelling"
- },
- {
-  "name": "Qiuner/birdview",
-  "url": "https://github.com/Qiuner/birdview",
-  "description": "Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML",
   "tab": "community",
   "group": "Writing & Storytelling"
  },
@@ -2261,9 +2569,30 @@
   "group": "Writing & Storytelling"
  },
  {
+  "name": "federicodeponte/autonomous-research",
+  "url": "https://github.com/federicodeponte/opendraft/tree/master/skills/autonomous-research",
+  "description": "Drafts research papers and literature reviews from one topic, with checked DOIs",
+  "tab": "community",
+  "group": "Writing & Storytelling"
+ },
+ {
+  "name": "duyunzhoudyz/gongwen",
+  "url": "https://github.com/duyunzhoudyz/dyz-gongwen-skills/tree/main/skills/gongwen",
+  "description": "Chinese official document writing: drafting, review, GB/T 9704 formatting; no fabrication",
+  "tab": "community",
+  "group": "Writing & Storytelling"
+ },
+ {
   "name": "tubeagentkit/youtube-transcript-skills",
   "url": "https://github.com/tubeagentkit/youtube-transcript-skills",
   "description": "Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API",
+  "tab": "community",
+  "group": "Media & Content"
+ },
+ {
+  "name": "video-db/skills",
+  "url": "https://github.com/video-db/skills",
+  "description": "VideoDB lets an AI agent watch, search and clip video. Works in Claude, ChatGPT, Claude Code, Cursor and any MCP client.",
   "tab": "community",
   "group": "Media & Content"
  },
@@ -2292,6 +2621,27 @@
   "name": "Reware-Labs/securitycards",
   "url": "https://github.com/Reware-Labs/securitycards",
   "description": "Fetch version-pinned secure-coding rules for the libraries a project uses",
+  "tab": "community",
+  "group": "Security"
+ },
+ {
+  "name": "Echolonius/safe-agent-commerce",
+  "url": "https://github.com/Echolonius/the-penniless-agent/tree/main/skills/safe-agent-commerce",
+  "description": "Safety rules for agents that earn or spend money: check payment proof before doing any work",
+  "tab": "community",
+  "group": "Security"
+ },
+ {
+  "name": "goul4rt/lgpd-skills",
+  "url": "https://github.com/goul4rt/lgpd-skills",
+  "description": "Audit and implement LGPD (Brazil data protection) and ECA Digital compliance in code",
+  "tab": "community",
+  "group": "Security"
+ },
+ {
+  "name": "sandhiveio/How-Could-I-Be-Hacked",
+  "url": "https://github.com/sandhiveio/How-Could-I-Be-Hacked",
+  "description": "Local PR security checks adapted from real open-source reviews",
   "tab": "community",
   "group": "Security"
  },
@@ -2401,6 +2751,20 @@
   "group": "Integration and Automation"
  },
  {
+  "name": "LazyAGI/workflow-agent-kit",
+  "url": "https://github.com/LazyAGI/LazyMind/tree/main/skills/workflow-agent-kit",
+  "description": "Inspect durable LazyMind workflow tasks and review their output artifacts through MCP",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "Vladimir-Human/ru-marketplace-mcp",
+  "url": "https://github.com/Vladimir-Human/ru-marketplace-mcp",
+  "description": "Search, product cards, reviews and price comparison across 12 Russian and Chinese marketplaces",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
   "name": "browser-act/skills",
   "url": "https://github.com/browser-act/skills",
   "description": "22 browser automation skills for structured data extraction",
@@ -2488,6 +2852,34 @@
   "name": "laolaoshiren/claude-code-skills-zh",
   "url": "https://github.com/laolaoshiren/claude-code-skills-zh",
   "description": "Curated Chinese Claude Code skills, agents and plugins collection",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "JasonColapietro/suede-creator-skills",
+  "url": "https://github.com/JasonColapietro/suede-creator-skills",
+  "description": "66 skills for SEO and GEO audits, conversion copy, code review and app shipping",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "nexscope-ai/nexscope-ecommerce-skills",
+  "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills",
+  "description": "127 portable ecommerce skills for marketplace research, keywords, sourcing, and listings",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "thedesignproject/agent-skills",
+  "url": "https://github.com/thedesignproject/agent-skills",
+  "description": "Design-system and UI skills for designers working with AI agents",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "off-grid-ai/skills",
+  "url": "https://github.com/off-grid-ai/skills",
+  "description": "49 skills for real-app testing, design review, legacy codebases and deploys",
   "tab": "community",
   "group": "Skill Collections"
  },
