@@ -680,6 +680,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [nagisanzenin/claude-code-production-grade-plugin](https://github.com/nagisanzenin/claude-code-production-grade-plugin) - Claude Code plugin with 14 bundled skills that run a multi-agent pipeline from idea to production-ready SaaS
 - [alexgreensh/eval-genius](https://github.com/alexgreensh/eval-genius) - Eval decision and gating skill: deterministic-first checks, CI gate ends PASS/FAIL/CANNOT-MEASURE
 - [Phelan164/codex-howto engineering-loop](https://github.com/Phelan164/codex-howto/tree/main/skills/engineering-loop) - Evidence-first coding loop with scoped changes, testing, review, handoff, and efficiency measurement
+- [santowilem/clone-ui](https://github.com/santowilem/skills/tree/main/skills/clone-ui) - Pixel-faithful UI cloning from URL, screenshot, or Figma with anti-hallucination verification
 </details>
 
 <details>
