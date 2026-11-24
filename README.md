@@ -676,6 +676,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [hyper-elements/email-testing](https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing) - Preview and check any HTML email in Outlook, Gmail, Apple Mail, Yahoo and AOL
 - [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui/tree/main/skills/unslop-ui) - Removes AI tells from UI copy, charts and dashboards, and reports what it cut.
 - [alexgaoth/find-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/plugin/skills/find-reverse-engineered) - Find an open-source reverse-engineered tool for a closed app, API, device or file format
+- [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - Playwright testing guides for end-to-end tests, page object models, CI/CD setup, Cypress or Selenium migration, and CLI automation
 </details>
 
 <details>
