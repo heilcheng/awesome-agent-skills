@@ -715,6 +715,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [kybernetwork/kyberswap-skills](https://github.com/kybernetwork/kyberswap-skills) - Token swap quotes and transactions across 18 EVM chains
 - [zhuyansen/daily-alpha-scanner](https://github.com/zhuyansen/daily-alpha-scanner) - Daily on-chain research with OKX OnchainOS: hot tokens, smart money, meme launches, token risk
 - [0xArchiveIO/backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Test Hyperliquid trading strategies with backtests and out-of-sample checks
+- [okcontract/chainwall-operations](https://github.com/okcontract/chainwall-cli-arbitrum/tree/main/skills/chainwall-operations) - Set up and run Chainwall vaults, Safes and approval policies on Arbitrum
 </details>
 
 <details>
