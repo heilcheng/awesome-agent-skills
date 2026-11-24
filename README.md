@@ -329,6 +329,9 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 - [figma/figma-generate-library](https://github.com/figma/mcp-server-guide/tree/main/skills/figma-generate-library) - Build or update a design system library in Figma from a codebase
 - [figma/figma-use](https://github.com/figma/mcp-server-guide/tree/main/skills/figma-use) - Run Figma Plugin API scripts for canvas writes and inspections
 
+#### Skills by Zambo
+- [zambodotdev/zambo](https://github.com/zambodotdev/zambo-mcp/tree/main/skills/zambo) - Give your AI hands: 120 MCP tools via one URL. Free 20 calls/tool/day, no account.
+
 ---
 
 #### Skills by Ivy
