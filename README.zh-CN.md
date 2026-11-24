@@ -539,6 +539,7 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) - 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops
 - [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) - 19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator
 - [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard) - Vet link sources before you submit, verify listings, and audit backlinks for link spam
+- [publora/skills](https://github.com/publora/skills) - 9 skills to schedule and publish posts on 10 social networks via Publora MCP
 - [evergreentree97/k-humanizer](https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer) - Translate English into natural Korean for Korean customers; keeps prices, dates and policies exact
 - [coupler-io/skills](https://github.com/coupler-io/skills) - 108 analytics skills for marketing, PPC, SEO, sales, finance and ecommerce on live data
 - [adkit/ads-skills](https://github.com/adkit/ads-skills) - Create, edit and report on campaigns on 8 ad platforms through the AdKit MCP, saved as drafts
@@ -647,6 +648,8 @@ The Product Compass 作者 [Paweł Huryn](https://github.com/phuryn) 的 65 个�
 - [mobbin/skills](https://github.com/mobbin/skills) - Search real app screens, flows and website sections on Mobbin to ground UI design
 - [swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli) - Turn a text DSL, JSON, or Graphviz DOT into an editable, auto-laid-out Excalidraw diagram
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components) - React financial-chart integration recipes for coding agents
+- [armanckeser/github-stars-organizer](https://github.com/armanckeser/stard/tree/main/skills/github-stars-organizer) - Search your GitHub stars before suggesting a library; sort and prune stars
+- [Innei/ryugi](https://github.com/Innei/ryugi) - Agent-drawn artboards, design docs, slides and verify pages; comments go back to the agent
 - [orbi-build/orbi](https://github.com/orbi-build/orbi/tree/main/integrations/claude-plugin/skills) - Draft and suggest GitHub Issues an AI agent can deliver as reviewed PRs
 - [ateymoori/android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Drive and check an Android app's UI on the emulator through Oh My Android MCP tools
 - [tiptreesystems/lacuna-code-to-paper](https://github.com/tiptreesystems/lacuna-research-mcp/tree/main/skills/lacuna-code-to-paper) - Trace an ML repository to its recorded research papers via Lacuna MCP

@@ -1512,6 +1512,13 @@
   "group": "Marketing"
  },
  {
+  "name": "publora/skills",
+  "url": "https://github.com/publora/skills",
+  "description": "9 skills to schedule and publish posts on 10 social networks via Publora MCP",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
   "name": "evergreentree97/k-humanizer",
   "url": "https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer",
   "description": "Translate English into natural Korean for Korean customers; keeps prices, dates and policies exact",
@@ -2159,6 +2166,20 @@
   "name": "ukorvl/lightweight-charts-react-components",
   "url": "https://github.com/ukorvl/lightweight-charts-react-components/tree/main/skills/lightweight-charts-react-components",
   "description": "React financial-chart integration recipes for coding agents",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "armanckeser/github-stars-organizer",
+  "url": "https://github.com/armanckeser/stard/tree/main/skills/github-stars-organizer",
+  "description": "Search your GitHub stars before suggesting a library; sort and prune stars",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Innei/ryugi",
+  "url": "https://github.com/Innei/ryugi",
+  "description": "Agent-drawn artboards, design docs, slides and verify pages; comments go back to the agent",
   "tab": "community",
   "group": "Development and Testing"
  },
