@@ -539,11 +539,13 @@ Skills completas de marketing SaaS de [Corey Haines](https://github.com/coreyhai
 - [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) - 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops
 - [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) - 19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator
 - [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard) - Vet link sources before you submit, verify listings, and audit backlinks for link spam
+- [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar/tree/main/skills/new-term-radar) - Find new AI model, product and repo names and size the search terms behind them
 - [publora/skills](https://github.com/publora/skills) - 9 skills to schedule and publish posts on 10 social networks via Publora MCP
 - [evergreentree97/k-humanizer](https://github.com/evergreentree97/K-Humanizer/tree/main/skills/k-humanizer) - Translate English into natural Korean for Korean customers; keeps prices, dates and policies exact
 - [coupler-io/skills](https://github.com/coupler-io/skills) - 108 analytics skills for marketing, PPC, SEO, sales, finance and ecommerce on live data
 - [adkit/ads-skills](https://github.com/adkit/ads-skills) - Create, edit and report on campaigns on 8 ad platforms through the AdKit MCP, saved as drafts
 - [backtrue/thinkwithblack-skill](https://github.com/backtrue/thinkwithblack-skill) - 365 bilingual marketing skills for ads, pricing, contribution margin, and repeat purchases.
+- [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) - 52 affiliate marketing skills: program research, content, landing pages, and tracking
 </details>
 
 <details>
@@ -667,6 +669,12 @@ Skills completas de marketing SaaS de [Corey Haines](https://github.com/coreyhai
 - [hyper-elements/email-testing](https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing) - Preview and check any HTML email in Outlook, Gmail, Apple Mail, Yahoo and AOL
 - [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui/tree/main/skills/unslop-ui) - Removes AI tells from UI copy, charts and dashboards, and reports what it cut.
 - [alexgaoth/find-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/plugin/skills/find-reverse-engineered) - Find an open-source reverse-engineered tool for a closed app, API, device or file format
+- [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - Playwright testing guides for end-to-end tests, page object models, CI/CD setup, Cypress or Selenium migration, and CLI automation
+- [nagisanzenin/claude-code-production-grade-plugin](https://github.com/nagisanzenin/claude-code-production-grade-plugin) - Claude Code plugin with 14 bundled skills that run a multi-agent pipeline from idea to production-ready SaaS
+- [alexgreensh/eval-genius](https://github.com/alexgreensh/eval-genius) - Eval decision and gating skill: deterministic-first checks, CI gate ends PASS/FAIL/CANNOT-MEASURE
+- [Phelan164/codex-howto engineering-loop](https://github.com/Phelan164/codex-howto/tree/main/skills/engineering-loop) - Evidence-first coding loop with scoped changes, testing, review, handoff, and efficiency measurement
+- [santowilem/clone-ui](https://github.com/santowilem/skills/tree/main/skills/clone-ui) - Pixel-faithful UI cloning from URL, screenshot, or Figma with anti-hallucination verification
+- [tungnk123/mobile-best-practices](https://github.com/tungnk123/mobile-best-practices) - Searchable database of 2,461 mobile development best practices for Android, iOS, Flutter, and React Native
 </details>
 
 <details>
@@ -776,6 +784,7 @@ Skills completas de marketing SaaS de [Corey Haines](https://github.com/coreyhai
 - [radres/call-me](https://github.com/radres/call-me/tree/main/skill) - Calls or texts your phone and returns your spoken answer as text; needs the paid /call-me app
 - [LazyAGI/workflow-agent-kit](https://github.com/LazyAGI/LazyMind/tree/main/skills/workflow-agent-kit) - Inspect durable LazyMind workflow tasks and review their output artifacts through MCP
 - [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) - Search, product cards, reviews and price comparison across 12 Russian and Chinese marketplaces
+- [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - AI media generation: images, video, speech, music, transcription and OCR via the deAPI.ai API
 </details>
 
 <details>
@@ -799,6 +808,8 @@ Skills completas de marketing SaaS de [Corey Haines](https://github.com/coreyhai
 - [nexscope-ai/nexscope-ecommerce-skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills) - 127 portable ecommerce skills for marketplace research, keywords, sourcing, and listings
 - [thedesignproject/agent-skills](https://github.com/thedesignproject/agent-skills) - Design-system and UI skills for designers working with AI agents
 - [off-grid-ai/skills](https://github.com/off-grid-ai/skills) - 49 skills for real-app testing, design review, legacy codebases and deploys
+- [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Skills for iOS 26+, Swift 6.2, SwiftUI, SwiftData, StoreKit, concurrency, and networking
+- [finsilabs/awesome-ecommerce-skills](https://github.com/finsilabs/awesome-ecommerce-skills) - 82+ skills for ecommerce development: Shopify, WooCommerce, BigCommerce, Magento and headless setups
 </details>
 
 ---

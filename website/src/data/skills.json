@@ -1512,6 +1512,13 @@
   "group": "Marketing"
  },
  {
+  "name": "zhuyansen/new-term-radar",
+  "url": "https://github.com/zhuyansen/new-term-radar/tree/main/skills/new-term-radar",
+  "description": "Find new AI model, product and repo names and size the search terms behind them",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
   "name": "publora/skills",
   "url": "https://github.com/publora/skills",
   "description": "9 skills to schedule and publish posts on 10 social networks via Publora MCP",
@@ -1543,6 +1550,13 @@
   "name": "backtrue/thinkwithblack-skill",
   "url": "https://github.com/backtrue/thinkwithblack-skill",
   "description": "365 bilingual marketing skills for ads, pricing, contribution margin, and repeat purchases.",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "Affitor/affiliate-skills",
+  "url": "https://github.com/Affitor/affiliate-skills",
+  "description": "52 affiliate marketing skills: program research, content, landing pages, and tracking",
   "tab": "community",
   "group": "Marketing"
  },
@@ -2303,6 +2317,48 @@
   "group": "Development and Testing"
  },
  {
+  "name": "testdino-hq/playwright-skill",
+  "url": "https://github.com/testdino-hq/playwright-skill",
+  "description": "Playwright testing guides for end-to-end tests, page object models, CI/CD setup, Cypress or Selenium migration, and CLI automation",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "nagisanzenin/claude-code-production-grade-plugin",
+  "url": "https://github.com/nagisanzenin/claude-code-production-grade-plugin",
+  "description": "Claude Code plugin with 14 bundled skills that run a multi-agent pipeline from idea to production-ready SaaS",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "alexgreensh/eval-genius",
+  "url": "https://github.com/alexgreensh/eval-genius",
+  "description": "Eval decision and gating skill: deterministic-first checks, CI gate ends PASS/FAIL/CANNOT-MEASURE",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Phelan164/codex-howto engineering-loop",
+  "url": "https://github.com/Phelan164/codex-howto/tree/main/skills/engineering-loop",
+  "description": "Evidence-first coding loop with scoped changes, testing, review, handoff, and efficiency measurement",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "santowilem/clone-ui",
+  "url": "https://github.com/santowilem/skills/tree/main/skills/clone-ui",
+  "description": "Pixel-faithful UI cloning from URL, screenshot, or Figma with anti-hallucination verification",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "tungnk123/mobile-best-practices",
+  "url": "https://github.com/tungnk123/mobile-best-practices",
+  "description": "Searchable database of 2,461 mobile development best practices for Android, iOS, Flutter, and React Native",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
   "name": "DrDroidLab/setup-open-index",
   "url": "https://github.com/DrDroidLab/open-index/blob/main/skills/setup-open-index/SKILL.md",
   "description": "Set up structured context graphs with hybrid search and read/write MCP access",
@@ -2786,6 +2842,13 @@
   "group": "Integration and Automation"
  },
  {
+  "name": "deapi-ai/claude-code-skills",
+  "url": "https://github.com/deapi-ai/claude-code-skills",
+  "description": "AI media generation: images, video, speech, music, transcription and OCR via the deAPI.ai API",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
   "name": "browser-act/skills",
   "url": "https://github.com/browser-act/skills",
   "description": "22 browser automation skills for structured data extraction",
@@ -2901,6 +2964,20 @@
   "name": "off-grid-ai/skills",
   "url": "https://github.com/off-grid-ai/skills",
   "description": "49 skills for real-app testing, design review, legacy codebases and deploys",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "dpearson2699/swift-ios-skills",
+  "url": "https://github.com/dpearson2699/swift-ios-skills",
+  "description": "Skills for iOS 26+, Swift 6.2, SwiftUI, SwiftData, StoreKit, concurrency, and networking",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "finsilabs/awesome-ecommerce-skills",
+  "url": "https://github.com/finsilabs/awesome-ecommerce-skills",
+  "description": "82+ skills for ecommerce development: Shopify, WooCommerce, BigCommerce, Magento and headless setups",
   "tab": "community",
   "group": "Skill Collections"
  },
