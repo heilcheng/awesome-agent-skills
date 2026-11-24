@@ -679,6 +679,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - Playwright testing guides for end-to-end tests, page object models, CI/CD setup, Cypress or Selenium migration, and CLI automation
 - [nagisanzenin/claude-code-production-grade-plugin](https://github.com/nagisanzenin/claude-code-production-grade-plugin) - Claude Code plugin with 14 bundled skills that run a multi-agent pipeline from idea to production-ready SaaS
 - [alexgreensh/eval-genius](https://github.com/alexgreensh/eval-genius) - Eval decision and gating skill: deterministic-first checks, CI gate ends PASS/FAIL/CANNOT-MEASURE
+- [Phelan164/codex-howto engineering-loop](https://github.com/Phelan164/codex-howto/tree/main/skills/engineering-loop) - Evidence-first coding loop with scoped changes, testing, review, handoff, and efficiency measurement
 </details>
 
 <details>
