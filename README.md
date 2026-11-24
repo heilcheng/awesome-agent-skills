@@ -677,6 +677,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui/tree/main/skills/unslop-ui) - Removes AI tells from UI copy, charts and dashboards, and reports what it cut.
 - [alexgaoth/find-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/plugin/skills/find-reverse-engineered) - Find an open-source reverse-engineered tool for a closed app, API, device or file format
 - [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - Playwright testing guides for end-to-end tests, page object models, CI/CD setup, Cypress or Selenium migration, and CLI automation
+- [nagisanzenin/claude-code-production-grade-plugin](https://github.com/nagisanzenin/claude-code-production-grade-plugin) - Claude Code plugin with 14 bundled skills that run a multi-agent pipeline from idea to production-ready SaaS
 </details>
 
 <details>
