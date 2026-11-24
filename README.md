@@ -678,6 +678,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [alexgaoth/find-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/plugin/skills/find-reverse-engineered) - Find an open-source reverse-engineered tool for a closed app, API, device or file format
 - [testdino-hq/playwright-skill](https://github.com/testdino-hq/playwright-skill) - Playwright testing guides for end-to-end tests, page object models, CI/CD setup, Cypress or Selenium migration, and CLI automation
 - [nagisanzenin/claude-code-production-grade-plugin](https://github.com/nagisanzenin/claude-code-production-grade-plugin) - Claude Code plugin with 14 bundled skills that run a multi-agent pipeline from idea to production-ready SaaS
+- [alexgreensh/eval-genius](https://github.com/alexgreensh/eval-genius) - Eval decision and gating skill: deterministic-first checks, CI gate ends PASS/FAIL/CANNOT-MEASURE
 </details>
 
 <details>
