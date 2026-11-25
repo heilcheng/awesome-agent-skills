@@ -757,6 +757,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 
 - [tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) - Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API
 - [video-db/skills](https://github.com/video-db/skills) - VideoDB lets an AI agent watch, search and clip video. Works in Claude, ChatGPT, Claude Code, Cursor and any MCP client.
+- [obendidi/trackflow](https://github.com/obendidi/trackflow/tree/main/skills/trackflow) - Local Apache-2.0 ONNX people/object tracking, track search, line counting, and Parquet export
 </details>
 
 <details>
