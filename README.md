@@ -376,6 +376,9 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 #### Skills by Authsome
 - [agentrhq/authsome](https://github.com/agentrhq/authsome) - Local OAuth2 and API-key credential broker for AI agents. Login once via browser PKCE or device code, encrypted vault at ~/.authsome, local proxy injects credentials at request time. 30+ providers preconfigured.
 
+#### Skills by Adanos
+- [adanos-software/adanos-market-sentiment-skill](https://github.com/adanos-software/adanos-market-sentiment-skill) - Read-only stock and crypto sentiment from Reddit, X, news, and Polymarket
+
 #### Skills by Notion
 - [makenotion/knowledge-capture](https://github.com/makenotion/cursor-notion-plugin/tree/main/skills/knowledge-capture) - Transform conversations into structured Notion documentation
 - [makenotion/meeting-intelligence](https://github.com/makenotion/cursor-notion-plugin/tree/main/skills/meeting-intelligence) - Prepare meeting materials by gathering Notion context
