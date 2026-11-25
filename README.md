@@ -593,6 +593,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [tt-a1i/archify](https://github.com/tt-a1i/archify/tree/main/archify) - Turn ideas, plans, workflows, or code into interactive HTML diagrams (10 types) and explainers
 - [Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/academic-translation-toolkit) - Translate foreign academic handouts into Chinese with subject glossaries and multi-format export
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web from the last 30 days
+- [molang163/chinese-natural-reply](https://github.com/molang163/chinese-natural-reply) - Natural Chinese replies for Codex without defensive hedging
 </details>
 
 <details>
