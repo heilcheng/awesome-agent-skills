@@ -682,6 +682,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [Phelan164/codex-howto engineering-loop](https://github.com/Phelan164/codex-howto/tree/main/skills/engineering-loop) - Evidence-first coding loop with scoped changes, testing, review, handoff, and efficiency measurement
 - [santowilem/clone-ui](https://github.com/santowilem/skills/tree/main/skills/clone-ui) - Pixel-faithful UI cloning from URL, screenshot, or Figma with anti-hallucination verification
 - [tungnk123/mobile-best-practices](https://github.com/tungnk123/mobile-best-practices) - Searchable database of 2,461 mobile development best practices for Android, iOS, Flutter, and React Native
+- [hlibsuslov/telegram-bot-ui](https://github.com/hlibsuslov/telegram-bot-ui) - Designs Telegram bot screens, keyboards, widgets and Mini Apps against the current Bot API
 </details>
 
 <details>
