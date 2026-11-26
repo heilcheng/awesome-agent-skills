@@ -553,6 +553,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [adkit/ads-skills](https://github.com/adkit/ads-skills) - Create, edit and report on campaigns on 8 ad platforms through the AdKit MCP, saved as drafts
 - [backtrue/thinkwithblack-skill](https://github.com/backtrue/thinkwithblack-skill) - 365 bilingual marketing skills for ads, pricing, contribution margin, and repeat purchases.
 - [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) - 52 affiliate marketing skills: program research, content, landing pages, and tracking
+- [abdulrahimabid96-hue/backlink-brand-mention-builder](https://github.com/abdulrahimabid96-hue/backlink-brand-mention-builder) - End-to-end white-hat link building, guest post writing, and AI citation (GEO/AISEO) SKILL.md workflow with human-in-the-loop approval and logged-out verification
 </details>
 
 <details>
