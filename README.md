@@ -766,6 +766,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
 - [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
 - [Reware-Labs/securitycards](https://github.com/Reware-Labs/securitycards) - Fetch version-pinned secure-coding rules for the libraries a project uses
+- [sonnyman2014/solana-rent-rug-shield-mcp](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) - Non-custodial Solana SPL 0x09 rent scanner and 12-layer token contract security audit
 - [Echolonius/safe-agent-commerce](https://github.com/Echolonius/the-penniless-agent/tree/main/skills/safe-agent-commerce) - Safety rules for agents that earn or spend money: check payment proof before doing any work
 - [goul4rt/lgpd-skills](https://github.com/goul4rt/lgpd-skills) - Audit and implement LGPD (Brazil data protection) and ECA Digital compliance in code
 - [sandhiveio/How-Could-I-Be-Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked) - Local PR security checks adapted from real open-source reviews
