@@ -817,6 +817,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [off-grid-ai/skills](https://github.com/off-grid-ai/skills) - 49 skills for real-app testing, design review, legacy codebases and deploys
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Skills for iOS 26+, Swift 6.2, SwiftUI, SwiftData, StoreKit, concurrency, and networking
 - [finsilabs/awesome-ecommerce-skills](https://github.com/finsilabs/awesome-ecommerce-skills) - 82+ skills for ecommerce development: Shopify, WooCommerce, BigCommerce, Magento and headless setups
+- [gdfsdjj145/awesome-game-skill](https://github.com/gdfsdjj145/awesome-game-skill) - 15 MIT-licensed game development skills (`SKILL.md`) for Godot, Unity, Phaser, and Three.js covering combat juice, shaders, AI sprite pipelines, puzzle solvers, and roguelike math, with live interactive labs at [gameskill.dev](https://gameskill.dev)
 </details>
 
 ---
