@@ -741,6 +741,8 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) - Free skills and MCP server for modelling, verifying and rendering 3D in headless Blender
 - [jangtrinh/design-os-studio](https://github.com/jangtrinh/design-os-studio) - Free design skills for DESIGN:OS Studio, a GPU interface design tool with code output
 - [marvtub/takes-video-edit](https://github.com/marvtub/takes-public/tree/main/skills/takes-video-edit) - Cut, caption and reframe talking-head takes in the Takes Mac app, from your agent
+- [fendouai/viralforge](https://github.com/fendouai/ViralForge/tree/main/skills/viralforge) - Analyze video structure and export editable projects via CLI and MCP
+
 </details>
 
 <details>
