@@ -404,6 +404,10 @@ Open-source SEO, GEO, and paid-ads skills for marketing work. They pull from liv
 - [nowork-studio/google-ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads) - Google Ads audits: wasted-spend detection, search-term cleanup, keyword and bid management
 - [nowork-studio/meta-ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) - Meta (Facebook + Instagram) Ads: ROAS analysis, creative-fatigue and audience-overlap diagnosis
 
+#### Skills by NameIO
+Open-source MIT AI visibility (GEO/AEO) and SEO skills for ecommerce stores and lead-generation sites, backed by a hosted OAuth 2.1 MCP server (`https://app.getnameio.com/mcp`) for ChatGPT, Gemini, Google AI Overviews, Perplexity, GSC, GA4, and reviewable page-fix drafts.
+- [ludditenoti-maker/nameio-plugin](https://github.com/ludditenoti-maker/nameio-plugin) - 15 AI visibility, citation-to-lead, funnel, sentiment, technical audit, and page-fix drafting skills (`npx skills add ludditenoti-maker/nameio-plugin`)
+
 #### Skills by HumanPen
 - [humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill) - Rewrites .docx/.pptx documents to read as human-written and lower AI-detection scores
 
