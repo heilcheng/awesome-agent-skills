@@ -404,10 +404,6 @@ Open-source SEO, GEO, and paid-ads skills for marketing work. They pull from liv
 - [nowork-studio/google-ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads) - Google Ads audits: wasted-spend detection, search-term cleanup, keyword and bid management
 - [nowork-studio/meta-ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) - Meta (Facebook + Instagram) Ads: ROAS analysis, creative-fatigue and audience-overlap diagnosis
 
-#### Skills by NameIO
-Open-source MIT AI visibility (GEO/AEO) and SEO skills for ecommerce stores and lead-generation sites, backed by a hosted OAuth 2.1 MCP server (`https://app.getnameio.com/mcp`) for ChatGPT, Gemini, Google AI Overviews, Perplexity, GSC, GA4, and reviewable page-fix drafts.
-- [ludditenoti-maker/nameio-plugin](https://github.com/ludditenoti-maker/nameio-plugin) - 15 AI visibility, citation-to-lead, funnel, sentiment, technical audit, and page-fix drafting skills (`npx skills add ludditenoti-maker/nameio-plugin`)
-
 #### Skills by HumanPen
 - [humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill) - Rewrites .docx/.pptx documents to read as human-written and lower AI-detection scores
 
@@ -557,6 +553,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [adkit/ads-skills](https://github.com/adkit/ads-skills) - Create, edit and report on campaigns on 8 ad platforms through the AdKit MCP, saved as drafts
 - [backtrue/thinkwithblack-skill](https://github.com/backtrue/thinkwithblack-skill) - 365 bilingual marketing skills for ads, pricing, contribution margin, and repeat purchases.
 - [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) - 52 affiliate marketing skills: program research, content, landing pages, and tracking
+- [ludditenoti-maker/nameio-plugin](https://github.com/ludditenoti-maker/nameio-plugin) - 15 AI visibility (GEO/AEO), SEO audit, and fix-drafting skills via OAuth MCP
 </details>
 
 <details>
